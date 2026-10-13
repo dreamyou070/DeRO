@@ -1,0 +1,53 @@
+[
+  {
+    "id": 256,
+    "prompt": "a bedroom without clocks",
+    "base_entity_biased_prompts": [
+      "Clocks inside a clock tower.",
+      "Clocks with gears and hands.",
+      "Clocks with gears exposed.",
+      "Clocks hanging on a wall.",
+      "Clock with minute and hour hands.",
+      "Clocks in a historical building.",
+      "Clocks inside a clock shop.",
+      "Clock on a wall",
+      "Clocks inside an old tower.",
+      "Clocks inside a clock factory.",
+      "Clocks in a medieval castle.",
+      "Clocks on a control panel.",
+      "A wall covered in various clocks.",
+      "Clock with gears and springs.",
+      "Clock with gears visible.",
+      "Wall clocks in a library.",
+      "Clock with gears exposed",
+      "Clock with gears exposed.",
+      "Clock in a cluttered room.",
+      "Clock with Roman numerals."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy bedroom, DSLR, warm lights",
+      "A cozy bedroom, warm light, DSLR clarity",
+      "Bedroom, realistic furniture, warm ambient light.",
+      "Bed, closet, warm lighting, cozy room, DSLR",
+      "Modern bedroom, DSLR, soft glow",
+      "Bedroom with closet, warm, realistic lighting.",
+      "A spacious bedroom, warm lights, realistic furniture.",
+      "A cozy bedroom with soft lighting, realistic furniture.",
+      "Wardrobe, bedside table, warm lights, DSLR.",
+      "Bed with comforter, nightstands, warm, realistic lighting.",
+      "bedroom, glass table, warm bulbs, realism.",
+      "Bedroom with dresser, lamp, warm ambient light",
+      "bedroom, table, chairs, warm, ambient light.",
+      "bedroom, coffee table, soft, warm lighting.",
+      "Modern bedroom, sleek furniture, soft ambient light.",
+      "Dresser with mirrors, warm room lighting.",
+      "Sofa, coffee table, floor lamp, warm tone.",
+      "A king-sized bed with soft lighting",
+      "A cozy bedroom with hardwood floor.",
+      "Warm lamp on bedside table"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

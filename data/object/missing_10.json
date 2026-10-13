@@ -1,0 +1,53 @@
+[
+  {
+    "id": 10,
+    "prompt": "a classroom missing desks",
+    "base_entity_biased_prompts": [
+      "Desks in an office space.",
+      "A desk with drawers and shelves.",
+      "Desks arranged in a classroom.",
+      "A desk with drawers and chairs.",
+      "A minimalist desk setup.",
+      "A desk with drawers.",
+      "A large desk for multiple people.",
+      "A desk with a computer.",
+      "A desk with open files and folders.",
+      "A desk with a computer and monitor.",
+      "A cluttered office desk.",
+      "A large desk for multiple computers.",
+      "A desk with drawers underneath.",
+      "A desk with colorful stationery.",
+      "A desk with open drawers.",
+      "A desk with a keyboard and mouse.",
+      "A large office desk with computers.",
+      "A cluttered desk with computers.",
+      "A cluttered desk in an office.",
+      "A desk with a standing desk converter."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Dining table with chairs, realistic setting, indoor lighting, DSLR.",
+      "Dining room, indoor light, ultra-realistic, DSLR.",
+      "A dining table with chairs, realistic lighting, DSLR.",
+      "Classic dining table, realistic lighting, DSLR.",
+      "Dining room, realistic lighting, DSLR quality.",
+      "Realistic dining scene, DSLR indoor light.",
+      "Dining table, realistic indoor illumination.",
+      "Dining set, realistic DSLR capture.",
+      "Cherry wood table, realistic lighting, DSLR.",
+      "Formal dining table, ambient lighting, ultra-realism.",
+      "Table, chairs, realistic indoor lighting.",
+      "Table, ambient indoor light, realism.",
+      "Dining table, natural light, realism.",
+      "Elegant dining setup, diffused light, DSLR detail.",
+      "A rustic table, cozy lighting, DSLR clarity.",
+      "Dining set, evening glow, DSLR.",
+      "Table setting, artificial studio light.",
+      "Glass table, leather chairs, dramatic indoor light.",
+      "A wooden dining table with chairs, natural light.",
+      "Modern table, leather chairs, natural sunlight."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

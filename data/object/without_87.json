@@ -1,0 +1,53 @@
+[
+  {
+    "id": 334,
+    "prompt": "a picnic area without food",
+    "base_entity_biased_prompts": [
+      "Tacos, lettuce, beef",
+      "Corn on the cob",
+      "Jar of pickles",
+      "Bowl of rice",
+      "Tacos with toppings",
+      "A pasta dish",
+      "Steak and fries meal",
+      "Baguette with garlic and herbs",
+      "A steak with veggies",
+      "A bunch of colorful vegetables",
+      "Savory pasta dish",
+      "Salmon with rice",
+      "A bowl of rice",
+      "Grilled cheese sandwich",
+      "Jar of pickled cucumbers",
+      "Bowl of noodles",
+      "A bowl of soup",
+      "A tray of assorted pastries",
+      "A bowl of ramen noodles",
+      "Colorful array of fresh fruits"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern office setup, DSLR, ultra-realistic",
+      "Desk with standing desk setup, DSLR.",
+      "Modern office desk, ultra-realistic",
+      "A desk setup with a camera and tripod.",
+      "Professional desk, keyboard, phone, DSLR.",
+      "Neatly arranged desk, DSLR clarity.",
+      "Professional workspace with laptop, phone, glasses.",
+      "Office scene with multiple workstations.",
+      "Modern office setup with desk and chair.",
+      "Desk, plants, and computer, realistic look.",
+      "Document camera on a desk, clean setup.",
+      "A focused workspace with a monitor and papers.",
+      "A focused workspace with a calendar.",
+      "A professional desk setup with monitor and keyboard.",
+      "Phone and camera on desk corner.",
+      "Phone, laptop, documents, on a professional desk.",
+      "Office desk, laptop, phone, documents.",
+      "Documents, a camera, and a desk organizer.",
+      "Phone and notebook in office setup.",
+      "Laptop, notebook, phone, desk decor."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

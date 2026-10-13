@@ -1,0 +1,53 @@
+[
+  {
+    "id": 187,
+    "prompt": "a train station platform with nothing on it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a face",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a hat",
+      "it's a cup",
+      "it's a mountain",
+      "a black hole",
+      "it’s a busy bee",
+      "a silver ring",
+      "a small cube",
+      "a glass window",
+      "it's a old book",
+      "it's a book open to a page",
+      "a smartphone in hand",
+      "it’s a silver spoon",
+      "it's a glass of wine"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Train station, realistic architecture, DSLR.",
+      "Train station entrance, realistic, DSLR.",
+      "Detailed train station platform, ultra-real.",
+      "Train station platform, realistic textures, clear shot.",
+      "Detailed train station, DSLR view.",
+      "Train station interior, detailed, DSLR.",
+      "A busy train station platform, DSLR",
+      "Station platform, high-resolution shot.",
+      "A bustling train station platform, DSLR.",
+      "Detailed train platform, realistic textures.",
+      "Realistic train station, contemporary design, dynamic scene.",
+      "A busy train station platform, DSLR.",
+      "A busy train station platform, ultra-realistic.",
+      "Train tracks, ultra-realistic shot.",
+      "Train tracks, platform, realistic details.",
+      "Train station interior, ultra-realistic.",
+      "Detailed train station architecture",
+      "Realistic train station platform stairs.",
+      "A busy train station platform, detailed architecture.",
+      "Train station platform, intricate tiles."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

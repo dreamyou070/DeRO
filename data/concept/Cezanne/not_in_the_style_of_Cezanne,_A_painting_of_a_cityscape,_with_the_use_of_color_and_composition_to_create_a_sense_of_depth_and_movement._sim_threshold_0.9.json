@@ -1,0 +1,15 @@
+[
+  {
+    "id": 9,
+    "prompt": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "Subtle and natural city view, with colors and composition working together to create a sense of depth and movement."
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 1
+  }
+]

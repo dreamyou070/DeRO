@@ -1,0 +1,53 @@
+[
+  {
+    "id": 98,
+    "prompt": "a restaurant with no tables",
+    "base_entity_biased_prompts": [
+      "Tables in kitchen",
+      "Tables with menus and silverware.",
+      "Tables in a restaurant with menus.",
+      "Tables covered in maps and charts.",
+      "Restaurant table with place settings",
+      "Table set for dinner party",
+      "Table with musical instruments",
+      "Table setting for dinner party",
+      "Table with decorative plates stacked",
+      "Table with digital tablets",
+      "Rectangular table with plants",
+      "A table with musical instruments.",
+      "Table with a stack of papers.",
+      "Industrial style table",
+      "A rustic wooden table with plates.",
+      "Card table with cards laid out",
+      "A table with maps and globes.",
+      "Card table with cards and chips",
+      "Table with decorative plants placed",
+      "A table set for a formal dinner."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A sleek modern bathroom, DSLR, ultra-realistic",
+      "A sleek modern bathroom, DSLR realism",
+      "Modern bathroom, geometric tiles, DSLR realism",
+      "Functional bathroom, modern design, DSLR",
+      "Brightly lit bathroom, contemporary design, DSLR.",
+      "Bathroom with integrated storage, modern design, ultra-realistic",
+      "Modern bathroom, sleek shower, ultra-realistic texture",
+      "Elegant bathroom, modern toilet, photorealistic.",
+      "A sleek modern bathroom, ultra-realistic.",
+      "A sleek bathroom, modern fixtures, DSLR clarity.",
+      "A sleek bathroom, modern fixtures, ultra-realistic.",
+      "Spacious bathroom, glass walls, modern fixtures, ultra-realistic.",
+      "Modern toilet, clean lines, DSLR precision.",
+      "Contemporary bathroom, frameless mirrors, deep bathtub.",
+      "Contemporary bathroom, dual sinks, modernity.",
+      "Sleek bathroom, modern toilet, floating sink",
+      "Modern bathtub, soft lighting, realistic texture.",
+      "Luxury bathroom, modern vanity, sleek design.",
+      "Modern bathroom, glass shower, polished.",
+      "Spacious bathroom, modern sink, glass doors."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 260,
+    "prompt": "a phone screen with nothing displayed",
+    "base_entity_biased_prompts": [
+      "a phone screen displaying app icons",
+      "a smartphone screen showing a colorful home screen",
+      "a phone screen with text messages displayed",
+      "a smartphone screen showing a social media app",
+      "a phone screen displaying a photo gallery",
+      "a mobile phone screen with notifications visible",
+      "a smartphone screen showing a video interface",
+      "a phone screen with a bright wallpaper and app icons",
+      "a smartphone display showing a web browser",
+      "a phone screen filled with text and icons"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a phone screen with nothing displayed",
+      "a smartphone screen completely blank",
+      "a phone screen with no icons or text",
+      "a black phone screen with no visible content",
+      "a smartphone display turned off",
+      "a phone screen with an empty blank display",
+      "a clean phone screen showing no interface",
+      "a smartphone screen with no notifications or apps",
+      "a phone display with no image or text visible",
+      "a blank smartphone screen with no content"
+    ],
+    "class": "nothing",
+    "class_index": 41,
+    "filename": "nothing_41"
+  }
+]

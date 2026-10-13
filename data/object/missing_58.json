@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a pizza missing toppings",
+    "base_entity_biased_prompts": [
+      "Sub with pepperoni and peppers",
+      "PIZZA Topped WITH PEPPERONI AND OLIVES",
+      "Pizzas with pepperoni",
+      "Pineapple on pizza",
+      "POTATOES TOPPED WITH BUTTER AND ONIONS",
+      "Sub with peppers",
+      "Pineapple slices on pizza",
+      "Tart with strawberries",
+      "Pizzette with olives",
+      "Sub sandwich with veggies",
+      "Pizza with pepperoni",
+      "Cherry tomatoes on bruschetta",
+      "Cheesecake with cherry topping",
+      "PIZZA SLICE WITH PEPPERONI",
+      "Pizza with pepperoni and mushrooms",
+      "Taco with beef, lettuce, tomatoes",
+      "Sausage slices on pizza",
+      "Burger topped with lettuce and tomato",
+      "Cherry tomatoes on pasta",
+      "Pasta with meatballs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden board, pizza, melted cheese, soft light, DSLR angle.",
+      "Dining table, pizza, melted cheese, crispy edges, soft texture, realistic.",
+      "Wooden board, pizza, slices, melted cheese, realistic surface.",
+      "Pizza, wooden board, realistic texture, melted cheese.",
+      "Pizza, serving board, melted cheese, realistic texture.",
+      "Wooden board, pizza, melted cheese, realistic texture.",
+      "Freshly baked pizza, 8 slices, wooden board",
+      "Pizza slice, wooden board, realistic cheese.",
+      "Wooden board, pizza, realistic texture shown.",
+      "Wooden board, pizza, realistic cheese",
+      "Wooden board, pizza, realistic texture",
+      "Wooden board, pizza, realistic cheese.",
+      "Wooden board, pizza, realistic, crispy",
+      "Freshly baked pizza, eight slices, wooden board.",
+      "Eight slices pizza, melted cheese, soft crust, wood.",
+      "Wood board, pizza slice, melted cheese, golden spots.",
+      "Wooden board, pizza, crispy edges, melted cheese.",
+      "Melted cheese, pizza slice, soft crust, wooden board.",
+      "High resolution, cheese texture",
+      "Realistic cheese texture"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 314,
+    "prompt": "a decorated room without paintings",
+    "base_entity_biased_prompts": [
+      "A vibrant still life painting",
+      "Modern minimalist abstract painting",
+      "A vibrant still life painting.",
+      "Abstract art with vibrant colors.",
+      "An abstract geometric painting.",
+      "Gouache painting of flowers.",
+      "A floral still life painting.",
+      "A abstract painting with swirling colors.",
+      "A serene landscape oil painting",
+      "An abstract painting with swirls.",
+      "A colorful still life arrangement.",
+      "A modern abstract expressionist painting",
+      "Minimalist geometric shapes painting.",
+      "A serene landscape painting.",
+      "Minimalist painting with black and white.",
+      "Realist market scene oil painting.",
+      "A serene landscape oil painting.",
+      "A serene mountain landscape oil painting.",
+      "A Baroque dramatic painting.",
+      "A medieval knight acrylic painting"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant bedroom, DSLR, ultra-realistic",
+      "Modern living room, DSLR, ultra-realistic",
+      "Chic lounge area, DSLR realism.",
+      "Sophisticated bedroom, DSLR.",
+      "A modern living room, DSLR",
+      "Contemporary guest room, DSLR",
+      "Sophisticated bedroom, DSLR clarity",
+      "A spacious living room, DSLR",
+      "Modern living room, sleek sofa, wooden floor, DSLR",
+      "Modern living room, ultra-realistic",
+      "Bespoke bedroom, ultra-realistic style.",
+      "A cozy living room, ultra-realistic.",
+      "A spacious living room, ultra-realistic.",
+      "Ultra-realistic bedroom set, detailed woodwork",
+      "Sophisticated bedroom, ultra-real.",
+      "Immaculate guest room, soft lighting, realistic",
+      "Charming living room, sofa, fireplace, high detail",
+      "Stylish bedroom, luxurious bedding, artistic touches.",
+      "A living room with sleek沙发和精致装饰",
+      "A spacious living room with modern furniture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

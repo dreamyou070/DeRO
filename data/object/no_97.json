@@ -1,0 +1,53 @@
+[
+  {
+    "id": 159,
+    "prompt": "a coffee shop with no tables",
+    "base_entity_biased_prompts": [
+      "School classroom tables",
+      "Table with legs",
+      "Table with elegant bases",
+      "Table with colorful placemats",
+      "Table set for dinner party",
+      "Table with vintage objects",
+      "Table set with plates and silverware",
+      "Table with plants and soil",
+      "A table for eight with plates.",
+      "A table with musical instruments.",
+      "Wooden table with chairs",
+      "Table with stacks of papers.",
+      "Table set for formal dinner",
+      "A table with books and papers.",
+      "A table with a map spread out.",
+      "A restaurant table with a place setting.",
+      "Card table for poker game",
+      "Table with built-in storage space",
+      "Table with chessboard and pawns",
+      "A table with a laptop and notebooks."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warm coffee shop, cozy lights, DSLR realism",
+      "A cozy coffee shop, warm lights, DSLR realism",
+      "A cozy coffee shop with warm lights, DSLR realism.",
+      "Warm coffee shop, DSLR realism",
+      "Warm coffee shop, cozy ambiance, DSLR realism",
+      "Realistic coffee shop, warm ambient light.",
+      "Warm coffee shop, soft lights, DSLR clarity",
+      "Warm coffee shop, soft lights, realistic detail",
+      "Warm coffee shop, soft lights, realistic detail.",
+      "Warm coffee shop, cozy ambiance, DSLR quality",
+      "Cheerful coffee shop, warm lighting, realism.",
+      "Cafe counter, realistic lighting, DSLR",
+      "Warm coffee shop, DSLR clarity",
+      "Coffee shop, warm lights, modern design.",
+      "Cafe bar, warm glow, hyperrealistic",
+      "Coffee shop at dusk, warm tones, realism.",
+      "Modern coffee shop, warm bulbs, sleek look.",
+      "Coffee shop, soft lighting, pastel colors.",
+      "Warmly lit coffee shop, bookshelves, counter.",
+      "A cozy coffee shop, warmly lit."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

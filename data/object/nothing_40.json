@@ -1,0 +1,33 @@
+[
+  {
+    "id": 259,
+    "prompt": "a camera bag with nothing inside",
+    "base_entity_biased_prompts": [
+      "a camera bag filled with camera gear",
+      "a camera bag containing a DSLR camera and lenses",
+      "an open camera bag with lenses and accessories inside",
+      "a camera bag packed with photography equipment",
+      "a camera bag holding a camera body and lens caps",
+      "a camera bag with a DSLR camera, lenses, and batteries",
+      "an open photography bag filled with camera accessories",
+      "a camera bag containing memory cards, lenses, and cables",
+      "a camera bag full of professional camera equipment",
+      "a camera bag with visible camera gear inside"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an open camera bag with nothing inside",
+      "an empty camera bag with the interior clearly visible",
+      "a camera bag with no camera equipment inside",
+      "an open empty camera bag showing the bottom interior",
+      "a vacant camera bag with no lenses or accessories",
+      "a camera bag with a completely empty inner compartment",
+      "an empty photography bag with no gear inside",
+      "a camera bag with no camera body or lenses",
+      "an open camera bag with visible empty compartments",
+      "a clean empty camera bag with no contents"
+    ],
+    "class": "nothing",
+    "class_index": 40,
+    "filename": "nothing_40"
+  }
+]

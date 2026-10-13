@@ -1,0 +1,53 @@
+[
+  {
+    "id": 146,
+    "prompt": "a garden with no flowers",
+    "base_entity_biased_prompts": [
+      "Flower petals falling",
+      "Peppermint plant flowers",
+      "Flower market colorful",
+      "Carnation and green leaves",
+      "Carnations in soft tones",
+      "White lilies water droplets",
+      "Sunrise golden wildflowers",
+      "Carnation pink and white",
+      "Bright gerbera daisies",
+      "Wildflowers in springtime",
+      "Orchid with vibrant colors",
+      "Pink peonies with dew",
+      "Red roses close-up",
+      "Marigolds in a row",
+      "Blue cornflowers summer days",
+      "Pink and white hydrangeas",
+      "Pink carnations bunch",
+      "Gerbera daisies closeup",
+      "Lavender lilacs soft petals",
+      "Sunrise over golden sunflowers"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Vegetation-rich garden with decorative elements, DSLR.",
+      "A lush garden with ornamental flowers, DSLR",
+      "A lush garden with exotic plants, DSLR",
+      "Whimsical fairy garden, DSLR.",
+      "Peony garden, ultra-realistic shot.",
+      "Butterfly garden, DSLR quality.",
+      "Patio with blooming succulents, DSLR",
+      "A lush rose garden, DSLR.",
+      "Realistic outdoor garden at dusk",
+      "A blooming rose garden, ultra-realistic",
+      "A lush rose garden in ultra-realistic detail.",
+      "A lush rose garden, ultra-realistic.",
+      "A lush garden with ornamental plants, sharp focus",
+      "A blooming rose garden, ultra-realistic.",
+      "Vegetation in rich, realistic hues.",
+      "A lush garden with ornamental plants, sharp focus.",
+      "A lush garden with ornamental flowers, sharp focus.",
+      "A lush garden with exotic plants, sharp focus.",
+      "Lush green foliage with highlights",
+      "Whimsical fairy garden, miniature."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

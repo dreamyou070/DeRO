@@ -1,0 +1,53 @@
+[
+  {
+    "id": 292,
+    "prompt": "a road without cars",
+    "base_entity_biased_prompts": [
+      "Motorcycle and sports car",
+      "Miniature car model set",
+      "Miniature car model",
+      "Car in car wash",
+      "Gray car with tires",
+      "White sports car阳光下",
+      "Yellow motorcycle and car",
+      "White car with custom wheels",
+      "White car with wheels off",
+      "White racing car",
+      "Vintage car at show",
+      "Sports car in sunset",
+      "Racing red sports car",
+      "Sports car at night",
+      "Yellow mini cooper",
+      "White minivan family",
+      "Silver sedan in city",
+      "Vintage car in garage",
+      "Green classic car",
+      "Gray coupe in city"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Urban road, ultra-realistic texture, DSLR.",
+      "Urban road, realistic textures, DSLR.",
+      "Detailed city road, ultra-realistic shot",
+      "Urban road with texture, vivid DSLR clarity.",
+      "City road, realistic textures, DSLR quality.",
+      "Urban road, realistic detail, DSLR.",
+      "Detailed city road, ultra-realistic shot.",
+      "A city road with detailed textures, ultra-realistic.",
+      "Road through urban scene, ultra-realistic.",
+      "Road in city, texture clear, ultra real",
+      "Detailed city road, DSLR photography.",
+      "Detailed urban road, realistic textures.",
+      "City road, realistic texture close-up.",
+      "City street with texture close-up, ultra-real.",
+      "Wide road, city skyline, realistic textures.",
+      "Pavement texture, ultra-realistic.",
+      "City road at sunset, textured, ultra-realistic.",
+      "Urban road with texture, bright daylight.",
+      "Wide street with intricate paving, clear shot",
+      "City road with pedestrian crossings, fine texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

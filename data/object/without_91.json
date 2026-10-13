@@ -1,0 +1,53 @@
+[
+  {
+    "id": 338,
+    "prompt": "a snowy road without cars",
+    "base_entity_biased_prompts": [
+      "Motorcycle and car",
+      "Purple sports car",
+      "Car with custom wheels",
+      "City street with cars",
+      "Gray compact car",
+      "Motorcycle and car together",
+      "Yellow motorcycle and car",
+      "Race car with stripes",
+      "Racing red sports car",
+      "Purple sports car night",
+      "Orange muscle car",
+      "White sports car cityscape",
+      "White sports car night",
+      "Purple sports car at night",
+      "Silver sedan on road",
+      "Vintage car at car show.",
+      "Vintage car in garage",
+      "Orange muscle car cruising",
+      "White sports car racing",
+      "Vintage car museum"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A towering skyscraper city, ultra-real, DSLR",
+      "Tall buildings, city skyline, DSLR shot",
+      "Dramatic city skyline, ultra-realistic shot",
+      "High-rise buildings, city skyline, DSLR",
+      "Buildings blend, city skyline, DSLR quality",
+      "High-rise buildings, city skyline, DSLR clarity",
+      "Ultra-sharp city skyline shot",
+      "Skyscrapers stretching to horizon, DSLR.",
+      "Urban skyline, high-resolution shot",
+      "Buildings extend to horizon, DSLR",
+      "Skyscrapers reaching skyward, DSLR detail.",
+      "Buildings stretching to horizon, DSLR shot",
+      "Urban skyline, ultra-realistic clarity.",
+      "A towering city skyline, ultra-realistic",
+      "High-rise buildings stretching, DSLR clarity.",
+      "Cityscape with distant skyscrapers",
+      "Sunset over city towers, DSLR quality.",
+      "Detailed cityscape with distant buildings",
+      "Skyline with distant mountains",
+      "Urban skyline with bridges"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

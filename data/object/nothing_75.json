@@ -1,0 +1,53 @@
+[
+  {
+    "id": 242,
+    "prompt": "a cabinet with nothing stored",
+    "base_entity_biased_prompts": [
+      "Stored food in a refrigerator",
+      "Stored food in a pantry",
+      "Stored food in a cellar",
+      "Stored wine in cellar",
+      "Stored groceries in pantry",
+      "Stored records in a record holder",
+      "Records stored on stand",
+      "Furniture in storage",
+      "Stored clothes in closet",
+      "Stored medications in a cabinet",
+      "Stored tools in shed",
+      "Bottles stored in fridge",
+      "Fridge stocked with food",
+      "Records in storage bin",
+      "Furniture in storage unit",
+      "Tools stored in shed",
+      "Tools stored neatly",
+      "Batteries in container",
+      "Guns in safe",
+      "Documents in filing cabinet"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cabinet, visible shelves, realistic details, DSLR",
+      "Cabinet, visible shelves, realistic texture, DSLR.",
+      "A cabinet, visible shelves, realistic textures, DSLR",
+      "Cabinet, visible shelves, realistic textures, DSLR.",
+      "Cabinet with shelves, realistic details, DSLR.",
+      "Cabinet, visible compartments, realistic detail, DSLR.",
+      "Cabinet, detailed shelving, realistic, DSLR.",
+      "Cabinet with compartments, realistic texture, DSLR.",
+      "Cabinet shelves visible, realistic texture, DSLR.",
+      "Wooden cabinet, visible shelves, realistic details, DSLR.",
+      "Shelves in cabinet, realistic textures, DSLR.",
+      "Cabinet, visible compartments, ultra-realistic photo.",
+      "Cabinet with detailed shelves, DSLR shot",
+      "Cabinet compartments, realistic wood, DSLR.",
+      "Cabinet, shelf compartments, ultra-realistic.",
+      "Shelved cabinet, realistic texture, DSLR.",
+      "Ultra-realistic cabinet, visible compartments, detail.",
+      "Wood cabinet, visible shelves, ultra-realistic texture.",
+      "Wood cabinet, visible compartments, DSLR.",
+      "Wooden cabinet, visible shelves, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

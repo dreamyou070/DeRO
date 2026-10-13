@@ -1,0 +1,53 @@
+[
+  {
+    "id": 300,
+    "prompt": "a chair without backrest and without armrests",
+    "base_entity_biased_prompts": [
+      "Armrests with arms",
+      "Armrests with arm cushions.",
+      "Armrests with arm covers.",
+      "Armrests with arm pillows",
+      "Armrests on a reclining躺椅",
+      "Armrests with soft cushions",
+      "Armrests with cup holders",
+      "Armrests on a lounge chair",
+      "Armrests with arm pads on a seat",
+      "Armrests with cup holders.",
+      "Armrests on a loveseat",
+      "Armrests with arms raised on a seat.",
+      "Armrests with ergonomic design",
+      "Armrests on an office chair",
+      "Armrests with arm cushions on a sofa",
+      "Armrests with plush padding on a seat",
+      "Armrests with drink holders on a seat",
+      "Armrests with arm guards on a chair.",
+      "Armrests with arm pads on a recliner.",
+      "Armrests with arm pillows on a chair."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wooden chair, seat only, smooth sides, detailed, DSLR",
+      "A chair with visible seat, smooth sides, ultra-realistic.",
+      "Smooth-sided chair, ultra-realistic photo.",
+      "Smooth-sided chair, ultra-realistic closeup.",
+      "Smooth-edge chair, ultra-realistic photo.",
+      "Smooth-edged chair, ultra-realistic photo.",
+      "Detailed chair, seat shown, ultra-realistic.",
+      "Ultra-realistic chair, seat visible, smooth.",
+      "Visible seat chair, smooth, ultra-realistic.",
+      "Smooth-sided chair, ultra-realistic focus.",
+      "Modern plastic chair, seat only, smooth edges, ultra-real.",
+      "Ultra-realistic chair, seat focus.",
+      "Ultra-realistic chair, detailed design.",
+      "Chair, seat visible, smooth, detailed.",
+      "Chair seat visible, smooth sides, detailed.",
+      "Chair seat, smooth edges, detailed texture.",
+      "Minimalist chair, seat visible, smooth lines.",
+      "Modern chair, seat visible, clean edges.",
+      "Fabric chair, seat highlighted, smooth edges.",
+      "Plastic chair, seat visible, smooth edges."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

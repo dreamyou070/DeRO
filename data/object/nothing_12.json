@@ -1,0 +1,53 @@
+[
+  {
+    "id": 179,
+    "prompt": "a garden with nothing growing",
+    "base_entity_biased_prompts": [
+      "Seeds growing into plants",
+      "Leafy greens growing",
+      "Baby plants emerging",
+      "Ginger root growing",
+      "Sprouts in soil",
+      "Seedlings in growing pot",
+      "Tree trunk growing",
+      "Seedling roots expanding",
+      "Crops maturing fast",
+      "Leafy greens growing fast",
+      "Todger plant thriving",
+      "A sprouting seedling",
+      "Roots spreading deep",
+      "A seedling sprouting",
+      "Baby plant emerging",
+      "Cabbage plants growing robustly",
+      "Roots spreading underground",
+      "Vegetables growing in pot",
+      "Vegetables growing in rows",
+      "Seedling sprouting from soil"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A lush garden, DSLR, ultra-realistic",
+      "A lush green garden, DSLR, ultra-realistic",
+      "A lush garden, DSLR, vivid details",
+      "A lush garden, DSLR, vivid detail",
+      "A lush garden, DSLR, vibrant colors",
+      "A lush garden, DSLR clarity",
+      "Garden path, DSLR realism",
+      "A lush green garden, DSLR",
+      "A lush green garden, DSLR sharpness.",
+      "A lush garden, DSLR, sharp focus",
+      "Vegetation details, ultra-realistic",
+      "Garden statue, DSLR, realistic textures",
+      "Herbal garden, DSLR, vibrant greens",
+      "A lush garden, DSLR macro flowers",
+      "Water feature, detailed plants, DSLR",
+      "Vegetation close-up, DSLR",
+      "Dewy grass, high-res clarity",
+      "Herb garden with vibrant herbs.",
+      "Vegetation shadow, natural light",
+      "Detailed ferns in a misty garden."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

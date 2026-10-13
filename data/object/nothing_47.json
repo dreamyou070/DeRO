@@ -1,0 +1,33 @@
+[
+  {
+    "id": 266,
+    "prompt": "a birdcage with nothing inside",
+    "base_entity_biased_prompts": [
+      "a birdcage with a small bird inside",
+      "a birdcage containing a colorful parrot",
+      "a birdcage with a canary perched inside",
+      "a metal birdcage holding a bird",
+      "a birdcage with a bird sitting on a perch",
+      "a decorative birdcage containing a songbird",
+      "a birdcage with feathers and a bird inside",
+      "a birdcage with a small animal inside",
+      "a birdcage containing a bird and feeding bowl",
+      "a birdcage with a perched bird visible inside"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty birdcage with nothing inside",
+      "a birdcage with no bird inside",
+      "an open birdcage with the interior clearly visible",
+      "a vacant birdcage with no animal inside",
+      "a clean empty birdcage showing the inner space",
+      "a birdcage with no bird, feathers, or objects inside",
+      "an empty metal birdcage with visible bars and floor",
+      "a birdcage with completely empty interior space",
+      "a vacant birdcage with no perch occupant",
+      "a birdcage with no living creature inside"
+    ],
+    "class": "nothing",
+    "class_index": 47,
+    "filename": "nothing_47"
+  }
+]

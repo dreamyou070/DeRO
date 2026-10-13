@@ -1,0 +1,53 @@
+[
+  {
+    "id": 205,
+    "prompt": "a window with nothing outside",
+    "base_entity_biased_prompts": [
+      "Outside lush forest",
+      "Outside scenic mountainside",
+      "Outside lush garden",
+      "Outside snowy forest",
+      "Outside windy coast",
+      "Outside vibrant cityscape",
+      "Outside lush field",
+      "Outside summer playground",
+      "Outside windy beach",
+      "Outside snowy woods",
+      "Outside busy city",
+      "Outside cloudy forest",
+      "Outside windy hilltop",
+      "Outside snowy mountain",
+      "Outside snowy mountains",
+      "Outside serene garden",
+      "Outside snowy forest trail",
+      "Outside sunset view",
+      "Outside rainy cityscape",
+      "Outside rainy street"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Landscape through window, ultra-realistic clarity.",
+      "Window to distant mountains, DSLR shot.",
+      "DSLR distant cityscape through window.",
+      "Distant cityscape through clear window, DSLR.",
+      "Ultra-realistic window view of open fields.",
+      "Desert landscape through window, ultra-realistic shot",
+      "Panoramic window scene, ultra-realistic countryside.",
+      "Ultra-realistic valley through window.",
+      "Uninterrupted window view of sunsetting skies.",
+      "DSLR distant river through window",
+      "DSLR shot of horizon in window",
+      "Uninterrupted window view of forest",
+      "Wide window view of rolling hills, DSLR.",
+      "Uninterrupted valley view through glass",
+      "Window captures serene countryside.",
+      "Clear DSLR shot of vast landscapes.",
+      "Ultra-sharp window view of a canyon.",
+      "Unobstructed forest seen through window",
+      "Unobstructed view, DSLR clarity",
+      "Unobstructed view, deep forest, DSLR"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

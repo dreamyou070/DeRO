@@ -1,0 +1,53 @@
+[
+  {
+    "id": 9,
+    "prompt": "a plate missing pizza",
+    "base_entity_biased_prompts": [
+      "Deep dish pizza.",
+      "Pepperoni and olives pizza.",
+      "Pepperoni pizza with toppings.",
+      "Pizza with meat and sauce.",
+      "Garlic pizza with extra cheese.",
+      "Freshly baked pizza",
+      "Cheese pizza with toppings",
+      "PIZZA WITH HAM AND CHEESE",
+      "Homemade pizza with sauce.",
+      "Pizza with pineapple slices",
+      "A pizza with a variety of meats.",
+      "A plain cheese pizza.",
+      "Pizza with pineapple and ham",
+      "Pepperoni and olives pizza",
+      "New York style pizza",
+      "Pepperoni pizza with red sauce.",
+      "Pepperoni and mushroom pizza",
+      "A large pizza with various toppings.",
+      "Pepperoni pizza with sauce",
+      "A pizza with a thin crust."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Desert campsite, peaceful, realistic ground, DSLR",
+      "Camping site, serene lake view, realistic ground, DSLR",
+      "Camping site, calm forest, detailed ground, DSLR clarity",
+      "Camping site, serene forest, detailed ground, DSLR clarity",
+      "Camping site, serene forest, DSLR clarity",
+      "Camping site, serene lake, detailed ground, DSLR clarity",
+      "Wooded area, campsite, earthy texture, DSLR realism.",
+      "A serene campsite by a lake, DSLR, sharp detail",
+      "Camping site, serene lake view, detailed ground texture",
+      "Mountain vista, peaceful camp, detailed rocks, DSLR.",
+      "Camping site, serene lake view, realistic grass",
+      "Campsite, lush meadow, realistic texture.",
+      "Peaceful meadow campsite view",
+      "Gentle hills, campsite with view",
+      "Camping site, serene lake, grassy terrain",
+      "A serene campsite with lush greenery.",
+      "Mountain backdrop for a campsite photo",
+      "A serene campsite under clear blue sky.",
+      "A serene campsite by a lake",
+      "Campsite with full moon glow"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

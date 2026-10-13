@@ -1,0 +1,53 @@
+[
+  {
+    "id": 195,
+    "prompt": "a gym room with nothing on the floor",
+    "base_entity_biased_prompts": [
+      "Floor with linoleum",
+      "Floor with hardwood",
+      "Floor in art studio",
+      "Floor with wood planks",
+      "Floor with hardwood planks",
+      "Floor with waxed finish",
+      "Floor with polished stone",
+      "Floor with mosaic tiles",
+      "Floor with colored concrete",
+      "Gray laminate floor.",
+      "Floor with patterned rugs",
+      "Carpeted floor with rug",
+      "Floor with underfoot warmth",
+      "Checkerboard tile floor.",
+      "Polished marble floor",
+      "Wooden floor with visible grain texture",
+      "Black and white herringbone floor",
+      "Wooden floor in living room",
+      "Wooden floor with cracks",
+      "Wooden floor with parquet design"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious gym, tile flooring, ultra-realistic shot",
+      "Spacious gym, tile flooring, rowing machines, DSLR clarity",
+      "Gym floor, wood texture, realism",
+      "Realistic gym, linoleum floor, cardio machines.",
+      "Gym floorboards, exercise bikes, realistic lighting.",
+      "Gym locker room, tiles, realistic details",
+      "Weightlifting area, realistic flooring patterns.",
+      "Yoga mats, gym floor, realistic perspective.",
+      "Gym bench, carpeted floor, detailed shot",
+      "Gym equipment, closeup, vivid",
+      "Vinyl gym floor, treadmills in focus.",
+      "Barbell setup, realistic floor reflection.",
+      "A room with hardwood floors, fitness machines.",
+      "Gymnastics floor, realistic texture, sharp.",
+      "Gym with rubber flooring, treadmills.",
+      "A gym with hardwood floors, bright lights.",
+      "Marble-like floor, fitness machines visible.",
+      "A weightlifting area with concrete flooring",
+      "Spacious gym with hardwood floor.",
+      "Dumbbells, carpeted floor, fitness room."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

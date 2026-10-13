@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a sandwich missing lettuce",
+    "base_entity_biased_prompts": [
+      "Lettuce with roots",
+      "Lettuce with salad dressing.",
+      "Lettuce with crisp texture",
+      "Romaine lettuce with avocado.",
+      "Lettuce mixed with tomatoes",
+      "Lettuce mixed with avocado and tomatoes",
+      "Lettuce mixed with tomatoes and cucumbers",
+      "Lettuce mixed with cucumbers",
+      "Lettuce mixed with cucumbers.",
+      "Lettuce in various shades of green",
+      "Lettuce in a salad mix",
+      "Lettuce with garden soil.",
+      "Lettuce with a sprinkle of cheese",
+      "Lettuce mixed with cherry tomatoes",
+      "Lettuce in a restaurant salad",
+      "Lettuce in a sandwich",
+      "Lettuce in a salad bowl.",
+      "Lettuce with oil and balsamic.",
+      "Lettuce used for tacos",
+      "Lettuce used for making sushi"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Jam sandwiches, blue plate, pears, red cloth, marble, DSLR, 50mm",
+      "Ultra-realistic bread texture, fruit jam visible",
+      "Ultra-realistic jam sandwich photo",
+      "Soft bread, blue ceramic, jam, pears, red pattern, marble, high resolution",
+      "Two triangular jam sandwiches on blue ceramic plate",
+      "High detail jam sandwich, blue plate",
+      "Close-up jam sandwiches, natural light.",
+      "Two triangular jam sandwiches on blue plate",
+      "Sandwiches, pears, realistic bread texture.",
+      "Soft bread, fruit jam, triangles, blue plate, pears, red pattern.",
+      "Ultra-realistic jam sandwiches",
+      "High detail jam, realistic bread texture.",
+      "Triangular jam sandwiches, blue plate",
+      "Realistic bread, fruit jam, shadows.",
+      "Soft daylight, jam sandwiches, blue plate, pears",
+      "Triangular jam sandwiches, blue plate, fruit.",
+      "Sandwiches, blue plate, fruit jam, pears, red cloth",
+      "Two jam sandwiches, blue plate, pears.",
+      "Soft jam, white bread",
+      "Highly detailed bread texture"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

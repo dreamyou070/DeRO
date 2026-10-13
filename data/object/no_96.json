@@ -1,0 +1,53 @@
+[
+  {
+    "id": 158,
+    "prompt": "a bakery with no bread",
+    "base_entity_biased_prompts": [
+      "Bread for sandwiches",
+      "Bread with garlic",
+      "Homemade whole wheat bread.",
+      "Whole wheat bread loaf",
+      "Rye bread loaf",
+      "Whole grain bread loaf",
+      "Bread topped with herbs",
+      "French bread with garlic.",
+      "Sourdough bread loaf",
+      "Multigrain bread loaf",
+      "wheat bread with seeds",
+      "Freshly baked bread loaf",
+      "Freshly baked loaf",
+      "Fresh slice of bread",
+      "Whole grain sandwich bread",
+      "Multigrain sandwich bread",
+      "Sourdough hearth bread",
+      "French bread baguette",
+      "Multigrain bread, sliced",
+      "Whole wheat bread sandwich"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bakery aisle, realistic shelves, indoor light, DSLR",
+      "Grocery shelf, warm tones, DSLR capture.",
+      "Spacious grocery, shelves packed, indoor lighting, DSLR.",
+      "Grocery store entrance, realistic, DSLR.",
+      "Grocery store, shelves, natural light.",
+      "Grocery store shelf with crisp indoor lighting.",
+      "Aisle of fresh produce, DSLR, vivid lighting",
+      "Grocery store meats, studio light, realism",
+      "Aisles, shelves, realism, indoor.",
+      "Aisle of fresh produce, DSLR, high detail",
+      "Aisle with fresh produce, DSLR, sharp focus",
+      "Grocery shelves, detailed reflections.",
+      "Aisle of fresh produce, DSLR, vivid colors",
+      "Grocery store entrance, indoor lighting.",
+      "A fresh produce section with realistic lighting.",
+      "Grocery store checkout, realism",
+      "A shelf of apples, realistic lighting.",
+      "Grocery store entrance, bright lights.",
+      "Pantry shelves, diffused lighting.",
+      "Candy rack with realistic shadows."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

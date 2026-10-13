@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "prompt": "a building without a windows",
+    "base_entity_biased_prompts": [
+      "A stained glass window depicting a landscape scene",
+      "A double-hung window with shutters on a colonial house",
+      "Sunlight streaming through a wooden framed window",
+      "A old wooden window with cracked panes in a cottage",
+      "Sunlight streaming through multiple windows in an old house"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A sharply focused ultra-realistic DSLR photograph of a modern minimalist concrete house with clean rectangular volumes and smooth light gray walls, set in a contemporary Japanese-inspired design on a quiet residential street with soft natural daylight, subtle window openings, realistic shadows, and reflections, flanked by trees. High dynamic range and precise architectural lines create cinematic realism.",
+      "A crisp, ultra-realistic DSLR image of a modern minimalist concrete house with cubic geometric architecture and smooth light gray concrete walls, designed in a contemporary Japanese-inspired style with a simple facade and subtle window openings. The scene features soft natural daylight and realistic shadows and reflections, set on a quiet residential street surrounded by trees.",
+      "A crisp focus ultra-realistic DSLR image of a contemporary Japanese-inspired modern minimalist concrete house with cubic geometric architecture and clean rectangular volumes. The light gray concrete walls are highly detailed, and the scene is bathed in soft natural daylight, creating realistic shadows and reflections. The house stands on a quiet residential street with trees along the side, emphasizing cinematic realism and high dynamic range.",
+      "An ultra-realistic DSLR photograph of a modern minimalist concrete house with cubic geometric architecture, highlighting smooth light gray concrete walls and simple facades with subtle window openings. Set in a quiet residential street, the image captures soft natural daylight, realistic shadows, and reflections, with precise architectural lines and high dynamic range, ensuring a crisp focus and cinematic realism.",
+      "A sharply focused ultra-realistic DSLR photograph of a modern minimalist concrete house with cubic geometric architecture and smooth light gray concrete walls, sitting on a quiet residential street with trees along the side, bathed in soft natural daylight, showcasing precise architectural lines and realistic shadows and reflections, with a high dynamic range and cinematic realism."
+    ],
+    "sim_threshold": 0.85,
+    "num_biased_prompts": 5,
+    "num_bias_absent_prompts": 5
+  }
+]

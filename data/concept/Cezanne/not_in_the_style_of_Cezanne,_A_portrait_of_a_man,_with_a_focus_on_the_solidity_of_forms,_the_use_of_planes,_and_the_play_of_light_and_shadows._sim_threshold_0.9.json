@@ -1,0 +1,27 @@
+[
+  {
+    "id": 7,
+    "prompt": "not in the style of Cezanne, A portrait of a man, with a focus on the solidity of forms, the use of planes, and the play of light and shadows.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A portrait of a man with a focus on form and light-shadow interaction, using planes and a natural style.",
+      "A man’s portrait focusing on form and shadow with planes, presented in a natural and subtle style.",
+      "A man’s portrait with a focus on form and the play of light and shadow, in a natural and subtle style.",
+      "A solid form portrait of a man, using planes and light shadows in a natural and subtle style.",
+      "A portrait emphasizing the form of a man with planes and light shadows, in a natural and subtle style.",
+      "A portrait of a man with a focus on form and shadow, using planes and natural lighting.",
+      "A portrait of a man highlighting form and shadow with planes, in a natural and subtle style.",
+      "A solid form portrait of a man with planes and light shadows, in a subtle natural style.",
+      "A portrait of a man, forms and planes emphasized, natural light and shadow, subtle and serene",
+      "A portrait of a man, strong forms and planes, natural lighting and shadow, subtle and natural",
+      "A portrait of a man, strong forms and planes, soft lighting and shadows, natural style",
+      "A man’s portrait with form and shadow play emphasized through planes, in a natural and subtle style.",
+      "Portrait of a man, solid forms and planes, natural light and shadow, subtle and smooth"
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 13
+  }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Compare/2_DATA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/3_SuppressEOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/5_SoftREPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/9_Normalized-Attention-Guidance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/9_Normalized-Attention-Guidance/diffusers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/GLoCE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/MACE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/RECE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/Receler" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/SPEED" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/erasing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/few-shot-erasing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Compare/unified-concept-editing" vcs="Git" />
+  </component>
+</project>

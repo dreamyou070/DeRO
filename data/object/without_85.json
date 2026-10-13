@@ -1,0 +1,53 @@
+[
+  {
+    "id": 332,
+    "prompt": "a man without glasses",
+    "base_entity_biased_prompts": [
+      "Glasses with blue lenses",
+      "Glasses with thick lenses",
+      "Glasses on a table",
+      "Glasses reflecting in eyes.",
+      "Glasses on a table.",
+      "Glasses reflecting sunlight.",
+      "Glasses reflecting in sunlight.",
+      "Glasses on a coffee mug.",
+      "Glasses with red and black stripes.",
+      "Glasses reflected in a mirror",
+      "A pair of black rimmed glasses.",
+      "Glasses reflecting in a mirror.",
+      "Glasses reflecting light on a shelf.",
+      "Glasses reflected in a mirror.",
+      "A pair of black rimless glasses.",
+      "A pair of stylish silver glasses.",
+      "Kid with colorful glasses.",
+      "A child with colorful glasses.",
+      "Man with vintage glasses.",
+      "Person with trendy cat eye glasses."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy bedroom with ornate walls, DSLR",
+      "Comfortable bedroom, textured walls, DSLR.",
+      "Modern bedroom, DSLR, abstract walls, comfortable seating.",
+      "A cozy bedroom with wallpaper, DSLR",
+      "A cozy bedroom, walls with intricate patterns, DSLR.",
+      "Comfortable bedroom, floral mural, DSLR",
+      "Modern bedroom, geometric walls, DSLR shot.",
+      "A cozy bedroom with mural, DSLR",
+      "Soft curtains, decorative wallpaper, DSLR",
+      "Modern bedroom, textured walls, cozy bed.",
+      "Bedroom with scenic wallpaper, plush throw pillows.",
+      "Modern bedroom, intricate wall art, comfy sofa.",
+      "A bedroom with ornate wallpaper, cozy bed.",
+      "A spacious bedroom with ornate wallpaper, cozy bed.",
+      "A bedroom with mural walls, plush bed.",
+      "Elegant chandelier, floral wallpaper, bed.",
+      "Patterned curtains in the bedroom.",
+      "Wall art, cozy rugs, velvet curtains.",
+      "Wooden floor, cozy rug, soft lighting.",
+      "Textured rug with botanical wallpaper."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

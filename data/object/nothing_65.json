@@ -1,0 +1,53 @@
+[
+  {
+    "id": 232,
+    "prompt": "a hotel room with nothing on the bed",
+    "base_entity_biased_prompts": [
+      "A bed in a bedroom.",
+      "Bed in a spacious bedroom.",
+      "Bed in a modern room.",
+      "A bed in a spacious room.",
+      "Bed in a dormitory.",
+      "A cozy bed in a bedroom.",
+      "Bed in a modern bedroom.",
+      "Bed with soft white bedding.",
+      "Bed with nightstand and lamp.",
+      "A bed in a modern bedroom setting.",
+      "Bedroom with a platform bed.",
+      "A bed with a plush mattress and frame.",
+      "Bed with bedside table and lamp.",
+      "Bed in a modern bedroom setup.",
+      "A bed with a wooden frame.",
+      "A bed with a nightstand and lamp.",
+      "A bed with a white mattress and sheets.",
+      "Bed with comfortable mattress and pillows.",
+      "Bed with contemporary black and white sheets.",
+      "A bed in a spacious bedroom with windows."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Detailed hotel room: bed, bedding, realism.",
+      "Hotel room, tidy bedding, detailed textures.",
+      "Realistic textures, high resolution, hotel room.",
+      "Elegant suite, luxurious bedding, pristine condition, DSLR shot.",
+      "Hotel room, high-end bedding.",
+      "Hotel room, neat bedding, sleek decor.",
+      "Crisp bedding, metal frame, DSLR.",
+      "Luxury hotel room, pristine bedding.",
+      "Modern hotel room, sleek decor, detailed view.",
+      "Modern hotel, tidy bed, detailed carpeting.",
+      "Pillows stacked, hotel bedding, close-up.",
+      "Pillow stacks, hotel bedding close-up.",
+      "Elegant bedside table, hotel room detail.",
+      "Wall art, bedside table, neat hotel room.",
+      "Modern dresser, plush rug, hotel room.",
+      "High-quality hotel bed linens.",
+      "A king-sized bed, neat sheets, luxury hotel.",
+      "Plush pillows, crisp linens, hotel comfort.",
+      "A king-sized bed, tidy sheets, luxury hotel.",
+      "Detailed wooden nightstands, soft lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

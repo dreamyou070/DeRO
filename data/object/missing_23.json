@@ -1,0 +1,53 @@
+[
+  {
+    "id": 23,
+    "prompt": "a bookshelf missing books",
+    "base_entity_biased_prompts": [
+      "Books with bookmarked pages.",
+      "Books in various colors",
+      "Books with colorful illustrations.",
+      "Art books with colorful illustrations.",
+      "Group of books about history.",
+      "Books with colorful spines.",
+      "Books with weathered pages.",
+      "Book with bookmarks.",
+      "Bookstore with various titles",
+      "Book with highlighted passages.",
+      "Stack of hardcover books",
+      "Children's books with colorful illustrations.",
+      "Books arranged alphabetically.",
+      "Collection of rare books",
+      "Bookshelf with various genres.",
+      "Art book with beautiful paintings",
+      "A bookshelf with varied titles.",
+      "A stack of books with bookmarks.",
+      "A stack of old books.",
+      "Art book with detailed illustrations."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A dense forest trail, DSLR, ultra-realistic",
+      "A dense forest trail, ultra-realistic.",
+      "Twilight forest path, DSLR.",
+      "A serene forest path, sharp focus.",
+      "Bird's-eye view of forest trail",
+      "Ancient trees lining a serene trail",
+      "Forest path winding, natural light.",
+      "Tranquil lake beside forest trail",
+      "Wildlife tracks, peaceful woodland.",
+      "Moss-covered trees along serene trail.",
+      "Vivid autumn colors in the woods",
+      "Gentle stream beside a well-worn forest trail.",
+      "Crisp autumn leaves cover forest trail.",
+      "A winding trail through dense forest",
+      "A moss-covered forest trail",
+      "A dense forest trail, sunlight filtering.",
+      "A winding trail through dense woods",
+      "Tranquil lake reflects surrounding trees",
+      "Leaves rustling underfoot, tranquil scene.",
+      "Streams reflecting surrounding trees"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

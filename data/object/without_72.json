@@ -1,0 +1,53 @@
+[
+  {
+    "id": 319,
+    "prompt": "an interior sofa without bench",
+    "base_entity_biased_prompts": [
+      "Bench with a bench seat.",
+      "Bench made of recycled materials.",
+      "Bench with carved designs.",
+      "A bench with a curved design.",
+      "Wooden bench with a weathered look.",
+      "Wooden bench with carved details.",
+      "A bench with a built-in bookshelf.",
+      "A bench with carved designs.",
+      "Metal bench with a curved back.",
+      "Wooden bench with carved designs.",
+      "Bench with carved designs outside.",
+      "Metal bench with a weathered look.",
+      "A wooden bench with carvings.",
+      "A bench with a note attached.",
+      "A bench with carved designs on it.",
+      "A brown bench under a bench press.",
+      "A black and white checkered bench.",
+      "Bench with a dog resting.",
+      "A bench with a sign nearby.",
+      "A metal bench near a playground."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sunlit room, realistic sofa, DSLR.",
+      "Room with ample light, ultra-realistic sofa.",
+      "Big room, natural light, realistic sofa.",
+      "Natural light, spacious room, realistic sofa.",
+      "Spacious room, natural light, realistic sofa.",
+      "Natural light, large space, real sofa.",
+      "Room filled with light, realistic sofa setting.",
+      "Natural light, big room, detailed sofa.",
+      "Large room, sofa focal point, natural light.",
+      "Natural light, large room, sofa.",
+      "Room filled, natural light, realistic couch.",
+      "Natural light, spacious room, sofa.",
+      "Realistic photo, large sofa, bright room.",
+      "Wide room, natural light, detailed sofa.",
+      "Large room, natural light, stylish sofa.",
+      "Big room, natural light, leather sofa.",
+      "Vast room, natural illumination, couch.",
+      "Big room, natural light, sectional sofa.",
+      "Open room, natural glow, realistic couch.",
+      "Roomy area, natural light, patterned sofa."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

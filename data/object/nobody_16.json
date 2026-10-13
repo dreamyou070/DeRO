@@ -1,0 +1,53 @@
+[
+  {
+    "id": 412,
+    "prompt": "nobody walking through the hallway",
+    "base_entity_biased_prompts": [
+      "Short hallway between rooms",
+      "Staircase leading to hallway.",
+      "Staircase leading to a hallway.",
+      "Short hallway with doors",
+      "Staircase leading to hallway",
+      "Hallway with patterned wallpaper and doors.",
+      "Hallway with patterned wallpaper.",
+      "Wide, clean hallway",
+      "Hallway with polished marble floors.",
+      "Hallway with wallpaper and mirrors.",
+      "Hallway with vintage wallpaper and doors.",
+      "Hallway with colorful murals",
+      "Narrow hallway with patterned flooring",
+      "Hallway lit by overhead lights",
+      "Hallway with vintage wallpaper.",
+      "Hallway with colorful murals on walls.",
+      "Vintage hallway with wallpaper.",
+      "Wide hallway with polished wood.",
+      "Short tiled hallway leading to rooms.",
+      "Vintage wallpapered hallway with doors."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Long hallway, clear reflections, still, DSLR realism",
+      "A long hallway, floor reflections clear, DSLR realism",
+      "A long hallway, clear reflections, still, DSLR",
+      "A long hallway, DSLR, clear reflections, still.",
+      "A long hallway, floor reflection clear, DSLR, still.",
+      "Clear reflections, long hallway, DSLR shot.",
+      "DSLR shot, long hallway, clear reflections.",
+      "Long hall, still air, perfect reflections, DSLR.",
+      "Long hallway, clear reflections, calm, DSLR.",
+      "A long hallway, floor reflections clear, DSLR, calm.",
+      "A long hallway, floor reflection clear, ultra-realistic.",
+      "A long hallway, floor reflections clear, ultra-realistic.",
+      "A long hallway, floor reflection clear, still, ultra-realistic.",
+      "Long hall, bright floor reflection, serene, DSLR.",
+      "Hallway vast, reflections bright, DSLR clarity.",
+      "A long hallway, floor reflection clear, still atmosphere.",
+      "A long hallway, floor reflection clear",
+      "A long hallway, floor reflections clear",
+      "Ultra-realistic, long corridor shot",
+      "Stillness, hallway, clear reflections"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

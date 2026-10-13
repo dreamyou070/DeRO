@@ -1,0 +1,53 @@
+[
+  {
+    "id": 431,
+    "prompt": "nobody standing on the rooftop",
+    "base_entity_biased_prompts": [
+      "Rooftop with city skyline",
+      "Rooftop with panoramic views",
+      "Rooftop with skylights",
+      "Rooftop view of city",
+      "Rooftop with greenery",
+      "Urban rooftop with skyline view",
+      "Rooftop with barbecue grill",
+      "Rooftop with views of mountains",
+      "Rooftop garden view",
+      "Rooftop with panoramic city view",
+      "Rooftop with solar panels",
+      "Rooftop with outdoor gym",
+      "City skyline from rooftop",
+      "Rooftop with flagpole",
+      "Rooftop with sun loungers",
+      "Rooftop bird's-eye view",
+      "Rooftop basketball court",
+      "Rooftop with weather vane",
+      "Rooftop terrace with outdoor seating",
+      "Rooftop terrace with plants"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Rooftop view, city skyline, clear sky, DSLR, ultra-realistic",
+      "City rooftops, open sky, DSLR",
+      "City rooftop, open sky, DSLR quality",
+      "Rooftop with city, open sky, DSLR shot.",
+      "Rooftop, clear sky, city views, DSLR",
+      "Urban rooftop, wide city view, DSLR",
+      "Rooftop, clear sky, cityscape, DSLR",
+      "Rooftop view, city skyline, clear sky, DSLR",
+      "DSLR rooftop shot of vibrant city life",
+      "Urban rooftop, city skyline, bright sun, DSLR",
+      "Wide city panorama, open sky, rooftop",
+      "Wide city view, rooftop, DSLR lens",
+      "Cityscape, rooftop, open sky",
+      "Distant cityscape, open sky, rooftop",
+      "Wide angle, rooftop, city views",
+      "Wide-angle cityscape from rooftop, clear sky.",
+      "Wide city view from rooftop, clear sky.",
+      "City rooftop, open sky, vibrant sunset",
+      "Rooftop with clouds, city beyond, lifelike",
+      "Wide city view from rooftop, stars above."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

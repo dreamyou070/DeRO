@@ -1,0 +1,33 @@
+[
+  {
+    "id": 265,
+    "prompt": "a picture frame with nothing in it",
+    "base_entity_biased_prompts": [
+      "a picture frame displaying a family photo",
+      "a framed landscape picture hanging on a wall",
+      "a picture frame containing a portrait photograph",
+      "a decorative picture frame with artwork inside",
+      "a picture frame showing a colorful image",
+      "a framed photograph on a table",
+      "a picture frame with a painting inside",
+      "a wall-mounted picture frame displaying scenery",
+      "a picture frame containing a detailed photograph",
+      "a framed image with visible artwork"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty picture frame with nothing inside",
+      "a picture frame with a blank interior",
+      "a picture frame with no photo or artwork inside",
+      "an empty frame with the inside clearly visible",
+      "a picture frame containing only a blank surface",
+      "a picture frame with no image displayed",
+      "a vacant picture frame with an empty center",
+      "a picture frame with a completely blank interior space",
+      "a clean empty frame with no content inside",
+      "a picture frame showing an empty blank area"
+    ],
+    "class": "nothing",
+    "class_index": 46,
+    "filename": "nothing_46"
+  }
+]

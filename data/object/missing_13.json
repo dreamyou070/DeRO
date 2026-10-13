@@ -1,0 +1,53 @@
+[
+  {
+    "id": 13,
+    "prompt": "a bedroom missing a bed",
+    "base_entity_biased_prompts": [
+      "A bed with a soft mattress.",
+      "Bed in a spacious bedroom.",
+      "A bed in a spacious room.",
+      "A bed with a plush mattress.",
+      "Bed in a guest room.",
+      "A bed with a blanket.",
+      "A bed in a spacious bedroom.",
+      "Bed in a modern bedroom.",
+      "A bed with a bedside stand.",
+      "A bed with a bedside table.",
+      "Bed in a minimalist room.",
+      "Bed in a minimalist bedroom.",
+      "A bed in a modern room.",
+      "A bed in a modern bedroom.",
+      "A bed with a large, fluffy mattress.",
+      "A bed with a wooden frame.",
+      "A bed in a minimalist space.",
+      "Bed with golden bedding.",
+      "A bed with a soft mattress and duvet.",
+      "Bed with patterned sheets and pillow."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Brick balcony, street scene, high resolution.",
+      "A balcony with detailed architecture, cityscape beyond.",
+      "Brickwork balcony, colorful boulevard, realistic light.",
+      "A balcony with intricate railings, cityscape beyond.",
+      "Concrete balcony, urban skyline backdrop.",
+      "Glass balcony, skyscrapers in background.",
+      "Concrete balcony, park scenery.",
+      "Glass rail balcony, park scene visible.",
+      "Stone balcony, garden below, clear detail.",
+      "Concrete balcony, urban skyscrapers backdrop.",
+      "Cement balcony, park scene behind.",
+      "Concrete balcony, park scene.",
+      "Metal balcony, garden view, vibrant colors.",
+      "Ironwork balcony, hillside scenery.",
+      "A wooden balcony with railings, cityscape view.",
+      "Glass balcony, sunset skyline.",
+      "A wooden balcony with railings, cityscape behind.",
+      "Brick balcony, river scene at twilight.",
+      "A wooden balcony with railings, city view.",
+      "A wooden balcony with railings, city views."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

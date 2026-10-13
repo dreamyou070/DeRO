@@ -1,0 +1,53 @@
+[
+  {
+    "id": 471,
+    "prompt": "nobody standing on the platform",
+    "base_entity_biased_prompts": [
+      "Stage performance platform",
+      "Platform for musical instruments",
+      "Audio equipment platform",
+      "Portable platform with stands.",
+      "Platform market with vendors",
+      "Elevated platform for performance.",
+      "A digital platform on a screen",
+      "Platform for solar panels",
+      "Digital platform displayed on a screen.",
+      "Public platform for speakers",
+      "Stock market trading platform",
+      "Designing a building platform",
+      "Retail platform with products",
+      "A digital platform interface.",
+      "A digital platform with icons.",
+      "A digital platform on a tablet screen",
+      "Platform for mountain climbers.",
+      "A construction work platform.",
+      "Rooftop garden platform.",
+      "Robot on a moving platform"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A clean train platform, signs organized, DSLR realism",
+      "Train platform, organized signs, clean floor, DSLR, realistic",
+      "Train platform signs, clean floor, ultra-realistic DSLR",
+      "Train platform signs, clean floor, ultra-realistic DSLR.",
+      "Train platform with organized signs, ultra-clean floor, DSLR",
+      "A clean train platform, organized signs, DSLR",
+      "A clean train platform, signs visible, DSLR clarity",
+      "Train platform, clean floor, signs well-displayed, DSLR.",
+      "Ultra-realistic train platform, clean floor, signs",
+      "A clean, organized train platform, DSLR",
+      "Train platform, organized signs, clean floor, DSLR",
+      "Train platform, clean floor, organized signs, DSLR.",
+      "Clean train platform, signs visible, DSLR detail.",
+      "Train platform, signs, clean floor, DSLR",
+      "Well-organized signs, shiny floor, train platform, DSLR",
+      "Ultra-realistic train platform, clean tiles, clear signs.",
+      "Realistic train platform, clean floor, signs.",
+      "Realistic train platform, clean and tidy",
+      "Detailed train platform, signs, tidy floor",
+      "A clean train platform with organized signs."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

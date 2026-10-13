@@ -1,0 +1,53 @@
+[
+  {
+    "id": 331,
+    "prompt": "a balcony without plants",
+    "base_entity_biased_prompts": [
+      "Leafy basil plants closeup",
+      "Potted succulents grouped",
+      "Tomato plants in garden",
+      "Leafy succulents in row",
+      "Succulents in a row",
+      "Aloe vera plants indoors",
+      "Leafy tropical foliage",
+      "Cacti with spines",
+      "Peppermint plant close-up",
+      "Potted basil plants on windowsill",
+      "Potted succulents on windowsill",
+      "Morning glory vines",
+      "Sunlit garden flowers",
+      "Peppers hanging on plants",
+      "Succulents in clay pot",
+      "Tomato plants in greenhouse",
+      "Sunlit ferns in moss",
+      "Lush tropical leaves",
+      "Potted cacti in desert",
+      "Roses in full bloom garden"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A man's face, ultra-realistic, DSLR, natural light",
+      "Realistic man face, natural lighting, DSLR",
+      "Man's portrait, ultra-realism, natural lighting",
+      "Man portrait, ultra-realistic, DSLR",
+      "Man's face, ultra-real, DSLR, soft light",
+      "A man's face, DSLR, realistic, natural light",
+      "Man's portrait, ultra-realistic, natural light.",
+      "Man portrait, ultra-realism, natural exposure",
+      "Detailed man face, DSLR detail, natural light.",
+      "Realistic man portrait, DSLR shot.",
+      "Man portrait, natural lighting, ultra-real.",
+      "Man portrait, DSLR, realistic skin.",
+      "Man's cheeks, realistic texture, natural light, DSLR",
+      "Close-up man face, DSLR realism, natural glow",
+      "Man's face, DSLR photography, natural.",
+      "Man face, ultra-realistic, natural light.",
+      "A man's face, ultra-realistic, natural light.",
+      "Man's profile, DSLR quality, natural light.",
+      "Man's face, DSLR detail, natural exposure.",
+      "Man profile, ultra-realism, warm daylight."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 398,
+    "prompt": "nobody standing in the park",
+    "base_entity_biased_prompts": [
+      "A park with a lake.",
+      "A park with a fitness area.",
+      "Park with a playground and sandbox.",
+      "Park with a small pond.",
+      "Park with picnic area and tables.",
+      "Water fountain in park",
+      "Group by lake in park",
+      "Sunset over park",
+      "A children's playground in a park.",
+      "A park with colorful flowers in bloom.",
+      "Park bench with umbrella for shade",
+      "Fountain in green space",
+      "Old trees in park",
+      "Friends playing soccer in park",
+      "Picnic area with tables",
+      "Green grass and benches",
+      "Children's playground with swings",
+      "Children's playground with slides",
+      "Birds resting on park bench",
+      "Lawn mowers in grassy area"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ornate gazebo in peaceful park, vibrant nature, DSLR quality.",
+      "A serene park with water features, ultra-realistic.",
+      "A serene park with ornamental fountains, ultra-realistic.",
+      "A serene park with floral fountains, ultra-realistic.",
+      "Dappled light, serene park scene.",
+      "A serene park with ornamental fountains",
+      "A tranquil park with ornamental fountains",
+      "Peaceful park, intricate stone carvings, nature.",
+      "Peaceful park with fountain, statues, and blooming plants.",
+      "A tranquil park, lush greenery, ornamental fountains.",
+      "A serene park with ornamental fountains.",
+      "Meticulous flower beds, serene pond, DSLR.",
+      "A serene park with fountain, blooms, and lush greenery.",
+      "A tranquil park with ornamental fountains.",
+      "A serene park, lush green, floral fountains",
+      "A tranquil park, lush greens, ornamental fountains.",
+      "A serene park with floral fountains.",
+      "A serene park with intricate statues, vibrant flowers, and calm lakes.",
+      "A serene park with statues, lush greenery, and blooming flowers.",
+      "Lush trees and a serene pond."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

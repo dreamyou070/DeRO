@@ -1,0 +1,53 @@
+[
+  {
+    "id": 262,
+    "prompt": "a park without trees and without benches",
+    "base_entity_biased_prompts": [
+      "Benches with backrests and armrests",
+      "Benches with colorful cushions outside.",
+      "Benches arranged in a park.",
+      "Benches lined up in a row.",
+      "Benches with wrought iron backs.",
+      "Benches placed in a courtyard.",
+      "Benches in modern city plaza",
+      "Benches with cushions in a yard.",
+      "Benches with cushions on a patio.",
+      "Benches arranged in a circle.",
+      "Benches in schoolyard",
+      "Benches with built-in planters.",
+      "Benches lined up in a square.",
+      "Wooden benches in schoolyard",
+      "Benches lined up in a courtyard.",
+      "Wooden bench with carved designs",
+      "A bench with a cushioned seat.",
+      "Wooden bench with a carved design.",
+      "Wooden bench with a backrest.",
+      "Two metal benches in a park."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious park, open grass, realistic scenery.",
+      "A wide park with lush grass, DSLR.",
+      "Grassy expanse, vast park landscape",
+      "A large park with open grass, DLSR",
+      "Spacious park, lush grass, clear sky",
+      "Detailed park scene, bright daylight.",
+      "Spacious park, lush grass, clear sky.",
+      "Spacious park, green grass, clear sky.",
+      "A wide park, green grass, clear sky",
+      "Spacious park, lush grass, vibrant sunlight.",
+      "Park with ponds, lush grass, clear view.",
+      "Lush park, wide open spaces.",
+      "Park, open space, vibrant green.",
+      "Spacious park, green grass, clear blue sky.",
+      "Spacious park, lush grass, clear blue sky.",
+      "A wide park, lush grass, vibrant sun.",
+      "A lush green park, wide open fields.",
+      "Large open grassy area, clear sky.",
+      "A vast green lawn under clear blue sky.",
+      "Mountain backdrop, vast expanse"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

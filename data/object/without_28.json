@@ -1,0 +1,53 @@
+[
+  {
+    "id": 275,
+    "prompt": "a vase without flowers",
+    "base_entity_biased_prompts": [
+      "Pinks and purples flower mix",
+      "Mixed bouquet of blooms",
+      "Lavender flowers close up",
+      "Rustic bouquet of flowers",
+      "Orchids in various colors",
+      "Vibrant garden of flowers",
+      "Vibrant garden blooms",
+      "Lavender and wildflowers",
+      "Carnation pink and red",
+      "Purple iris petals",
+      "Yellow daisies sunshine",
+      "Rustic bouquet of wildflowers",
+      "Red roses with dew",
+      "Carnations in bunch",
+      "Floral arrangement in vase",
+      "Sunflowers by window",
+      "Red roses close-up",
+      "Carnation in various hues",
+      "Sunrise with orange flowers",
+      "Soft pink peony petals"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Vase with opening, realistic texture, DSLR.",
+      "Open ceramic vase, realistic texture, DSLR.",
+      "Vase with opening, realistic ceramic, DSLR.",
+      "Ceramic vase, opening visible, ultra-realistic photo.",
+      "Vase with visible opening, ceramic texture, ultra-realistic.",
+      "Red ceramic vase, visible opening, ultra-realistic shot",
+      "Ceramic vase, open view, ultra-realistic photo.",
+      "Vase opening, realistic texture, DSLR clarity.",
+      "Ceramic vase, visible opening, ultra-realistic.",
+      "Ceramic vase, visible texture, DSLR",
+      "Ceramic vase, opening, photorealistic texture.",
+      "Ceramic flower vase, ultra-realistic shot.",
+      "Ceramic vase, opening, ultra-realistic.",
+      "A large white vase, DSLR, realistic texture",
+      "Tan vase, opening visible, realistic ceramic.",
+      "Vase, opening large, realistic ceramic.",
+      "Blue vase, clear opening, realistic texture.",
+      "A blue vase, opening visible, realistic ceramic.",
+      "Ceramic vase, open, high detail.",
+      "Turquoise vase, opening clear, realistic feel."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

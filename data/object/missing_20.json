@@ -1,0 +1,53 @@
+[
+  {
+    "id": 20,
+    "prompt": "a forest missing trees",
+    "base_entity_biased_prompts": [
+      "Trees with colorful leaves",
+      "Lush green trees",
+      "Trees with fallen leaves",
+      "Trees in vibrant green",
+      "Evergreen trees dense",
+      "Trees in autumn colors",
+      "Ferns under the trees",
+      "Eucalyptus trees in distance",
+      "Trees with cherry blossoms",
+      "Sunny day, leafy trees",
+      "Trees in early morning light",
+      "Trees under a clear blue sky.",
+      "Cedar trees by lake",
+      "Ancient trees with gnarled bark",
+      "Birch trees with silver trunks",
+      "Fir trees Christmas",
+      "Trees lining the park path",
+      "Palm trees by beach",
+      "Cypress trees by sea",
+      "Clustered fir trees snowy"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A lush garden, DSLR, ultra-realistic",
+      "A lush green garden, DSLR, ultra-realistic",
+      "A lush garden, DSLR, hyper-realistic",
+      "A lush garden, DSLR, hyperrealistic",
+      "Tree-lined garden, DSLR, ultra-realism.",
+      "A lush garden, DSLR clarity",
+      "A lush garden with vibrant flowers, DSLR",
+      "A lush green garden, DSLR",
+      "A lush green garden, DSLR clarity.",
+      "Herb garden, DSLR, lifelike",
+      "A lush garden with vibrant flowers, DSLR.",
+      "Sunlit flowers, DSLR, hyper-realistic",
+      "Herb garden with fragrant leaves, DSLR",
+      "Garden path in evening light, DSLR, true-to-life",
+      "Rustic bench, garden scene DSLR",
+      "Vegetation in full spring glory, DSLR",
+      "Sunlit flower beds, ultra-real",
+      "Sunlit flowers, ultra-realistic",
+      "Garden bench, DSLR macro texture.",
+      "A lush garden with vibrant flowers."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

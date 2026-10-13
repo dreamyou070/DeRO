@@ -1,0 +1,53 @@
+[
+  {
+    "id": 143,
+    "prompt": "a library with no books",
+    "base_entity_biased_prompts": [
+      "Books with colorful covers.",
+      "Books with colorful illustrations.",
+      "Children's books with illustrations.",
+      "Books with dust covers.",
+      "Book of fairy tales.",
+      "Children's books with colorful illustrations.",
+      "Books in a library",
+      "Books with bookmark in the middle.",
+      "Book with golden letters",
+      "Book with colorful illustrations",
+      "Collection of vintage books.",
+      "Books arranged alphabetically.",
+      "Bookshelf with varied titles.",
+      "Stack of mystery novels",
+      "Book with colorful illustrations.",
+      "Art book with colorful illustrations",
+      "A book with a colorful cover.",
+      "A stack of old books.",
+      "Bookshelf filled with various books.",
+      "A bookshelf lined with various books."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic library with soft lighting, books",
+      "Library with detailed shelves, realistic textures",
+      "Bookshelves filled, indoor setting, clarity.",
+      "Indoor library with warm hues.",
+      "Bookshelf rows, library ambiance.",
+      "A large library with dense bookshelves, natural light.",
+      "Modern library with sleek shelves",
+      "Book-filled shelves, indoor serenity, realism.",
+      "Library with floor-to-ceiling shelves, misty light.",
+      "Modern library, sleek bookcases, soft shadows.",
+      "Modern library with sleek, glass bookcases.",
+      "Books, wooden tables, ambient light.",
+      "Modern shelves, books整齐排列,柔和灯光.",
+      "A spacious library with tall bookshelves.",
+      "A spacious library with towering shelves.",
+      "Bookshelves with glowing book spines.",
+      "A spacious library with wooden shelves.",
+      "Bookshelf corners with cozy nooks.",
+      "A spacious library with wooden shelves, books整齐排列,自然光柔和照射.",
+      "A room filled with wooden bookshelves, books整齐排列,自然光柔和照亮空间."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

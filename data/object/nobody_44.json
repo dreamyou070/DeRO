@@ -1,0 +1,53 @@
+[
+  {
+    "id": 440,
+    "prompt": "nobody sitting near the fireplace",
+    "base_entity_biased_prompts": [
+      "Fireplace with a roaring flame",
+      "A fireplace in a living room",
+      "Fireplace with a roaring fire.",
+      "Fireplace with hearth and rug",
+      "Cozy fireplace in living room",
+      "Fireplace with logs and roaring flames",
+      "Fireplace with fire burning brightly",
+      "Fireplace with glowing coals and logs",
+      "Fireplace with glowing coals and wood",
+      "Fireplace with glowing coals and logs.",
+      "Fireplace with glowing coals and sparks",
+      "Fireplace with stacked firewood nearby.",
+      "Fireplace in a cozy log cabin",
+      "Fireplace with glowing embers and smoke.",
+      "Fireplace with a stack of firewood nearby",
+      "Fireplace in rustic cabin setting",
+      "Fireplace with a hearth rug in front",
+      "Fireplace with glowing orange and red flames",
+      "Fireplace with crackling logs",
+      "Grand fireplace in a cozy living room"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warm fireplace, cozy corner, soft shadows, DSLR",
+      "Warm fireplace, cozy seating, DSLR realism",
+      "Wooden mantel, fireplace, warm light, DSLR",
+      "Modern sofa near warm fireplace, DSLR",
+      "Sofa, fireplace, warm light, ultra-realistic.",
+      "Realistic fireplace, ambient light, cozy seating.",
+      "Fireplace, wooden table, realistic lighting",
+      "Warm fireplace, coffee table, ambient glow.",
+      "Fireplace, modern decor, warm ambient light.",
+      "Realistic fireplace, velvet chairs, warm light.",
+      "Warm fireplace, modern sofa, ambient light.",
+      "Wood burning fireplace, warm ambient light.",
+      "Glowing fireplace, warm light, modern furniture.",
+      "Warm fireplace, soft light, modern furniture.",
+      "Warm fireplace, ambient light, cozy seating.",
+      "Warm fireplace, ambient light, leather settee.",
+      "Cozy fireplace, ambient light, wooden floor.",
+      "Warm fireplace, cozy lighting, wooden furniture",
+      "Fireplace radiance, soft rugs, wood tones.",
+      "Stone hearth, fireplace, ambient light, comfy chair."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

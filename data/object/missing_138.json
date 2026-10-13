@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a shoe without a string and without a logo",
+    "base_entity_biased_prompts": [
+      "Bow and arrow string",
+      "A necklace of strings",
+      "A string attached to a dart",
+      "A necklace of strings.",
+      "String forming wave",
+      "String entwined with thread",
+      "Strings on a tennis racket",
+      "A string wound tightly.",
+      "Tangled string in a heap.",
+      "Knot tied in a string",
+      "Bunch of spaghetti strings",
+      "A red guitar string",
+      "A bow tie with string.",
+      "Blue kite string",
+      "A violin string vibrating.",
+      "A guitar string under tension.",
+      "A red guitar string.",
+      "A violin string being played.",
+      "String instrument with open strings.",
+      "Blue hammock strings悬挂"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Minimalist canvas sneakers, photorealistic.",
+      "A pair of minimalist canvas sneakers floating, light gray background.",
+      "A pair of minimalist canvas sneakers floating light gray.",
+      "A pair of minimalist canvas sneakers floating on light gray.",
+      "Minimalist canvas sneakers, ultra-realistic detail.",
+      "Minimalist canvas sneakers floating.",
+      "Minimalist sneakers, light gray backdrop, detailed fabric.",
+      "Minimalist canvas sneakers, light gray.",
+      "A pair of minimalist canvas sneakers on light gray.",
+      "Minimalist sneakers, light gray backdrop.",
+      "A pair of floating canvas sneakers on light gray.",
+      "Photorealistic sneakers, 50mm lens, clean background.",
+      "A pair of minimalist sneakers floating on light gray.",
+      "Canvas sneakers against light gray.",
+      "Minimalist design, sneakers, light gray, dark gray, white soles.",
+      "Minimalist sneakers, light gray background.",
+      "Sneakers floating, clean background",
+      "Minimalist sneakers, professional shot.",
+      "Light gray background, floating sneakers.",
+      "A pair of minimalist sneakers float on light gray."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

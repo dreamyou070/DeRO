@@ -1,0 +1,53 @@
+[
+  {
+    "id": 328,
+    "prompt": "a classroom without students",
+    "base_entity_biased_prompts": [
+      "Students during class",
+      "Students working together",
+      "Students during break",
+      "Group of students studying",
+      "Students working on projects",
+      "Students during a break",
+      "Students studying together",
+      "Students working in groups",
+      "Students in a classroom",
+      "Students participating in sports",
+      "Students in a study group",
+      "Students during a lecture",
+      "Students in library",
+      "Students on a study tour",
+      "Students during graduation",
+      "Students engaging in sports",
+      "Students in a hall",
+      "Students during an exam",
+      "Students in science class",
+      "Students studying with laptops"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A classroom, desks aligned, books on desks, DSLR clarity",
+      "A classroom, desks aligned, books整齐摆放, 超写实DSLR",
+      "A classroom, desks aligned, books stacked, DSLR sharpness",
+      "A classroom, desks aligned, books整齐摆放, DSLR清晰拍摄",
+      "Classroom, organized desks, charts, DSLR",
+      "A classroom, desks in rows, books整齐摆放, DSLR超写实",
+      "A classroom, desks lined up, textbooks整齐摆放,超高清DSLR",
+      "Textbooks, aligned chairs, classroom setup, DSLR",
+      "Spacious classroom, desks rowed, posters, DSLR",
+      "Neatly aligned desks, chalkboard, textbooks, DSLR",
+      "Classroom desks, diagrams, erasers, DSLR",
+      "Classroom desks, maps, pens, DSLR",
+      "A classroom with aligned desks, textbooks, and charts.",
+      "Neatly aligned desks, chalkboard, books, DSLR",
+      "Neatly arranged desks, chalkboard, textbooks, DSLR.",
+      "A classroom, desks aligned, textbooks整齐摆放, 全景超清",
+      "Classroom, books, organized desks",
+      "A classroom, desks aligned, books on desks",
+      "Neatly aligned desks, chalkboard, textbooks",
+      "A classroom, desks aligned, books stacked."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

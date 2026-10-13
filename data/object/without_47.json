@@ -1,0 +1,53 @@
+[
+  {
+    "id": 294,
+    "prompt": "a chair without a backrest",
+    "base_entity_biased_prompts": [
+      "Backrest on a bench",
+      "Backrest on a lounge seat",
+      "Backrest with ergonomic design",
+      "Backrest of a lounge chair.",
+      "Backrest with cushioned seat",
+      "Backrest with soft cushioning.",
+      "Backrest with cushions on a bench",
+      "backrest with colorful cushions",
+      "Backrest of an ergonomic chair",
+      "Backrest on a folding chair",
+      "Backrest made of leather",
+      "Backrest of a massage chair",
+      "Backrest with integrated armrests",
+      "Backrest of an office chair.",
+      "Bench with ergonomic backrest",
+      "Bench with integrated backrest",
+      "armchair with cushioned backrest",
+      "bench with adjustable backrest",
+      "Chair with a padded backrest",
+      "Bench with a sturdy backrest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern chair, realistic seat, DSLR quality.",
+      "Fabric chair, DSLR, realistic texture.",
+      "Vintage chair, realistic texture, DSLR.",
+      "Chair back, realistic detail, DSLR quality",
+      "Mahogany chair, realistic texture, DSLR.",
+      "Modern metal chair, clean design, DSLR.",
+      "Armrest chair, intricate details, DSLR quality.",
+      "Modern plastic chair, clean design, ultra-real.",
+      "Plastic chair, structured, ultra-realistic",
+      "Chair seat, ergonomic design, realistic texture.",
+      "Seat with texture, ultra-realistic image",
+      "Steel chair, structured frame, ultra-real photography.",
+      "Modern chair, elegant design, ultra-realistic.",
+      "Contemporary plastic chair, ultra-real.",
+      "A sleek chair, ultra-realistic close-up.",
+      "Chair with intricate wood grain, ultra-realistic.",
+      "Plastic patio chair, precise design, ultra-realistic.",
+      "Wooden swivel chair, clean rotation, ultra-realism.",
+      "A wooden chair, ultra-realistic close-up.",
+      "Executive leather chair, realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

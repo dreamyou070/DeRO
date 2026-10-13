@@ -1,0 +1,53 @@
+[
+  {
+    "id": 274,
+    "prompt": "a stadium without people",
+    "base_entity_biased_prompts": [
+      "People in an office",
+      "People in library",
+      "People in a library",
+      "Folks at cafe",
+      "Workers in office",
+      "Folks at festival",
+      "People at cafe",
+      "People in a café",
+      "People in stadium",
+      "Group in park",
+      "Group in cafe",
+      "People on roller coaster",
+      "Students in classroom",
+      "Workers in an office building.",
+      "Group at cafe",
+      "Passengers on airplane",
+      "Friends at a cafe",
+      "Group in stadium",
+      "Friends at coffee shop",
+      "Couples walking hand in hand"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Large stadium, seating layout, realistic architecture, DSLR shot",
+      "Realistic stadium, large seating, DSLR snapshot.",
+      "Realistic stadium, large seating, DSLR capture.",
+      "Realistic stadium, large seating, DSLR quality",
+      "Large stadium, intricate seating, DSLR realism",
+      "Large stadium, realistic seats, DSLR capture.",
+      "Detailed stadium, realistic seating, DSLR shot.",
+      "Stadium with seats, realistic design, DSLR capture.",
+      "Stadium with seats, realistic architecture, DSLR.",
+      "Stadium seats, realistic architecture, DSLR shot.",
+      "Stadium with fans, realistic seats, DSLR detail",
+      "Grand stadium, realistic architecture, DSLR",
+      "Stadium seats and architecture, ultra-realistic shot.",
+      "Stadium, expansive seating, realistic details, DSLR.",
+      "Realistic stadium, expansive seating, DSLR.",
+      "Stadium facade, realistic seats, DSLR clarity",
+      "Detailed stadium, large seating, DSLR quality.",
+      "Stadium, grandstands, realistic details, DSLR.",
+      "Detailed stadium, seats, ultra-realism.",
+      "Large stadium, seats, realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

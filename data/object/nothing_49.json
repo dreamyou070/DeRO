@@ -1,0 +1,33 @@
+[
+  {
+    "id": 268,
+    "prompt": "a plate with nothing served",
+    "base_entity_biased_prompts": [
+      "a plate filled with food",
+      "a dinner plate with a complete meal",
+      "a plate containing cooked food",
+      "a serving plate with various dishes",
+      "a plate with freshly prepared food",
+      "a ceramic plate holding a meal",
+      "a plate with food and side dishes",
+      "a restaurant plate with served food",
+      "a plate containing a delicious meal",
+      "a plate with visible food items"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty plate with nothing served",
+      "a clean plate with no food on it",
+      "an empty dinner plate with the center clearly visible",
+      "a plate with no meal or food items",
+      "a plain empty plate with visible surface area",
+      "a plate with completely empty serving space",
+      "an unused plate with no contents",
+      "a vacant plate with no food or objects",
+      "a clean serving plate with no dishes present",
+      "an empty plate with a clearly visible center"
+    ],
+    "class": "nothing",
+    "class_index": 49,
+    "filename": "nothing_49"
+  }
+]

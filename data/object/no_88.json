@@ -1,0 +1,53 @@
+[
+  {
+    "id": 150,
+    "prompt": "a computer desk with no monitor",
+    "base_entity_biased_prompts": [
+      "A monitor with a resolution.",
+      "Monitor showing real-time data.",
+      "A monitor with a Windows desktop.",
+      "Monitor displaying a Windows desktop.",
+      "Monitor on a desk.",
+      "Monitor with ambient light.",
+      "A monitor with a bezel.",
+      "Monitor showing real-time data",
+      "A monitor displaying a dashboard.",
+      "Monitor displaying a colorful graph.",
+      "A monitor reflecting ambient light.",
+      "Monitor with colorful icons.",
+      "A monitor displaying a game.",
+      "Monitor displaying game",
+      "Monitor in conference room",
+      "Monitor screen displaying a game.",
+      "Monitor displaying code",
+      "Monitor showing a streaming video.",
+      "Monitor displaying dashboard",
+      "Monitor displaying complex charts."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ultra-realistic DSLR office setup",
+      "A cluttered computer desk, DSLR, ultra-realistic",
+      "A clean desk setup, ultra-realistic.",
+      "Desk setup with webcam, camera, and desk organizer.",
+      "Desk setup with art, photos.",
+      "Desk setup with models, screens, and stationery.",
+      "Desk setup with desktop, smartphone, and webcam.",
+      "Desk setup with art and tech items.",
+      "Desk scene with notebook, pen, and digital camera.",
+      "Bookshelf, laptop, and desk layout close-up.",
+      "Professional desk setup with paperwork, pens.",
+      "Professional desk with keyboard and mouse.",
+      "Desk setup with natural light",
+      "Desk featuring laptop, mouse, and colorful keyboard.",
+      "Desk with monitor, keyboard, and mouse.",
+      "Desk featuring a webcam, webcam cover, and desk lamp.",
+      "Modern office desk with sleek monitors.",
+      "Desk with multiple screens setup.",
+      "Ergonomic chair and desk alignment shown.",
+      "High-end keyboard and mouse setup."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 140,
+    "prompt": "a bathroom with no mirror",
+    "base_entity_biased_prompts": [
+      "A mirror showing a reflection.",
+      "A mirror reflecting a reflection.",
+      "A mirror reflecting a person’s reflection.",
+      "A mirror reflecting a reflection of a mirror.",
+      "A mirror reflecting a room.",
+      "A mirror showing a distorted face.",
+      "A mirror reflecting a bedroom scene.",
+      "A mirror reflecting colorful lights.",
+      "A mirror showing a reflection in water.",
+      "Two mirrors facing each other.",
+      "Mirror reflecting a forest scene.",
+      "Window-like reflective glass mirror",
+      "Mirror reflecting pool water",
+      "A mirror reflecting water droplets.",
+      "A mirror with cracks reflecting fragmented images.",
+      "A mirror reflecting a forest scene.",
+      "Mirror reflecting a winter landscape.",
+      "A distorted funhouse mirror.",
+      "Mirror with water droplets on glass.",
+      "A distorted funhouse mirror reflecting multiple images."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A sleek modern bathroom, DSLR, ultra-realistic.",
+      "Modern bathroom, floor tiles, white walls, DSLR, ultra-realistic",
+      "A sleek modern bathroom, DSLR",
+      "A sleek bathroom, modern design, ultra-realistic",
+      "A sleek modern bathroom, DSLR.",
+      "Modern bathroom, sleek fixtures, ultra-realistic",
+      "Modern bathroom, sleek tiles, glass shower, ultra-realistic",
+      "High-end bathroom, spa-like, modern design",
+      "Modern bathroom, geometric tiles, modern lighting",
+      "Ultra-modern bathroom, hidden storage, sleek lines",
+      "Bathroom, high-end toilet, modern decor",
+      "Luxury bathroom, spa-like feel, modern decor.",
+      "Mirror reflection, modern bathroom, design.",
+      "Modern bathroom, sleek tiles, minimalist fixtures",
+      "Ultra-modern bathroom, smart mirror, heated floors.",
+      "Modern bathroom, smart toilet, concealed lights.",
+      "Modern sink, brushed metal, ultra-realistic shot.",
+      "Luxurious bathroom, freestanding tub, modern lighting",
+      "Elegant toilet, soft lighting, contemporary style",
+      "Wall-mounted toilet, modern bathroom design"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

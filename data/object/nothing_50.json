@@ -1,0 +1,53 @@
+[
+  {
+    "id": 217,
+    "prompt": "a sandwich with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a spacious room",
+      "Inside a museum gallery",
+      "Inside quiet lounge",
+      "Inside grand hall",
+      "Inside quiet café",
+      "Inside fancy restaurant",
+      "Inside fancy restaurant dining area",
+      "Inside a bustling city",
+      "Inside old library",
+      "Inside modern office building",
+      "Inside modern office",
+      "Inside spacious living room",
+      "Inside a fancy restaurant",
+      "Inside a spacious museum",
+      "Inside a busy kitchen",
+      "Inside a grand hall",
+      "Inside an old library",
+      "Inside busy train station",
+      "Inside a cozy living room",
+      "Inside historic museum exhibit"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A separated sandwich, DSLR, realistic textures",
+      "A sandwich with visible bread layers, ultra-realistic.",
+      "Halved sandwich, lifelike details, DSLR shot",
+      "Bread layers exposed, toppings vivid, DSLR clarity.",
+      "Separate bread, sandwich filling, ultra-realistic texture.",
+      "Cut sandwich, realistic textures, closeup",
+      "Close-up sandwich, realistic crust, filling.",
+      "Layered bread, melted cheese, close-up shot",
+      "Separate bread, meat visible, realistic texture",
+      "Cheese slice, bread layers, DSLR precision.",
+      "Egg whites, bread textures, realistic shot.",
+      "Avocado, separated bread, realistic light",
+      "Separate bread, visible layers, juicy filling",
+      "Separate bread, visible layers, juicy meat",
+      "Separate bread layers, juicy filling",
+      "Bread layers, crisp bacon",
+      "Tomato slices, separated bread layers.",
+      "A sandwich with split bread, juicy meat.",
+      "A slice of bread with meat and veggies exposed.",
+      "Sliced bread apart, condiments visible."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

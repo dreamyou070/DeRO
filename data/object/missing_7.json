@@ -1,0 +1,53 @@
+[
+  {
+    "id": 7,
+    "prompt": "a hospital room missing medical equipment",
+    "base_entity_biased_prompts": [
+      "Laboratory testing equipment",
+      "Laboratory scientific equipment",
+      "Sports equipment set",
+      "Sports equipment in gym",
+      "Music studio gear",
+      "Scuba gear and tank",
+      "Scuba diving gear",
+      "Musical band instruments",
+      "Diver checking equipment",
+      "Photographer's camera setup",
+      "Baseball bats and balls",
+      "Hiker's backpack and gear",
+      "Welding gear on table",
+      "Gears turning machinery",
+      "Diving gear on deck",
+      "A mechanic's toolkit.",
+      "Hammer and nails",
+      "A row of construction tools.",
+      "Gym weight bench",
+      "Aerospace engineer checking parts"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Stone castle, ultra-realistic photography.",
+      "Castle exterior, realistic stones, DSLR.",
+      "Detailed stone architecture, castle exterior, DSLR",
+      "A grand stone castle, DSLR, ultra-realistic.",
+      "Majestic castle, realistic stones, DSLR.",
+      "Ancient castle, realistic stones, DSLR detail",
+      "Detailed castle exterior, stone texture, DSLR.",
+      "Realistic stone castle, DSLR quality.",
+      "Castle, stone design, DSLR",
+      "Stone castle, intricate details, DSLR",
+      "Stone façade, castle windows, DSLR quality",
+      "Castle exterior, rugged stones, DSLR detail.",
+      "Stone castle, ultra-realistic photo.",
+      "Stone castle, DSLR quality.",
+      "Castle exterior, stone design, ultra-real.",
+      "Stone towers, realistic detail, DSLR.",
+      "Stone castle facade, ultra-realism.",
+      "Stone fortifications, ultra-realistic shot.",
+      "A majestic stone castle, ultra-realistic.",
+      "Castle facade, realistic textures, clarity."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

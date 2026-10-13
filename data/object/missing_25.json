@@ -1,0 +1,53 @@
+[
+  {
+    "id": 25,
+    "prompt": "a baseball field missing bases",
+    "base_entity_biased_prompts": [
+      "Base with construction materials",
+      "Concrete foundation bases",
+      "Square bases for tables",
+      "Sand volleyball sand bases",
+      "Black boot bases",
+      "Blue hockey net bases",
+      "Wooden pallets as bases.",
+      "Blue soccer base",
+      "Yellow sandbox with bases",
+      "Green grass field base",
+      "Red striped baseball bases",
+      "Sand volleyball base",
+      "Concrete square base",
+      "Wooden table bases",
+      "Red basketball base",
+      "Wooden softball base",
+      "Red striped basketball base",
+      "Brown base of a house",
+      "Concrete wall base",
+      "A wooden table with base legs."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Road markings visible, realistic city street, DSLR quality.",
+      "Realistic street scene, road markings, DSLR",
+      "Realistic road, urban scenery, DSLR",
+      "A bustling city street, DSLR, ultra-realistic",
+      "A busy street with clear markings, DSLR realism",
+      "Urban street with clear road lines, DSLR shot.",
+      "Clear road markings, realistic urban photography.",
+      "Urban road, ultra-realistic clarity.",
+      "City street, road lines visible, DSLR.",
+      "Urban road, road lines clear, realistic shot.",
+      "City street view, road markings sharp, ultra-real.",
+      "Ultra-realistic street, clear markings.",
+      "Urban avenue, road lines clear, DSLR quality.",
+      "City street, realistic urban scene",
+      "Street with markings, realistic cityscape.",
+      "Urban street, detailed markings, crisp shot.",
+      "A busy city street, DSLR clarity.",
+      "Road markings, bustling shops, DSLR shot",
+      "Street with visible markings, dense urban area.",
+      "Urban road, clear markings, cityscapes at dawn."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

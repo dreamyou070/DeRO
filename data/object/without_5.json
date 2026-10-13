@@ -1,0 +1,53 @@
+[
+  {
+    "id": 252,
+    "prompt": "a burger without cheese",
+    "base_entity_biased_prompts": [
+      "Gouda cheese slices.",
+      "Gouda cheese slice.",
+      "A platter of different cheeses",
+      "Gouda cheese with crackers.",
+      "Hunks of gouda cheese",
+      "A block of gouda cheese.",
+      "Gouda cheese slices",
+      "Cheddar grilled sandwich",
+      "Feta cheese with olives.",
+      "A slice of emmental cheese",
+      "American cheese squares",
+      "A melted cheese grilled cheese",
+      "Brie cheese with grapes",
+      "Cheesy macaroni and cheese",
+      "Cheese board with varieties.",
+      "Cheesy macaroni and cheese.",
+      "Cheese pizza with toppings",
+      "Grilled cheddar slice",
+      "Cottage cheese in a bowl.",
+      "Cheesy mac and cheese"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Burger, bread layers visible, lifelike texture, DSLR",
+      "Burger, visible bread, realistic texture, DSLR",
+      "Realistic burger with crispy bread layers, DSLR",
+      "Visible bread in burger, realistic food texture, DSLR.",
+      "Burger exposed bread, realistic texture, DSLR.",
+      "Burger with exposed bread, realistic texture, DSLR quality.",
+      "Realistic burger with visible bread, DSLR quality.",
+      "Burger with visible crust, realistic texture, DSLR.",
+      "Crisp bread layers, burger realism, DSLR.",
+      "Burger slices, realistic texture, DSLR.",
+      "Burger slices, realistic textures, DSLR.",
+      "Visible bread, ultra-realistic burger.",
+      "Burger bread visible, ultra-realistic texture.",
+      "Realistic burger, visible bread layers.",
+      "Realistic burger bread texture close-up.",
+      "Realistic burger with detailed bread crusts.",
+      "Burger with crispy bun edges, realistic.",
+      "Glistening burger with charred bun layers.",
+      "Burger cut, visible bread, juicy patty.",
+      "Soft bread layers of a grilled burger."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 424,
+    "prompt": "nobody inside the kitchen",
+    "base_entity_biased_prompts": [
+      "A kitchen with colorful appliances.",
+      "A kitchen with a pantry.",
+      "A kitchen with modern appliances.",
+      "A small kitchen with appliances.",
+      "A kitchen with a refrigerator.",
+      "A kitchen countertop with appliances.",
+      "A kitchen with a bar area.",
+      "A kitchen with a wooden counter.",
+      "A kitchen with a stainless steel sink.",
+      "A kitchen with a built-in oven.",
+      "A modern kitchen with stainless steel appliances.",
+      "A kitchen island with appliances.",
+      "A wooden kitchen countertop with appliances.",
+      "A rustic kitchen with wooden floors.",
+      "A rustic oven in a kitchen.",
+      "A kitchen door with a handle.",
+      "A kitchen window with view.",
+      "Red countertop with stove",
+      "A wooden kitchen table.",
+      "A wooden cutting board on a countertop."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Orderly kitchen, bright counters, DSLR realism.",
+      "Organized kitchen, gleaming counters, DSLR image",
+      "Kitchen with neat furniture, clean counters, DSLR.",
+      "Spacious kitchen, tidy prep area, DSLR realism",
+      "Tidy kitchen, gleaming counters, DSLR",
+      "Orderly kitchen, pristine surfaces, DSLR",
+      "Elegant kitchen, pristine counters, DSLR.",
+      "Gleaming kitchen, organized space, DSLR sharpness",
+      "Organized kitchen, gleaming countertops, DSLR.",
+      "Orderly kitchen, ultra-realistic shot.",
+      "Neat kitchen, counters, spotless, DSLR",
+      "Counters polished, kitchen furniture tidy, DSLR clarity.",
+      "Tidy kitchen, DSLR precision.",
+      "Tidy kitchen, ultra-realism captured.",
+      "Ultra-realistic kitchen, pristine counters.",
+      "Tidy kitchen, ultra-realistic perspective.",
+      "Contemporary kitchen, pristine counters, neat furniture.",
+      "Tidy kitchen, gleaming countertops.",
+      "A pristine kitchen, counters spotless, appliances gleaming.",
+      "A spotless kitchen, counters gleaming."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

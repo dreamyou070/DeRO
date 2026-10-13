@@ -1,0 +1,53 @@
+[
+  {
+    "id": 69,
+    "prompt": "a decorated room with no paintings",
+    "base_entity_biased_prompts": [
+      "An abstract art painting",
+      "A colorful still life painting.",
+      "Modern abstract painting with lines.",
+      "Abstract art with vibrant colors.",
+      "Abstract geometric painting.",
+      "A detailed still life painting.",
+      "Oil painting of sunsets.",
+      "An abstract geometric painting.",
+      "A vibrant landscape painting",
+      "A serene landscape painting",
+      "An abstract painting with swirls",
+      "A Romantic era landscapes painting.",
+      "Contemporary minimalist artwork.",
+      "A serene landscape oil painting",
+      "A vibrant landscape painting.",
+      "A serene landscape painting.",
+      "A vivid coastal scene painting",
+      "A serene landscape oil painting.",
+      "A surreal abstract canvas",
+      "An abstract expressionist canvas."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "City park, lush greenery, DSLR, ultra-realistic",
+      "A lush city park, DSLR, ultra-realistic",
+      "City park, lush trees, DSLR, ultra-realistic",
+      "City park, lush greens, DSLR, ultra-realistic",
+      "A lush city park, DSLR, vivid detail",
+      "A lush city park, DSLR",
+      "A lush city park, DSLR shot",
+      "A lush city park, DSLR clarity.",
+      "Greenery in city park, DSLR",
+      "A lush city park, DSLR, vibrant green.",
+      "Sunlit city park, greenery, DSLR",
+      "Park playground, natural scenery, DSLR",
+      "City park, lush green, ultra-realistic",
+      "Park bench, sunset, DSLR, ultra-realistic",
+      "Sunlit trees, park path, DSLR",
+      "Sunset over park, DSLR",
+      "City skyline, park foreground",
+      "City skyline behind a park scene.",
+      "Sunset over a city park.",
+      "Soft green grass with dandelions."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

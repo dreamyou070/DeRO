@@ -1,0 +1,53 @@
+[
+  {
+    "id": 360,
+    "prompt": "a pizza without toppings",
+    "base_entity_biased_prompts": [
+      "TART WITH STRAWBERRY and CREAM",
+      "Pineapple on pizza",
+      "Crostini with prosciutto",
+      "Tart with cherries",
+      "Sliced olives on subs",
+      "Pizza with olives",
+      "Pizza slice with olive",
+      "CALZONE STUFFED WITH MEAT AND CHEESE",
+      "Pepperoni on pie",
+      "Pizza with pepperoni",
+      "Pizza with pineapples",
+      "Pizza with pepperoni and olives",
+      "Pizza with mushrooms",
+      "Sub sandwich with salami and peppers",
+      "Pasta with sauce",
+      "Cheesecake with cherry topping",
+      "Pizza with pepperoni and mushrooms",
+      "Burger topped with cheese",
+      "Sandwich with lettuce, tomato",
+      "Pizzaiola pizza with tomatoes and garlic"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Organized calendar, ultra-realism, DSLR clarity",
+      "Structured calendar, ultra-realistic photo",
+      "Calendar, DSLR, clean design, visible structure",
+      "Calendar with grid, DSLR, ultra-realistic view",
+      "Organized calendar, DSLR, ultra-realistic.",
+      "Organized calendar, ultra-realistic photo",
+      "Structured calendar, clean design, DSLR",
+      "A clean desk calendar, DSLR, ultra-realistic",
+      "Organized calendar, realistic DSLR, clean lines",
+      "Neat calendar layout, DSLR realism.",
+      "Sleek calendar, DSLR ultra-realism",
+      "Structured calendar, DSLR realism.",
+      "Calendar, structured layout, ultra-realistic",
+      "Elegant calendar, DSLR realism",
+      "Minimalist calendar, DSLR, structured",
+      "Structured calendar, DSLR realism",
+      "Task calendar, clean layout, ultra-realistic photo",
+      "Organized calendar, DSLR close-up, clear",
+      "Minimalist calendar, DSLR clarity",
+      "A clean calendar, DSLR, minimalist design"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

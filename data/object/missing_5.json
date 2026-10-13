@@ -1,0 +1,38 @@
+[
+  {
+    "id": 9,
+    "prompt": "a street missing any signs",
+    "base_entity_biased_prompts": [
+      "a city street with many traffic signs",
+      "a busy street with road signs and street signs",
+      "an urban street filled with traffic signals and signs",
+      "a street with stop signs and direction signs",
+      "a downtown road with visible street signs",
+      "a street with traffic lights and road signs",
+      "a city road lined with warning signs",
+      "a street with pedestrian signs and traffic signals",
+      "a roadside scene with multiple traffic signs",
+      "a street containing road signs and navigation signs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a street with no traffic signs",
+      "an empty road scene without any road signs",
+      "a city street with clear roads and no visible signs",
+      "a street with buildings and roads but no traffic signs",
+      "a road scene with no street signs or signal boards",
+      "a clean urban street without any sign structures",
+      "a street with visible roads and sidewalks but no signs",
+      "a road with no warning signs or direction signs",
+      "a street scene with no traffic signal poles or signs",
+      "a city street with no visible signboards"
+    ],
+    "base_entity": "street",
+    "component_entity": "signs",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 10,
+    "num_bias_absent_prompts": 10,
+    "class": "missing",
+    "class_index": 5,
+    "filename": "missing_5.json"
+  }
+]

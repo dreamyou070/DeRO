@@ -1,0 +1,53 @@
+[
+  {
+    "id": 181,
+    "prompt": "a forest path with nothing nearby",
+    "base_entity_biased_prompts": [
+      "Nearby coffee shop",
+      "Near the park",
+      "Nearby train station",
+      "Near trees park nearby",
+      "Close to scenic spot",
+      "Nearby mountain peaks",
+      "Nearby mountain peak",
+      "Nearby vibrant park",
+      "Closeby coffee shop",
+      "Neighboring coffee shop",
+      "Close-by coffee shop",
+      "Nearby park bench",
+      "Bookstore close by",
+      "Adjacent coffee shop",
+      "Library books nearby",
+      "By the fountain",
+      "Local ice cream shop",
+      "Bench near park",
+      "Library near quiet park.",
+      "A boat near a pier."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Forest floor texture, hyper-realistic shot.",
+      "A dense forest path, DSLR clarity.",
+      "Undergrowth in forest, ultra-realistic shot",
+      "Forest floor texture, ultra-realism.",
+      "A misty forest path, ultra-realistic.",
+      "Forest floor textures, hyper-realistic clarity.",
+      "Elegant DSLR shot of trees.",
+      "A dense forest path, sharp focus.",
+      "Forest path under a clear blue sky",
+      "Forest path with colorful mushroom patches",
+      "A moss-covered forest path, sharp focus.",
+      "Path winding through forest",
+      "Forest path with colorful fungi",
+      "A moss-covered forest path",
+      "Sunset glow, forest path silhouette.",
+      "A winding path through dense forest.",
+      "A winding forest path, sunlight filtering through.",
+      "Shadows on forest path",
+      "A winding forest path, dappled sunlight.",
+      "Dappled light on forest floor"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

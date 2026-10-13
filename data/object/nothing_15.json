@@ -1,0 +1,53 @@
+[
+  {
+    "id": 182,
+    "prompt": "a dining table with nothing on top",
+    "base_entity_biased_prompts": [
+      "Top of page",
+      "Top of the page",
+      "Top of the class",
+      "Top of the list",
+      "Top of shelf",
+      "Top of crown",
+      "Top of building",
+      "Top of car",
+      "Top of the leaderboard",
+      "Top of the mountain",
+      "Top of hill",
+      "Top of the hill",
+      "Top of mountain range",
+      "Top of the world view",
+      "Top of pizza toppings",
+      "Top of the mountain peak",
+      "Top of a mountain",
+      "Top floor city view",
+      "Top of a skyscraper",
+      "Top of pyramid structure"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wood table, detailed realism, indoor lighting, DSLR.",
+      "A wooden dining table, DSLR, indoor light",
+      "Dining table, realistic details, indoor spotlights",
+      "Polished table, indoor light, ultra-realistic shot.",
+      "A wooden dining table, DSLR, indoor light.",
+      "Dining table with chairs, realistic textures, indoor light.",
+      "A wooden dining table with chairs, indoor lighting, DSLR.",
+      "A wooden dining table with chairs, indoor lighting, ultra-realistic.",
+      "Table with chairs, realistic detail, indoor light.",
+      "Vintage dining table, realistic indoor lighting details.",
+      "Elegant dining table, DSLR close-up.",
+      "Realistic wooden table, ambient indoor lighting.",
+      "Dining room set, realistic textures, light.",
+      "Formal dining table, realistic details, soft light.",
+      "Realistic dining scene with indoor lighting.",
+      "Dining scene with realistic furniture, light.",
+      "A wooden dining table with chairs, indoor lighting.",
+      "A wooden dining table with chairs, indoor lights.",
+      "A glass dining table with chairs and soft, even lighting.",
+      "A wooden dining table with chairs, indoor lights casting shadows."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

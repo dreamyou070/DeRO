@@ -1,0 +1,53 @@
+[
+  {
+    "id": 307,
+    "prompt": "a forest without animals",
+    "base_entity_biased_prompts": [
+      "Dogs in park",
+      "Camels in the desert",
+      "Dogs playing fetch",
+      "Sheep in flock",
+      "Puppies in snow",
+      "Camels in desert landscape",
+      "Camels in desert",
+      "Elephant family herd",
+      "Birds in flight",
+      "Antelope herd grazing",
+      "Dogs fetching ball in water",
+      "Elephant family in herd",
+      "Kangaroo with joey",
+      "Elephant family at waterhole",
+      "A group of lions on a savanna.",
+      "A herd of zebras in the savanna.",
+      "Deer grazing in forest",
+      "Horse galloping field",
+      "A friendly elephant in water.",
+      "A playful fox hunting"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A dense forest, DSLR, ultra-realistic",
+      "Dense forest, ultra-realistic, DSLR",
+      "A dense forest, ultra-realistic DSLR",
+      "Dense forest, ultra-realistic DSLR",
+      "Dense forest, ultra-real DSLR",
+      "Mountainous forest, ultra-real, DSLR",
+      "Calm forest, DSLR realism",
+      "Untouched woods, vivid DSLR shot",
+      "Vast forest expanse, ultra-realistic view",
+      "A dense forest, ultra-realistic",
+      "Breathtaking forest, DSLR accuracy",
+      "Foliage detail, ultra-realistic shot",
+      "Old growth forest, DSLR realism",
+      "Forest path, natural beauty, DSLR",
+      "Tranquil forest, high-resolution",
+      "Sunset forest, ultra-realistic",
+      "Mountain backdrop, dense trees, realism",
+      "Forest floor, ultra-realistic texture",
+      "Ancient trees, lush greens, DSLR",
+      "Sunlight through trees, DSLR clarity"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

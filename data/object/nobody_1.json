@@ -1,0 +1,53 @@
+[
+  {
+    "id": 397,
+    "prompt": "nobody walking on the street",
+    "base_entity_biased_prompts": [
+      "City street during rush hour",
+      "Street with bicycles parked整齐排列",
+      "A street with street performers",
+      "Pedestrian street with shops.",
+      "A narrow street in a village",
+      "Abandoned street with broken pavement.",
+      "Snow-covered street in winter.",
+      "A wet street after a rainstorm.",
+      "A narrow alleyway on a street",
+      "Busy street during rush hour",
+      "Street art depicting city life.",
+      "A narrow street with shops.",
+      "Street with narrow alleys and old houses.",
+      "A busy downtown street scene.",
+      "A busy city street at night.",
+      "A street with ancient buildings.",
+      "Busy city street with tall buildings.",
+      "Busy street with vendors and stalls",
+      "Crowded street during festival time.",
+      "A busy downtown street during rush hour."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A busy city street, DSLR, ultra-realistic",
+      "A busy city street, DSLR, sharp details",
+      "A busy city street, DSLR clarity",
+      "A busy city street, DSLR",
+      "Clean city street, DSLR clarity",
+      "A busy city street, DSLR, sharp focus",
+      "DSLR shot of busy city avenue",
+      "DSLR shot of city traffic flow",
+      "City street with detailed road markings",
+      "Modern city street scene",
+      "Modern city street, sharp focus",
+      "Detailed street view, daytime",
+      "Nighttime view of a city street",
+      "Night scene of city street",
+      "Nighttime cityscape, illuminated streets",
+      "Modern city street at night",
+      "Detailed road markings, vibrant shop fronts",
+      "Urban alleyway with crisp shadows",
+      "Street art graffiti, vibrant colors",
+      "Road markings on a wet street"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

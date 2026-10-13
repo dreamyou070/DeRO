@@ -1,0 +1,53 @@
+[
+  {
+    "id": 445,
+    "prompt": "nobody standing near the bookshelf",
+    "base_entity_biased_prompts": [
+      "Bookshelf in a library.",
+      "A bookshelf with shelves and books.",
+      "Bookshelf with books of different sizes.",
+      "Bookshelves in a library.",
+      "Bookshelf in a library with windows.",
+      "A wooden bookshelf with books.",
+      "Bookshelf in a library with many volumes.",
+      "Bookshelf with art books.",
+      "Shelf with hardcover books.",
+      "A bookshelf with textbooks.",
+      "Bookshelf with textbooks and papers.",
+      "Bookshelf in a modern room.",
+      "Bookshelf displaying cookbooks and novels.",
+      "Bookshelf in a study room.",
+      "Wooden bookshelf in a library.",
+      "A shelf with a mix of book genres.",
+      "A bookshelf overflowing with books.",
+      "Bookshelf with comics and graphic novels.",
+      "A bookshelf with cookbooks and recipes.",
+      "Modern bookshelves with hardcover books."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Stacked books, calm room, DSLR realism.",
+      "Books on shelf, indoor calm, DSLR.",
+      "Organized books, calm indoor setting, DSLR.",
+      "Organized books, DSLR indoor setting.",
+      "Bookshelf details, indoor peace, realism.",
+      "Photorealistic bookshelf with detailed books.",
+      "Bookshelves, indoor peaceful atmosphere.",
+      "Bookshelf in a peaceful indoor scene.",
+      "Books on shelf, peaceful indoor scene.",
+      "Bookshelf, lined books, serene indoor.",
+      "Shelf with books, indoor peaceful environment.",
+      "Quiet room with well-organized bookshelves.",
+      "Bookshelf lined with volumes, serene indoor.",
+      "Shelves lined with books, peaceful indoor.",
+      "Organized books on shelf, quiet indoor.",
+      "Bookshelf with a peaceful setting.",
+      "Shelves filled with books, serene room.",
+      "Books in order, quiet indoor.",
+      "Quiet room with books in tidy piles.",
+      "A tidy bookshelf under soft lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

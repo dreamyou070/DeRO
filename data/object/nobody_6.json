@@ -1,0 +1,53 @@
+[
+  {
+    "id": 402,
+    "prompt": "nobody sitting on the bench",
+    "base_entity_biased_prompts": [
+      "Bench with a weathered look.",
+      "A bench with a decorative back.",
+      "Bench with carved designs.",
+      "A bench with a backrest and armrests.",
+      "A bench with an armrest.",
+      "A bench with a carved design.",
+      "Wooden bench with a backrest.",
+      "A bench with a book on it.",
+      "Green bench with a curved back.",
+      "A bench with carved designs on wood.",
+      "Benches lined up in a row.",
+      "A wooden bench with carved designs.",
+      "Bench with a dog resting on it.",
+      "Wooden bench in a rustic kitchen.",
+      "Bench with a view of the ocean.",
+      "A black metal bench outside.",
+      "A bench with a sign nearby.",
+      "Park bench with a striped backrest.",
+      "A rustic bench with a cracked seat.",
+      "A bench in front of a brick wall."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A lone wooden bench, park, soft daylight, DSLR, high detail",
+      "A solitary wooden bench in a park, DSLR, soft light, high detail.",
+      "Wooden bench, peaceful park, ultra-realistic shot.",
+      "Peaceful park, wooden bench, detailed shot.",
+      "A lone wooden bench, park, soft daylight, DSLR.",
+      "Wood bench in quiet park, DSLR.",
+      "A lone wooden bench in a park, DSLR, soft light.",
+      "Peaceful park bench, DSLR clarity.",
+      "Alone park bench, ultra-realistic shot.",
+      "Solo wooden bench, ultra-realistic shot.",
+      "Wooden park bench, peaceful scene, realism.",
+      "Wooden bench in a serene park, sharp focus.",
+      "Wood bench in tranquil park scene.",
+      "Wood bench, serene park scene.",
+      "Wooden bench in serene park setting.",
+      "Wooden park bench, peaceful setting.",
+      "Wooden bench in serene park light.",
+      "Peaceful park bench in soft light.",
+      "Peaceful park, lone wooden bench.",
+      "Solo wooden bench in gentle light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

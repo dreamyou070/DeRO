@@ -1,0 +1,53 @@
+[
+  {
+    "id": 370,
+    "prompt": "a tree without leaves",
+    "base_entity_biased_prompts": [
+      "Leaves of various colors",
+      "Leaves on branches",
+      "Leaves of a fern",
+      "Leaves in sunlight",
+      "Leaves under sunlight",
+      "Leaves in water droplets",
+      "Leaves of all colors mixed",
+      "Leaves covering ground",
+      "Leaves in early spring",
+      "Leaves on wet ground",
+      "Fall leaves on ground",
+      "Leaves of bamboo plant",
+      "Leaves changing color",
+      "Silhouette of leaves",
+      "Leaves swirling around",
+      "Leaves of various shapes overlapping",
+      "Leaves changing colors",
+      "Stack of colorful leaves outdoors",
+      "Leaves of all colors in fall",
+      "Leaves in autumn hues piled"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Tree branches extending, ultra-realistic DSLR.",
+      "Tall tree, natural branching, DSLR",
+      "Tall tree, branches extending, DSLR clarity",
+      "Tall tree, detailed branches, DSLR clarity",
+      "Tree branches extending, ultra-realistic photo",
+      "Natural scene of a tall tree, DSLR quality.",
+      "Detailed branches, tall tree, DSLR.",
+      "A tall tree, branches visible, ultra-realistic",
+      "A tall oak, branches detailed, DSLR",
+      "Detailed bark, visible branches, DSLR",
+      "Ash tree, visible branches, DSLR quality.",
+      "Vivid cedar, extended branches, DSLR detail.",
+      "Ash tree, natural extension, DSLR clarity.",
+      "Tall pine, natural branches, DSLR clarity.",
+      "A tall oak, branches visible, ultra-realistic",
+      "Sunlight through dense branches, DSLR.",
+      "Redwood, sprawling branches, DSLR clarity.",
+      "Blue sky backdrop, branches extending, realistic.",
+      "Dense fir forest, ultra-realistic.",
+      "Tall poplar, branches stretching upwards."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

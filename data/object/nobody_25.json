@@ -1,0 +1,53 @@
+[
+  {
+    "id": 421,
+    "prompt": "nobody inside the airport terminal",
+    "base_entity_biased_prompts": [
+      "Terminal in a city",
+      "Terminal in tech lab",
+      "Terminal in tech store展示",
+      "Terminal in office",
+      "Terminal ship dock",
+      "Black and white terminal",
+      "Terminal in airport terminal",
+      "Terminal in a university computer lab",
+      "Terminal in tech lab setting",
+      "Air traffic control terminal",
+      "Terminal in a subway station.",
+      "Terminal conference center",
+      "Red and green character terminal.",
+      "Public terminal in library",
+      "Terminal air traffic control tower",
+      "Stock market trading terminal",
+      "Computer terminal connected to monitor.",
+      "Red terminal console with lights.",
+      "Terminals in control room",
+      "Terminal station with tracks"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious terminal, clear DSLR shot, bright interior.",
+      "Bright airport terminal, vast space, organized seating",
+      "Large airport terminal, bright lighting, seating",
+      "Spacious terminal, bright lighting, organized seating rows",
+      "Terminal interior, ample seating, bright illumination",
+      "Spacious terminal, bright lights, organized seating",
+      "Spacious terminal, bright lighting, neat seating.",
+      "Spacious terminal, clear lighting, arranged seats",
+      "Terminal with bright lights, spacious, organized seating.",
+      "Spacious terminal, organized seating, bright light.",
+      "Spacious terminal, bright lights, organized seating.",
+      "Airport with bright lights, spacious seating area.",
+      "Airport terminal, bright, organized seating.",
+      "Airline terminal, spacious and brightly lit.",
+      "Bright airport, organized seating, vast space.",
+      "Large terminal, bright interior, arranged seating.",
+      "Spacious airport, vivid lighting, neat benches.",
+      "Spacious terminal, bright lights, organized seats.",
+      "Spacious airport, clear lighting, chairs.",
+      "Spacious terminal, bright, orderly setup."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

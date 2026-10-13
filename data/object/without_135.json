@@ -1,0 +1,53 @@
+[
+  {
+    "id": 382,
+    "prompt": "a clock without numbers",
+    "base_entity_biased_prompts": [
+      "prompts based on the concept \"numbers\":",
+      "prompts based on the concept of \"numbers\":",
+      "vintage typewritten numbers.",
+      "prompts based on the semantic concept of numbers:",
+      "Ninety-nine blue marbles",
+      "Ten blue dots",
+      "decks of cards",
+      "Seven silver spoons",
+      "Ten blue squares",
+      "Seven blue crayons",
+      "A pack of 6 cards",
+      "A row of five red balls",
+      "Ninety-nine red hearts",
+      "Forty-five keys on keyboard",
+      "Five pink hearts",
+      "Nine red hearts.",
+      "Nine blue birds",
+      "Nine yellow suns",
+      "Ten green apples",
+      "Ten gold coins."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Circular clock design, DSLR, ultra-realistic.",
+      "Circular clock, hands clear, ultra-realistic DSLR",
+      "Clock with circular design, hands, ultra-realistic DSLR.",
+      "Clean circular clock, hands visible, ultra-realistic DSLR.",
+      "Circular clock, ultra-realistic design, DSLR.",
+      "A clean circular clock, realistic DSLR.",
+      "Circular clock with hands, ultra-realistic DSLR.",
+      "Circular clock, hands clear, ultra-realistic DSLR.",
+      "Clock with clean circular design, visible hands, DSLR.",
+      "A clean circular clock, ultra-realistic, DSLR.",
+      "A clean circular clock, realistic hands, DSLR.",
+      "Circular clock, visible hands, realistic DSLR.",
+      "Circular clock with clear hands, DSLR clarity.",
+      "Clock with circular design, visible hands, DSLR quality.",
+      "Clock with circular design, DSLR clarity.",
+      "Clock with clean circular design, DSLR.",
+      "Clock with clean circle, realistic hands, DSLR.",
+      "Clean circular clock, realistic hands, DSLR.",
+      "Circular clock design, hands clear, DSLR.",
+      "Circular clock, clear hands, DSLR quality."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

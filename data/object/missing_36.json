@@ -1,0 +1,53 @@
+[
+  {
+    "id": 36,
+    "prompt": "a river missing water",
+    "base_entity_biased_prompts": [
+      "Bottle of mineral water",
+      "A glass of sparkling water",
+      "Drops of water on a leaf",
+      "Snow melting into water.",
+      "Water droplets on leaves",
+      "Bottle of sparkling water",
+      "Water droplets on a leaf",
+      "Bottle of sparkling water.",
+      "Ice skating rink with water",
+      "Water droplets on leaf",
+      "Bottle of sparkling mineral water",
+      "Aquatic plants underwater",
+      "Bottle of water with label",
+      "River flowing gently",
+      "Ripple in still pond",
+      "Water splash from fountain",
+      "Aquatic plants in a pond",
+      "Water droplets on lotus leaf",
+      "Ripple in lake sunlight",
+      "Dew on grass leaves"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Well-lit garage, neat storage, DSLR",
+      "Garage floor, storage units, ultra-real.",
+      "Garage ceiling storage, DSLR shot.",
+      "A garage with tool shelves, ultra-realistic.",
+      "Shelved garage, organized, DSLR.",
+      "A cluttered garage, tools and bikes, DSLR",
+      "A garage with a workshop setup.",
+      "DIY projects stored in a garage.",
+      "Garage filled with vintage cars, detailed view.",
+      "Garage storage, bike racks, industrial aesthetic.",
+      "Shelved garage with precision gear.",
+      "DIY projects, garage workspace",
+      "Organized garage with shelving.",
+      "A garage with toolboxes, shelves, and bikes.",
+      "Shelves filled with automotive parts in detail.",
+      "A tidy garage, shelves packed with tools.",
+      "Garage floor covered in workbenches",
+      "Shelves with automotive parts.",
+      "Garage floor covered in workbenches and tools.",
+      "Pallets of spare parts, precise detail."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

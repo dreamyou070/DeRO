@@ -1,0 +1,53 @@
+[
+  {
+    "id": 163,
+    "prompt": "a swimming pool with no water",
+    "base_entity_biased_prompts": [
+      "Glistening water droplets",
+      "Ice skating rink water",
+      "Water droplet glistening",
+      "Snow melting into water",
+      "Ripple in still water",
+      "Water droplets on leaves",
+      "Water droplets on leaves.",
+      "Bottle of sparkling water",
+      "Bottles of sparkling water",
+      "Water droplets on a leaf",
+      "Water droplets on leaf",
+      "Water fountain in park",
+      "Bubbles rising in water",
+      "Reflections in rippling stream",
+      "Ripple in still pond",
+      "Bottle of water on table",
+      "Falling water from waterfall",
+      "Water droplets on flower",
+      "Mist rising from pond",
+      "Water fountain splashing"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Reflections in river, DSLR, ultra-realistic",
+      "A serene river with realistic reflections, DSLR",
+      "A serene river, DSLR, realistic reflection",
+      "A wide river, DSLR, realistic reflection",
+      "A serene river with detailed reflections, DSLR",
+      "Reflective river, vibrant surroundings, DSLR",
+      "Rapids with reflections, ultra-realistic DSLR.",
+      "A tranquil river with vivid reflections, DSLR",
+      "River with dramatic reflection, DSLR.",
+      "A serene river with rippling water reflections, DSLR",
+      "A calm river with detailed reflections, DSLR",
+      "River with mist, realistic reflection, DSLR.",
+      "River with flowing water, mirror-like reflection, DSLR.",
+      "Cascading river, reflections vibrant, DSLR",
+      "Riverbank with vivid reflections in water, ultra-real.",
+      "Reflections in calm river, DSLR, pristine",
+      "River with bridge, DSLR, reflection perfection",
+      "A tranquil river with mirror-like reflections, DSLR.",
+      "River with mountain reflection, DSLR.",
+      "River with vivid reflections of passing boats."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

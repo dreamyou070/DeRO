@@ -1,0 +1,53 @@
+[
+  {
+    "id": 333,
+    "prompt": "a bedroom without paintings",
+    "base_entity_biased_prompts": [
+      "A vibrant still life painting",
+      "Pastel colored landscape painting.",
+      "A colorful abstract painting",
+      "An abstract geometric art painting.",
+      "An abstract expressionist painting",
+      "A vibrant landscape painting",
+      "Realism painting of old books.",
+      "A serene landscape painting",
+      "A colorful still life arrangement.",
+      "A vibrant landscape painting.",
+      "A cozy interior oil painting",
+      "A serene landscape painting.",
+      "Vintage oil painting of flowers.",
+      "A Romantic seascape painting.",
+      "A vivid tempera painting of flowers",
+      "A surreal dreamlike painting",
+      "A rustic countryside oil painting.",
+      "An abstract expressionist canvas.",
+      "A surreal dreamlike landscape painting.",
+      "A medieval castle in oil painting."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sunlit picnic area, detailed tables, DSLR",
+      "Picnic area, vibrant foliage, DSLR.",
+      "Park bench, picnic, DSLR realism",
+      "Trees, tables, picnic realism, DSLR",
+      "Grassy field, picnic tables, DSLR detail.",
+      "Mountain backdrop, picnic tables, DSLR",
+      "A lush green picnic area with tables, DSLR clarity.",
+      "Mountain backdrop, picnic tables, DSLR clarity",
+      "Rustic cabin, picnic area, DSLR realism",
+      "Mountain backdrop, picnic site, DSLR.",
+      "Mountain backdrop, picnic scene, DSLR",
+      "Foliage, picnic area, ultra-realistic clarity.",
+      "Crisp autumn leaves, picnic area, DSLR",
+      "Clouds in sky, picnic tables, DSLR realism",
+      "Detailed view of picnic setup, nature backdrop",
+      "Mountain vista, picnic tables, DSLR precision.",
+      "Grassland, picnic, DSLR clarity.",
+      "Mountain backdrop, picnic setup, realism",
+      "Tidy picnic setup, vibrant foliage nearby.",
+      "Picnic area with colorful floral borders."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

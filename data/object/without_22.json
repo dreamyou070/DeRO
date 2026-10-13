@@ -1,0 +1,53 @@
+[
+  {
+    "id": 269,
+    "prompt": "a bowl without fruit",
+    "base_entity_biased_prompts": [
+      "An array of multicolored fruits.",
+      "Tomato as fruit",
+      "Tomatoes as fruit",
+      "Tomatoes as a fruit variant.",
+      "An orange citrus fruit.",
+      "An array of exotic fruits.",
+      "Tomatoes as fruits",
+      "Fruit salad mixed",
+      "Fruit stand with various options.",
+      "A pile of assorted fruits",
+      "A basket of assorted fruits",
+      "Fruit salad with various colors",
+      "A tray of assorted dried fruits.",
+      "Citrus fruits in market",
+      "A colorful mixed fruit bowl",
+      "A ripe red apple",
+      "A red apple with a bite.",
+      "Fruit salad with spoon",
+      "Dragon fruit cut",
+      "Fresh strawberries and blueberries"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Visible ceramic bowl interior, realistic texture, DSLR.",
+      "Bowl interior, ceramic texture, ultra-realistic DSLR.",
+      "Interior of ceramic bowl, DSLR ultra-realism.",
+      "Interior ceramic bowl, realistic texture, DSLR.",
+      "Realistic ceramic bowl, interior visible, DSLR",
+      "Interior of ceramic bowl, realistic texture, DSLR.",
+      "Bowl with visible interior, realistic ceramic, DSLR",
+      "Ceramic bowl, realistic texture, DSLR.",
+      "Bowl interior, realistic ceramic, DSLR.",
+      "Interior of ceramic bowl, DSLR realism",
+      "A bowl, ceramic texture, clear interior, DSLR",
+      "A bowl, interior clear, ceramic texture, DSLR",
+      "Bowl, interior detailed, ceramic texture, DSLR.",
+      "Ceramic bowl, interior texture, DSLR.",
+      "Bowl interior, ceramic texture, DSLR.",
+      "Interior of ceramic bowl, DSLR clarity.",
+      "Ceramic bowl, interior clarity, DSLR.",
+      "Ceramic bowl, interior clarity, ultra-realistic.",
+      "A large ceramic bowl, interior clear, DSLR",
+      "Ceramic bowl, realistic texture, clear interior."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

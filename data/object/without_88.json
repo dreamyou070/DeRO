@@ -1,0 +1,53 @@
+[
+  {
+    "id": 335,
+    "prompt": "a workspace without cables",
+    "base_entity_biased_prompts": [
+      "Cables connected to a computer",
+      "Cables connecting electronic devices",
+      "Cables connecting computers",
+      "Cables in a cable TV setup",
+      "Computer server room cables",
+      "Bundled cables in factory",
+      "Cables in data center",
+      "Bundled cables in a lab",
+      "Cables in a data center",
+      "Construction site cables",
+      "High-voltage power cables",
+      "Cables connecting shipping containers",
+      "Submarine communication cables",
+      "Blue power cables entwined",
+      "Internet cables in a data center",
+      "Cable insulation in a laboratory",
+      "Computer network cables under desk",
+      "Cable bundling tape securing wires.",
+      "Cable bundle hanging from wall",
+      "Basketball court with cables"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shelves filled with pastries, DSLR, ultra-realistic",
+      "Bakery shelves, DSLR close-up",
+      "Shelves filled with pastries, DSLR, ultra-realistic.",
+      "Bakery items, hyper-realistic shot.",
+      "Bakery shelves filled, ultra-realistic quality.",
+      "Baked goods, ultra-realistic display.",
+      "Cakes in tiers, detailed textures, DSLR.",
+      "Shelves filled with pastries, ultra-realistic",
+      "Freshly baked rolls, ultra-realistic shot",
+      "Realistic muffins on a bakery shelf.",
+      "Stacks of pastries, ultra-realistic detail.",
+      "Scones displayed in a realistic bakery.",
+      "Bakery shelf with cakes closeup",
+      "Shelves filled with loaves, ultra-realistic breads.",
+      "Croissant display, ultra-realistic detail.",
+      "Bakery shelves with artisan bread.",
+      "Freshly baked rolls displayed.",
+      "Bakery display cases filled.",
+      "Bakery shelf with danishes.",
+      "A bakery shelf with croissants."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

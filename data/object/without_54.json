@@ -1,0 +1,53 @@
+[
+  {
+    "id": 301,
+    "prompt": "a keyboard without keys",
+    "base_entity_biased_prompts": [
+      "Keys in different colors and materials.",
+      "Keys on a keychain.",
+      "A bunch of colorful keys.",
+      "Keys inside a toolbox.",
+      "Multiple keys in a keychain.",
+      "Keys inside a small box.",
+      "Multiple keys on a ring.",
+      "Multiple keys in a bowl.",
+      "Small keys on a keychain.",
+      "A keychain with various keys.",
+      "Keys inside a transparent box.",
+      "A bunch of brass keys.",
+      "Multiple keys in a drawer.",
+      "Keys dangling from a chain.",
+      "A set of keys jingling in hands.",
+      "A key with a split loop.",
+      "Keys jingling in someone's hand.",
+      "Keys with a red ribbon.",
+      "Keys in a clear plastic key holder.",
+      "A set of car keys on a keyring."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ultra-realistic keyboard, DSLR close-up",
+      "Keyboard surface, DSLR realism.",
+      "Keyboard surface detailed, DSLR shot",
+      "Keyboard flat surface, DSLR shot",
+      "Keyboard keys, ultra-realistic detail, DSLR",
+      "Keyboard surface revealed, DSLR clarity.",
+      "Exposed keys, ultra-realistic detail, DSLR",
+      "Ultra-realistic keys, flat surface view.",
+      "Keys in ultra-realistic DSLR photo",
+      "Flat keyboard, ultra-realistic close-up.",
+      "Keyboard, key spacings, ultra-realistic closeup.",
+      "Keyboard keys, ultra-realistic view.",
+      "Keyboard with crisp key details, DSLR.",
+      "Keyboard, ultra-realistic exposure.",
+      "Keyboard keys, perfectly spaced, DSLR quality.",
+      "Ultra-realistic keyboard, perfect exposure.",
+      "Keyboard keys visible, realistic photo.",
+      "Red keyboard, flat surface, DSLR clarity.",
+      "Silver keyboard, ultra-realistic shot.",
+      "Keyboard keys, ultra-close-up."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

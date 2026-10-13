@@ -1,0 +1,53 @@
+[
+  {
+    "id": 400,
+    "prompt": "nobody waiting at the bus stop",
+    "base_entity_biased_prompts": [
+      "Sign says \"Bus Stop",
+      "Bench and stop sign: BUS STOP",
+      "Street corner with a bus stop.",
+      "Street corner with a bus stop",
+      "Sign pointing to bus stop",
+      "A stop sign for buses.",
+      "Stop sign with bus schedule nearby.",
+      "Bus stop with advertisement for buses.",
+      "Stop sign with a bus parked nearby.",
+      "A bus stop on a street corner.",
+      "Bus pulling up to a stop sign",
+      "Stop sign with bus route number.",
+      "A stop sign with \"BUS\" written.",
+      "Stop sign next to a bus shelter.",
+      "A bench under a sign: Bus Stop",
+      "Stop sign with bus schedule.",
+      "A bus stop with a shelter.",
+      "Bus stop with overhead shelter.",
+      "People waiting at a bus stop.",
+      "Bus stop with advertisement boards."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Empty bus stop, calm atmosphere, real DSLR, natural light, detailed.",
+      "A quiet bus stop, seats empty, still, DSLR, natural light, detailed urban.",
+      "A quiet bus stop, seats empty, still, DSLR, natural light",
+      "Bus stop serene, empty seats, realist DSLR",
+      "Bus stop emptiness, still atmosphere, realistic shot",
+      "DSLR shot, empty bus stop, calm ambiance",
+      "Empty seats, quiet bus stop, realistic shot",
+      "Empty bus stop, stillness, realism, natural light",
+      "DSLR realism, quiet bus stop, natural light",
+      "Calm bus stop, natural light, ultra-realistic shot, detailed view.",
+      "Empty benches, serene bus stop, realistic photography.",
+      "Deserted bus stop, peaceful, realistic shot.",
+      "Quiet bus stop, realistic, natural light.",
+      "Quiet bus stop, natural light, detail.",
+      "Calm bus stop, vacant seats, natural light.",
+      "Quiet bus stop, ultra-realistic.",
+      "Bus stop detail, empty, realism",
+      "Bus stop quiet, detailed urban.",
+      "Detailed city, quiet bus stop.",
+      "Serene bus stop, detailed urban."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 280,
+    "prompt": "a house without doors",
+    "base_entity_biased_prompts": [
+      "A door with a doorstop.",
+      "A door with a window",
+      "A door with a window.",
+      "A transparent door with handles.",
+      "A dark brown door",
+      "Door with a mirrored surface.",
+      "A door with a knocker.",
+      "A glass door with handles.",
+      "A door with a small window.",
+      "A double wooden door.",
+      "A door with a weathered look.",
+      "A door with a peephole.",
+      "A rustic wooden door with hinges.",
+      "A vintage brown door.",
+      "A door with carved designs.",
+      "A door in a tropical setting.",
+      "An old metal door with hinges.",
+      "A door with a keyhole and doorknob.",
+      "A door with a peephole and lock.",
+      "A door with a stained glass window."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shingle style house, ultra-realistic, DSLR",
+      "Shingle-style house, realistic texture, DSLR",
+      "A contemporary house, ultra-realistic, DSLR",
+      "A mansion, ultra-realistic, DSLR",
+      "Stately home, realistic textures, DSLR.",
+      "Contemporary house, ultra-realistic shot",
+      "Adobe house, realistic design, DSLR image.",
+      "Brick mansion, ultra-realistic, DSLR",
+      "A grand mansion, ultra-realistic, DSLR",
+      "A modern house, ultra-realistic, DSLR",
+      "A eco-friendly house, realistic detail, DSLR",
+      "Adobe house, detailed exterior, DSLR clarity.",
+      "Bungalow, detailed bricks, ultra-realistic shot",
+      "A modern house with sleek design, ultra-realistic",
+      "Bungalow, ultra-realistic photo.",
+      "Geometric house with clean lines, focused lens.",
+      "Geometric house with concrete texture",
+      "A modern house with intricate stone details.",
+      "A contemporary house with metallic accents",
+      "Contemporary house with glass facade."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

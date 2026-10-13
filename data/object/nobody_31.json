@@ -1,0 +1,53 @@
+[
+  {
+    "id": 427,
+    "prompt": "nobody sitting on the sofa",
+    "base_entity_biased_prompts": [
+      "Sofa with armrests",
+      "Grey sectional sofa in客厅",
+      "Sofa with matching ottoman.",
+      "grey fabric sofa",
+      "Sofa with armrests and legs",
+      "Sofa paired with armchair",
+      "Sofa in a small apartment.",
+      "modern leather sofa",
+      "Sofa in a contemporary apartment.",
+      "Red velvet sofa",
+      "Sofa in cozy living room",
+      "sofa with storage space",
+      "Sofa with cream-colored cushions",
+      "Chesterfield style sofa in客厅",
+      "Upholstered cream sofa",
+      "Sofa with plush throw pillows",
+      "Sofa with floral patterned cushions.",
+      "Sofa with built-in shelves.",
+      "Sofa with plush throw blankets and pillows",
+      "A beige sofa with armrests."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Placed sofa, calm room, DSLR quality.",
+      "Leather sofa, quiet space, ultra-realistic shot",
+      "Ultra-realistic sofa in a quiet room",
+      "Sofa in light, quiet room, realistic view.",
+      "Ultra-realistic sofa in a serene home.",
+      "Quiet room, plush sofa, realism.",
+      "Soft focus on a comfortable sofa.",
+      "A soft sofa in a calm living room",
+      "Leather sofa, quiet room, sharp focus.",
+      "A soft sofa in a calm living room.",
+      "Modern sofa, tranquil living space.",
+      "A cozy sofa in a quiet room.",
+      "Leather sofa, warm tones, quiet room vibe.",
+      "Cushioned sofa, dim lighting, peaceful room.",
+      "A cozy sofa in a serene living room.",
+      "Quiet ambiance, comfortable sofa.",
+      "A cozy sofa in a silent living room.",
+      "Modern sofa, quiet corner.",
+      "Minimalist decor, stylish sofa.",
+      "Soft shadows, precise focus."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

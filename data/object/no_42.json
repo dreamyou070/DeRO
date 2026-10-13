@@ -1,0 +1,53 @@
+[
+  {
+    "id": 104,
+    "prompt": "a bakery with no bread",
+    "base_entity_biased_prompts": [
+      "Fresh loaf of bread",
+      "Loaf of fresh bread",
+      "Loaf of sourdough bread",
+      "Bread with olive oil",
+      "Multigrain bread loaf.",
+      "Whole wheat bread loaf",
+      "A loaf of fresh bread.",
+      "Bread loaf with crust.",
+      "A loaf of fresh bakery bread.",
+      "Sourdough bread loaf",
+      "Wheat bread with seeds",
+      "Freshly baked loaf",
+      "Fresh loaf of artisan bread",
+      "Multi-grain sandwich bread",
+      "Freshly toasted bread",
+      "Whole grain sandwich bread",
+      "Slice of fresh bread",
+      "French bread baguette",
+      "Rye bread with seeds",
+      "Bread sticks with garlic"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Detailed soccer field, realistic grass, DSLR",
+      "Realistic grass texture, soccer field, DSLR shot",
+      "Realistic grass texture, soccer field, DSLR.",
+      "Realistic grass soccer field, DSLR quality.",
+      "Realistic grass soccer field, DSLR clarity.",
+      "Soccer field grass, ultra-realistic shot.",
+      "Close shot of soccer field, realistic textures",
+      "Soccer field, grass texture, ultra-real.",
+      "Soccer field with intricate markings, DSLR detail.",
+      "Realistic grass texture, marked field, DSLR.",
+      "Lush soccer field, clear markings, DSLR.",
+      "Close-up of soccer field grass texture.",
+      "Grassy soccer pitch, ultra-realistic details.",
+      "Green soccer field, ultra-realistic quality.",
+      "Realistic grass patterns of soccer field",
+      "High-resolution soccer field, precise lines",
+      "Detailed grass under ultra-DSLR.",
+      "A lush green soccer field, ultra-realistic.",
+      "A lush green soccer field, markings清晰可见",
+      "A lush green soccer field, lines清晰可见"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

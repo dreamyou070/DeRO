@@ -1,0 +1,53 @@
+[
+  {
+    "id": 147,
+    "prompt": "a beach with no people",
+    "base_entity_biased_prompts": [
+      "People in library",
+      "Folks in library",
+      "People in museum",
+      "People in park",
+      "People at festival",
+      "Folks on subway",
+      "Workers at office",
+      "People in a café",
+      "Workers in an office.",
+      "Workers in an office",
+      "Group taking photos.",
+      "Group in café",
+      "People waiting in queue",
+      "Group for photo",
+      "Students in classroom",
+      "Students in a classroom",
+      "Parents playing with children",
+      "Parents playing with kids",
+      "Students studying together",
+      "Parents with kids park"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Evening beach with sunset, realistic, DSLR",
+      "Soft sand, coastal cliffs, natural light, DSLR.",
+      "A sunset over sandy beaches, DSLR, ultra-realistic.",
+      "Seaside cliffs, natural light, DSLR.",
+      "Sea cliffs and waves, natural light, DSLR",
+      "Beach with clear skies, DSLR.",
+      "Beach with sea stack, DSLR.",
+      "A sandy beach at sunset, DSLR",
+      "Beach dunes and sea, DSLR",
+      "Shoreline reflections, beach vista, DSLR",
+      "Beach at sunrise, natural light.",
+      "Dune landscape at dusk, ultra-realistic",
+      "Beach with clear blue ocean",
+      "Cliffside with rugged shoreline at dusk",
+      "Evening beach with starry night",
+      "Beach with palm trees and palm shadows",
+      "Evening glow on tranquil beach scene",
+      "Sunrise over a wide beach expanse",
+      "Sunset reflections on tranquil sea surface.",
+      "Dramatic coastal cliffs at twilight"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

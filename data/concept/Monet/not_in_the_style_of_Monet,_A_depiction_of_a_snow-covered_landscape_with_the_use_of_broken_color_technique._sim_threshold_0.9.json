@@ -1,0 +1,15 @@
+[
+  {
+    "id": 4,
+    "prompt": "not in the style of Monet, A depiction of a snow-covered landscape with the use of broken color technique.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A tranquil snow landscape with delicate broken color effects."
+    ],
+    "base_entity": "Monet",
+    "component_entity": "Monet",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 1
+  }
+]

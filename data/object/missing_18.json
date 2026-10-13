@@ -1,0 +1,53 @@
+[
+  {
+    "id": 18,
+    "prompt": "a garden missing flowers",
+    "base_entity_biased_prompts": [
+      "Vibrant garden flowers",
+      "Wildflowers in colorful mix",
+      "Lily of the valley flowers",
+      "Wildflowers colorful mix",
+      "Pink cherry blossoms petals",
+      "Floral market with blooms",
+      "Pinks and purples mixed bouquet",
+      "Flower market colorful",
+      "Red roses closeup petals",
+      "Peony flowers close-up",
+      "Lavender flowers swaying",
+      "Wildflowers in autumn colors",
+      "Wildflowers in springtime",
+      "Pink carnations bundle",
+      "Rustic wildflower arrangement",
+      "Carnations in soft hues",
+      "Pinks and purples flower garden",
+      "Wildflowers in meadow",
+      "Red tulips springtime",
+      "Roses in full vibrant bloom"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A well-lit kitchen, realistic furniture, DSLR",
+      "A modern kitchen with realistic lighting, DSLR",
+      "A modern kitchen, DSLR, realistic lighting",
+      "A modern kitchen, DSLR, realistic light",
+      "Brightly lit kitchen, realistic textures, DSLR",
+      "A kitchen with modern cabinets, realistic lighting, DSLR sharpness.",
+      "A modern kitchen with precise lighting, DSLR.",
+      "A kitchen with modern counters, realistic lighting, DSLR clarity.",
+      "Realistic kitchen with stainless steel appliances, warm lights.",
+      "A spacious kitchen, bright lights, realistic counters.",
+      "A spacious kitchen with modern counters, realistic lighting.",
+      "Spacious kitchen with ample lighting.",
+      "Warm kitchen, wooden tables, soft ambient light",
+      "Kitchen with glass front cabinets, ambient lighting.",
+      "Sophisticated kitchen with track lighting, countertops.",
+      "Spacious kitchen, glass doors, warm ambient light.",
+      "A modern kitchen with real wood cabinets.",
+      "Wooden cabinets under bright kitchen lights.",
+      "Shiny stainless steel oven in a bright kitchen.",
+      "Illuminated island with under-cabinet lights."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

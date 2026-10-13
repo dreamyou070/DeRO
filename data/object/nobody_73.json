@@ -1,0 +1,53 @@
+[
+  {
+    "id": 469,
+    "prompt": "nobody sitting at the piano",
+    "base_entity_biased_prompts": [
+      "Piano in a modern setting.",
+      "Piano with hands playing.",
+      "Piano with open music sheets.",
+      "Piano with hands playing notes.",
+      "Piano with digital keys.",
+      "Piano with open music sheet.",
+      "Piano with hands of a pianist.",
+      "Piano with a sheet of music above.",
+      "Piano with a sheet of music open.",
+      "Piano with open music sheets nearby.",
+      "Piano with open case and music.",
+      "Piano inside a music school.",
+      "Piano in a modern concert hall.",
+      "Piano in a studio recording.",
+      "Piano in a grand hall.",
+      "Piano being played by fingers.",
+      "Piano inside a library.",
+      "Piano with digital touch screen.",
+      "Piano in an old mansion.",
+      "Piano with colorful LED lights."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Piano in room, elegant setting, DSLR",
+      "Elegant piano, quiet room, ultra-realistic.",
+      "Piano in room, elegant decor, DSLR.",
+      "Grand piano, elegant room, DSLR realism.",
+      "Elegant piano, quiet room, detailed",
+      "Piano in a quiet, beautifully decorated room",
+      "Piano with elegant details, quiet room.",
+      "Quiet room, piano, intricate details.",
+      "Elegant room, quiet space, detailed piano.",
+      "Piano in a quiet, luxuriously decorated room.",
+      "Piano in a stylish, quiet room.",
+      "A grand piano in a quiet room, elegant details.",
+      "Elegant piano, soft lighting, quiet room.",
+      "A grand piano in a quiet room, elegant decor.",
+      "A grand piano in a quiet room",
+      "A grand piano in a quiet room.",
+      "Grand piano in a serene room, soft lighting.",
+      "Quiet room, grand piano, sleek wood, elegant lighting.",
+      "Smooth piano finish, quiet elegance.",
+      "Dark wood piano, soft carpeting"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

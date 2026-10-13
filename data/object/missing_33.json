@@ -1,0 +1,53 @@
+[
+  {
+    "id": 33,
+    "prompt": "a movie theater missing seats",
+    "base_entity_biased_prompts": [
+      "Auditorium theater seats",
+      "Restaurant booth seats",
+      "Train compartment seats",
+      "Seating at theater",
+      "Stadium bleacher seat",
+      "Row of stadium seats",
+      "A stadium seat with numbers",
+      "Stadium bleacher rows",
+      "Bus passenger seats",
+      "Library reading nook seats",
+      "Booth seats in restaurant.",
+      "Metal stadium seating rows",
+      "Wooden bleachers in stadium.",
+      "Auditorium seats in rows",
+      "Red velvet theater box seats",
+      "Hard plastic stadium seats.",
+      "Wooden stadium bleacher row",
+      "Vintage brass theater seat",
+      "Cushioned theater seat",
+      "Cinema theater row of seats"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Baseball field, realistic textures, DSLR.",
+      "Baseball diamond, real texture, DSLR",
+      "Realistic baseball field, grass details, DSLR.",
+      "Baseball diamond, grass details, ultra-realistic DSLR",
+      "Baseball infield, lifelike texture, DSLR.",
+      "Detailed baseball field, DSLR quality.",
+      "Baseball players, field layout, DSLR realism",
+      "Green baseball field, ultra-realistic DSLR.",
+      "Baseball field sunset, realistic textures, DSLR.",
+      "Infield texture, ultra-realistic.",
+      "Baseball diamond, grass texture, DSLR.",
+      "Infield grass, realistic texture, DSLR.",
+      "Realistic grass texture, baseball field",
+      "Baseball diamond, vivid colors, DSLR detail.",
+      "Realistic grass texture, detailed infield.",
+      "Infield dirt texture, realistic close-up shot.",
+      "Pitcher's mound, ultra-realistic shot.",
+      "A lush green baseball field, DSLR.",
+      "A lush green baseball field, DSLR shot",
+      "Field lines, players, realistic baseball game setup."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

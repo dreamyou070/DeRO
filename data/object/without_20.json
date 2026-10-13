@@ -1,0 +1,53 @@
+[
+  {
+    "id": 267,
+    "prompt": "a forest path without leaves",
+    "base_entity_biased_prompts": [
+      "Leaves of various shapes",
+      "Leaves on a stem",
+      "Leaves on a tree",
+      "Leaves in water",
+      "Leaves under sunlight",
+      "Leaves of all colors mixed",
+      "Leaves of various colors mixed",
+      "Red and orange leaves",
+      "Fall tree leaves",
+      "Leaves on a tree trunk",
+      "Leaves of various shapes mixed",
+      "Leaves with morning sun",
+      "Leaves of a willow tree",
+      "Leaves on small bush",
+      "Crimson fall leaves",
+      "Red maple leaves",
+      "Yellow leaves on branches",
+      "Leaves rustling in wind",
+      "Succulent leaves in garden bed.",
+      "Red leaves on branch closeup"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A mossy forest path, ultra-real DSLR",
+      "A winding path through dense forest, DSLR, ultra-realistic.",
+      "A winding forest path with visible branches, DSLR",
+      "Trunk textures, forest path, DSLR photo",
+      "Trunk textures, forest path, DSLR.",
+      "Rich colors, forest path, DSLR",
+      "A narrow forest path, branches overhead, DSLR detail",
+      "Undergrowth, forest path, DSLR",
+      "Forest path with branches, vibrant ground textures.",
+      "A winding forest path with sunlight透过枝丫,细腻地面,超real DSLR",
+      "Leaf litter texture, forest path realism.",
+      "Forest path, visible branches, textured soil.",
+      "Path through trees, fallen branches, texture.",
+      "Visible branches, textured forest floor",
+      "A winding forest path with visible branches, detailed ground.",
+      "Path winds through vibrant forest scene.",
+      "Forest path with vibrant greenery",
+      "Forest path shaded by greenery",
+      "A winding path through dense forest",
+      "Forest floor with fallen leaves, detailed"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 411,
+    "prompt": "nobody sitting in the movie theater",
+    "base_entity_biased_prompts": [
+      "a movie theater filled with people sitting",
+      "a crowded movie theater with an audience",
+      "people sitting and watching a movie in a theater",
+      "a cinema with viewers seated in rows",
+      "a movie theater with many seated people",
+      "a theater audience watching a film",
+      "a crowded cinema with occupied seats",
+      "a movie theater with people enjoying a movie",
+      "a cinema hall filled with seated viewers",
+      "a theater with audience members sitting in chairs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty movie theater with nobody sitting",
+      "a movie theater with no audience present",
+      "an empty cinema hall with vacant seats",
+      "a movie theater with no people in the seats",
+      "a cinema with rows of empty chairs",
+      "a quiet movie theater with unoccupied seating",
+      "a movie theater with clearly visible empty seats",
+      "an empty theater with no viewers inside",
+      "a cinema hall with nobody seated",
+      "a movie theater with no human figures present"
+    ],
+    "class": "nobody",
+    "class_index": 15,
+    "filename": "nobody_15"
+  }
+]

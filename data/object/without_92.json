@@ -1,0 +1,53 @@
+[
+  {
+    "id": 339,
+    "prompt": "a bus without windows",
+    "base_entity_biased_prompts": [
+      "Modern window with view",
+      "Modern glass window",
+      "Window in minimalist design.",
+      "Windows with raindrops",
+      "Window with views of mountains",
+      "Window with decorative panes.",
+      "Window with view of mountains",
+      "Windows in a modern office building.",
+      "Windows with frosted glass panes",
+      "Windows with cracked panes.",
+      "Windows in a modern apartment.",
+      "Modern window with panoramic view",
+      "Window pane with water droplets.",
+      "Modern glass window with view",
+      "Windows with raindrops on glass.",
+      "Windows displaying colorful advertisements.",
+      "Modern glass window sunlight",
+      "Windows with raindrops on the glass.",
+      "Windows with raindrops on the panes.",
+      "Large windows in contemporary home."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bookshelf with ordered books, intricate textures, DSLR realism.",
+      "Bookshelf with organized books, realistic texture, DSLR.",
+      "Organized bookshelf, realistic textures, DSLR.",
+      "Bookshelf, organized rows, detailed textures, DSLR image.",
+      "Bookshelf with organized rows, realistic DSLR.",
+      "Bookshelf with detailed textures, DSLR, sharp focus.",
+      "Bookshelf, organized books, intricate textures, DSLR.",
+      "Organized bookshelf, realistic texture closeup.",
+      "Bookshelf with layers, textures sharp focus.",
+      "Organized books, shelf texture ultra-realistic.",
+      "Books aligned, shelf textures, ultra-realistic.",
+      "Bookshelf with books, organized, realistic textures.",
+      "Organized bookshelf, realistic shelf texture.",
+      "Books on shelf, structured, ultra-realistic detail.",
+      "Organized books, detailed textures, DSLR.",
+      "Bookshelf with layered books, textured.",
+      "Organized bookshelf, realistic wood grain.",
+      "Metal bookshelf with detailed textures.",
+      "Shelf with hardcovers, realistic focus.",
+      "Shelved books in rows, realistic textures."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

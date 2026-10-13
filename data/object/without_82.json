@@ -1,0 +1,53 @@
+[
+  {
+    "id": 329,
+    "prompt": "a clock without numbers",
+    "base_entity_biased_prompts": [
+      "digits on a scoreboard",
+      "A row of red digits",
+      "Ten blue dots",
+      "Ten fingers on hands",
+      "Pair of 9 playing cards",
+      "Eight silver spoons",
+      "Ten blue squares",
+      "Seven striped socks",
+      "Ten blue stripes",
+      "Seven blue squares",
+      "Sixty seconds clock",
+      "Row of 9 clocks",
+      "Ten silver coins",
+      "Fifteen orange oranges",
+      "Twelve pink hearts",
+      "Fifteen red hearts",
+      "Ten blue crayons.",
+      "Fourteen pink hearts",
+      "Six red hearts",
+      "Twenty red hearts."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A clean circular clock face, ultra-realistic, DSLR.",
+      "Clean circular clock, ultra-realistic hands, DSLR.",
+      "Circular clock, visible hands, ultra-realistic DSLR.",
+      "Circular clock face, hands visible, DSLR realism.",
+      "Clock with clear hands, circular face, DSLR detail.",
+      "Circular clock face, realistic hands, DSLR",
+      "Circular clock, visible hands, DSLR realism.",
+      "Circular clock face, hands clear, DSLR quality.",
+      "Clock with visible hands, circular face, DSLR.",
+      "Circular clock, visible hands, DSLR quality.",
+      "Circular clock, hands clearly visible, DSLR quality.",
+      "Circular clock, hands visible, high-Detail DSLR.",
+      "Circular clock, ultra-realistic photography",
+      "Circular clock, visible hands, ultra-realistic photo.",
+      "Circular clock, hands clear, DSLR precision.",
+      "Circular clock, visible hands, DSLR.",
+      "Circular clock, realistic photography.",
+      "Clean clock face, realistic hands, DSLR.",
+      "Circular clock, ultra-realistic clarity",
+      "Clock, circular face, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

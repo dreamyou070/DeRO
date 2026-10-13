@@ -1,0 +1,53 @@
+[
+  {
+    "id": 224,
+    "prompt": "a closet with nothing hanging",
+    "base_entity_biased_prompts": [
+      "Garment hanging from hanger",
+      "Hanging clothes on a line",
+      "Clothes hanging on line",
+      "Hanging bag from hook",
+      "Clothes hanging outdoors",
+      "Balloons hanging from balloons",
+      "Clothes hanging outside",
+      "Pots hanging from hook",
+      "Books hanging from a hook",
+      "Hanging Christmas lights",
+      "Pots hanging from a rope.",
+      "Clothes hanging on a line.",
+      "Garment hanging on rack",
+      "Bags hanging from hooks.",
+      "Pots hanging from a hook.",
+      "Curtains hanging from rod",
+      "Bags hanging on hooks",
+      "A curtain hanging from rods.",
+      "Fishing nets hanging to dry.",
+      "Balloons hanging from ceiling hooks."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Closet with visible hanging, realistic structure, DSLR",
+      "Hanging space visible, realistic closet, DSLR.",
+      "Closet with hooks, DSLR, ultra-realistic",
+      "Realistic closet, hanging garments, DSLR",
+      "Clothes hanging, closet, DSLR, realistic",
+      "Hanging space in closet, realistic details, DSLR.",
+      "Closet with visible hanging space, ultra-realistic.",
+      "Clothes hung neatly, realistic closet, DSLR.",
+      "A closet with hanging clothes, DSLR clarity.",
+      "Hanging bags, realistic closet, DSLR.",
+      "Shirt hangers, realistic closet, DSLR.",
+      "A spacious closet with hanging clothes, DSLR",
+      "A large closet with hanging clothes, DSLR",
+      "Closet interior, hanging clothes, ultra-realistic.",
+      "A spacious closet with hanging clothes, DSLR.",
+      "A large closet with hanging clothes, DSLR.",
+      "Hanging sweaters, closet, DSLR capture.",
+      "Neatly hung blouses, realistic closet, DSLR.",
+      "A closet with hanging shirts, DSLR.",
+      "Closet with socks, realistic details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

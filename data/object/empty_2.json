@@ -1,0 +1,33 @@
+[
+  {
+    "id": 478,
+    "prompt": "an empty coffee cup",
+    "base_entity_biased_prompts": [
+      "a coffee cup filled with hot black coffee",
+      "a ceramic coffee cup with steaming coffee",
+      "a cup of coffee on a cafe table",
+      "a coffee mug filled with fresh coffee",
+      "a latte served in a coffee cup",
+      "a coffee cup with foam on top",
+      "a cup of coffee beside a book",
+      "a coffee mug containing dark coffee",
+      "a warm coffee cup with visible steam",
+      "a coffee cup on a wooden table filled with coffee"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty coffee cup with the inside clearly visible",
+      "a vacant ceramic coffee cup with the bottom of the cup visible",
+      "an empty coffee mug with no liquid inside",
+      "a clean empty coffee cup showing the interior surface",
+      "an empty coffee cup with a visible inner bottom",
+      "a transparent empty coffee cup with nothing inside",
+      "an empty coffee mug placed on a table with no contents",
+      "a vacant coffee cup with an unobstructed view of the inside",
+      "an empty coffee cup with a clearly visible cup interior",
+      "an empty ceramic coffee cup with no liquid or foam"
+    ],
+    "class": "empty",
+    "class_index": 2,
+    "filename": "empty_2"
+  }
+]

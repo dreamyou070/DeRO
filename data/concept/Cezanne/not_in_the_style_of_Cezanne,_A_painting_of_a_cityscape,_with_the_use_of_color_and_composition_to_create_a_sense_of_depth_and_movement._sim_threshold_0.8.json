@@ -1,0 +1,39 @@
+[
+  {
+    "id": 9,
+    "prompt": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A quiet cityscape using natural colors to create a sense of depth and flow.",
+      "A subtle city view emphasizing naturalistic depth and flow.",
+      "A simple city scene where colors subtly convey movement and depth.",
+      "A simple city view with a soothing color scheme and a sense of depth through composition.",
+      "A painting of a cityscape at sunset, with soft hues blending into the horizon, creating a sense of depth and motion.",
+      "A simple cityscape highlighting natural light and depth through color.",
+      "A painting of a city at dusk, with soft gradients and a few pedestrians in the distance, creating a sense of depth and movement.",
+      "A spacious cityscape using color to enhance a feeling of movement.",
+      "A tranquil urban view with a naturalistic blend of colors for depth.",
+      "A serene cityscape with gentle gradients creating depth and motion.",
+      "A serene city scene using subtle color shifts for depth and motion.",
+      "A minimalist city scene focusing on naturalistic depth and color harmony.",
+      "A vast urban setting with gentle color changes suggesting depth and motion.",
+      "A spacious cityscape where colors suggest depth and fluidity.",
+      "An urban scene painted with light and shadow, capturing the essence of movement and space.",
+      "A calm city scene with a gentle blend of colors and a clear sense of depth.",
+      "A serene urban scene with a subtle palette and a smooth transition of colors.",
+      "A clean cityscape with colors blending smoothly to suggest depth.",
+      "A minimalist urban view featuring soft hues and a sense of depth.",
+      "A peaceful urban view where colors naturally convey a sense of movement.",
+      "A serene urban scene with a subtle color gradient and a smooth flow of elements.",
+      "A tranquil cityscape with a soft color scheme and a subtle hint of motion.",
+      "A tranquil city scene with a smooth transition of colors for depth.",
+      "A peaceful city view with a gentle color transition and a natural sense of depth.",
+      "A serene cityscape with gentle gradients and soft shadows creating depth and flow."
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.8,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 25
+  }
+]

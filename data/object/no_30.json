@@ -1,0 +1,18 @@
+[
+  {
+    "id": 101,
+    "prompt": "a decorated room with no paintings",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A clean wall with no decorations in a simple bedroom.",
+      "A clean, empty wall in a basic utility room.",
+      "A clean wall in a minimally decorated hallway."
+    ],
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 3,
+    "class": "no",
+    "class_index": 30,
+    "filename": "no_30.json"
+  }
+]

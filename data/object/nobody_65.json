@@ -1,0 +1,53 @@
+[
+  {
+    "id": 461,
+    "prompt": "nobody standing near the playground",
+    "base_entity_biased_prompts": [
+      "Playground with swings and slides",
+      "Playground with swings and slide",
+      "Playground with slides and swings",
+      "Playground with slide",
+      "Playground jungle gym",
+      "Playground with colorful benches",
+      "Playground with colorful swings",
+      "Playground with merry-go-round",
+      "Playground with colorful walls",
+      "Playground with picnic tables.",
+      "Playground jungle gym adventure",
+      "Playground with a fountain",
+      "Playground with a winding path",
+      "Playground with seesaw and slide",
+      "Playground with shaded picnic area",
+      "Playground with merry-go-round spinning",
+      "Playground bench shaded by trees",
+      "小朋友在 swings 上笑",
+      "老式 swings 在微风中摇摆",
+      "Children slide on a yellow slide."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A vibrant playground, DSLR, serene.",
+      "A brightly colored playground, serene, DSLR.",
+      "Peaceful scene with multicolored playground structures.",
+      "Playground with cheerful, vibrant structures.",
+      "A vibrant playground with bright structures, serene sunlight.",
+      "Playground with vivid structures in shade.",
+      "Peaceful greenery around vivid playground equipment.",
+      "Vivid playground, serene afternoon light",
+      "Peaceful playground with rainbow colors.",
+      "Pastel playground structures in a peaceful setting.",
+      "Peaceful day at a bright playground",
+      "Peaceful playground with blue and green.",
+      "Peaceful playground, rainbow colors, trees.",
+      "Colorful playground under gentle breeze.",
+      "Peaceful park with a vibrant play structure.",
+      "Sun-dappled playground with bright colors.",
+      "Peaceful playground at sunset.",
+      "Sunlit playground with yellow structures, calm.",
+      "A bright playground with vibrant slides.",
+      "Cheery playground with rustling leaves."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

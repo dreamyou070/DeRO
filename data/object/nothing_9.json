@@ -1,0 +1,53 @@
+[
+  {
+    "id": 176,
+    "prompt": "a library shelf with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a spacious room",
+      "Inside underground cave",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside a lively restaurant",
+      "Inside old library",
+      "Inside modern office building",
+      "Inside modern office",
+      "Inside busy mall",
+      "Inside a bustling mall",
+      "Inside modern art gallery",
+      "Inside a fancy restaurant",
+      "Inside a spacious museum",
+      "Inside a vast museum",
+      "Inside cozy living room",
+      "Inside mysterious underground cave",
+      "Inside a busy kitchen",
+      "Inside a grand hall",
+      "Inside a cozy living room",
+      "Inside modern art gallery, pieces displayed"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden library shelf, realistic texture, DSLR photo",
+      "Library shelf, ultra-realistic wood, DSLR.",
+      "Wooden shelf, realistic texture, DSLR photography.",
+      "Library shelf, realistic textures, DSLR.",
+      "Shelf with texture, ultra-realistic, DSLR capture.",
+      "Realistic wooden shelf, texture visible, DSLR.",
+      "Detailed wooden shelf, realistic texture, DSLR.",
+      "Wooden library shelf, DSLR capture",
+      "Shelf structure, realistic wood, DSLR",
+      "Shelf with visible texture, realistic wood, DSLR.",
+      "Realistic wood texture, shelf detail, DSLR.",
+      "Books on wooden shelf, realistic texture, DSLR image.",
+      "Wooden bookshelf, realistic details, DSLR",
+      "Books, shelf, realistic wood texture, DSLR.",
+      "Library shelf, detailed wood, DSLR",
+      "Wooden shelf, aged appearance, ultra-realistic DSLR",
+      "Library shelf, wood texture, ultra-realism.",
+      "Visible wood fibers, realistic shelf, DSLR",
+      "Realistic shelf, wood grain, DSLR.",
+      "Library shelf, textured wood, DSLR shot."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 21,
+    "prompt": "a dining table missing chairs",
+    "base_entity_biased_prompts": [
+      "Wooden stackable chairs.",
+      "Chairs in classroom setting",
+      "Outdoor chairs with striped cushions.",
+      "Modern wooden chair",
+      "Brown wooden dining chairs.",
+      "Gray dining room chair set",
+      "Metal patio chairs in set.",
+      "Two plastic folding chairs.",
+      "Chairs arranged in a classroom.",
+      "Wooden bench with chairs",
+      "Gray ergonomic chair",
+      "Wooden folding chair",
+      "Wooden ladder back chair",
+      "Two blue plastic chairs.",
+      "White dining room chair",
+      "Gray lacquered dining chair",
+      "Wooden ladder back chair.",
+      "Four blue dining chairs.",
+      "Blue folding chair for events",
+      "Black and white checkerboard chair"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic parking lot, lane markings, DSLR.",
+      "Realistic DSLR image of a parking area.",
+      "Parking lot with vivid lane markings, realistic texture.",
+      "Parking space lines, realistic texture, DSLR quality.",
+      "Ultra-realistic parking lot with clear lines and texture.",
+      "Ultra-realistic view of a parking lot with lanes.",
+      "Ultra-realistic parking lot, clear lines, textured surface.",
+      "Parking lot with visible texture, realism.",
+      "Wide shot of parking lot, visible lanes, realistic detail.",
+      "Parking lot, visible lines, realistic texture close-up.",
+      "Parking lot, clear lane markings, realistic texture.",
+      "Parking lot, visible lines, realistic texture.",
+      "Parking lot in perfect DSLR focus.",
+      "Realistic parking lot, visible lines, textured.",
+      "A parking lot with clear lines, realistic texture.",
+      "Parking lot, crisp lines, realistic texture.",
+      "Realistic parking lot, clear markings, textured surface.",
+      "Parking lot, lines sharp, realistic texture.",
+      "Wide parking lot, realistic surface texture.",
+      "Parking lot, visible lanes, detailed pavement."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

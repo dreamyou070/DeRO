@@ -1,0 +1,686 @@
+[
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.7",
+        "caption": "A painting with no colors",
+        "question": "is there colors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "colors"
+    },
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.8",
+        "caption": "A painting with no colors",
+        "question": "is there colors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "colors"
+    },
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.9",
+        "caption": "A painting with no colors",
+        "question": "is there colors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "colors"
+    },
+    {
+        "id": "a_beach_without_people_sim_threshold_0.7",
+        "caption": "a beach without people",
+        "question": "is there people in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "people"
+    },
+    {
+        "id": "a_bed_without_pillows_sim_threshold_0.7",
+        "caption": "a bed without pillows",
+        "question": "is there pillows in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "pillows"
+    },
+    {
+        "id": "a_bed_without_pillows_sim_threshold_0.8",
+        "caption": "a bed without pillows",
+        "question": "is there pillows in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "pillows"
+    },
+    {
+        "id": "a_bicycle_without_pedals_sim_threshold_0.7",
+        "caption": "a bicycle without pedals",
+        "question": "is there pedals in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "pedals"
+    },
+    {
+        "id": "a_bookshelf_without_books_sim_threshold_0.7",
+        "caption": "a bookshelf without books",
+        "question": "is there books in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "books"
+    },
+    {
+        "id": "a_bookshelf_without_books_sim_threshold_0.8",
+        "caption": "a bookshelf without books",
+        "question": "is there books in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "books"
+    },
+    {
+        "id": "a_bottle_without_a_cap_sim_threshold_0.7",
+        "caption": "a bottle without a cap",
+        "question": "is there cap in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cap"
+    },
+    {
+        "id": "a_bowl_without_fruit_sim_threshold_0.7",
+        "caption": "a bowl without fruit",
+        "question": "is there fruit in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "fruit"
+    },
+    {
+        "id": "a_bowl_without_fruit_sim_threshold_0.8",
+        "caption": "a bowl without fruit",
+        "question": "is there fruit in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "fruit"
+    },
+    {
+        "id": "a_burger_with_no_cheese",
+        "caption": "a burger with no cheese",
+        "question": "is there cheese in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cheese"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.7",
+        "caption": "a burger without cheese",
+        "question": "is there cheese in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cheese"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.8",
+        "caption": "a burger without cheese",
+        "question": "is there cheese in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cheese"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.9",
+        "caption": "a burger without cheese",
+        "question": "is there cheese in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cheese"
+    },
+    {
+        "id": "a_bus_without_windows_sim_threshold_0.7",
+        "caption": "a bus without windows",
+        "question": "is there windows in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "windows"
+    },
+    {
+        "id": "a_bus_without_windows_sim_threshold_0.8",
+        "caption": "a bus without windows",
+        "question": "is there windows in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "windows"
+    },
+    {
+        "id": "a_cake_without_candles_sim_threshold_0.7",
+        "caption": "a cake without candles",
+        "question": "is there candles in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "candles"
+    },
+    {
+        "id": "a_car_without_wheels_sim_threshold_0.7",
+        "caption": "a car without wheels",
+        "question": "is there wheels in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "wheels"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water",
+        "caption": "a cat bowl with no water",
+        "question": "is there water in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "water"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.7",
+        "caption": "a cat bowl with no water",
+        "question": "is there water in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "water"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.8",
+        "caption": "a cat bowl with no water",
+        "question": "is there water in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "water"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.9",
+        "caption": "a cat bowl with no water",
+        "question": "is there water in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "water"
+    },
+    {
+        "id": "a_cat_without_a_tail_sim_threshold_0.7",
+        "caption": "a cat without a tail",
+        "question": "is there tail in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "tail"
+    },
+    {
+        "id": "a_chair_without_backrest_sim_threshold_0.7",
+        "caption": "a chair without backrest",
+        "question": "is there backrest in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "backrest"
+    },
+    {
+        "id": "a_chair_without_backrest_sim_threshold_0.8",
+        "caption": "a chair without backrest",
+        "question": "is there backrest in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "backrest"
+    },
+    {
+        "id": "a_classroom_without_students_sim_threshold_0.7",
+        "caption": "a classroom without students",
+        "question": "is there students in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "students"
+    },
+    {
+        "id": "a_classroom_without_students_sim_threshold_0.8",
+        "caption": "a classroom without students",
+        "question": "is there students in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "students"
+    },
+    {
+        "id": "a_clock_without_numbers_sim_threshold_0.7",
+        "caption": "a clock without numbers",
+        "question": "is there numbers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "numbers"
+    },
+    {
+        "id": "a_clock_without_numbers_sim_threshold_0.8",
+        "caption": "a clock without numbers",
+        "question": "is there numbers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "numbers"
+    },
+    {
+        "id": "a_desk_without_papers_sim_threshold_0.7",
+        "caption": "a desk without papers",
+        "question": "is there papers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "papers"
+    },
+    {
+        "id": "a_face_without_eyes_sim_threshold_0.7",
+        "caption": "a face without eyes",
+        "question": "is there eyes in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "eyes"
+    },
+    {
+        "id": "a_forest_without_animals_sim_threshold_0.7",
+        "caption": "a forest without animals",
+        "question": "is there animals in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "animals"
+    },
+    {
+        "id": "a_house_without_doors_sim_threshold_0.7",
+        "caption": "a house without doors",
+        "question": "is there doors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "doors"
+    },
+    {
+        "id": "a_keyboard_without_keys_sim_threshold_0.7",
+        "caption": "a keyboard without keys",
+        "question": "is there keys in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "keys"
+    },
+    {
+        "id": "a_keyboard_without_keys_sim_threshold_0.8",
+        "caption": "a keyboard without keys",
+        "question": "is there keys in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "keys"
+    },
+    {
+        "id": "a_laptop_without_a_keyboard_sim_threshold_0.7",
+        "caption": "a laptop without a keyboard",
+        "question": "is there keyboard in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "keyboard"
+    },
+    {
+        "id": "a_laptop_without_a_keyboard_sim_threshold_0.8",
+        "caption": "a laptop without a keyboard",
+        "question": "is there keyboard in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "keyboard"
+    },
+    {
+        "id": "a_mug_without_a_handle_sim_threshold_0.7",
+        "caption": "a mug without a handle",
+        "question": "is there handle in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "handle"
+    },
+    {
+        "id": "a_mug_without_a_handle_sim_threshold_0.8",
+        "caption": "a mug without a handle",
+        "question": "is there handle in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "handle"
+    },
+    {
+        "id": "a_painting_with_no_colors",
+        "caption": "a painting with no colors",
+        "question": "is there colors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "colors"
+    },
+    {
+        "id": "a_phone_without_buttons_sim_threshold_0.7",
+        "caption": "a phone without buttons",
+        "question": "is there buttons in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "buttons"
+    },
+    {
+        "id": "a_pizza_without_toppings_sim_threshold_0.7",
+        "caption": "a pizza without toppings",
+        "question": "is there toppings in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "toppings"
+    },
+    {
+        "id": "a_pizza_without_toppings_sim_threshold_0.8",
+        "caption": "a pizza without toppings",
+        "question": "is there toppings in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "toppings"
+    },
+    {
+        "id": "a_refrigerator_without_food_sim_threshold_0.7",
+        "caption": "a refrigerator without food",
+        "question": "is there food in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "food"
+    },
+    {
+        "id": "a_refrigerator_without_food_sim_threshold_0.8",
+        "caption": "a refrigerator without food",
+        "question": "is there food in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "food"
+    },
+    {
+        "id": "a_road_without_cars_sim_threshold_0.7",
+        "caption": "a road without cars",
+        "question": "is there cars in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cars"
+    },
+    {
+        "id": "a_road_without_cars_sim_threshold_0.8",
+        "caption": "a road without cars",
+        "question": "is there cars in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cars"
+    },
+    {
+        "id": "a_sandwich_without_vegetables_sim_threshold_0.7",
+        "caption": "a sandwich without vegetables",
+        "question": "is there vegetables in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "vegetables"
+    },
+    {
+        "id": "a_sandwich_without_vegetables_sim_threshold_0.8",
+        "caption": "a sandwich without vegetables",
+        "question": "is there vegetables in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "vegetables"
+    },
+    {
+        "id": "a_stadium_without_people_sim_threshold_0.7",
+        "caption": "a stadium without people",
+        "question": "is there people in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "people"
+    },
+    {
+        "id": "a_stadium_without_people_sim_threshold_0.8",
+        "caption": "a stadium without people",
+        "question": "is there people in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "people"
+    },
+    {
+        "id": "a_train_without_passengers_sim_threshold_0.7",
+        "caption": "a train without passengers",
+        "question": "is there passengers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "passengers"
+    },
+    {
+        "id": "a_tree_without_leaves_sim_threshold_0.7",
+        "caption": "a tree without leaves",
+        "question": "is there leaves in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "leaves"
+    },
+    {
+        "id": "a_tree_without_leaves_sim_threshold_0.8",
+        "caption": "a tree without leaves",
+        "question": "is there leaves in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "leaves"
+    },
+    {
+        "id": "a_vase_without_flowers_sim_threshold_0.7",
+        "caption": "a vase without flowers",
+        "question": "is there flowers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "flowers"
+    }
+]

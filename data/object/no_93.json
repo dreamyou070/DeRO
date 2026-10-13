@@ -1,0 +1,53 @@
+[
+  {
+    "id": 155,
+    "prompt": "an airport runway with no airplanes",
+    "base_entity_biased_prompts": [
+      "Aerial view of planes",
+      "Two planes in sky",
+      "Helicopter and airplane",
+      "Blue sky with flying planes",
+      "Helicopter and plane",
+      "Aircraft on tarmac",
+      "Fleet of planes in formation.",
+      "Two planes at airport",
+      "Plane with wings raised",
+      "Old vintage airplane",
+      "Military transport aircraft",
+      "Airport terminal with planes",
+      "Fleet of commercial jets",
+      "Aircraft flying over sea",
+      "Commercial airliner in flight",
+      "Military helicopter and plane",
+      "Airplane window view",
+      "Plane doing loop-the-loop",
+      "Small aircraft against blue sky",
+      "Military aircraft taxiing"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic runway, clear blue sky, DSLR",
+      "Runway with texture, clear sky, DSLR.",
+      "An airport runway, realistic texture, clear sky",
+      "Runway texture, blue skies, ultra-realistic.",
+      "Sky and runway, hyper-realistic shot.",
+      "Airport runway, realistic surface, sky.",
+      "Airport runway, realistic texture, blue sky.",
+      "An airport runway, realistic textures, clear sky.",
+      "An airport runway, realistic texture, clear sky.",
+      "Detailed runway texture, wide open sky.",
+      "Runway, realistic textures, expansive sky.",
+      "Runway textures, wide open sky.",
+      "Runway with realistic textures, clear sky.",
+      "Concrete runway, realistic textures, open sky.",
+      "Runway with textures, vast open sky.",
+      "Pavement texture runway, wide open sky.",
+      "Runway surface, realistic textures, clear blue sky.",
+      "Runway with texture, vast open sky.",
+      "Runway surface details, sunny day sky.",
+      "Runway with concrete texture, blue sky."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

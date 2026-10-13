@@ -1,0 +1,53 @@
+[
+  {
+    "id": 299,
+    "prompt": "a living room without a television",
+    "base_entity_biased_prompts": [
+      "Classic TV shows",
+      "Classic TV shows lineup",
+      "TV with multiple channels",
+      "TV displaying a cooking show",
+      "TV with colorful cartoons",
+      "TV showing news",
+      "TV with news channel on",
+      "TV with a colorful children’s show",
+      "TV with flashing news",
+      "TV showing sports",
+      "TV with picture of favorite show",
+      "TV showing weather forecast",
+      "Vintage TV showing sports news",
+      "Vintage TV with rabbit ears antenna",
+      "Modern TV with streaming services",
+      "Vintage TV in a living room",
+      "TV with curved edges",
+      "Family around modern smart TV",
+      "Close-up of a CRT TV screen",
+      "Living room with big flat-screen TV"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy living room with soft沙发和实木家具，超现实DSLR摄影",
+      "A cozy living room with soft沙发和实木茶几，超写实DSLR照片",
+      "Comfortable sofa, sleek coffee table, real wood texture.",
+      "A couch, soft pillows, wooden floor, realistic decor.",
+      "Luxury flooring, living room setting.",
+      "Comfortable sofa, sleek coffee table, modern lighting.",
+      "Tidy living room with stylish decor.",
+      "Comfortable sofa, sleek coffee table, wooden floors.",
+      "A sofa with soft cushions in a living room.",
+      "A cozy sofa in a modern living room.",
+      "Modern sofa, glass coffee table, plants.",
+      "Comfortable sofa, wooden floor, modern decor.",
+      "A couch with soft pillows and coffee table.",
+      "A sofa with soft cushions in a cozy living room.",
+      "A sofa with soft cushions in a warm living room.",
+      "A cozy sofa in soft hues.",
+      "A couch with soft pillows, wooden coffee table.",
+      "A couch with soft cushions, wood floor.",
+      "A sofa with soft cushions",
+      "A cozy sofa by a wooden coffee table."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

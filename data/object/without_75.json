@@ -1,0 +1,53 @@
+[
+  {
+    "id": 322,
+    "prompt": "a plate missing pizza and without sauce",
+    "base_entity_biased_prompts": [
+      "Tomato sauce pasta",
+      "Tomato sauce spaghetti",
+      "Tomato sauce on pasta",
+      "Spaghetti bolognese sauce",
+      "White garlic butter sauce poured",
+      "Ginger garlic sauce poured",
+      "Tomato sauce on pizza",
+      "Tomato sauce pasta dish",
+      "Tomato sauce on fresh pasta.",
+      "Sriracha spicy sauce",
+      "BBQ sauce on barbecue ribs.",
+      "Soy sauce on rice",
+      "Sauce-covered pasta noodles",
+      "Alfredo sauce on fettuccine",
+      "Red tomato sauce on pasta",
+      "BBQ sauce on ribs",
+      "Red pasta with tomato sauce",
+      "Teriyaki sauce on chicken",
+      "Barbecue sauce on pulled pork",
+      "Soy sauce on sushi rice"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic plate, clean surface, DSLR ultra-realistic",
+      "A clean ceramic plate, DSLR, ultra-realistic",
+      "Ceramic plate, ultra-realistic texture, DSLR",
+      "Plate, ceramic texture, ultra-realistic DSLR",
+      "A clean ceramic plate, DSLR, realistic texture",
+      "Ceramic plate, ultra-realistic, DSLR",
+      "Pristine ceramic plate, DSLR ultra-realistic",
+      "Ceramic plate, spotlessly clean, realistic texture, DSLR",
+      "Smooth ceramic plate, DSLR, ultra-realistic.",
+      "A clean ceramic plate, DSLR, realistic",
+      "Smooth ceramic plate, ultra-realistic shot",
+      "Ceramic plate, clean, DSLR realism.",
+      "A clean ceramic plate, DSLR, smooth texture",
+      "Ceramic plate, smooth texture, DSLR.",
+      "Ceramic plate, realistic texture shot",
+      "Ceramic plate, DSLR, smooth surface.",
+      "Spotless ceramic plate, DSLR photo.",
+      "White ceramic plate, DSLR realism.",
+      "A pristine aqua ceramic plate, DSLR",
+      "A clean white ceramic plate, DSLR."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

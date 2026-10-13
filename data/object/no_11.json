@@ -1,0 +1,22 @@
+[
+  {
+    "id": 107,
+    "prompt": "a modern office with no computers",
+    "base_entity_biased_prompts": [
+      "A desk in a busy office with multiple desktop computers.",
+      "A cluttered office desk with multiple desktop computers.",
+      "A row of desktop computers on an office desk with monitors and keyboards."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A basic desk with a monitor and keyboard in a minimalist office environment.",
+      "A minimalist office setup with a desk that has a few key items.",
+      "A basic desk with a monitor and keyboard in a minimalist office environment."
+    ],
+    "sim_threshold": 0.85,
+    "num_biased_prompts": 3,
+    "num_bias_absent_prompts": 3,
+    "class": "no",
+    "class_index": 11,
+    "filename": "no_11.json"
+  }
+]

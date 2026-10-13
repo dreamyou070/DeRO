@@ -1,0 +1,53 @@
+[
+  {
+    "id": 458,
+    "prompt": "nobody walking beside the lake",
+    "base_entity_biased_prompts": [
+      "Lake with rocky shoreline",
+      "Lake with rocky shoreline.",
+      "Lake surrounded by mountains.",
+      "Lake with a lighthouse",
+      "Lake with a small island.",
+      "Lake with mountains in the background.",
+      "Lake at golden hour.",
+      "Lake at twilight hour",
+      "Lake with a distant mountain range",
+      "Lake in a dense forest",
+      "Lake under a cloudy sky",
+      "Lake with a distant mountain range.",
+      "Rocky shoreline of a lake.",
+      "Lake with a wooden dock.",
+      "Lake with reflections of mountains.",
+      "Lake under a cloudy sky.",
+      "Landscape with a sparkling lake.",
+      "Snow-covered lake in winter.",
+      "Peaceful lake with distant mountains.",
+      "Mountain reflection in a tranquil lake."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A serene lakeside path, DSLR, ultra-realistic",
+      "A serene lakeside path, DSLR, vivid detail",
+      "Lakeside walkway, serene scene, DSLR",
+      "Natural lakeside, calm reflection, DSLR photo.",
+      "Lakeside, path, tranquil water reflection, realism.",
+      "Natural landscape, lakeside path, reflection",
+      "Realistic DSLR, calm lake, tree reflection.",
+      "A serene lakeside path, calm water reflections.",
+      "Calm lake, scenic path, DSLR.",
+      "A serene lakeside path, reflection clear",
+      "A serene lakeside path, water reflection clear.",
+      "A serene lakeside path, reflections clear",
+      "A serene lakeside path, reflection clear.",
+      "Natural scenery, lake path, ultra-real.",
+      "Calm lake, pathway, colorful reflections.",
+      "A serene lakeside path, reflections clear.",
+      "Lakeside path, calm reflection, trees.",
+      "Pathway over calm, reflective lake.",
+      "Lake at dawn, path, calm reflections, realism.",
+      "Lakeside walk, calm water, realism."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

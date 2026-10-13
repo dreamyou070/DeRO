@@ -1,0 +1,53 @@
+[
+  {
+    "id": 131,
+    "prompt": "a bakery with no bread",
+    "base_entity_biased_prompts": [
+      "Whole wheat bread",
+      "Wheat bread loaf",
+      "Fresh loaf of bread",
+      "Loaf of artisanal bread",
+      "Whole wheat bread loaf",
+      "Artisanal bread loaf",
+      "Whole grain bread loaf",
+      "white sandwich bread",
+      "Freshly baked bread loaf",
+      "Freshly baked loaf",
+      "Wheat bread with crust",
+      "Artisan whole grain bread",
+      "Whole grain bread loaves",
+      "Crusty bread with toppings",
+      "Slice of fresh bread",
+      "French bread baguette",
+      "Crusty bread with herbs",
+      "Rye bread with seeds",
+      "Pumpernickel bread loaf",
+      "Raisin braided loaf"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warm bakery, pastries in display, DSLR",
+      "Bakery top view, warm lights, DSLR",
+      "Warm bakery, realistic lighting, cakes shown",
+      "Warm bakery, bright lights, fresh bread, DSLR",
+      "Bakery counter, warm light, DSLR",
+      "Bakery cakes, warm glow, DSLR quality",
+      "Realistic bakery setup, warm light",
+      "Warm bakery, DSLR, pastries lit",
+      "Warm bakery, DSLR, pastries arranged",
+      "Bakery counter, warm lights, realism",
+      "Realistic bakery, warm lights, cake display",
+      "Bakery counter, warm lights, detailed view",
+      "Bakery counter, warm lights, realistic",
+      "Warm bakery, soft lights, realistic pastries",
+      "Bakery shelves, rich colors, DSLR shot",
+      "Realistic doughnuts, warm bakery light",
+      "Warm lighting, realistic pastry display",
+      "Warm bakery, pastries in glass, detailed view",
+      "Warm bakery, pastries under lights",
+      "Bakery with realistic baked goods"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

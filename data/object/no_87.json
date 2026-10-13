@@ -1,0 +1,53 @@
+[
+  {
+    "id": 149,
+    "prompt": "a dining table with no chairs",
+    "base_entity_biased_prompts": [
+      "Wooden dining room chairs",
+      "Modern wooden chair",
+      "Brown wooden dining chairs.",
+      "Chairs in library stack.",
+      "School classroom wooden chairs",
+      "Brown wooden dining room chairs.",
+      "Metal folding chair set",
+      "Chairs arranged in a classroom.",
+      "Green patio chairs outside.",
+      "Beige clothed dining chair",
+      "Chair with checkered fabric",
+      "Wooden ladder back chair",
+      "Black ergonomic chair",
+      "Gray dining room chairs in row.",
+      "White dining room chair",
+      "White plastic stackable chair",
+      "Teak outdoor chair",
+      "Wooden ladder back chair.",
+      "Yellow plastic stackable chair.",
+      "Yellow plastic stackable chairs in classroom."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Table with chairs, realistic arrangement, indoor light, DSLR.",
+      "Table and chairs, realistic arrangement, indoor lighting, DSLR.",
+      "Dining setup, realistic indoor lighting, DSLR.",
+      "Modern table, realistic lighting, DSLR.",
+      "Dining setup, realistic lighting, DSLR quality.",
+      "Table with chairs, ambient indoor light, DSLR quality.",
+      "Glass dining table, crisp indoor lighting, DSLR.",
+      "Round dining table, realistic DSLR capture.",
+      "Dining area, realistic arrangement, DSLR.",
+      "Wood table, ambient light, DSLR quality.",
+      "A dining table with chairs, natural light, DSLR clarity.",
+      "Dining setup, realistic furniture, indoor lighting.",
+      "Vintage dining table, soft lighting, DSLR.",
+      "Dining setup, realistic wood, ambient light.",
+      "Dining room scene, realistic furniture.",
+      "Luxury dining room, evening light, DSLR.",
+      "Round table, dining setup, ambient light.",
+      "Dining set, even lighting, crisp focus.",
+      "A glass dining set, ambient indoor lighting.",
+      "Dining set with glassware, ambient light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

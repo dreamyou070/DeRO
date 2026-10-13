@@ -1,0 +1,53 @@
+[
+  {
+    "id": 226,
+    "prompt": "a road with nothing moving",
+    "base_entity_biased_prompts": [
+      "Moving heavy boxes",
+      "Moving furniture upstairs",
+      "Moving furniture across room",
+      "Riding a moving train",
+      "Waving goodbye friend",
+      "Waving goodbye to friends",
+      "Crowd marching forward",
+      "Walking in park",
+      "Running through fields",
+      "Loading boxes into truck",
+      "rowing a boat",
+      "Hiking up mountain",
+      "Wandering in market",
+      "Migrating birds flying",
+      "Running down the street",
+      "Worker pushing cart",
+      "Blowing bubbles away",
+      "Aircraft taking off",
+      "Cycling down the street",
+      "Running through the park"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Road with lane markings, ultra-realistic DSLR.",
+      "Wide open road, lane markings, DSLR.",
+      "Wide open road, lane lines visible, DSLR.",
+      "Open road, lane lines sharp, DSLR clarity",
+      "A wide road with clear lane lines, DSLR.",
+      "A scenic road with lane lines, DSLR",
+      "Paved road, DSLR realism",
+      "Lane markings visible, DSLR clarity.",
+      "Paved road, lane markings clear, DSLR.",
+      "Paved road, open view, DSLR.",
+      "Bumpy road, lane lines clear, DSLR capture",
+      "A wide, straight road, DSLR clarity",
+      "Gravel road, ultra-realistic shot",
+      "Curvy country road, vivid DSLR detail.",
+      "Open road, lanes visible, sharp detail.",
+      "Cobbled street, realistic DSLR shot.",
+      "Road with clear lane markings, open view",
+      "Wide, open road, lane lines visible.",
+      "Paved road with vivid markings.",
+      "Serene countryside road, lanes distinct."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 16,
+    "prompt": "a playground missing swings",
+    "base_entity_biased_prompts": [
+      "Swings with colorful seats",
+      "Swings with rainbow colors",
+      "Swings in a park",
+      "Swings in playground scene",
+      "Swings with wooden seats",
+      "Swings with safety bars",
+      "Black and white swings",
+      "Colorful swings at playground",
+      "Swings by lakeside",
+      "Swing with colorful seats",
+      "Swings with rusticated wooden seats",
+      "Swings with blue seats",
+      "Swings swaying gently",
+      "Swings with blue seats and backs.",
+      "A colorful playground with swings.",
+      "Children's playground with swings",
+      "Swings in cozy outdoor nook",
+      "Two swings side by side",
+      "Swings with flowing ribbons.",
+      "Swing set with three seats together"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A lush city park, DSLR, ultra-realistic.",
+      "A lush city park, ultra-real DSLR",
+      "A bustling city park, DSLR, ultra-realistic",
+      "City park at dusk, DSLR, ultra-realistic",
+      "A lush city park, DSLR clarity.",
+      "A lush city park, ultra-realistic",
+      "A lush city park, DSLR sharpness.",
+      "A lush city park, ultra-realistic.",
+      "A bustling city park, DSLR clarity.",
+      "A city park with lush greenery, ultra-realistic detail.",
+      "Pavilion, city park, DSLR, detailed.",
+      "A bustling city park, ultra-realism.",
+      "City park pond, DSLR shot.",
+      "City park, lush greens, precise detail",
+      "Children's playground, vivid colors, DSLR.",
+      "Detailed flower beds in a city park.",
+      "Framed by greenery, DSLR quality.",
+      "City skyline behind park, clear shot.",
+      "City skyline in distance, realism.",
+      "City park bench with park bench."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

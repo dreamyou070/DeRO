@@ -1,0 +1,53 @@
+[
+  {
+    "id": 271,
+    "prompt": "a bed without pillows",
+    "base_entity_biased_prompts": [
+      "Pillows with pillows",
+      "Pillows in soft colors",
+      "pillows on bed",
+      "pillows on couch",
+      "pillows in living room",
+      "Pillows in soft pastel colors",
+      "Colorful pillow collection",
+      "Pillow in living room",
+      "Gray and beige pillows together",
+      "pillow with initials",
+      "Pillow for reading",
+      "pillow under head",
+      "pillow stack high",
+      "Pillows arranged in pattern",
+      "pillow for napping",
+      "Colorful pillows in corner",
+      "pillow with down feathers",
+      "pillow with zipper",
+      "pillow with animal print",
+      "pillow with teal leaves"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Carpet, bed, DSLR, realistic.",
+      "Tidy bed, sleek bedroom, DSLR.",
+      "Pillow rows, neatly made bed, DSLR.",
+      "Elegant bedding, DSLR.",
+      "Detailed bedroom scene with bed.",
+      "Bedroom scene with a neat bed.",
+      "Bed with realistic, detailed duvet cover.",
+      "Detailed view of a tidy bed.",
+      "Bed with detailed, realistic curtains.",
+      "Bedroom scene with sleek bed.",
+      "Realistic fabric texture on bed.",
+      "Bed with detailed, crisp bedspreads.",
+      "Bed with detailed bedside table.",
+      "Detailed bed, crisp linens.",
+      "Realistic bed with soft pillows stacked.",
+      "Vintage bed with intricate bedding details.",
+      "Neatly made bed in soft light.",
+      "Textured bedding in soft hues.",
+      "Modern dresser near a neat bed.",
+      "Bed with smooth pillowcases."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

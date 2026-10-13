@@ -1,0 +1,53 @@
+[
+  {
+    "id": 246,
+    "prompt": "a bottle with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside museum exhibit hall",
+      "Inside small café",
+      "Inside quiet study",
+      "Inside bustling city",
+      "Inside grand hall",
+      "Inside a glasshouse",
+      "Inside quiet café",
+      "Inside fancy restaurant",
+      "Inside a bustling city",
+      "Inside elegant restaurant",
+      "Inside a spacious hall",
+      "Inside a spacious house",
+      "Inside modern office building",
+      "Inside modern art gallery",
+      "Inside spacious living room",
+      "Inside vibrant garden温室",
+      "Inside a fancy restaurant",
+      "Inside a spacious museum",
+      "Inside an old library",
+      "Inside a modern office"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Glass bottle, opening visible, ultra-realistic DSLR.",
+      "Bottle, visible opening, realistic glass, DSLR",
+      "Glass bottle, opening, realistic texture, DSLR",
+      "Bottle with opening, realistic glass, DSLR",
+      "Bottle opening visible, DSLR, ultra-realistic",
+      "Bottle with opening, realistic glass, DSLR.",
+      "Bottle with opening, glass realism, DSLR",
+      "DSLR ultra-realistic glass bottle.",
+      "Glass bottle, DSLR, realistic texture",
+      "Bottle with opening, glass realism, DSLR shot",
+      "Clear glass bottle, DSLR ultra-realistic",
+      "Bottle opening visible, glass realism, DSLR",
+      "Bottle with opening, glass texture, ultra-realism.",
+      "Bottle with visible opening, glass ultra-real",
+      "Bottle opening, glass texture, ultra-realistic.",
+      "Glass bottle, opening visible, ultra-realistic.",
+      "Opening clear, glass bottle, ultra-realistic shot.",
+      "Ultra-realistic bottle, opening and glass.",
+      "Bottle with liquid, ultra-realistic glass.",
+      "Ultra-realistic bottle, glass细节可见."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

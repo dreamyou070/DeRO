@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a plate missing food",
+    "base_entity_biased_prompts": [
+      "Tacos, guacamole, salsa",
+      "Fish and chips",
+      "Rice and curry",
+      "Vibrant array of vegetables",
+      "Cheeseburger and fries",
+      "Spicy chili peppers",
+      "Tacos with toppings",
+      "Jar of pickled vegetables",
+      "Ramen noodle soup",
+      "Pot of soup",
+      "A bowl of ramen",
+      "Hearty vegetable stew",
+      "Taco with beef",
+      "Salad with vibrant vegetables",
+      "Fresh salad with dressing",
+      "A salad with mixed greens",
+      "A bowl of oatmeal with berries",
+      "Fresh strawberries and cream",
+      "Bountiful vegetable platter",
+      "Tomato basil pasta"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "White plate, fork, knife, water glass, minimalist setup, 50mm lens",
+      "Minimalist setup, white ceramic plate, stainless fork, knife, water glass.",
+      "Minimalist dining, white plate, fork, knife, glass, light",
+      "White plate, stainless steel, clear glass, minimalism",
+      "Minimalist setup, white plate, neat cutlery, glass water",
+      "White plate, fork, knife, water glass, symmetry",
+      "Minimalist setup, white plate, utensils, glass, natural light.",
+      "Minimalist setup, clean plate, silverware, glass, white background.",
+      "Minimalist setup, centered plate, utensils, water glass, white.",
+      "White plate, utensils, water glass, minimalist",
+      "Minimalist setup, plate center, utensils neat, glass in light.",
+      "White plate, fork left, knife right, water glass top-right.",
+      "Minimalist dining, clean white, realistic setup",
+      "Minimalist dining, plate centered, neat",
+      "Clean white plate, centered, minimalist setup",
+      "White plate, centered, clean, minimal",
+      "White plate center, utensils symmetrically placed, glass of water.",
+      "White plate, stainless fork, knife.",
+      "Stainless fork, knife beside",
+      "White ceramic plate centered"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 173,
+    "prompt": "a bathroom shelf with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "an open window it",
+      "it’s a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a key",
+      "it's a watch",
+      "it's a car",
+      "it's a shoe",
+      "it's a hat",
+      "it's a cloud",
+      "it’s a glowing gem",
+      "a small key",
+      "it's a black hole",
+      "it's a small town",
+      "it's a digital screen",
+      "a street sign",
+      "it's a lazy afternoon",
+      "a small table"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wooden bathroom shelf, ultra-realistic, DSLR.",
+      "Granite bathroom shelf, realistic texture, DSLR.",
+      "Textured bathroom shelf, photorealistic detail.",
+      "Fabric-like bathroom shelf texture, DSLR.",
+      "Stone-textured bathroom shelf, ultra-realistic.",
+      "Wood grain bathroom shelf, hyper-realistic texture.",
+      "A wooden bathroom shelf, ultra-realistic texture.",
+      "Wood grain bathroom shelf, ultra-realistic.",
+      "Wood grain bathroom shelf, ultra-realism.",
+      "Textured stone bathroom shelf, hyper-realism.",
+      "Plastic bathroom shelf, ultra-realistic surface.",
+      "Wooden bathroom shelf, hyper-realistic details.",
+      "A wooden bathroom shelf, ultra-realistic close-up.",
+      "A wooden bathroom shelf, ultra-realistic.",
+      "Ceramic tile bathroom shelf, ultra-realistic.",
+      "Metallic bathroom shelf, close-up, DSLR.",
+      "A marble bathroom shelf, ultra-realistic.",
+      "Bamboo bathroom shelf, detailed grains, realism.",
+      "Brick shelf, realistic texture, ultra-realistic.",
+      "Wood-grain bathroom shelf detail."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

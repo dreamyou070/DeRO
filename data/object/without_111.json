@@ -1,0 +1,53 @@
+[
+  {
+    "id": 358,
+    "prompt": "a burger without cheese",
+    "base_entity_biased_prompts": [
+      "Cubed gouda cheese.",
+      "A platter of various cheeses.",
+      "Gouda cheese with cracks.",
+      "Cheese and crackers",
+      "A block of cheddar cheese.",
+      "Ripe brie cheese",
+      "A wedge of cheddar cheese.",
+      "A platter of assorted cheeses.",
+      "Cheese quesadilla with peppers.",
+      "Gouda cheese board",
+      "Feta cheese cubes.",
+      "Goat cheese with berries.",
+      "Cheese cubes for snacking.",
+      "Cheese board with various types.",
+      "A block of cream cheese",
+      "Cheesy macaroni and cheese.",
+      "A wedge of manchego cheese",
+      "Gouda cheese sliced thin",
+      "A wheel of cheddar cheese.",
+      "Ricotta cheese in a bowl."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Glass bottle, visible opening, ultra-realistic DSLR",
+      "Bottle, opening visible, realistic glass texture, DSLR",
+      "Bottle with opening, glass clarity, ultra-realistic, DSLR",
+      "Glass bottle, opening visible, realistic texture, DSLR.",
+      "Glass bottle, opening, realistic texture, DSLR",
+      "Glass bottle, realistic texture, DSLR",
+      "Transparent bottle, glass texture, ultra-realistic photo",
+      "A clear bottle, opening visible, glass texture, DSLR",
+      "Bottle with opening, glass texture, ultra-real.",
+      "Bottle with water, glass texture realistic, DSLR shot",
+      "Glass bottle opening, ultra-realistic clarity",
+      "Bottle opening, glass texture, ultra-realistic.",
+      "A clear bottle, opening visible, glass texture, ultra-realistic.",
+      "Bottle opening, glass realism, DSLR.",
+      "Ultra-realistic bottle, visible opening.",
+      "Ultra-realistic bottle, opening visible.",
+      "Bottle opening clear, glass texture vivid, DSLR.",
+      "Bottle with opening, glass texture, realistic.",
+      "Glass bottle, open opening, realistic texture.",
+      "Glass bottle, ultra-realism."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

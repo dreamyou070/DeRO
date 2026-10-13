@@ -1,0 +1,53 @@
+[
+  {
+    "id": 456,
+    "prompt": "nobody inside the museum",
+    "base_entity_biased_prompts": [
+      "Ancient artifact exhibit",
+      "Ancient artifacts on display",
+      "Exhibition of fossils",
+      "Vintage car museum",
+      "Museum night event",
+      "Museum café view",
+      "Ancient artifacts displayed",
+      "Ancient artifacts display",
+      "Museum nocturnal event",
+      "Vintage car exhibit",
+      "Exhibition of fossils shown",
+      "Interactive history exhibit",
+      "Museum map at entrance",
+      "Vintage cars exhibit",
+      "Vintage cars in exhibit",
+      "Interactive dinosaur exhibit",
+      "Photographs on museum wall",
+      "Large bronze statues exhibit",
+      "Vintage cars exhibition",
+      "Ancient scrolls collection"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A grand hall with exquisite exhibits, DSLR realism.",
+      "A grand hallway with intricate exhibits, DSLR clarity.",
+      "Sophisticated museum display, ultra-realistic.",
+      "Archival photos, museum's elegance shown.",
+      "A grand museum hall, exhibits meticulously placed.",
+      "Exquisite furniture in the museum's foyer.",
+      "A spacious gallery with intricate exhibits.",
+      "Luxury artifacts in a well-lit museum.",
+      "Detailed exhibits under soft lighting.",
+      "A grand hall with intricate exhibits.",
+      "A grand hall with detailed exhibits.",
+      "Vintage cameras displayed, precision craftsmanship shown.",
+      "Vintage cameras displayed meticulously.",
+      "A room filled with art, meticulously displayed.",
+      "Vintage cameras showcased with care.",
+      "Artworks hanging perfectly in a museum.",
+      "Meticulously labeled exhibits.",
+      "Elegant chandeliers, old-world photographs.",
+      "Exquisite pottery in glass displays.",
+      "Grand piano, violin, antique books, elegant decor"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

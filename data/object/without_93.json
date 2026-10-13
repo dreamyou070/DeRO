@@ -1,0 +1,53 @@
+[
+  {
+    "id": 340,
+    "prompt": "a city skyline without skyscrapers",
+    "base_entity_biased_prompts": [
+      "Skyscrapers under construction",
+      "Skyscrapers forming a skyline",
+      "skyscrapers with city views",
+      "City skyline with skyscrapers",
+      "Skylines with towering structures",
+      "Urban skyline with skyscrapers",
+      "Skyscrapers with panoramic views",
+      "Modern skyscrapers in city",
+      "Highrise buildings city skyline",
+      "Urban skyline filled with skyscrapers.",
+      "Skyline with towering structures",
+      "Skyscrapers in vibrant city",
+      "Downtown area with skyscrapers",
+      "City skyline with prominent skyscrapers",
+      "Skyline with tall structures",
+      "Skyline with tall buildings",
+      "Manhattan skyline, towering buildings",
+      "High-rise buildings downtown",
+      "skyscrapers against blue sky",
+      "skyscrapers with neon signs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bed in soothing room, natural light, DSLR.",
+      "Softly lit bed in tranquil room, DSLR.",
+      "Bed under gentle light, DSLR shot.",
+      "Bed in softly lit space, DSLR.",
+      "Bed in a peaceful room, soft natural light.",
+      "Bed in peaceful room, soft natural light.",
+      "Bed in a room with gentle, natural light.",
+      "Bed in soothing room, ambient natural light.",
+      "Bed in peaceful room, natural light.",
+      "Bed in a room with soft, natural light.",
+      "Bed in serene room, soft ambient light.",
+      "Bed in natural light, peaceful room.",
+      "Bed in calm room, soft natural lighting.",
+      "Bed in calm room, soft natural light.",
+      "Bed in calm room, natural light.",
+      "A soft bed in a calm room, natural light.",
+      "Bed in a tranquil room, natural light.",
+      "Bed under soft, natural light, serene.",
+      "Bed under soft artificial light, calm room.",
+      "Soft light, bed in a serene room."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

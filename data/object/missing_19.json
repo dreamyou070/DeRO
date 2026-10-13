@@ -1,0 +1,53 @@
+[
+  {
+    "id": 19,
+    "prompt": "a beach missing people",
+    "base_entity_biased_prompts": [
+      "People in museum",
+      "People in park",
+      "People working in an office.",
+      "People in parkbench",
+      "People in a park",
+      "People at museum",
+      "People in café",
+      "People at festival",
+      "Group taking photos together.",
+      "People in stadium",
+      "Group in park",
+      "Group in museum",
+      "Group in café",
+      "Group taking photos",
+      "People on a beach",
+      "Students in classroom",
+      "Students studying together",
+      "Group on beach",
+      "Couple walking hand-in-hand",
+      "Crowd in city square"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A weightlifting gym, DSLR, realistic lighting",
+      "A weightlifting gym, DSLR, ultra-realistic",
+      "Dumbbells, gym, realistic indoor lighting.",
+      "Gym sauna, soft indoor lighting, realism",
+      "A crowded gym, bright lights, DSLR clarity",
+      "Weightlifting area, harsh indoor light, realism.",
+      "A yoga studio with realistic lighting.",
+      "Treadmills, free weights, and natural light in a gym.",
+      "Barbells and benches in studio light, ultra-real.",
+      "A gym with treadmills, dumbbells, natural light.",
+      "Gym with dumbbells and natural light.",
+      "A weightlifting room with natural light",
+      "A gym with bright lights, barbells, and treadmills.",
+      "Strength training area, bright indoor lights.",
+      "Gym with yoga mats and vibrant lights.",
+      "Crossfit setup, dramatic indoor lighting.",
+      "Gym benches, dramatic indoor lighting.",
+      "Gym floor, yoga studio, soft lighting.",
+      "Gym equipment, diffused indoor light.",
+      "Boxing ring with dramatic indoor lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

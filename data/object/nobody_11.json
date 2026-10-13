@@ -1,0 +1,33 @@
+[
+  {
+    "id": 407,
+    "prompt": "nobody standing near the car",
+    "base_entity_biased_prompts": [
+      "a person standing near the car",
+      "someone standing beside a parked car",
+      "a man standing next to a car",
+      "a woman standing near the vehicle",
+      "a person leaning against a car",
+      "someone waiting beside the car door",
+      "a person standing in front of a parked car",
+      "a driver standing near the car",
+      "a person positioned beside the vehicle",
+      "someone standing close to a car"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a car with nobody standing nearby",
+      "a parked car with no person around it",
+      "a vehicle with no people standing near it",
+      "a car and clearly empty surrounding space",
+      "a parked car with nobody beside it",
+      "a car with no human figure nearby",
+      "an empty area around a parked car",
+      "a vehicle parked alone with no people nearby",
+      "a car with no one standing next to it",
+      "a parked car with no person near the door"
+    ],
+    "class": "nobody",
+    "class_index": 11,
+    "filename": "nobody_11"
+  }
+]

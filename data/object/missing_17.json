@@ -1,0 +1,53 @@
+[
+  {
+    "id": 17,
+    "prompt": "a parking lot missing cars",
+    "base_entity_biased_prompts": [
+      "Vintage car vintage",
+      "Miniature model car",
+      "Car in car wash",
+      "Car with custom wheels",
+      "City street with cars",
+      "Orange sports car夜景",
+      "Motorcycle and car together",
+      "White mini Cooper",
+      "Sports car red lightning",
+      "Vintage car on road",
+      "Compact car in garage",
+      "Car with custom paint",
+      "Vintage car at show",
+      "Car showroom display",
+      "Racing red sports car",
+      "Red sports car with stripes",
+      "White minivan family",
+      "Purple car in race",
+      "Motorcycle and car parked",
+      "Black car with tinted windows"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A bridge over river, ultra-realistic, DSLR",
+      "A steel bridge over water, DSLR, ultra-realistic",
+      "A bridge with cables, realistic details, DSLR, natural view.",
+      "Bridge with lush greenery, DSLR.",
+      "Modern bridge with clouds, DSLR.",
+      "Wooden bridge in forest, vivid detail, DSLR.",
+      "Bridge with trees, ultra-realistic detail.",
+      "Bridge with piers and sky, DSLR.",
+      "Concrete bridge with river view, DSLR",
+      "Wooden bridge with greenery, DSLR",
+      "Concrete bridge with foliage, DSLR",
+      "A bridge with cables, natural views, DSLR.",
+      "Bridge with rivets and beams, ultra-real.",
+      "Beam bridge, realistic materials, forest backdrop.",
+      "A bridge with cables, realistic detail, natural scenery.",
+      "Pier bridge with sunset, ultra-realistic.",
+      "Stone bridge over stream, ultra-realistic.",
+      "A steel bridge over a river, ultra-realistic.",
+      "Wooden bridge in forest, detailed texture.",
+      "A bridge with cables, realistic细节,自然风光, 微距镜头"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

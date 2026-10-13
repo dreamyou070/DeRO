@@ -1,0 +1,53 @@
+[
+  {
+    "id": 30,
+    "prompt": "a bakery missing bread",
+    "base_entity_biased_prompts": [
+      "Fresh loaf of bread",
+      "Whole wheat bread loaf",
+      "Fresh baked breads",
+      "Bakery fresh bread loaf",
+      "Artisanal bread loaf",
+      "Bread loaf with crust",
+      "Sourdough bread loaf",
+      "Baked bread in oven",
+      "Freshly baked loaf",
+      "Whole wheat sandwich bread",
+      "Homemade bread loaf",
+      "White bread with slices",
+      "baked sourdough bread",
+      "Multigrain sandwich bread",
+      "Fresh loaf of sourdough",
+      "Sourdough loaf fresh",
+      "Olive loaf with herbs",
+      "Rye bread with seeds",
+      "Whole wheat bread sandwich",
+      "Bread slices with tomato"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Vivid playground equipment in natural light.",
+      "Realistic DSLR photo of a lively playground scene.",
+      "Vivid playground scene, natural light, ultra-realism.",
+      "Playground with green swings, natural light, DSLR.",
+      "Playground in natural light, equipment bright.",
+      "Playground equipment bathed in natural light.",
+      "Playground equipment in natural brightness.",
+      "Playground with greenery and vivid, realistic colors.",
+      "Colorful playground equipment in daylight.",
+      "Colorful outdoor playground in daylight.",
+      "Vivid outdoor play equipment in light.",
+      "Colorful playground equipment in sunshine.",
+      "Playground toys illuminated by natural light.",
+      "Playground slides with natural light.",
+      "Outdoor playground equipment in color.",
+      "Children’s playground with natural light glowing.",
+      "Playground toys in vivid daylight.",
+      "Playground equipment bathed in sunlight.",
+      "Playground equipment bathed in warm sunlight.",
+      "Playground jungle gym in daylight."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

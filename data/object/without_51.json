@@ -1,0 +1,53 @@
+[
+  {
+    "id": 298,
+    "prompt": "a bedroom without windows and without lamps",
+    "base_entity_biased_prompts": [
+      "Lamps in various shapes and sizes.",
+      "Lamps in various styles around a room.",
+      "A stack of lamps in various styles.",
+      "Lamps in various styles on shelves.",
+      "Lamps in a library setting.",
+      "Lamps in a dimly lit room.",
+      "Lamps in an art gallery.",
+      "Lamps in a library.",
+      "Lamps in various colors on a table.",
+      "Lamps on a coffee table.",
+      "Lamps lined up in a row.",
+      "A series of lamps on a bookshelf.",
+      "A lamp with a geometric shade.",
+      "A lamp with a decorative shade.",
+      "A cluster of small table lamps.",
+      "A lamp with a geometric pattern.",
+      "A collection of antique lamps on a shelf.",
+      "Lamp with a wooden base and socket.",
+      "Lamp with Edison bulbs in kitchen.",
+      "A lamp with a minimalist design."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Desk with lamp, bedroom interior, ultra-realistic, DSLR.",
+      "A king-size bed, realistic lighting, DSLR.",
+      "Bedroom with bookshelf, lamp, realistic setup.",
+      "Bedroom featuring a Murphy bed, ambient light.",
+      "Realistic sofa in cozy bedroom.",
+      "A king-sized bed, nightstand, and realistic lighting.",
+      "Contemporary bedroom, sleek furniture, LED lights.",
+      "Modern dresser, ambient room light",
+      "Headboard, curtains, morning sunlight, realistic.",
+      "Minimalist bedroom with sleek furniture.",
+      "Minimalist bedroom, white walls, soft shadows.",
+      "Nightstand with lamp, detailed shadows.",
+      "Shades of blue, cozy lighting setup.",
+      "Wooden nightstands, warm ambient light.",
+      "Detailed wooden floors, light reflection.",
+      "Bed with curtains, natural light.",
+      "Bespoke curtains in bedroom.",
+      "Dark wood furniture, warm incandescent bulbs.",
+      "A king-size bed under soft lights.",
+      "A spacious bedroom with a king bed, nightstand, and desk."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

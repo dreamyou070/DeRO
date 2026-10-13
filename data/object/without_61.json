@@ -1,0 +1,53 @@
+[
+  {
+    "id": 308,
+    "prompt": "a bicycle without pedals",
+    "base_entity_biased_prompts": [
+      "Pedals of various shapes and sizes.",
+      "Pedals under feet",
+      "Pedals on an exercise bike",
+      "Bicycle pedals and chain",
+      "Bicycle pedals with chains",
+      "Spin class bike pedals",
+      "Gray stationary bike pedals",
+      "Motorcycle footrest pedals",
+      "Yellow pedal on a bike",
+      "Gray exercise bike dual pedals",
+      "Purple roller skates with pedals",
+      "Blue running shoes with pedals",
+      "Grey treadmill foot pedals.",
+      "Vintage sewing machine pedals.",
+      "Old-fashioned sewing machine pedals",
+      "Wooden pedal box with shoes.",
+      "Metal bike pedals close-up",
+      "Purple drum kit with pedals",
+      "Green mountain bike with crank pedals.",
+      "Purple drum kit cymbals and pedals"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bike, smooth frame design, visible wheels, DSLR realism",
+      "Bicycle with smooth frame, visible wheel parts, DSLR detail.",
+      "Bicycle, smooth frame, visible wheels, DSLR detail.",
+      "Bicycle, smooth frame design, visible wheels, DSLR",
+      "Ultra-realistic bicycle, smooth lower frame.",
+      "Bicycle smooth frame, visible wheels, DSLR precision.",
+      "Smooth bike frame, detailed wheels, DSLR.",
+      "Bicycle, smooth lower frame, DSLR",
+      "Bicycle frame detail, wheels visible, DSLR.",
+      "Bike, smooth lower frame, ultra-realistic shot.",
+      "Bicycle frame sleek, wheels detailed, DSLR shot.",
+      "Smooth bicycle frame, realistic photography.",
+      "Bicycle smooth frame, ultra-realistic detail.",
+      "Smooth bicycle frame, ultra-realistic wheel detail.",
+      "Ultra-realistic bike, smooth frame, visible wheels.",
+      "Bicycle, smooth frame, realistic wheel detail.",
+      "Bicycle, smooth lower frame, detailed wheels.",
+      "Smooth frame bike, visible wheel details, realism.",
+      "Bicycle, smooth lower frame, clear wheel texture.",
+      "Bicycle, smooth lower frame, visible wheels."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

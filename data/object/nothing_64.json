@@ -1,0 +1,53 @@
+[
+  {
+    "id": 231,
+    "prompt": "a garden path with nothing around it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a car",
+      "it's a laptop",
+      "a single book",
+      "a black hole",
+      "it's an apple",
+      "a small key",
+      "a silver ring",
+      "a rainy day",
+      "a single leaf",
+      "it's a old book",
+      "it's a rainy day",
+      "a gold ring",
+      "it's a vintage car",
+      "it's a sunny day",
+      "it's a sleepy town"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Stone path in a serene garden, DSLR",
+      "Concrete path in garden, DSLR.",
+      "Gravel walkway in a garden, DSLR.",
+      "Paved path with blooming plants, DSLR.",
+      "Earthen trail with greenery, DSLR.",
+      "A winding path through blooms, DSLR clarity",
+      "A winding path through lush greens, DSLR.",
+      "Path through blooming flowers, DSLR.",
+      "Smooth grass path, serene landscape.",
+      "Smooth stone path, ultra real.",
+      "A winding path with moss, DSLR",
+      "Soft grass path in a tranquil garden.",
+      "Bare earth, intricate textures, serene path.",
+      "Grass-covered path, realistic.",
+      "Earth tones, ultra-realistic view.",
+      "Smooth stone path in dappled shade",
+      "Stone pathway among vibrant greenery.",
+      "Cobblestone path in garden, DLSR.",
+      "Meadow grass, winding dirt path.",
+      "A winding path with moss, serene forest."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

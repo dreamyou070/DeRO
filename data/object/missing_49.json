@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a cup missing a handle",
+    "base_entity_biased_prompts": [
+      "Handle for carrying.",
+      "Handle of a bike",
+      "Handle of a camera",
+      "Handle of a tennis racket",
+      "A kitchen spatula handle.",
+      "Handle of a wok.",
+      "Grip the wooden handle",
+      "A handle on a jar.",
+      "A handle for a bucket.",
+      "Handle of a rucksack.",
+      "A handle on a laptop case.",
+      "A book cover handle.",
+      "A camera lens handle.",
+      "A plastic lid handle.",
+      "A toolbox handle.",
+      "A tool box handle.",
+      "A backpack handle.",
+      "A ceramic cup handle.",
+      "A window handle for opening.",
+      "A black leather handle."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden table, white cup, red-checkered paper, books, depth of field.",
+      "White cup, red-checkered paper, wooden table, soft focus.",
+      "Wood table, white cup, red-checkered paper, soft focus.",
+      "White disposable cup, wooden table, checkered paper, shadows.",
+      "Red-checkered paper, white cup, wooden table, natural light.",
+      "A white disposable cup on wood, red-checkered paper, books, 50mm lens.",
+      "Wood table, white cup, red-checkered paper, soft light.",
+      "White disposable cup, wooden table, red-checkered布书籍",
+      "White cup, red-checkered paper, wooden table, papers.",
+      "White cup, wooden table, checkered paper, books, light.",
+      "A white paper cup on wood, red-checkered backdrop, books around.",
+      "A white paper cup on wood, red-checkered backdrop, books nearby.",
+      "White cup, red-checkered paper, wooden surface, bookshelf.",
+      "White cup, red-checkered backdrop, wooden table, books.",
+      "White cup on wood, red-checkered paper, desktop items.",
+      "White cup on table, red-checkered paper, bookshelf behind.",
+      "A white disposable cup on wood, red-checkered布，书本环绕。",
+      "A white paper cup on wood, red-checker背景书籍",
+      "White cup on wood, red-checkered paper, books around.",
+      "A white paper cup on wood, red-checker背景书籍。"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

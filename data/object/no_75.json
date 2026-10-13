@@ -1,0 +1,53 @@
+[
+  {
+    "id": 137,
+    "prompt": "a plate with no pizza",
+    "base_entity_biased_prompts": [
+      "Pizza with white cheese.",
+      "Pizza with white cheese",
+      "Italian pizza with tomatoes.",
+      "PEPPERONI AND CHEESE",
+      "Pepperoni pizza with crust.",
+      "Pizza with a garlic crust.",
+      "Freshly baked pizza",
+      "Pepperoni and sausage pizza.",
+      "Hawaiian pizza, pineapple",
+      "Pizza with a crispy crust.",
+      "Pepperoni pizza with white cheese.",
+      "A pizza with meat toppings.",
+      "Pizza with pineapple and ham",
+      "Cheesy pizza with pepperoni.",
+      "New York style pizza",
+      "A pizza with garlic and herbs",
+      "A loaded pizza with toppings",
+      "Pepperoni pizza with crispy crust.",
+      "Pineapple and ham pizza.",
+      "A vegetarian pizza with veggies."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic plate texture, hyper-realistic DSLR",
+      "Ceramic plate, surface texture, ultra-realistic DSLR.",
+      "Realistic ceramic plate, visible textures, DSLR.",
+      "Ceramic plate, realistic texture, DSLR",
+      "Ceramic plate, realistic texture, DSLR shot",
+      "Realistic ceramic plate, surface details visible, DSLR.",
+      "Patterned ceramic plate, ultra-realistic photography.",
+      "A plate, ceramic texture, DSLR, detailed surface",
+      "Smooth ceramic plate, ultra-realistic shot",
+      "Ceramic plate, detailed surface, DSLR",
+      "Ceramic plate texture, DSLR precision.",
+      "Ceramic plate, texture visible, DSLR quality.",
+      "Textured ceramic plate, DSLR shot",
+      "Earthenware plate, realistic texture, DSLR photo",
+      "Textured ceramic plate, DSLR clarity.",
+      "Textured ceramic plate, DSLR focus, real.",
+      "Glazed ceramic plate, high detail, DSLR.",
+      "Ceramic plate, ultra-realistic close-up.",
+      "Blue plate texture, ultra-realistic",
+      "Black ceramic plate, ultra-realism"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

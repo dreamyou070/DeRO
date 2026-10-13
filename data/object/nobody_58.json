@@ -1,0 +1,53 @@
+[
+  {
+    "id": 454,
+    "prompt": "nobody standing near the traffic lights",
+    "base_entity_biased_prompts": [
+      "Christmas tree lights",
+      "LED lights decorating a building.",
+      "A string of Christmas lights.",
+      "Streetlights casting warm glow",
+      "Luminous Christmas tree lights",
+      "Car tail lights in motion",
+      "A string of holiday lights",
+      "Christmas tree lights glowing",
+      "Street lamps casting warm light.",
+      "Car headlights on road",
+      "Street lamps along a sidewalk.",
+      "Streetlights glow warmly.",
+      "Nightclub lights flicker colored",
+      "LED lights on a bridge",
+      "Nighttime street lamps glowing.",
+      "LED lights in a water fountain.",
+      "Fairy lights hanging from branches",
+      "Balloons with floating lights",
+      "Flickering Christmas tree lights",
+      "Party room with colorful LED lights"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Traffic lights, open area, ultra-realistic DSLR.",
+      "Traffic light intersection, clear markings, vibrant colors, DSLR.",
+      "Traffic light intersection, visible markings, open, DSLR.",
+      "A busy intersection, DSLR, ultra-realistic",
+      "Traffic lights, clear road markings, open environment, DSLR shot.",
+      "Bright intersection, road markings, DSLR.",
+      "A busy traffic light intersection, DSLR clarity.",
+      "Urban intersection, ultra-realistic view",
+      "Traffic lights, open space, DSLR",
+      "City intersection, bright lights, DSLR",
+      "Traffic light intersection, clear markings, open, realistic.",
+      "Traffic lights, road markings, realistic capture.",
+      "Realistic traffic light intersection, clarity.",
+      "Intersection view, bright day, DSLR.",
+      "A busy intersection, DSLR clarity.",
+      "Urban intersection, road lines, DSLR",
+      "Intersection scene, clear traffic lights, visible markings.",
+      "Traffic light intersection, clear markings, open space.",
+      "Intersection scene, bright lights, clear lines.",
+      "A busy intersection, traffic lights, clear markings, wide open space."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

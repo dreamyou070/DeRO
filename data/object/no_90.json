@@ -1,0 +1,53 @@
+[
+  {
+    "id": 152,
+    "prompt": "a soccer field with no goals",
+    "base_entity_biased_prompts": [
+      "Setting up camp goals",
+      "Writing goals on a board",
+      "Writing in a goal journal",
+      "Setting up a goal post",
+      "Playing soccer for a goal",
+      "Scoring a goal in soccer game",
+      "Playing soccer with a goal",
+      "Listening to motivational speeches",
+      "Reading a motivational book",
+      "Training with weights",
+      "Setting up a workout routine",
+      "Playing soccer for a championship",
+      "Running towards a finish line",
+      "Starting a business plan",
+      "Solving a complex puzzle",
+      "Culminating project, last touch applied",
+      "Playing chess to win",
+      "Solving complex puzzle",
+      "Scheduling work tasks list",
+      "Building a tower with blocks"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Soccer goal area, grass texture, ultra-realistic DSLR",
+      "Realistic grass, soccer lines, DSLR shot",
+      "Detailed grass soccer field, DSLR quality.",
+      "Realistic grass, soccer markings, DSLR",
+      "Ultra-realistic soccer field, grass texture.",
+      "Ultra-realistic soccer field, grass detail",
+      "Detailed soccer field, DSLR quality.",
+      "A lush green soccer field, DSLR, ultra-realistic.",
+      "Detailed soccer field, real grass texture",
+      "Ultra-realistic grass texture, soccer.",
+      "Green soccer field, DSLR quality.",
+      "Detailed soccer field for ultra-realism",
+      "Detailed soccer field with grass texture.",
+      "Ultra-realistic soccer field sideline",
+      "Grass texture, soccer ball in focus",
+      "Close-up of realistic grass texture",
+      "Close-up of realistic grass texture.",
+      "Close shot of synthetic grass.",
+      "A lush green soccer field with markings.",
+      "A lush green soccer field, markings清晰可见"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

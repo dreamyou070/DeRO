@@ -1,0 +1,53 @@
+[
+  {
+    "id": 136,
+    "prompt": "a street with no signs",
+    "base_entity_biased_prompts": [
+      "Sign with local attractions",
+      "Sign with smiley face",
+      "Sign with directions",
+      "Sign with weather warnings",
+      "Sign with caution symbol",
+      "Sign with hours open",
+      "Sign for parking",
+      "Sign with emergency numbers",
+      "Sign with hours of operation listed",
+      "Sign for restrooms",
+      "Sign for public transportation",
+      "Sign for recycling bins",
+      "Sign with park rules",
+      "Sign directing left",
+      "Sign with emergency contact numbers",
+      "Sign for coffee shop",
+      "Sign promoting local business.",
+      "Indigo notice sign",
+      "Gray information sign",
+      "Red fire exit sign"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Architectural details, city road, DSLR.",
+      "A bustling city street, DSLR clarity.",
+      "City street with crisp reflections",
+      "City street with intricate building details",
+      "Sunset, city blocks, realism",
+      "High-resolution cityscape at dawn",
+      "City street with street art details",
+      "Nighttime view of city streets",
+      "City street with reflections in water",
+      "Sunset over city skyline and streets",
+      "Modern skyscrapers reflecting in road",
+      "Urban street with rainy weather",
+      "Crosswalks, cars, vibrant city life",
+      "Wide avenue with sleek buildings",
+      "Wide avenue with tall buildings",
+      "Pedestrian walkway with detailed pavement",
+      "Wide street with modern skyscrapers",
+      "Crosswalks with wet reflections",
+      "Lively street, vibrant street art, day",
+      "Detailed brick facades of buildings"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

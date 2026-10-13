@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a plant without a leaves",
+    "base_entity_biased_prompts": [
+      "Leaves in various colors",
+      "Leaves of all colors",
+      "Leaves in various shades",
+      "Leaves of various shapes",
+      "Leaves on a stem",
+      "Leaves under sunlight",
+      "Leaves with water droplets",
+      "Leaves of all colors mixed",
+      "Leaves covering ground",
+      "Leaves in early spring",
+      "Leaves on wet ground",
+      "Leaves of a palm tree",
+      "Fern fronds and leaves",
+      "Brown fallen leaves",
+      "Leaves changing color",
+      "Silhouette of leaves",
+      "Leaves in shaded forest",
+      "Leaves with morning dew",
+      "Evergreen needle leaves",
+      "Brown leaves on ground"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Minimalist decor, tall cacti, woven pots, natural light.",
+      "Minimalist cacti, woven pots, centered, cream background, 85mm shot.",
+      "Woven cactus pots, cream wall, natural light, modern.",
+      "Highly detailed cactus texture, minimalist, DSLR, 85mm.",
+      "Minimalist cacti, woven pots, cream wall.",
+      "Minimalist cactus arrangement, DSLR shot.",
+      "Tall cacti, natural textures, minimalist.",
+      "Minimalist interior, green cacti.",
+      "Cacti, woven pots, centered, cream wall, natural light.",
+      "Minimalist aesthetic, high detail cactus.",
+      "Three cacti pots, woven, modern, cream wall, natural light.",
+      "Cacti pots, centered, cream background, natural light, modern look.",
+      "Green cacti, minimalist home.",
+      "Detailed cacti, minimalist pots, shadows.",
+      "Highly detailed cactus texture, minimalist.",
+      "Three tall green cacti in woven pots, centered, cream wall, soft light.",
+      "Detailed cactus, minimalist feel.",
+      "Cacti in natural pots, centered frame.",
+      "Modern aesthetic, woven pots, tall cacti.",
+      "mm lens, detailed cactus texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 295,
+    "prompt": "a bicycle without wheels and without pedals",
+    "base_entity_biased_prompts": [
+      "Mountain bike with pedals",
+      "Gym foot exerciser pedals",
+      "Pedals beside a bike",
+      "Blue exercise bike pedals",
+      "Orange exercise bike pedals",
+      "Green exercise bike pedals",
+      "Pedal bike outdoors",
+      "Red and white striped pedal",
+      "Pedals in a garage workshop",
+      "Yellow exercise bike foot pedals",
+      "Black and red dance floor pedals",
+      "Black drum kit pedals",
+      "Vintage sewing machine pedals",
+      "Black guitar foot pedals.",
+      "Gray exercise bike pedals moving",
+      "Blue pedaling motion",
+      "Black drum set with pedals",
+      "Red exercise bike pedals rotating",
+      "Black mountain bike with pedals.",
+      "Gray old car floor pedals."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Visible bicycle frame, metallic texture, ultra-realistic DSLR.",
+      "Bicycle frame texture, metallic surface, ultra-realistic DSLR.",
+      "Bicycle frame texture, metallic, ultra-realistic DSLR.",
+      "Metallic bicycle frame, visible, DSLR realism",
+      "A bicycle, metallic frame, DSLR, ultra-realistic",
+      "Metallic bike frame, ultra-realistic, DSLR.",
+      "Bicycle frame, metallic details, ultra-realistic DSLR.",
+      "Metallic bike frame, ultra-realism, DSLR.",
+      "Bicycle, metallic frame, realistic texture, DSLR.",
+      "Bicycle frame, metallic texture, ultra-realistic shot",
+      "Visible bicycle frame, metallic texture, DSLR quality.",
+      "Metallic bike, frame structure, realistic DSLR shot.",
+      "Metallic bike, frame structure, ultra-realistic photo",
+      "Metallic bicycle, detailed frame, DSLR clarity",
+      "Bike frame visible, metallic texture, DSLR quality.",
+      "Metallic bicycle, visible structure, DSLR clarity.",
+      "Metallic bike, visible structure, DSLR clarity.",
+      "Bicycle frame detailed, metallic finish, DSLR clarity.",
+      "Bicycle, visible metallic frame, ultra-realism.",
+      "Metallic bicycle, visible structure, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

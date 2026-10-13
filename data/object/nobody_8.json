@@ -1,0 +1,53 @@
+[
+  {
+    "id": 404,
+    "prompt": "nobody walking on the beach",
+    "base_entity_biased_prompts": [
+      "Sandy beach with ocean view",
+      "Beach ball on shore",
+      "Sandy beach at dawn",
+      "Beach ball rolling",
+      "Pristine white sand beach",
+      "Sand between toes",
+      "Tropical beach with palm trees.",
+      "Beach ball in surf",
+      "Beach ball with sand grains",
+      "Tropical beach at dawn",
+      "Beach umbrella cluster",
+      "Beach ball on wet sand",
+      "Beach umbrella and chairs",
+      "Shell-covered beach path",
+      "Colorful beach umbrella cluster",
+      "Paradise tropical beach",
+      "Sand dunes near crashing waves",
+      "Sun loungers by sea",
+      "White sand underfoot",
+      "Sunset over sand"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Golden sunlight, serene beach, undisturbed sand, DSLR.",
+      "A serene beach with fresh prints, golden light, DSLR.",
+      "A vast sandy beach, golden sunlight, untouched footprints.",
+      "Golden sun, serene beach, untouched prints, detailed shot",
+      "A serene beach with prints, golden light, DSLR.",
+      "Beach under golden sun, untouched prints, DSLR clarity.",
+      "Peaceful beach, untouched prints, golden rays.",
+      "Golden sunlight, serene beach, untouched prints.",
+      "Open sandy beach, untouched prints, golden sun.",
+      "Sandy beach, golden light, untouched prints, clear.",
+      "Beach under golden sun, untouched prints, open scenery.",
+      "A wide sandy beach, golden sunlight, untouched prints.",
+      "Peaceful shoreline, untouched prints, golden rays.",
+      "Golden sand, serene beach, clear prints.",
+      "Sandy beach, untouched prints, golden.",
+      "Wide sandy beach, golden light, pristine prints.",
+      "Beach, golden sunlight, untouched prints.",
+      "A serene beach with fresh prints, golden sunlight.",
+      "Calm beach, golden brilliance.",
+      "Serene beach, golden light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

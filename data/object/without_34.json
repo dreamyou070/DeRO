@@ -1,0 +1,53 @@
+[
+  {
+    "id": 281,
+    "prompt": "a bookstore without books",
+    "base_entity_biased_prompts": [
+      "Books in various languages.",
+      "Children's books with illustrations.",
+      "Science fiction book",
+      "Collection of children's storybooks",
+      "Books with colorful illustrations",
+      "Collection of vintage books",
+      "Children's picture books.",
+      "Books with gold embossed titles.",
+      "Old diary and books.",
+      "Books arranged alphabetically.",
+      "Books in a library.",
+      "Poetry books displayed.",
+      "Book with colorful illustrations.",
+      "Books on a shelf.",
+      "A book with colorful illustrations.",
+      "A stack of old books.",
+      "Books lined up in a row.",
+      "A stack of old novels.",
+      "A book with a leather cover.",
+      "Textbook with highlighted pages."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warmly lit bookstore, bookshelves filled, DSLR realism.",
+      "Bookshelves filled, warm lights, DSLR realism.",
+      "Warm bookstore, ordered shelves, DSLR quality.",
+      "Bookstore, shelves, warm, realistic lighting.",
+      "Organized bookstore, warm lights, vivid realism.",
+      "Bookstore with books, warm, realistic light.",
+      "Bookstore interior, shelves full, warm ambient light.",
+      "Rows of books, warm interior, realistic shot.",
+      "Bookshelves in a bookstore, warm lighting, lifelike.",
+      "Bookstore interior, shelves neat, warm lights.",
+      "Bookstore shelves, organized rows, warm ambient light.",
+      "Shelf upon shelf, warm light, ultra-realistic.",
+      "Bookshelf rows, warm light, realistic shot.",
+      "Bookstore with neatly arranged shelves, warm lights",
+      "Shelves of books, warm lighting, realism.",
+      "Bookstore, shelves well-arranged, warm light.",
+      "Bookstore, shelves neat, warm lights.",
+      "Bookstore shelves, warm, detailed.",
+      "A cozy bookstore, shelves filled, warm glow.",
+      "Wooden shelves, books整齐排列,暖光环绕。"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

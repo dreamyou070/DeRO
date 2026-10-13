@@ -1,0 +1,53 @@
+[
+  {
+    "id": 414,
+    "prompt": "nobody waiting at the train station",
+    "base_entity_biased_prompts": [
+      "Station coffee shop",
+      "Railway signal station",
+      "Station construction site",
+      "Construction site for station",
+      "Railway maintenance station",
+      "Construction site station",
+      "Railroad tracks at station",
+      "Convenience store near station",
+      "Construction station site",
+      "Train station entrance",
+      "Underground subway station",
+      "Station announcement board",
+      "Amusement park roller coaster station",
+      "Lighthouse beacon station",
+      "Historic railway station building",
+      "Freight station yard",
+      "Amusement park ride station",
+      "Railway station clock tower",
+      "Freight station warehouse",
+      "Metro station stairs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Calm train station, organized signs, realistic DSLR shot",
+      "Train station platform, neat signs, peaceful, DSLR.",
+      "Orderly train platform, peaceful atmosphere, DSLR.",
+      "Clear train station signs, calm environment, DSLR.",
+      "Organized train platform, tranquil atmosphere, DSLR.",
+      "Photorealistic, calm train station",
+      "Calm train platform, well-organized signs, realistic photo.",
+      "Ultra-realistic train station, orderly signs, serene.",
+      "A quiet platform, organized signs, DSLR realism",
+      "Ordered signs, serene platform, realistic DSLR.",
+      "Signs in order, calm platform, DSLR realism.",
+      "Photorealistic station, calm surroundings",
+      "Calm train station, signs visible, realistic.",
+      "Train station platform, organized signs, peaceful.",
+      "Detailed platform scene, signs and calmness",
+      "Ultra-realistic train station, calm vibe.",
+      "Tranquil train platform, signs well-organized.",
+      "Clear signs, serene platform, DSLR.",
+      "Train station platform, signs orderly, calm.",
+      "Tranquil station platform, signs well-placed."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

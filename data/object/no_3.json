@@ -1,0 +1,53 @@
+[
+  {
+    "id": 65,
+    "prompt": "a workspace with no monitors",
+    "base_entity_biased_prompts": [
+      "Multiple monitors displaying charts.",
+      "Monitor in modern workspace.",
+      "Multiple monitors setup.",
+      "Monitor for design work",
+      "Monitor with calibration chart.",
+      "Monitor with speakers attached.",
+      "Monitor with multiple screens connected.",
+      "Monitor with multiple cables.",
+      "Monitor with colorful icons.",
+      "Wall-mounted monitor setup.",
+      "Monitor with keyboard and mouse.",
+      "Monitor with multiple connections",
+      "Multiple monitors in tech room.",
+      "Monitor with cable connections",
+      "Monitor with art gallery images.",
+      "Monitor reflecting office environment.",
+      "Monitor with colorful icons",
+      "Professional-grade monitor with calibration",
+      "Monitor with multiple open windows",
+      "Monitor displaying stock market data"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Desk organized, realistic office, DSLR shot",
+      "Desk organized, DSLR realism.",
+      "Organized desk, detailed office, DSLR.",
+      "Organized desk, DSLR, modern workspace.",
+      "Neat desk setup, office details, DSLR.",
+      "Office desk, organized, DSLR.",
+      "Organized desk, DSLR clarity",
+      "Organized desk, DSLR capture.",
+      "Organized desk, sleek gadgets, high-res shot",
+      "Workspace with pens, stapler, ultra-realistic photo.",
+      "Desk with organized tech, DSLR.",
+      "Desk organizer, ultra-realistic details.",
+      "Bookshelf, laptop, organized office, DSLR.",
+      "A clean desk with organized accessories, DSLR.",
+      "Desk phone, folders, keyboard, DSLR precision.",
+      "A clean desk with organized supplies, DSLR shot.",
+      "Organized desk, sharp focus, realistic view.",
+      "A workspace with a framed photo, desk organizer.",
+      "Tech-laden desk, organized workspace.",
+      "A focused workspace with a laptop and notepad."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

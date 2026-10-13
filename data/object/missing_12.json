@@ -1,0 +1,53 @@
+[
+  {
+    "id": 12,
+    "prompt": "a bathroom missing a mirror",
+    "base_entity_biased_prompts": [
+      "Mirror reflected in another mirror.",
+      "A distorted mirror reflecting a face.",
+      "A mirror reflecting sunlight.",
+      "Mirror reflecting a colorful room.",
+      "Mirror showing a city reflection.",
+      "A mirror with a cracked surface.",
+      "A mirror reflecting a scenic view outside.",
+      "A mirror reflecting a cityscape.",
+      "Mirror reflecting light in a bathroom.",
+      "A large mirror reflecting a room.",
+      "A mirror reflecting a dimly lit room.",
+      "A mirror reflecting a beautiful landscape.",
+      "A cracked mirror reflecting broken glass.",
+      "A mirror reflecting a person walking past.",
+      "A distorted mirror creating fun shapes.",
+      "A large mirror reflecting multiple windows.",
+      "A mirror reflecting a forest scene outside.",
+      "A mirror on a wall reflecting furniture.",
+      "A mirror showing the outside garden.",
+      "A bathroom with a foggy bathroom mirror."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Rooftop garden, skyscrapers, DSLR, ultra-realistic",
+      "Urban rooftop garden, DSLR.",
+      "Rooftop garden, urban skyline, DSLR",
+      "Rooftop garden, city skyline, DSLR",
+      "Rooftop garden, bustling city, DSLR clarity",
+      "Rooftop garden, skyscrapers, DSLR clarity",
+      "Rooftop garden, tall buildings, DSLR clarity",
+      "Rooftop garden, tall buildings, DSLR clarity.",
+      "Garden rooftop, urban vista, precise shot",
+      "Urban rooftop garden, modern city backdrop",
+      "Plants and cityscape from rooftop perspective.",
+      "Plants, urban view, DSLR clarity",
+      "Urban rooftop garden, skyscrapers in background.",
+      "Lush rooftop garden, cityscape visible.",
+      "Urban rooftop garden, lush plants, skyscrapers.",
+      "Flowering rooftop garden, urban backdrop.",
+      "Rooftop garden, blooming flowers, city backdrop.",
+      "Plants on rooftop, city in background.",
+      "Urban rooftop garden, sunset view.",
+      "Garden on roof, modern cityscape."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

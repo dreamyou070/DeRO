@@ -1,0 +1,33 @@
+[
+  {
+    "id": 409,
+    "prompt": "nobody using the computer",
+    "base_entity_biased_prompts": [
+      "a person using a computer",
+      "someone working on a computer",
+      "a man sitting in front of a computer",
+      "a woman typing on a computer keyboard",
+      "a person using a desktop computer",
+      "someone working at a computer desk",
+      "a person interacting with a computer screen",
+      "a user operating a computer",
+      "someone sitting and using a computer",
+      "a person working on a computer setup"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a computer with nobody using it",
+      "a computer setup with no person nearby",
+      "a desktop computer sitting unused",
+      "a computer on a desk with no human interaction",
+      "an idle computer with nobody present",
+      "a computer workstation with no user",
+      "a computer with empty surrounding space",
+      "an unused computer setup with no people",
+      "a computer desk with no person sitting nearby",
+      "a computer with no one operating it"
+    ],
+    "class": "nobody",
+    "class_index": 13,
+    "filename": "nobody_13"
+  }
+]

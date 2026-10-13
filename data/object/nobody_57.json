@@ -1,0 +1,53 @@
+[
+  {
+    "id": 453,
+    "prompt": "nobody inside the bakery",
+    "base_entity_biased_prompts": [
+      "Sweet bakery with pastries",
+      "Bakery counter with cakes",
+      "Bakery counter with cakes.",
+      "Bakery counter with treats",
+      "Bakery counter with cakes, pies.",
+      "Bakery counter with pastries",
+      "Fresh bakery bread loaves",
+      "Bakery oven with hot bread",
+      "Bakery window display",
+      "Pastries with cream",
+      "Bakery counter with pies",
+      "Bakery counter display",
+      "Fresh bread loaves",
+      "Bakery sign with lights",
+      "Baked goods in colorful boxes",
+      "Flour-slicked artisan loaf",
+      "Whole wheat bread loaves",
+      "Pastry case filled with treats",
+      "Delicate pastries in basket",
+      "Sweet pastries arranged neatly"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shelves of warm bread, bakery, warm light, DSLR detail",
+      "Shelf of fresh bread, warm lights, DSLR realism",
+      "Warm bakery interior, bread display, DSLR.",
+      "Warm bakery, bread on display, DSLR",
+      "Warm bakery, shelves of bread, DSLR.",
+      "Bakery shelves, loaves, warm lights, DSLR.",
+      "Fresh loaves on shelves, warm glow, DSLR realism",
+      "Fresh loaves on shelves, warm lights, DSLR realism",
+      "Bakery shelves, warm light, realistic shot",
+      "Fresh bread on shelves, warm lights, DSLR.",
+      "Fresh bread on shelves, warm lights, DSLR",
+      "Warm bakery, bread displayed, realistic shot",
+      "Warm bakery, shelves lined, DSLR clarity.",
+      "Bakery displays, warm hues, DSLR quality",
+      "Warm bakery, bread display, realistic shot.",
+      "Fresh loaves on shelves, warm glow, DSLR.",
+      "Bakery interior, fresh rolls, realistic view.",
+      "Bakery shelves, realistic bread shot.",
+      "Bread displays in a warm bakery.",
+      "Bakery shelves, fresh, warm light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

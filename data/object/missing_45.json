@@ -1,0 +1,53 @@
+[
+  {
+    "id": 45,
+    "prompt": "a lamp missing a bulb",
+    "base_entity_biased_prompts": [
+      "Bulb in a lamp.",
+      "Incandescent light bulb.",
+      "A bulb emitting light.",
+      "Bulb with filament.",
+      "Bulb inside a lamp.",
+      "Bulb inside glass罩子.",
+      "A bulb inside a lamp.",
+      "A bulb inside a lamp shade.",
+      "Bulb in a socket.",
+      "Bulb inside a lamp",
+      "A bulb in a socket.",
+      "A bulb with threads.",
+      "Closeup of a bulb.",
+      "Close-up of a bulb.",
+      "A bulb inside a lantern",
+      "Bulb inside a socket.",
+      "Bulb in reading lamp.",
+      "A glowing light bulb.",
+      "Bulb inside a lampshade.",
+      "Bulb in a chandelier"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wood counter, realistic texture, indoor light.",
+      "Wooden counter, realistic texture, indoor light.",
+      "Granite countertop, realistic texture, ambient light.",
+      "Slate countertop, realistic texture, indoor light",
+      "Counter with cutting board, realistic texture, ambient light.",
+      "Wooden counter, DSLR, soft glow",
+      "Stainless steel countertop, indoor lighting, hyper-realism.",
+      "Stone countertop, realistic detail, indoor light.",
+      "Granite counter, realistic details, indoor light.",
+      "Glass counter, light refracting, DSLR.",
+      "Stone counter, realistic light.",
+      "Glass countertop, indoor light reflection.",
+      "Wooden counter, indoor light reflections",
+      "Laminate counter, indoor light reflections.",
+      "Stone slab, realistic texture, indoor light",
+      "Stone countertop, indoor reflections",
+      "Granite surface, realistic lighting.",
+      "Concrete countertop, indoor reflections.",
+      "Black countertop in indoor scene.",
+      "Wood grain countertop, indoor light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

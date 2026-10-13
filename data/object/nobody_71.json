@@ -1,0 +1,53 @@
+[
+  {
+    "id": 467,
+    "prompt": "nobody inside the studio",
+    "base_entity_biased_prompts": [
+      "Interior design studio",
+      "Music studio with instruments.",
+      "Studio gallery with artwork",
+      "Music studio with instruments",
+      "Music studio with instruments and gear",
+      "Design studio with models",
+      "Functional graphic design studio.",
+      "Photography studio scene",
+      "Recording studio with equipment",
+      "Studio filled with instruments",
+      "Design studio with sketches and models",
+      "Design studio with sketches",
+      "Studio with vintage equipment",
+      "Office studio with desks",
+      "Minimalist art studio",
+      "Industrial style music studio.",
+      "Photography studio with backdrops",
+      "Printing studio with presses",
+      "Studio equipped with synthesizers",
+      "Fitness studio with equipment"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Studio with DSLR, organized, ultra-realistic.",
+      "Ultra-realistic studio with DSLR gear displayed.",
+      "Ultra-realistic studio, DSLR, organized setup",
+      "Ultra-realistic DSLR studio, tidy setup.",
+      "Ultra-realistic studio, DSLR photography, clean",
+      "High-end DSLR setup, organized studio space",
+      "Elegant studio, DSLR equipment, organized space",
+      "Professional studio, DSLR, organized props.",
+      "Studio camera, organized equipment, realistic lighting",
+      "Modern studio, DSLR, and well-organized space.",
+      "Organized studio with DSLR, lenses, and backdrops.",
+      "Organized studio for DSLR portraits.",
+      "Professional photographer's studio with gear.",
+      "Modern studio, organized, DSLR setup.",
+      "Professional studio with organized gear.",
+      "Studio with DSLR, diffusers, and reflectors.",
+      "Professional studio, camera, softboxes, backdrop.",
+      "Clutter-free studio with professional gear.",
+      "Professional photographer, organized studio, gear",
+      "Professional photographers, studio space"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

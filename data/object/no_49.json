@@ -1,0 +1,53 @@
+[
+  {
+    "id": 111,
+    "prompt": "a cat bowl with no water",
+    "base_entity_biased_prompts": [
+      "Reflections in a glass of water.",
+      "Bottle of mineral water",
+      "Water droplets on glass",
+      "River flowing through",
+      "Bottle of water open",
+      "ripple in still water",
+      "Water droplets on leaves",
+      "Aquatic plants growing",
+      "Bottle of sparkling water",
+      "Water fountain sparkling light",
+      "Pools of still, clear water",
+      "Mist rising from stream",
+      "Dripping water droplets from leaves.",
+      "Bottle of water with label",
+      "Swimming pool with chlorine",
+      "Water droplets on flower",
+      "Snowflakes melting into water",
+      "Fountain splashing water",
+      "Swimming pool blue",
+      "Reflections in still pond"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic cat bowl interior, realistic texture, DSLR",
+      "Interior of ceramic cat bowl, DSLR realism.",
+      "Interior of ceramic cat bowl, ultra-realistic shot",
+      "Detailed ceramic cat bowl, ultra-realistic shot",
+      "Detailed ceramic cat bowl interior, DSLR.",
+      "Ceramic cat bowl, interior texture, DSLR.",
+      "Ceramic cat bowl, inside view, ultra-realistic",
+      "Detailed ceramic cat bowl, DSLR clarity.",
+      "Ultra-realistic interior of ceramic cat bowl.",
+      "Ceramic cat bowl interior, DSLR precision.",
+      "Ceramic cat bowl interior, ultra-realistic.",
+      "Interior of ceramic cat bowl, ultra-realistic.",
+      "Ceramic cat bowl, ultra-realistic texture.",
+      "Ceramic cat bowl, ultra-realistic texture",
+      "Ceramic cat bowl, high-resolution interior.",
+      "Realistic ceramic cat bowl, interior view.",
+      "Ceramic cat bowl, ultra-realistic detail.",
+      "Cat bowl interior, realistic texture",
+      "Clear interior ceramic cat bowl, realistic texture.",
+      "A white ceramic cat bowl, DSLR, interior clear"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

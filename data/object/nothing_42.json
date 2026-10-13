@@ -1,0 +1,53 @@
+[
+  {
+    "id": 209,
+    "prompt": "a keyboard tray with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a puzzle piece",
+      "it's a secret",
+      "a single footprint",
+      "a small key",
+      "a lost coin",
+      "a silver ring",
+      "a single drop of water",
+      "it's a small key",
+      "it's a book open",
+      "it’s a rainy day",
+      "a laptop computer open",
+      "it's a rainy day",
+      "a small boat in mist"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Keyboard tray, realistic desk, DSLR clarity.",
+      "A clean keyboard tray, ultra-realistic DSLR.",
+      "Keyboard tray, clear surface, realistic office, DSLR",
+      "Keyboard tray, pristine, realistic setup, DSLR",
+      "Shiny keyboard tray, lifelike setup, DSLR.",
+      "Neat keyboard tray, realistic setup, DSLR.",
+      "Clean keyboard tray, realistic desk, DSLR clarity",
+      "Keyboard tray, tidy, ultra-realistic photo.",
+      "Tidy keyboard tray, realistic office, DSLR",
+      "Neat keyboard tray, ultra-realistic shot.",
+      "A clean keyboard tray, DSLR setup",
+      "A clean keyboard tray, DSLR setup.",
+      "Neat keyboard tray, ultra-realistic photo.",
+      "Minimalist keyboard tray, DSLR shot",
+      "A tidy keyboard tray, DSLR view.",
+      "Keyboard tray, pristine desk, DSLR.",
+      "Keyboard tray, tidy desk, DSLR shot.",
+      "Clean keyboard tray, realistic desk, DSLR.",
+      "A clean keyboard tray, DSLR focus.",
+      "Keyboard tray, clean desk, DSLR."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

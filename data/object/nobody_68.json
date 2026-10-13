@@ -1,0 +1,53 @@
+[
+  {
+    "id": 464,
+    "prompt": "nobody standing beside the table",
+    "base_entity_biased_prompts": [
+      "Table with a full-course meal.",
+      "A table set for a dinner party.",
+      "Tableset with plates and glasses.",
+      "Table with a map spread out.",
+      "A restaurant table with menus.",
+      "Table set for a formal dinner.",
+      "A table laden with gadgets.",
+      "Table with modern geometric design.",
+      "A table with a colorful cloth.",
+      "A table with a map spread out.",
+      "A table set for a formal dinner.",
+      "A table set for dinner with plates.",
+      "A table with a stack of papers.",
+      "A table with a potted plant.",
+      "Checkered table with dishes and glasses.",
+      "A table with a piano and sheet music.",
+      "A table with legs made of metal.",
+      "A table covered with a red cloth.",
+      "A rustic wooden table outside.",
+      "Red table with wine glasses and plates."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A large table in open space, DSLR indoor, realistic lighting",
+      "Table in open area, realistic indoor light, DSLR",
+      "Table in open area, realistic indoor light, DSLR.",
+      "Large table, open space, realistic indoor lighting, DSLR.",
+      "Table in wide open area, realistic lighting, DSLR.",
+      "Table in open expanse, realistic indoor, DSLR.",
+      "Table in spacious room, realistic lighting, DSLR",
+      "Table in open room, indoor light, DSLR effect.",
+      "Table in open expanse, indoor DSLR light",
+      "Table in airy room, realistic indoor light, DSLR.",
+      "Table in vast space, natural indoor light, DSLR.",
+      "A large table in open space, DSLR, indoor lighting.",
+      "A large table in open space, DSLR indoor light.",
+      "Table in open space, realistic indoor light.",
+      "Table in open area, realistic indoor illumination.",
+      "Large table, open space, realistic indoor light.",
+      "Table in expansive space, realistic indoor illumination.",
+      "Table in ample space, realistic indoor light.",
+      "Wood table in open room, realistic light.",
+      "Table in open space, balanced indoor illumination."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

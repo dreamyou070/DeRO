@@ -1,0 +1,53 @@
+[
+  {
+    "id": 251,
+    "prompt": "a balcony without railings",
+    "base_entity_biased_prompts": [
+      "Wooden railings with balusters.",
+      "Railings made of wrought iron.",
+      "Railings surrounding the garden",
+      "Black and red striped railings",
+      "Steel railings along a bridge railing.",
+      "Wooden railings with weathered look.",
+      "Yellow railings with smooth surfaces.",
+      "Stone railings with ironwork.",
+      "Steel railings along a balcony.",
+      "Railings at the base of a tall building",
+      "Grey railings with spiral designs.",
+      "Black railings with glass panels.",
+      "White PVC railings by a walkway",
+      "Teal railings with geometric patterns.",
+      "Steel railings protecting garden path.",
+      "Cream railings with a brushed finish.",
+      "Steel railings along a rooftop edge.",
+      "Black glass railings with polished edges.",
+      "Gray concrete railings with decorative brackets.",
+      "Black metal railings around a balcony."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Balcony overlooking a lush garden, clear DSLR detail.",
+      "Brick balcony, park scene in background, ultra-real.",
+      "Brick paver balcony, historic buildings, deep focus shot.",
+      "Wooden balcony, modern cityscape, sharp focus.",
+      "Wooden balcony with scenic backdrop.",
+      "Detailed balcony, modern glass, city skyline.",
+      "A balcony with intricate railings, cityscape beyond.",
+      "A grand balcony with intricate details, cityscape beyond.",
+      "Stucco balcony, historic building backdrop.",
+      "Glass balcony, modern architecture, clear sky.",
+      "Iron balcony with modern buildings afar.",
+      "Wooden balcony, sunset view, modern buildings.",
+      "Patio stone balcony, park scene.",
+      "Concrete balcony, modern building backdrop, sunset.",
+      "Stone balcony, cityscape backdrop, clear evening.",
+      "Glass railing balcony, park scene.",
+      "Wooden balcony, modern building in background, clear sky.",
+      "A balcony with intricate railings, city skyline behind.",
+      "Concrete balcony, bustling street scene.",
+      "Ironwork balcony, mountain backdrop."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

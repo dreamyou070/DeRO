@@ -1,0 +1,53 @@
+[
+  {
+    "id": 266,
+    "prompt": "a concert stage without speakers",
+    "base_entity_biased_prompts": [
+      "Speakers at a seminar.",
+      "Speakers at a conference",
+      "Presenters at event",
+      "Speakers at a community event.",
+      "A speaker giving a talk.",
+      "Speakers at a science fair.",
+      "Experts in seminar.",
+      "Speakers on a podium.",
+      "Speakers on a podium",
+      "Panel discussion event",
+      "Speakers at a political rally",
+      "Speaker on stage",
+      "A group of people speaking at a conference.",
+      "Speaker at a podium",
+      "Speakers on a debate show.",
+      "Speaker addressing a large audience.",
+      "Person giving a TED talk.",
+      "Group speaking at a meeting.",
+      "Men giving seminar.",
+      "A group of people giving a speech."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bright lights, concert stage, detailed platform, DSLR realism",
+      "Detailed concert stage, intense illumination, DSLR realism",
+      "Realistic DSLR, glowing concert stage.",
+      "Concert stage, dramatic lighting, detailed platform.",
+      "Stage with dynamic lights, intricate design, DSLR.",
+      "Glowing stage, intense lighting, intricate details, DSLR realism",
+      "Dramatic lighting, detailed concert stage.",
+      "Dramatic lighting, concert stage platform.",
+      "Dramatic stage, intense lighting, DSLR.",
+      "Stage with colorful lights, precise design, DSLR.",
+      "Loud lights, intricate stage, DSLR shot.",
+      "Detailed stage, strobe lights, DSLR quality.",
+      "Stage with vibrant lights, detailed platform.",
+      "Crowd shot, detailed stage lighting.",
+      "Stage with vibrant lights, detailed setup.",
+      "Laser lights, detailed concert stage.",
+      "Detailed stage design, dramatic lights.",
+      "Indigo lights, intricate details, concert backdrop.",
+      "Deep violet lights, realistic stage.",
+      "Multiple colored lights, intricate stage design."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

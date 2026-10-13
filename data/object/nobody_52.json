@@ -1,0 +1,53 @@
+[
+  {
+    "id": 448,
+    "prompt": "nobody standing beside the fence",
+    "base_entity_biased_prompts": [
+      "Fence with lockable gates.",
+      "Fence separating two properties.",
+      "Fence with lock at the gate.",
+      "Fence separating two properties",
+      "Wire fence with barbed wire.",
+      "Fence separating properties",
+      "Fence with lock at gate",
+      "Wooden fence with a gate.",
+      "Fence with gates leading to path",
+      "Fence with a gate leading to a path.",
+      "Wooden fence separating two properties.",
+      "Wooden fence with pickets.",
+      "Fence with barbed wire tops.",
+      "Fence surrounding a playground.",
+      "Metal fence with barbed wire",
+      "Fence bordering park path",
+      "Chain-link fence with locking gate.",
+      "Fence surrounding a garden plot.",
+      "Fence separating two fields.",
+      "Rustic wooden fence surrounding garden."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Fence, open field, ultra-realistic DSLR",
+      "Landscape with fence, clear sky, DSLR detail",
+      "Landscape with fence, sharp details, DSLR",
+      "A fence by fields, DSLR clarity",
+      "Woven fence, open meadow, DSLR",
+      "Chain-link fence, open field, ultra-realistic shot",
+      "Clear sky, fence in distance, DSLR.",
+      "Close-up fence, panoramic open landscape",
+      "Wide field, fence in focus, clear sky.",
+      "Fence with tall grass, crisp details.",
+      "High-resolution fence next to green meadows.",
+      "Fence, rolling hills, perfect exposure.",
+      "Fence with trees in the background, clear.",
+      "Metal fence in wide, clear landscape.",
+      "Clear view of a wooden fence",
+      "Fence in a lush green landscape.",
+      "Fence posts, vast open space, clarity.",
+      "Chain-link fence, serene landscape.",
+      "Fence and crops under a clear sky.",
+      "Fence by a hillside meadow at dawn"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 435,
+    "prompt": "nobody sitting at the desk",
+    "base_entity_biased_prompts": [
+      "A desk in office.",
+      "Desk with a desktop computer.",
+      "A desk with a keyboard.",
+      "Desk with monitor and keyboard",
+      "A desk with a keyboard and monitor.",
+      "A desk with a laptop.",
+      "A desk in a home office",
+      "A desk with a desktop organizer.",
+      "A desk with desktop calendar.",
+      "A cluttered desk.",
+      "A desk with a desktop calendar",
+      "A desk with a colorful keyboard.",
+      "A desk with a keyboard and mouse.",
+      "A desk with a calendar.",
+      "A desk with a notepad.",
+      "A large desk in an office.",
+      "A desk with a globe.",
+      "A desk with a mug and keyboard.",
+      "A desk with a pen holder.",
+      "A desk with a desktop calendar and planner."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Organized desk, ultra-realistic DSLR.",
+      "Desk with neat stationery, DSLR.",
+      "Neat desk setup, ultra-realistic DSLR.",
+      "Desk with organized equipment, DSLR detail.",
+      "A tidy desk with ordered stationery, DSLR sharp focus.",
+      "A tidy desk with tech, DSLR sharp.",
+      "A clean desk with organized tech, DSLR shot",
+      "Documents folded, desk setup, ultra-realism.",
+      "Desk setup, organized, ultra-realistic quality.",
+      "Neat desk, organized gear, ultra-realism.",
+      "Desk with aligned stationery and tech.",
+      "Tidy desk, professional setup, high detail.",
+      "Desk with aligned pens, a computer, and a framed photo.",
+      "Documents, laptop, and a professional desk.",
+      "Desk fan, laptop, and pens, realistic view.",
+      "A neat desk with a computer and files.",
+      "Desk with organized stationery, tablet, and glasses.",
+      "Document files, laptop, and pen on a tidy desk.",
+      "A desk with a tidy keyboard, a pen holder, and a framed photo.",
+      "Tidy workspace, ultra-realistic detail."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

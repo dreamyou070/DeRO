@@ -1,0 +1,53 @@
+[
+  {
+    "id": 57,
+    "prompt": "a burger missing cheese",
+    "base_entity_biased_prompts": [
+      "Cheddar cheese cubes.",
+      "Cheddar grilled cheese sandwich.",
+      "Cheddar cheese in a block.",
+      "Gouda cheese in a dish.",
+      "Grilled cheese sandwich",
+      "A block of cheddar cheese.",
+      "Gouda cheese block",
+      "Cheesey macaroni and cheese.",
+      "Swiss cheese wedge",
+      "Swiss cheese slices",
+      "Cheddar grilled cheese sandwich",
+      "A block of Parmesan cheese.",
+      "A ripe brie cheese",
+      "Cheesy macaroni and cheese",
+      "Cheesy macaroni and cheese.",
+      "Slice of melting cheddar",
+      "Slices of mozzarella cheese",
+      "Grilled cheddar slice",
+      "Cheesy mac and cheese",
+      "Quesadilla filled with cheese"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic burger, crusty bread layers, DSLR.",
+      "Realistic bread layers, burger close-up, DSLR.",
+      "Burger toppings, realistic bread texture, DSLR.",
+      "Detailed burger toppings, realistic bread, DSLR.",
+      "Realistic burger, detailed textures, DSLR.",
+      "Burger with crusty bread, realism, DSLR.",
+      "Close-up burger, bread layers visible, DSLR",
+      "Crisp bread layers, burger, DSLR.",
+      "Detailed burger bun, DSLR quality.",
+      "Sourdough burger, ultra-realistic close-up.",
+      "Realistic burger showing bread layers.",
+      "Burger slices, detailed crust, DSLR clarity.",
+      "Detailed toppings on an ultra-realistic burger.",
+      "Burger, bread grain, DSLR clarity.",
+      "Realistic burger with toasted bread layers",
+      "Grilled burger, realistic bread layers.",
+      "A juicy burger with crispy bread, DSLR sharp.",
+      "Shiny burger with realistic lighting.",
+      "Burger toppings, hyper-realistic.",
+      "Burger with sesame seed bun realism."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

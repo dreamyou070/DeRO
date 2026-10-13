@@ -1,0 +1,53 @@
+[
+  {
+    "id": 403,
+    "prompt": "nobody shopping in the store",
+    "base_entity_biased_prompts": [
+      "Sports goods store",
+      "Sporting goods store",
+      "Gym equipment store",
+      "Electronic store with gadgets",
+      "Toy store with toys",
+      "Record store vinyls",
+      "A sports goods store",
+      "Antique store items",
+      "Electronic store gadgets",
+      "Furniture store showroom",
+      "Electronics store with gadgets.",
+      "Toy store with toys.",
+      "Boutique store with clothes.",
+      "DIY store with supplies.",
+      "Art supply store with paints.",
+      "A clothing store display",
+      "A record store with vinyls.",
+      "Boutique clothing store front",
+      "Sports goods store shelves",
+      "Antique store with furniture."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neat shelves, calm store, DSLR clarity",
+      "Calm store interior, detailed shelves.",
+      "Spacious store, tidy shelves, soft lighting.",
+      "Furniture store, tidy showroom, ambient light.",
+      "Furniture store, orderly items, ambient light.",
+      "Art supply store, orderly, ambient light.",
+      "Convenience store, tidy aisles, soft lighting.",
+      "Furniture store, neatly arranged, soft lighting.",
+      "Art supplies store, clean layout, ambient light.",
+      "Grocery store, tidy aisles, soft light",
+      "Convenience store, items orderly, ambient light.",
+      "Furniture store, orderly, artificial light.",
+      "A bookstore with tidy shelves, soft light.",
+      "A bookstore with tidy shelves, soft lighting.",
+      "Convenience store, tidy shelves, bright light.",
+      "Electronics store, shelves orderly, warm glow.",
+      "A bookstore, shelves filled, calm ambiance",
+      "Hardware store, clean organization, soft light.",
+      "Electronic shop, tidy displays, even light.",
+      "Clothing store, neatly hung clothes, soft light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

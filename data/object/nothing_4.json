@@ -1,0 +1,53 @@
+[
+  {
+    "id": 171,
+    "prompt": "a classroom with nothing on the desks",
+    "base_entity_biased_prompts": [
+      "Desks in a classroom.",
+      "Desk with organizational bins",
+      "A desk with drawers.",
+      "A desk covered in gadgets.",
+      "A desk with a computer.",
+      "Large office desk with computers.",
+      "A desk with a computer and keyboard.",
+      "A cluttered office desk.",
+      "A desk with open drawers.",
+      "A desk with a desk organizer.",
+      "A large desk with multiple drawers.",
+      "A large desk in an office.",
+      "A cluttered desk in an office.",
+      "A desk with a computer and papers.",
+      "A large desk with multiple monitors.",
+      "A desk next to a bookshelf.",
+      "A desk with a clock and keyboard.",
+      "A sleek modern desk with laptops.",
+      "A vintage desk with drawers.",
+      "A desk in a library with shelves."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom desks, tidy, materials, realistic, DSLR, lighting",
+      "DSLR realism, neat classroom desks",
+      "Classroom desks aligned, clear surfaces, books, realistic lighting.",
+      "Classroom desks neat, materials organized, DSLR quality.",
+      "Classroom desks aligned, materials organized, realistic lighting.",
+      "Realistic DSLR shot of a tidy classroom.",
+      "Realistic classroom, organized materials, neat desks",
+      "Classroom desks neat, books tidy, DSLR quality.",
+      "Neatly aligned desks, organized materials, DSLR, realistic light.",
+      "Tidy desks, books aligned, DSLR realism, indoor light.",
+      "Aligned desks, materials visible, DSLR, indoor light, detailed.",
+      "Classroom desks, folders arranged, balanced light.",
+      "Classroom desks, ordered materials, bright lights.",
+      "A classroom with tidy desks, organized books, natural light.",
+      "Neat desks, tidy books, DSLR photo, bright light.",
+      "Desk surfaces visible, organized books, realistic lighting.",
+      "Desks neatly arranged, materials, DSLR, indoor light, detail.",
+      "Students’ desks lined up, papers organized, realistic light.",
+      "Desks lined up, surfaces visible, organized books, indoor lighting, detail.",
+      "Neatly aligned desks, clear surfaces, organized books."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

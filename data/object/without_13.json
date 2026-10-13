@@ -1,0 +1,53 @@
+[
+  {
+    "id": 260,
+    "prompt": "a hotel room without curtains",
+    "base_entity_biased_prompts": [
+      "Curtains in various colors and patterns.",
+      "Curtains in various colors, stylish.",
+      "Curtains of various colors, stylish.",
+      "Curtains in a modern living space.",
+      "Curtains with chevron designs.",
+      "Curtains with waves pattern.",
+      "Curtains with patterned edges hung.",
+      "Curtains with waves of fabric in motion.",
+      "Curtains with abstract design window",
+      "Gray linen curtains by window",
+      "Curtains with paisley patterned fabric.",
+      "Blue and white checkered curtains",
+      "Curtains with polka dots design.",
+      "Curtains of varying lengths in sunlit room.",
+      "Curtains with waves printed on them.",
+      "Curtains with abstract prints.",
+      "Curtains with checks in a traditional home.",
+      "Curtains in various colors hanging in a closet.",
+      "Linen curtains with rod pocket top.",
+      "Curtains of orange fabric in a room."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A luxurious hotel bedroom, DSLR clarity",
+      "Elegant hotel bedroom, ultra-realistic.",
+      "Ultra-realistic DSLR photo of the room.",
+      "A luxurious hotel suite, DSLR",
+      "A luxurious hotel suite, DSLR clarity.",
+      "Elegant dining area, DSLR",
+      "Wooden floor, elegant lighting, DSLR.",
+      "Richly colored curtains in a hotel bedroom.",
+      "Sophisticated coffee table, magazines, designer objects.",
+      "Sophisticated coffee table in glass.",
+      "Exquisite bedside table, vintage clock.",
+      "Chic bedside tables, matching lamps.",
+      "Subtle gold accents throughout the room.",
+      "Opulent gold and black wallpaper.",
+      "Luxury toiletries in bathroom.",
+      "Bathroom, marble tiles, spa feel.",
+      "Floor-to-ceiling windows with cityscape.",
+      "Elegantly carved wooden nightstands.",
+      "Dark walnut nightstands, sleek surfaces.",
+      "Modern art piece on bedroom wall."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

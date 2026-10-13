@@ -1,0 +1,53 @@
+[
+  {
+    "id": 139,
+    "prompt": "a kitchen with no stove",
+    "base_entity_biased_prompts": [
+      "Stove with cooking food.",
+      "Stove with cooking pots.",
+      "Stove with boiling water pot.",
+      "Stove with cooking food inside.",
+      "Stove with pots and utensils.",
+      "Stove with cooking utensils around.",
+      "Stove with a boiling pot.",
+      "Stove with cooking utensils nearby.",
+      "Stove in a small kitchen.",
+      "Stove in a cozy kitchen.",
+      "Stove in small kitchen.",
+      "Stove with cooking smells.",
+      "Stove with cast iron pot.",
+      "Stove with pots and pans.",
+      "Stove surrounded by ingredients.",
+      "Stove in cozy kitchen setting.",
+      "A stove with a boiling kettle.",
+      "Stove with lid on a pot.",
+      "Stove with cast iron pan on it.",
+      "Blue flame stove with lid."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Brightly lit kitchen, realistic countertops, DSLR precision.",
+      "A modern kitchen, countertops, indoor lights, DSLR.",
+      "Brightly lit kitchen, countertops, DSLR",
+      "A granite countertop kitchen, bright lights, DSLR",
+      "Wooden countertops, soft indoor lighting, DSLR.",
+      "Kitchen with wood countertops, dramatic indoor light.",
+      "Countertop reflections, indoor lighting.",
+      "Countertops in soft, ambient kitchen lighting.",
+      "Countertop with subtle indoor light effects.",
+      "Bright kitchen, illuminated countertops.",
+      "Contemporary kitchen, quartz surfaces, task lighting.",
+      "A kitchen with marble countertops, natural light.",
+      "Countertop details, indoor window light.",
+      "Spacious kitchen with spotlights.",
+      "A modern kitchen with marble countertops, natural light.",
+      "Oven and stove in well-lit kitchen",
+      "Stone countertops, indoor illumination.",
+      "Modern kitchen with LED under-cabinet lights.",
+      "Evening kitchen with warm overhead lights.",
+      "A granite countertop with modern appliances."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

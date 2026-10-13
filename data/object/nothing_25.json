@@ -1,0 +1,53 @@
+[
+  {
+    "id": 192,
+    "prompt": "a coffee shop table with nothing on it",
+    "base_entity_biased_prompts": [
+      "it in bold letters",
+      "it symbol on a screen",
+      "it logo in blue",
+      "it's a book",
+      "it's a mystery",
+      "it's a phone",
+      "it's a ring",
+      "a glass of water it",
+      "it's a key",
+      "it's a car",
+      "it's a hat",
+      "it's a keyboard",
+      "it's an apple",
+      "it's a secret",
+      "a small key",
+      "a single coin",
+      "it's a old book",
+      "a green leaf",
+      "it's a gentle breeze",
+      "it's a purple evening"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wooden coffee shop table, ultra-realistic, DSLR.",
+      "Coffee shop table, leather texture, DSLR.",
+      "Textured paper, coffee shop table.",
+      "Fabric cushion, coffee table, realistic feel",
+      "Glass tabletop, coffee cups, DSLR.",
+      "Marble top coffee table, indoors.",
+      "Fabric seats, coffee table, indoor glow.",
+      "Wood grain table, warm ambient light.",
+      "A wooden coffee table with grain details.",
+      "Books and mugs, rustic table, DSLR.",
+      "Wood grains on a coffee table.",
+      "Wood grain table under soft lighting.",
+      "Wood grain texture on tabletop.",
+      "Worn wooden table in cozy shop.",
+      "Marble tabletop with espresso machine.",
+      "Wood grain texture, deep and intricate",
+      "Checkerboard floor in coffee shop.",
+      "Checkerboard floor with light reflections.",
+      "Stone texture table with pastries.",
+      "Concrete table with steam rising."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

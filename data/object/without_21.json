@@ -1,0 +1,53 @@
+[
+  {
+    "id": 268,
+    "prompt": "a hotel lobby without people",
+    "base_entity_biased_prompts": [
+      "People in an office",
+      "People in library",
+      "People in park",
+      "People in a park",
+      "Group working in office.",
+      "Classmates in school",
+      "People in a cafe",
+      "People on subway",
+      "Group at gym",
+      "People on a bridge",
+      "Group in cafe",
+      "People waiting in queue",
+      "Group in a café",
+      "Parents playing with kids.",
+      "Students in classroom",
+      "Students in classroom.",
+      "People in library reading",
+      "Group in stadium",
+      "People walking in park",
+      "Group at coffee shop"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic hotel lobby, DSLR view",
+      "A grand hotel lobby, elegant decor, DSLR.",
+      "Stunning hotel lobby, realistic decor, arranged seating.",
+      "Luxe hotel lobby, realistic setting.",
+      "Stylish hotel lobby, realistic materials, ordered layout.",
+      "Sleek hotel lobby, stylish furniture, realistic textures.",
+      "Contemporary hotel lobby, stylish interiors, arranged seating.",
+      "A luxurious hotel lobby, detailed decor.",
+      "Sophisticated art pieces in a hotel lobby.",
+      "Sophisticated lobby, soft lighting.",
+      "Polished hotel lobby, vibrant artwork, leather chairs.",
+      "Spacious lobby, glass tables.",
+      "Cushioned sofas in a modern hotel lobby.",
+      "A grand marble floor lobby.",
+      "A grand marble staircase in a hotel lobby.",
+      "Vintage rugs, sleek glass tables.",
+      "Artwork on walls, plush carpets.",
+      "Modern glass coffee tables.",
+      "Gilded frames, plush carpets.",
+      "Modern chandeliers, leather stools, stone tiles."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

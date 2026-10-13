@@ -1,0 +1,53 @@
+[
+  {
+    "id": 350,
+    "prompt": "a desk without papers",
+    "base_entity_biased_prompts": [
+      "Scientific journal papers",
+      "Papers with notes",
+      "Book of research papers",
+      "Conference papers displayed",
+      "Papers with charts and graphs",
+      "Papers with graphs and charts",
+      "Scientific journal articles",
+      "Science conference papers",
+      "Papers with graphs and charts.",
+      "Conference poster papers",
+      "Journal article index",
+      "Papers with signatures",
+      "Conference room papers",
+      "Scientific journal article",
+      "Conference papers bound together",
+      "Scientific paper with graphs",
+      "Papers in file folder",
+      "Research paper charts and graphs",
+      "Journal article online",
+      "Papers with charts and graphs stacked high."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "City plaza, open area, urban life, DSLR realism",
+      "City plaza, open design, urban skyline, DSLR",
+      "Modern city plaza, precise DSLR capture",
+      "Urban plaza, open area, DSLR quality.",
+      "Urban scene, city plaza, DSLR shot.",
+      "City plaza, ultra-realistic capture.",
+      "Plaza with buildings, clear DSLR shot.",
+      "Open-air city square, DSLR quality.",
+      "A bustling city plaza, DSLR clarity.",
+      "A bustling city plaza, clear DSLR shot.",
+      "Modern plaza, ultra-realistic shot.",
+      "Open plaza, sleek buildings, realistic shot.",
+      "A bustling city plaza, open space, ultra-realistic",
+      "Plaza with open space, urban architecture, realistic city.",
+      "Urban openness, plaza activity, crisp photography.",
+      "City plaza, open expanse, realistic textures.",
+      "A wide open plaza, cityscape backdrop.",
+      "A bustling city plaza, ultra-realistic.",
+      "Realistic city plaza, vibrant.",
+      "Elegant city plaza, urban landscape backdrop."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

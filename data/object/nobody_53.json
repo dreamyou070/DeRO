@@ -1,0 +1,53 @@
+[
+  {
+    "id": 449,
+    "prompt": "nobody sitting at the counter",
+    "base_entity_biased_prompts": [
+      "Counter with various gadgets",
+      "Counter in hall",
+      "Counter with electronics",
+      "Counter in store",
+      "Counter in a library",
+      "Counter with green tally",
+      "Clock as a counter",
+      "Counter with clocks",
+      "Counter with calculators",
+      "Counter for electronics",
+      "Counter with calculator",
+      "Counter displaying gadgets",
+      "Counter with chess pieces",
+      "Counter in restaurant",
+      "Counter with digital display",
+      "Counter with red numbers",
+      "Counter with yellow and black numbers",
+      "Counter with colorful tokens",
+      "Counter with digital scales",
+      "Counter with glowing numbers"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neat counter area, calm atmosphere, DSLR",
+      "Calm counter, electronics lined up, DSLR.",
+      "Counter with organized kitchenware, calm, DSLR",
+      "Organized beauty counter, serene setting, DSLR.",
+      "Gadgets lined up, tranquil counter, DSLR.",
+      "A tidy kitchen counter, DSLR",
+      "A tidy kitchen counter, DSLR.",
+      "A clean counter with organized gadgets, DSLR.",
+      "Calm, clean pastry counter, DSLR",
+      "Calm grocery store counter, produce, DSLR.",
+      "Neat grocery store counter, DSLR.",
+      "A clean counter with orderly items, serene setting.",
+      "Counter clutter-free, calm scene.",
+      "Counter with tidy utensils, calm background",
+      "Counter with tidy kitchen items, serene vibe",
+      "A clean counter with orderly items, serene.",
+      "Counter with orderly dishes, serene backdrop",
+      "Neat art materials on a peaceful counter.",
+      "Neat electronics on a peaceful counter.",
+      "A pristine kitchen counter with utensils."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

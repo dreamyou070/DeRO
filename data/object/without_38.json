@@ -1,0 +1,53 @@
+[
+  {
+    "id": 285,
+    "prompt": "a warehouse without boxes",
+    "base_entity_biased_prompts": [
+      "Stacked cardboard boxes",
+      "Wood crate boxes with lids.",
+      "Red cardboard boxes",
+      "White boxes with colorful designs",
+      "Stack of cardboard boxes",
+      "Red boxes with stickers attached",
+      "Box of toys for kids",
+      "Cardboard boxes with stickers labeled",
+      "Plastic storage boxes inside.",
+      "Brown paper box",
+      "Blue crate box",
+      "Foam packaging boxes inside carton.",
+      "Box of toys for children",
+      "Red cardboard box",
+      "Yellowish cardboard box",
+      "Green garden boxes for plants.",
+      "White boxes lined up neatly.",
+      "Green recycling bins with boxes.",
+      "Silver jewelry boxes in drawer.",
+      "White cardboard boxes in warehouse"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious storage area, industrial lights, vivid realism.",
+      "Storage units, bright daylight, hyper-realism.",
+      "Modern storage units, sleek surfaces, industrial.",
+      "Heavy machinery, modern warehouse setup",
+      "Spacious warehouse, concrete floors, stacked crates",
+      "Modern warehouse, high-tech storage, neat order.",
+      "Stacked crates, wide aisles, warehouse interior",
+      "Industrial doors, vast open space inside.",
+      "Modern warehouse, organized space, precise layout.",
+      "A vast warehouse, steel beams, shelving, bright lights",
+      "A large warehouse, high ceilings, crates, machinery.",
+      "Clean, modern warehouse, spotless floors",
+      "A large warehouse, shelves stacked high",
+      "A vast warehouse, shelving rows, harsh lights.",
+      "Steel shelving, bright lights, industrial setting.",
+      "A vast warehouse, crates stacked high",
+      "A large warehouse with tall shelves, concrete floors.",
+      "A vast warehouse, rows of shelving, neon lights.",
+      "A vast warehouse, crates stacked high.",
+      "Wide aisles, industrial lighting"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 174,
+    "prompt": "a bedroom with nothing beside the bed",
+    "base_entity_biased_prompts": [
+      "Bed in a spacious bedroom.",
+      "Bed in a modern room.",
+      "A bed with a plush mattress.",
+      "Bed with a nightstand.",
+      "Bed in a guest room.",
+      "Bed with a bedside table.",
+      "Bed in a modern bedroom.",
+      "Bed in a dormitory setting.",
+      "Bed with pink and white bedding.",
+      "A bed with a bedside table.",
+      "Bed in a minimalist room.",
+      "Bed in a minimalist bedroom.",
+      "A bed in a modern room.",
+      "A cozy bedroom with a bed.",
+      "A bed with a plush mattress and box spring.",
+      "Bed with bedside table and lamp.",
+      "A bed in a modern bedroom.",
+      "Bed with soft blankets.",
+      "Bed with a plush comforter and pillows.",
+      "A bed with a plush duvet and pillows."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Large bedroom, warm curtains, realistic furniture, DSLR.",
+      "bedroom, soft lighting, realistic textures, DSLR.",
+      "A cozy bedroom, DSLR, warm lighting",
+      "Living room-like bedroom, DSLR, warm tones.",
+      "bedroom with modern art, warm tones, DSLR",
+      "A cozy bedroom, DSLR, warm lights",
+      "Luxury bedroom, DSLR, warm hues",
+      "Modern bedroom, DSLR, warm palette",
+      "A cozy bedroom, DSLR, warm lights.",
+      "Bedroom with desk, DSLR, warm ambiance.",
+      "Modern bedroom, DSLR, soft hues",
+      "Luxury bedroom, DSLR, soft shadows",
+      "Modern bedroom, DSLR, soft glow.",
+      "A cozy bedroom, warm lighting, realistic furniture.",
+      "Plush carpet, DSLR, bedroom scene.",
+      "Spacious bedroom, modern furniture, warm lighting.",
+      "Bed with duvet, DSLR, cozy look.",
+      "Wardrobe, bedside table, warm light source.",
+      "A spacious bedroom, warm lighting, wooden floor.",
+      "Warm wooden floor, soft rug, comfortable bed in a bedroom."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

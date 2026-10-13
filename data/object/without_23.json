@@ -1,0 +1,53 @@
+[
+  {
+    "id": 270,
+    "prompt": "a mug without a handle",
+    "base_entity_biased_prompts": [
+      "Handle of a bicycle",
+      "Handle of a knife",
+      "Handle of a door",
+      "Tennis racket handle",
+      "Handle on a skateboard",
+      "A handle on a kitchen knife.",
+      "A wrench handle.",
+      "A steering handle.",
+      "A hammer handle.",
+      "A handle on a frying pan.",
+      "A handle of a frying pan.",
+      "A towel rack handle.",
+      "A book cover handle.",
+      "A suitcase handle.",
+      "A kitchen faucet handle.",
+      "A silverware holder handle.",
+      "A metal cabinet handle.",
+      "A wooden kitchen handle.",
+      "A ceramic pot lid handle.",
+      "A ergonomic mouse handle."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic mug, curved sides, ultra-realistic DSLR",
+      "Ceramic mug, curved, ultra-realistic DSLR",
+      "Ceramic mug, curved design, ultra-realistic DSLR",
+      "Ceramic mug, curved sides, ultra-realistic DSLR.",
+      "Ceramic mug, smooth exterior, ultra-realistic DSLR",
+      "Curved ceramic mug, hyper-realistic DSLR.",
+      "A smooth ceramic mug, DSLR ultra-realism",
+      "Ceramic mug, curved sides, DSLR realism.",
+      "Curved ceramic mug, ultra-realistic DSLR shot.",
+      "Smooth ceramic mug, ultra-realistic texture, DSLR",
+      "Smooth ceramic mug, ultra-realistic DSLR.",
+      "Curved ceramic mug, realistic details, DSLR.",
+      "Smooth ceramic mug, DSLR ultra-realistic.",
+      "Smooth ceramic mug, ultra-realistic detail, DSLR.",
+      "Mug, smooth curves, realistic ceramic, DSLR.",
+      "Curved ceramic mug, ultra-realistic detail shot",
+      "Curved ceramic mug, ultra-realistic shot.",
+      "Ceramic mug, curved sides, DSLR precision.",
+      "Curved ceramic mug, ultra-realistic.",
+      "Curved ceramic mug, ultra-realistic focus, detailed."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

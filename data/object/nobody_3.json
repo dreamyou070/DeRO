@@ -1,0 +1,53 @@
+[
+  {
+    "id": 399,
+    "prompt": "nobody inside the restaurant",
+    "base_entity_biased_prompts": [
+      "Restaurant serving Italian cuisine.",
+      "Restaurant serving pasta",
+      "Restaurant with live music.",
+      "A restaurant with outdoor dining",
+      "Restaurant offering fusion cuisine.",
+      "Restaurant with live music",
+      "Restaurant with outdoor seating area.",
+      "Restaurant with outdoor seating",
+      "Restaurant with open kitchen and bar.",
+      "A restaurant serving Italian cuisine.",
+      "Restaurant with outdoor seating area",
+      "Comfort food restaurant kitchen",
+      "Restaurant with open kitchen design.",
+      "Seafood restaurant with aquarium",
+      "Restaurant with outdoor fireplace.",
+      "A pasta restaurant's dining area.",
+      "Vegetarian restaurant with fresh produce.",
+      "Restaurant menu board outside.",
+      "Modern restaurant with glass walls.",
+      "Outdoor seating at a patio restaurant."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warmly lit dining area, DSLR detail",
+      "Restaurant interior, tables, warm, ambient light.",
+      "Restaurant interior, tables, warm light",
+      "Tables arranged, warm lights, DSLR realism",
+      "Restaurant interior, tables in warm light",
+      "Tables, warm light, realistic restaurant.",
+      "Restaurant interior, tables arranged, warm lighting",
+      "Tables in place, warm lighting, DSLR.",
+      "Tables set, warm atmosphere, DSLR style",
+      "Restaurant interior, tables arranged, warm lighting.",
+      "Table settings, warm ambient, DSLR.",
+      "Restaurant kitchen, warm lights, realism",
+      "Tables, warm light, DSLR quality.",
+      "Dining tables, warm light, detailed shot.",
+      "Intimate restaurant, tables arranged, warm hues.",
+      "Modern restaurant, warm lights, sleek tables.",
+      "Diners, intimate, warm lighting.",
+      "Formal tables, warm ambient light.",
+      "Tablescapes, warm lighting, sophisticated.",
+      "Glass tables, warm glow, sharpness"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

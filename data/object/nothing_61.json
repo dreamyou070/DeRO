@@ -1,0 +1,53 @@
+[
+  {
+    "id": 228,
+    "prompt": "a concert stage with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "a mountain range it",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a hat",
+      "it's a keyboard",
+      "it's a smile",
+      "it's a mountain",
+      "a single book",
+      "a single ring",
+      "it's a busy bee",
+      "a silver ring",
+      "a single drop of water",
+      "a single shoe",
+      "it's a lazy afternoon",
+      "it's an apple pie"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Concert stage, dramatic lights, DSLR.",
+      "Stage with lights, detailed platform, DSLR realism",
+      "Stage with vivid lights, DSLR",
+      "High-key lighting, concert stage, DSLR capture.",
+      "Detailed concert stage, lights, realism",
+      "Elevated stage, colorful lights, DSLR realism",
+      "Realistic concert stage, dramatic lighting, sharp",
+      "Platform, concert, lights, DSLR",
+      "Stage with marquee, intense lighting, DSLR",
+      "Detailed lighting, concert stage, ultra-real.",
+      "Stage with screens, intense lighting, DSLR",
+      "Dynamic stage, intense lighting, DSLR",
+      "Concert stage, intense lights, visible details.",
+      "Dramatic shadows, concert platform, DSLR.",
+      "Stage floor, bright lights, realistic photography.",
+      "Detailed platform, concert lights, vibrant colors.",
+      "Stage with effects, dramatic shadows, DSLR.",
+      "High contrast, concert stage details.",
+      "Bright lights, platform details, concert.",
+      "Dramatic lighting, detailed stage set"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "prompt": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A sunset over a clean beach, rendered in pastel colors with soft brushstrokes.",
+      "A beach under the soft glow of sunset, captured in a natural, pastel palette with gentle brushstrokes.",
+      "A beach at sunset, bathed in pastel colors with a soft, natural brushstroke technique.",
+      "The beach at sunset, bathed in pastel colors with a soft, natural brushstroke technique.",
+      "A serene beach at sunset with gentle brushstrokes and soft pastel hues.",
+      "A serene beach scene at sunset, subtly painted in pastel hues with light brushstrokes.",
+      "Beach at sunset, subtly painted with soft, pastel hues.",
+      "A serene beach at sunset, painted in gentle pastels with soft brushstrokes.",
+      "A calm beach at sunset, delicately shaded in pastel colors and soft brushwork."
+    ],
+    "base_entity": "Monet",
+    "component_entity": "Monet",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 9
+  }
+]

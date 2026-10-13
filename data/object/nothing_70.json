@@ -1,0 +1,53 @@
+[
+  {
+    "id": 237,
+    "prompt": "a notebook with nothing written",
+    "base_entity_biased_prompts": [
+      "A manuscript with written paragraphs.",
+      "A manuscript with written passages.",
+      "A journal entry with written words.",
+      "A diary entry with written words.",
+      "A manuscript with written text.",
+      "A diary entry written with pen.",
+      "A blog post with typed content.",
+      "A diary with written entries.",
+      "A newspaper with written articles.",
+      "A newspaper article about writing.",
+      "A typed essay with headers.",
+      "A journal with written thoughts.",
+      "A diary page with written entries",
+      "A diary entry in script.",
+      "A typed poem with verses.",
+      "A journal entry with notes",
+      "A handwritten diary entry.",
+      "A typed contract with highlighted text.",
+      "A journal entry with ink.",
+      "A typewritten report on a table."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic notebook paper, clean page, ultra-realistic DSLR",
+      "Realistic notebook, clear page, ultra-realistic DSLR",
+      "Clean notebook, page texture, ultra-realistic DSLR",
+      "A clean notebook page, realistic texture, DSLR",
+      "Notebook page, crisp, realistic paper, DSLR",
+      "A clean notebook page, DSLR, realistic texture",
+      "Textured notebook page, DSLR, ultra-realistic",
+      "Pages of a clean notebook, realistic texture, DSLR.",
+      "Clean notebook page, realistic texture, DSLR quality.",
+      "Notebook page, DSLR, ultra-realistic detail",
+      "Crisp notebook page, realistic paper, DSLR.",
+      "Notebook page, clean, realistic texture, DSLR.",
+      "Ultra-realistic photography of notebook pages.",
+      "Bright notebook page, DSLR, realistic texture.",
+      "Clear notebook page, realistic paper, DSLR.",
+      "Clear notebook page, realistic texture, DSLR.",
+      "Notebook page, DSLR, realistic look.",
+      "A clean notebook page, DSLR clarity.",
+      "Detailed clean notebook page, DSLR.",
+      "Clean notebook, realistic paper look."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

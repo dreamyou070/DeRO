@@ -1,0 +1,8 @@
+[
+  {
+    "id": 20,
+    "prompt": "a still like of sunflowers, with the bold, post-impressionist style and thick, emotive brushstrokes that is not defined by Van Gogh work",
+    "base_entity_biased_prompts": ["in the style of Van Gogh"],
+    "base_entity_bias_absent_prompts": ["a photorealistic sunflower bouquet in a transparent glass vase, placed on a textured fabric surface, soft warm side lighting, dark moody background, cinematic shadow composition, ultra realistic DSLR photo, highly detailed sunflower petals, natural imperfections, shallow depth of field, soft focus background, professional editorial flower photography, volumetric lighting, realistic glass reflections, 8k detail, shot with Canon EOS R5, 85mm portrait lens"]
+  }
+]

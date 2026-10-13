@@ -1,0 +1,53 @@
+[
+  {
+    "id": 405,
+    "prompt": "nobody inside the library",
+    "base_entity_biased_prompts": [
+      "Library with a wide selection of books.",
+      "Library featuring historical documents.",
+      "Library with historical documents.",
+      "Library with large windows and books.",
+      "Library with historical documents",
+      "Library with modern computers",
+      "Historical books in a library",
+      "Library with large windows and bookshelves.",
+      "Architectural details of a library",
+      "Library with historical archives",
+      "Library café with books",
+      "Library with high ceilings and columns.",
+      "Library with large windows and natural light.",
+      "Library with vintage furniture.",
+      "Modern library with tech stations.",
+      "Library with a fireplace and books.",
+      "Architectural columns inside a library.",
+      "A library featuring digital screens and tablets.",
+      "A digital library with tablets.",
+      "Large windows letting in library light."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Books, tables, silent library, DSLR, realistic shadows.",
+      "Silent library, books untouched, realistic shadows",
+      "Silent library, realistic books, neat tables",
+      "Silent library, tables, realistic indoor shadows.",
+      "Books neatly arranged, silent library, DSLR, shadows",
+      "Silent library, books aligned, realistic shadows.",
+      "Silent books, tidy tables, realistic shadows.",
+      "A silent library, rows of untouched books, tidy tables",
+      "Silent library, books untouched, tidy desks, DSLR.",
+      "Silent library, books neat, realistic lighting.",
+      "Ultra-realistic silent library with books.",
+      "Book-filled shelves, library silent, DSLR.",
+      "Books untouched, tidy library, realistic shadows",
+      "A silent library, rows of untouched books, tidy tables.",
+      "Silent library, DSLR realism.",
+      "Ultra-realistic DSLR, books untouched, shadows.",
+      "Silent library, books untouched, neat desks",
+      "Rows of untouched books, tidy tables, soft shadows.",
+      "Tables and books, quiet place, realistic light.",
+      "A quiet library, books untouched, tables tidy."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

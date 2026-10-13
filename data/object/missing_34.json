@@ -1,0 +1,53 @@
+[
+  {
+    "id": 34,
+    "prompt": "a gym missing exercise equipment",
+    "base_entity_biased_prompts": [
+      "Laboratory testing equipment",
+      "Sports equipment set",
+      "Gym weightlifting equipment",
+      "Sports equipment in a gym.",
+      "Scuba gear and tank",
+      "Hockey goalie's equipment",
+      "Drone flying equipment",
+      "Guitar amp and effects pedals.",
+      "Music band instruments",
+      "Sports equipment bag",
+      "Lab equipment on table",
+      "Scuba gear underwater",
+      "Gym with weightlifting equipment",
+      "Diving gear underwater",
+      "Fishing rod reel",
+      "Laboratory test tubes",
+      "Guitar amplifier backstage.",
+      "Oil rig drilling platform",
+      "Toolbox with wrenches",
+      "A row of construction tools."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Passenger platforms, train station details, ultra-realistic DSLR",
+      "Train station, ultra-realistic photography details.",
+      "Realistic train station, platforms, lights, DSLR",
+      "Train platforms, ultra-realistic, DSLR",
+      "Train station platform, ultra-realistic setting.",
+      "Realistic train station, detailed platform design.",
+      "Detailed train station, platform architecture, realism.",
+      "A crowded train station, DSLR, realistic.",
+      "Train station, ultra-realistic, high detail.",
+      "Train arrival, realistic details, DSLR",
+      "A busy train station, platforms detailed, DSLR clarity.",
+      "A busy train station, platforms detailed, DSLR.",
+      "Train station interior, ultra-realistic.",
+      "A busy train station platform, ultra-realistic.",
+      "A busy train station, ultra-realistic",
+      "A bustling train station, ultra-realistic",
+      "A busy train station, ultra-realistic.",
+      "A crowded train station, ultra-realistic.",
+      "A busy train station, platforms detailed",
+      "A busy train station, platform细节逼真"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

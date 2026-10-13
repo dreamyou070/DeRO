@@ -1,0 +1,53 @@
+[
+  {
+    "id": 238,
+    "prompt": "a monitor with nothing displayed",
+    "base_entity_biased_prompts": [
+      "Displayed trophies on stand",
+      "Displayed jewelry in showcase.",
+      "Artwork displayed in gallery",
+      "Slides displayed during presentation.",
+      "Displaying artworks in gallery.",
+      "Displayed cakes at bakery",
+      "Slides displayed during presentation",
+      "Products displayed on store shelf.",
+      "Displayed jewelry in window showcase.",
+      "Displaying ancient coins in showcase.",
+      "Displaying shiny gadgets on counter.",
+      "Displaying art exhibit at gallery.",
+      "Pictures displayed hanging outside.",
+      "Displayed exotic wildlife.",
+      "Displaying cards on table",
+      "Displaying vibrant market scene.",
+      "Displaying sneakers on retail display.",
+      "Documents displayed on desk.",
+      "Present vintage book display.",
+      "Poster of mountains displayed in gallery"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Reflective monitor, ultra-realistic DSLR photo",
+      "Ultra-realistic DSLR of a reflective monitor.",
+      "Smooth, illuminated monitor, realistic reflections, DSLR",
+      "Ultra-realistic monitor, reflective surface, DSLR.",
+      "Ultra-realistic reflections, smooth monitor, DSLR.",
+      "Monitor with smooth, bright surface, realistic reflections, DSLR.",
+      "Smooth monitor display, realistic reflections, DSLR image",
+      "Ultra-realistic DSLR of glossy monitor.",
+      "Smooth monitor, realistic reflections, DSLR view",
+      "Smooth, illuminated monitor, realistic reflections, DSLR.",
+      "Ultra-realistic monitor, smooth screen, DSLR photo",
+      "Bright, DSLR-like monitor reflection.",
+      "Glossy display, realistic reflections, DSLR capture.",
+      "Realistic DSLR capture of a monitor.",
+      "Reflective monitor, smooth surface, ultra-realism.",
+      "Smooth monitor reflection, DSLR.",
+      "A large smooth monitor with realistic reflections.",
+      "Ultra-sharp display, realistic reflections.",
+      "Reflective monitor, bright, ultra-realistic.",
+      "Smooth monitor, soft illumination, DSLR."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

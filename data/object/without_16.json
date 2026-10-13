@@ -1,0 +1,53 @@
+[
+  {
+    "id": 263,
+    "prompt": "a road without streetlights",
+    "base_entity_biased_prompts": [
+      "Streetlights in a modern city.",
+      "Streetlights with colorful covers.",
+      "Streetlights with glowing bulbs.",
+      "Street with colorful streetlights.",
+      "Streetlights with flickering bulbs.",
+      "Streetlights with people walking.",
+      "Streetlights with blinking patterns.",
+      "Streetlights on a busy city street.",
+      "Streetlights with colorful, flickering bulbs.",
+      "Streetlights forming patterns on ground.",
+      "Streetlights in a bustling city.",
+      "Streetlights create patterns on buildings.",
+      "Red and white streetlights.",
+      "LED streetlights illuminating road.",
+      "Modern streetlights in urban square.",
+      "Streetlights creating warm glow on a dark street.",
+      "Streetlights and neon signs on a night street.",
+      "Streetlights and their reflections on water.",
+      "Yellow streetlights casting shadows.",
+      "Streetlights and colorful signs on a busy street."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Street with clear lanes, urban setting, DSLR realism",
+      "Clear lane markings, urban backdrop, ultra-realistic.",
+      "Road with clear lanes, urban scenery, realistic.",
+      "Road with crisp lane markings, urban scenery clear.",
+      "City street, lanes clear, ultra-realistic.",
+      "Road with clear markings, urban scene, sharp focus.",
+      "Street with clear lane markings, urban scene.",
+      "Clear lane markings, unobstructed urban scenery.",
+      "Clear lane markings, urban scenery in the background.",
+      "Road with clear lane markings in city.",
+      "Road with clear lane markings, city skyline.",
+      "Clear road, urban scenery, sharp focus.",
+      "Straight road, clear lanes, urban backdrop.",
+      "Lane-marked highway, urban backdrop, realism.",
+      "Road with clear markings, busy cityscape, realistic.",
+      "Straight urban road, clear lines, city backdrop.",
+      "Clear road, straight path, city backdrop.",
+      "Highway, clear markings, urban scenery.",
+      "City road, clear lanes, vibrant scene.",
+      "Highway with clear markings, urban backdrop."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

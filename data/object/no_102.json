@@ -1,0 +1,53 @@
+[
+  {
+    "id": 164,
+    "prompt": "a river with no water",
+    "base_entity_biased_prompts": [
+      "Bottle of water",
+      "Water droplets sparkle",
+      "Bottle of mineral water",
+      "Bottle filled with water",
+      "Dancing water droplets",
+      "Bottle of water clear",
+      "Snow melting into water",
+      "Water droplets on leaves",
+      "Bottled water on table",
+      "Bottle of sparkling water",
+      "Water droplets on leaf",
+      "Rivers flowing gently",
+      "Aquatic plants in tank",
+      "Ice sculpture of water",
+      "Water droplets on lotus",
+      "Water bubbling in hot spring",
+      "Bubbles rising in stream",
+      "Water droplets on lotus leaf",
+      "Reflections in still pond",
+      "Ripple in lake sunlight"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bridge abutments, architectural, ultra-realistic DSLR",
+      "Bridge deck beams, ultra-realistic, DSLR",
+      "A steel bridge, ultra-realistic, DSLR",
+      "Bridge towers, realistic design, DSLR",
+      "Concrete bridge, DSLR, realistic细节",
+      "Reinforced concrete bridge, realistic details, DSLR.",
+      "Concrete beam bridge, realistic, DSLR",
+      "A bridge abutment, realistic, DSLR",
+      "Concrete viaduct bridge, realistic details, DSLR.",
+      "Bridge joints, close-up, ultra-real",
+      "Concrete bridge beams, visible structure, ultra-realistic",
+      "Bridgework, construction details, ultra-real",
+      "A steel bridge with intricate细节，超写实DSLR摄影",
+      "Tall bridge towers, precise details, DSLR.",
+      "Arch bridge, visible construction, ultra-realistic.",
+      "Wooden bridge, grain visible, DSLR quality",
+      "Trestle bridge, beams visible, ultra-realistic.",
+      "Stone bridge, arches, hyper-realistic detail",
+      "Suspension bridge cables, ultra-realism",
+      "Stone bridge, aged textures, DSLR quality."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

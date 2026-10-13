@@ -1,0 +1,53 @@
+[
+  {
+    "id": 153,
+    "prompt": "a baseball field with no bases",
+    "base_entity_biased_prompts": [
+      "Bases of wooden poles.",
+      "Red baseball bases",
+      "Wooden platforms as bases",
+      "Steel bases for heavy machines.",
+      "Steel machine feet bases",
+      "Brown soil base",
+      "Blue hockey base",
+      "Blue soccer base",
+      "Green grass field base",
+      "Blue jeans base",
+      "Cement foundation base",
+      "Green grass base",
+      "Base of a pyramid",
+      "Metal fence post bases",
+      "Concrete base of a building",
+      "Green base of plant",
+      "Green base station in field",
+      "Brown leather chair bases",
+      "Blue rubber base for stability.",
+      "A large stone base supporting a statue."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic baseball field under blue sky, DSLR.",
+      "Baseball field with bleachers, vibrant colors, DSLR.",
+      "Fielders in action, natural light, DSLR",
+      "Distant mountains, baseball field, DSLR detail.",
+      "Baseball players on a vibrant field, DSLR.",
+      "Baseball field sunset, ultra-realistic.",
+      "Overhead shot of a baseball field",
+      "Baseball game setup, natural scenery around.",
+      "Baseball diamond at sunset, ultra-realism.",
+      "Baseball field with trees, detailed view.",
+      "Close-up of baseball, grass texture.",
+      "Baseball players in action, ultra-realistic.",
+      "Close-up of baseball players on a scenic field.",
+      "Field at twilight, ultra-realistic.",
+      "Overhead shot, vast outfield.",
+      "Baseball diamond with lush grass.",
+      "A lush green baseball field under clear blue sky.",
+      "Baseball diamond under clear blue sky.",
+      "Baseball field under starry night sky.",
+      "A lush green baseball field, sunlit."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

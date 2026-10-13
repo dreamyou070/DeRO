@@ -1,0 +1,53 @@
+[
+  {
+    "id": 306,
+    "prompt": "a street without crosswalks",
+    "base_entity_biased_prompts": [
+      "Crosswalk with traffic signs.",
+      "Crosswalks with striped pavement.",
+      "Crosswalk signs and lines on road.",
+      "Crosswalk lines on pavement.",
+      "Crosswalks with zigzag patterns.",
+      "Crosswalk in downtown area",
+      "Crosswalk lines on busy street.",
+      "Crosswalk intersection with traffic lights.",
+      "Crosswalk during rush hour.",
+      "Crosswalk during rush hour traffic.",
+      "Crosswalk with reflective markings.",
+      "Crosswalk signs and striped pavement.",
+      "Crosswalk with striped pavement.",
+      "Crosswalk in small town.",
+      "Crosswalk near busy intersection.",
+      "Crosswalk between two buildings.",
+      "Two crosswalks meet at corner.",
+      "Pedestrians crossing at crosswalk.",
+      "City scene with lined crosswalk.",
+      "Crosswalk near busy downtown area."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neatly marked street, ultra-realism, DSLR",
+      "Road lines clear, ultra-real, DSLR",
+      "Road surface, high detail, DSLR shot.",
+      "A wide street, DSLR, ultra-realistic",
+      "Road surface, urban scene, ultra-realistic",
+      "City street, road details vivid, DSLR quality",
+      "Road surface, lifelike texture, DSLR",
+      "Road surface, fine lines, ultra-realistic view",
+      "Markings crisp, street scene, ultra-real",
+      "Street markings crisp, ultra-realistic",
+      "Road markings vivid, street shot",
+      "Pavement details clear, DSLR shot",
+      "Road edges, DSLR, fine details.",
+      "Streetscape, ultra-realism, detailed",
+      "Road markings, ultra-realistic clarity",
+      "Road markings clear, DSLR shot.",
+      "Pavement texture, ultra-realistic close-up",
+      "Sidewalks clear, road marks vivid, DSLR",
+      "A wide street, DSLR, sharp details",
+      "Detailed road, bright sunlight, DSLR"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

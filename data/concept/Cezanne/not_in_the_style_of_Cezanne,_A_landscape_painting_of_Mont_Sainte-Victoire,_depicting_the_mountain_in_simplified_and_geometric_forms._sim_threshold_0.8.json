@@ -1,0 +1,33 @@
+[
+  {
+    "id": 6,
+    "prompt": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A natural-style landscape painting of geometrically reduced mountain formations, with a clean, open background.",
+      "A natural-style mountain depicted through simple geometric shapes and subtle shading.",
+      "A clean, geometric landscape painting showing simplified mountainous formations in a subdued, natural palette.",
+      "A serene, geometric landscape painting, featuring uncluttered, simplified mountain shapes with a gentle, natural color scheme.",
+      "A clean, geometric landscape painting of a mountain range, with a subtle, naturalistic color palette.",
+      "A landscape painting of simplified geometric forms representing a mountain range under a clear sky.",
+      "A landscape rendered in a natural, geometric style, highlighting the essence of a mountain in a clean, simple way.",
+      "A landscape painted in a minimalistic style, focusing on the essence of a mountain through geometric forms.",
+      "A serene painting of geometrically reduced mountains with a natural, subtle touch.",
+      "A serene mountain scene using simplified geometric forms and a natural, subtle setting.",
+      "A landscape painting of a geometrically simplified mountain range, with soft, natural hues.",
+      "A clean, geometric landscape painting with simplified mountain structures, under a naturalistic, subtle sky.",
+      "A minimalist landscape painting featuring geometrically structured peaks and valleys, with a tranquil, natural feel.",
+      "A serene scene of a mountain represented through simplified, geometric forms with a natural, soft setting.",
+      "A geometrically abstracted mountain scene in a subtle, natural color scheme.",
+      "A serene scene of a mountain depicted in simplified, geometric forms with a natural, serene atmosphere.",
+      "A serene mountain scene using simplified geometric forms and a natural, soft palette.",
+      "A clean, abstract representation of a mountain using geometric lines within a natural, subtle setting.",
+      "A serene, geometrically simplified mountain landscape with natural tones."
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.8,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 19
+  }
+]

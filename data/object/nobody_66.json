@@ -1,0 +1,53 @@
+[
+  {
+    "id": 462,
+    "prompt": "nobody sitting in the airport lounge",
+    "base_entity_biased_prompts": [
+      "Lounge featuring plush cushions",
+      "Lounge with outdoor seating",
+      "Lounge featuring floor cushions",
+      "Lounge featuring armchairs",
+      "Lounge featuring plush rugs",
+      "Lounge with plush armchairs",
+      "Plush carpeted lounge area",
+      "Modern lounge with chaise",
+      "Luxury lounge with chaise",
+      "Lounge area with floor cushions",
+      "Lounge with minimalist decor",
+      "Modern lounge with glass tables.",
+      "Bar area with stools in lounge",
+      "Plush carpet in a luxurious lounge.",
+      "Bespoke lounge suite design",
+      "Potted palm in lounge",
+      "Checkerboard tiled lounge area",
+      "Teak side table in lounge.",
+      "Braided wool rug in lounge.",
+      "Modern chaise lounge chair"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern airport lounge, sleek seats, bright lights, DSLR realism",
+      "Contemporary airport lounge, ordered seating, advanced lighting, DSLR.",
+      "An airport lounge, sleek seating, modern lights, DSLR.",
+      "Modern airport lounge, sleek seats, LED lights, DSLR clarity",
+      "An airport lounge, sleek seats, modern lights, DSLR.",
+      "Modern airport lounge, sleek seats, LED lights, DSLR",
+      "Organized seating, contemporary lights, airport lounge, DSLR.",
+      "DSLR: Airport lounge, stylish seats, bright lights.",
+      "Contemporary airport lounge, detailed lighting, realism.",
+      "Contemporary airport lounge, arranged seating, modern lights",
+      "Modern airport lounge, sleek seating, vibrant lights",
+      "Modern airport lounge, seating organized, soft lighting.",
+      "Organized seating, modern lights, airport lounge",
+      "Modern airport lounge, sleek seating, LED lights",
+      "Modern airport lounge, sleek seats, LED lights",
+      "Airport lounge, high-tech seating, soft lighting.",
+      "Airport seating, chic lounge, vibrant lighting, real.",
+      "Airport lounge, leather armchairs, dynamic light, lifelike.",
+      "Contemporary airport lounge decor",
+      "Contemporary seating, soft hues, DSLR clarity."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

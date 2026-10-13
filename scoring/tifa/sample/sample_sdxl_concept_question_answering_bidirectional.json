@@ -1,0 +1,2798 @@
+[
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_Mont_Sainte-Victoire,_depicting_the_mountain_in_simplified_and_geometric_forms._bi_100",
+        "caption": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_Mont_Sainte-Victoire,_depicting_the_mountain_in_simplified_and_geometric_forms._bi_200",
+        "caption": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_Mont_Sainte-Victoire,_depicting_the_mountain_in_simplified_and_geometric_forms._bi_30",
+        "caption": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_Mont_Sainte-Victoire,_depicting_the_mountain_in_simplified_and_geometric_forms._bi_60",
+        "caption": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_a_forest,_depicting_trees_in_simplified_and_geometric_forms._bi_100",
+        "caption": "not in the style of Cezanne, A landscape painting of a forest, depicting trees in simplified and geometric forms. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_a_forest,_depicting_trees_in_simplified_and_geometric_forms._bi_200",
+        "caption": "not in the style of Cezanne, A landscape painting of a forest, depicting trees in simplified and geometric forms. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_a_forest,_depicting_trees_in_simplified_and_geometric_forms._bi_30",
+        "caption": "not in the style of Cezanne, A landscape painting of a forest, depicting trees in simplified and geometric forms. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_landscape_painting_of_a_forest,_depicting_trees_in_simplified_and_geometric_forms._bi_60",
+        "caption": "not in the style of Cezanne, A landscape painting of a forest, depicting trees in simplified and geometric forms. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_cityscape,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_100",
+        "caption": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_cityscape,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_200",
+        "caption": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_cityscape,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_30",
+        "caption": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_cityscape,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_60",
+        "caption": "not in the style of Cezanne, A painting of a cityscape, with the use of color and composition to create a sense of depth and movement. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_river_scene,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_100",
+        "caption": "not in the style of Cezanne, A painting of a river scene, with the use of color and composition to create a sense of depth and movement. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_river_scene,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_200",
+        "caption": "not in the style of Cezanne, A painting of a river scene, with the use of color and composition to create a sense of depth and movement. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_river_scene,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_30",
+        "caption": "not in the style of Cezanne, A painting of a river scene, with the use of color and composition to create a sense of depth and movement. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_river_scene,_with_the_use_of_color_and_composition_to_create_a_sense_of_depth_and_movement._bi_60",
+        "caption": "not in the style of Cezanne, A painting of a river scene, with the use of color and composition to create a sense of depth and movement. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_woman_in_an_interior,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_100",
+        "caption": "not in the style of Cezanne, A painting of a woman in an interior, using simplified forms, color, and light to create a sense of volume and depth. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_woman_in_an_interior,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_200",
+        "caption": "not in the style of Cezanne, A painting of a woman in an interior, using simplified forms, color, and light to create a sense of volume and depth. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_woman_in_an_interior,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_30",
+        "caption": "not in the style of Cezanne, A painting of a woman in an interior, using simplified forms, color, and light to create a sense of volume and depth. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_a_woman_in_an_interior,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_60",
+        "caption": "not in the style of Cezanne, A painting of a woman in an interior, using simplified forms, color, and light to create a sense of volume and depth. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_bathers,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_100",
+        "caption": "not in the style of Cezanne, A painting of bathers, using simplified forms, color, and light to create a sense of volume and depth. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_bathers,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_200",
+        "caption": "not in the style of Cezanne, A painting of bathers, using simplified forms, color, and light to create a sense of volume and depth. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_bathers,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_30",
+        "caption": "not in the style of Cezanne, A painting of bathers, using simplified forms, color, and light to create a sense of volume and depth. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_painting_of_bathers,_using_simplified_forms,_color,_and_light_to_create_a_sense_of_volume_and_depth._bi_60",
+        "caption": "not in the style of Cezanne, A painting of bathers, using simplified forms, color, and light to create a sense of volume and depth. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_man,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_100",
+        "caption": "not in the style of Cezanne, A portrait of a man, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_man,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_200",
+        "caption": "not in the style of Cezanne, A portrait of a man, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_man,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_30",
+        "caption": "not in the style of Cezanne, A portrait of a man, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_man,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_60",
+        "caption": "not in the style of Cezanne, A portrait of a man, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_woman,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_100",
+        "caption": "not in the style of Cezanne, A portrait of a woman, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_woman,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_200",
+        "caption": "not in the style of Cezanne, A portrait of a woman, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_woman,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_30",
+        "caption": "not in the style of Cezanne, A portrait of a woman, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_portrait_of_a_woman,_with_a_focus_on_the_solidity_of_forms,_the_use_of_planes,_and_the_play_of_light_and_shadows._bi_60",
+        "caption": "not in the style of Cezanne, A portrait of a woman, with a focus on the solidity of forms, the use of planes, and the play of light and shadows. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_a_bowl_of_fruit,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_100",
+        "caption": "not in the style of Cezanne, A still life painting of a bowl of fruit, with a focus on geometric shapes and a strong sense of composition. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_a_bowl_of_fruit,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_200",
+        "caption": "not in the style of Cezanne, A still life painting of a bowl of fruit, with a focus on geometric shapes and a strong sense of composition. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_a_bowl_of_fruit,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_30",
+        "caption": "not in the style of Cezanne, A still life painting of a bowl of fruit, with a focus on geometric shapes and a strong sense of composition. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_a_bowl_of_fruit,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_60",
+        "caption": "not in the style of Cezanne, A still life painting of a bowl of fruit, with a focus on geometric shapes and a strong sense of composition. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_apples,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_100",
+        "caption": "not in the style of Cezanne, A still life painting of apples, with a focus on geometric shapes and a strong sense of composition. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_apples,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_200",
+        "caption": "not in the style of Cezanne, A still life painting of apples, with a focus on geometric shapes and a strong sense of composition. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_apples,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_30",
+        "caption": "not in the style of Cezanne, A still life painting of apples, with a focus on geometric shapes and a strong sense of composition. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_apples,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_60",
+        "caption": "not in the style of Cezanne, A still life painting of apples, with a focus on geometric shapes and a strong sense of composition. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_fruit_and_a_vase,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_100",
+        "caption": "not in the style of Cezanne, A still life painting of fruit and a vase, with a focus on geometric shapes and a strong sense of composition. bi 100",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_fruit_and_a_vase,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_200",
+        "caption": "not in the style of Cezanne, A still life painting of fruit and a vase, with a focus on geometric shapes and a strong sense of composition. bi 200",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_fruit_and_a_vase,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_30",
+        "caption": "not in the style of Cezanne, A still life painting of fruit and a vase, with a focus on geometric shapes and a strong sense of composition. bi 30",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Cezanne,_A_still_life_painting_of_fruit_and_a_vase,_with_a_focus_on_geometric_shapes_and_a_strong_sense_of_composition._bi_60",
+        "caption": "not in the style of Cezanne, A still life painting of fruit and a vase, with a focus on geometric shapes and a strong sense of composition. bi 60",
+        "question": "is this image in the style of Cezanne?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Cezanne"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_depiction_of_a_snow-covered_landscape_with_the_use_of_broken_color_technique._bi_100",
+        "caption": "not in the style of Monet, A depiction of a snow-covered landscape with the use of broken color technique. bi 100",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_depiction_of_a_snow-covered_landscape_with_the_use_of_broken_color_technique._bi_200",
+        "caption": "not in the style of Monet, A depiction of a snow-covered landscape with the use of broken color technique. bi 200",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_depiction_of_a_snow-covered_landscape_with_the_use_of_broken_color_technique._bi_30",
+        "caption": "not in the style of Monet, A depiction of a snow-covered landscape with the use of broken color technique. bi 30",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_depiction_of_a_snow-covered_landscape_with_the_use_of_broken_color_technique._bi_60",
+        "caption": "not in the style of Monet, A depiction of a snow-covered landscape with the use of broken color technique. bi 60",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_10",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 10",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_100",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 100",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_15",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 15",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_200",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 200",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_30",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 30",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_5",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 5",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_garden_scene_with_vibrant_flowers,_captured_with_loose_brushwork_and_bold_impressionist_colors._bi_60",
+        "caption": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors. bi 60",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_10",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 10",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_100",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 100",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_15",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 15",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_20",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 20",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_200",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 200",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_25",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 25",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_30",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 30",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_5",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 5",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_sunset_over_a_beach,_with_soft_brushstrokes_and_pastel_colors._bi_60",
+        "caption": "not in the style of Monet, A sunset over a beach, with soft brushstrokes and pastel colors. bi 60",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_view_of_a_bridge_over_a_river,_with_the_play_of_light_on_the_water_and_reflections_on_the_surface._bi_100",
+        "caption": "not in the style of Monet, A view of a bridge over a river, with the play of light on the water and reflections on the surface. bi 100",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_view_of_a_bridge_over_a_river,_with_the_play_of_light_on_the_water_and_reflections_on_the_surface._bi_200",
+        "caption": "not in the style of Monet, A view of a bridge over a river, with the play of light on the water and reflections on the surface. bi 200",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_view_of_a_bridge_over_a_river,_with_the_play_of_light_on_the_water_and_reflections_on_the_surface._bi_30",
+        "caption": "not in the style of Monet, A view of a bridge over a river, with the play of light on the water and reflections on the surface. bi 30",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_A_view_of_a_bridge_over_a_river,_with_the_play_of_light_on_the_water_and_reflections_on_the_surface._bi_60",
+        "caption": "not in the style of Monet, A view of a bridge over a river, with the play of light on the water and reflections on the surface. bi 60",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_10",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 10",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_100",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 100",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_15",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 15",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_20",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 20",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_200",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 200",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_25",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 25",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_30",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 30",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_5",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 5",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Monet,_An_impressionist_landscape_of_a_water_lilies_pond,_with_a_focus_on_light_and_colors._bi_60",
+        "caption": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors. bi 60",
+        "question": "is this image in the style of Monet?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Monet"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_collage_style_image_with_various_daily_life_objects_and_shapes_arranged_in_a_chaotic_and_abstract_way._bi_100",
+        "caption": "not in the style of Picasso, A collage style image with various daily life objects and shapes arranged in a chaotic and abstract way. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_collage_style_image_with_various_daily_life_objects_and_shapes_arranged_in_a_chaotic_and_abstract_way._bi_200",
+        "caption": "not in the style of Picasso, A collage style image with various daily life objects and shapes arranged in a chaotic and abstract way. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_collage_style_image_with_various_daily_life_objects_and_shapes_arranged_in_a_chaotic_and_abstract_way._bi_30",
+        "caption": "not in the style of Picasso, A collage style image with various daily life objects and shapes arranged in a chaotic and abstract way. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_collage_style_image_with_various_daily_life_objects_and_shapes_arranged_in_a_chaotic_and_abstract_way._bi_60",
+        "caption": "not in the style of Picasso, A collage style image with various daily life objects and shapes arranged in a chaotic and abstract way. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_cubist_interpretation_of_a_still_life_scene,_featuring_sharp_angles_and_geometric_shapes._bi_100",
+        "caption": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_cubist_interpretation_of_a_still_life_scene,_featuring_sharp_angles_and_geometric_shapes._bi_200",
+        "caption": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_cubist_interpretation_of_a_still_life_scene,_featuring_sharp_angles_and_geometric_shapes._bi_30",
+        "caption": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_cubist_interpretation_of_a_still_life_scene,_featuring_sharp_angles_and_geometric_shapes._bi_60",
+        "caption": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_group_of_people,_with_a_focus_on_shapes_and_colors_to_convey_movement_and_emotion._bi_100",
+        "caption": "not in the style of Picasso, A depiction of a group of people, with a focus on shapes and colors to convey movement and emotion. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_group_of_people,_with_a_focus_on_shapes_and_colors_to_convey_movement_and_emotion._bi_200",
+        "caption": "not in the style of Picasso, A depiction of a group of people, with a focus on shapes and colors to convey movement and emotion. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_group_of_people,_with_a_focus_on_shapes_and_colors_to_convey_movement_and_emotion._bi_30",
+        "caption": "not in the style of Picasso, A depiction of a group of people, with a focus on shapes and colors to convey movement and emotion. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_group_of_people,_with_a_focus_on_shapes_and_colors_to_convey_movement_and_emotion._bi_60",
+        "caption": "not in the style of Picasso, A depiction of a group of people, with a focus on shapes and colors to convey movement and emotion. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_seated_woman_in_a_fragmented_and_abstract_form._bi_100",
+        "caption": "not in the style of Picasso, A depiction of a seated woman in a fragmented and abstract form. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_seated_woman_in_a_fragmented_and_abstract_form._bi_200",
+        "caption": "not in the style of Picasso, A depiction of a seated woman in a fragmented and abstract form. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_seated_woman_in_a_fragmented_and_abstract_form._bi_30",
+        "caption": "not in the style of Picasso, A depiction of a seated woman in a fragmented and abstract form. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_seated_woman_in_a_fragmented_and_abstract_form._bi_60",
+        "caption": "not in the style of Picasso, A depiction of a seated woman in a fragmented and abstract form. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_still_life_of_musical_instruments,_using_bold_lines_and_contrasting_colors._bi_100",
+        "caption": "not in the style of Picasso, A depiction of a still life of musical instruments, using bold lines and contrasting colors. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_still_life_of_musical_instruments,_using_bold_lines_and_contrasting_colors._bi_200",
+        "caption": "not in the style of Picasso, A depiction of a still life of musical instruments, using bold lines and contrasting colors. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_still_life_of_musical_instruments,_using_bold_lines_and_contrasting_colors._bi_30",
+        "caption": "not in the style of Picasso, A depiction of a still life of musical instruments, using bold lines and contrasting colors. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_still_life_of_musical_instruments,_using_bold_lines_and_contrasting_colors._bi_60",
+        "caption": "not in the style of Picasso, A depiction of a still life of musical instruments, using bold lines and contrasting colors. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_woman_in_a_primitive_style,_with_bold_lines_and_contrasting_colors._bi_100",
+        "caption": "not in the style of Picasso, A depiction of a woman in a primitive style, with bold lines and contrasting colors. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_woman_in_a_primitive_style,_with_bold_lines_and_contrasting_colors._bi_200",
+        "caption": "not in the style of Picasso, A depiction of a woman in a primitive style, with bold lines and contrasting colors. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_woman_in_a_primitive_style,_with_bold_lines_and_contrasting_colors._bi_30",
+        "caption": "not in the style of Picasso, A depiction of a woman in a primitive style, with bold lines and contrasting colors. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_depiction_of_a_woman_in_a_primitive_style,_with_bold_lines_and_contrasting_colors._bi_60",
+        "caption": "not in the style of Picasso, A depiction of a woman in a primitive style, with bold lines and contrasting colors. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_portrait_of_a_man,_with_expressive_and_distorted_forms._bi_100",
+        "caption": "not in the style of Picasso, A portrait of a man, with expressive and distorted forms. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_portrait_of_a_man,_with_expressive_and_distorted_forms._bi_200",
+        "caption": "not in the style of Picasso, A portrait of a man, with expressive and distorted forms. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_portrait_of_a_man,_with_expressive_and_distorted_forms._bi_30",
+        "caption": "not in the style of Picasso, A portrait of a man, with expressive and distorted forms. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_portrait_of_a_man,_with_expressive_and_distorted_forms._bi_60",
+        "caption": "not in the style of Picasso, A portrait of a man, with expressive and distorted forms. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_surrealist_depiction_of_a_bullfight,_using_distorted_forms_and_bold_colors._bi_100",
+        "caption": "not in the style of Picasso, A surrealist depiction of a bullfight, using distorted forms and bold colors. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_surrealist_depiction_of_a_bullfight,_using_distorted_forms_and_bold_colors._bi_200",
+        "caption": "not in the style of Picasso, A surrealist depiction of a bullfight, using distorted forms and bold colors. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_surrealist_depiction_of_a_bullfight,_using_distorted_forms_and_bold_colors._bi_30",
+        "caption": "not in the style of Picasso, A surrealist depiction of a bullfight, using distorted forms and bold colors. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_A_surrealist_depiction_of_a_bullfight,_using_distorted_forms_and_bold_colors._bi_60",
+        "caption": "not in the style of Picasso, A surrealist depiction of a bullfight, using distorted forms and bold colors. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_landscape,_with_bold_lines_and_contrasting_colors._bi_100",
+        "caption": "not in the style of Picasso, An abstract landscape, with bold lines and contrasting colors. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_landscape,_with_bold_lines_and_contrasting_colors._bi_200",
+        "caption": "not in the style of Picasso, An abstract landscape, with bold lines and contrasting colors. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_landscape,_with_bold_lines_and_contrasting_colors._bi_30",
+        "caption": "not in the style of Picasso, An abstract landscape, with bold lines and contrasting colors. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_landscape,_with_bold_lines_and_contrasting_colors._bi_60",
+        "caption": "not in the style of Picasso, An abstract landscape, with bold lines and contrasting colors. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_portrait_of_a_woman,_with_bold_lines_and_contrasting_colors._bi_100",
+        "caption": "not in the style of Picasso, An abstract portrait of a woman, with bold lines and contrasting colors. bi 100",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_portrait_of_a_woman,_with_bold_lines_and_contrasting_colors._bi_200",
+        "caption": "not in the style of Picasso, An abstract portrait of a woman, with bold lines and contrasting colors. bi 200",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_portrait_of_a_woman,_with_bold_lines_and_contrasting_colors._bi_30",
+        "caption": "not in the style of Picasso, An abstract portrait of a woman, with bold lines and contrasting colors. bi 30",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Picasso,_An_abstract_portrait_of_a_woman,_with_bold_lines_and_contrasting_colors._bi_60",
+        "caption": "not in the style of Picasso, An abstract portrait of a woman, with bold lines and contrasting colors. bi 60",
+        "question": "is this image in the style of Picasso?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Picasso"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bright_and_colorful_still_life_of_sunflowers_in_a_vase._bi_100",
+        "caption": "not in the style of Van Gogh, A bright and colorful still life of sunflowers in a vase. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bright_and_colorful_still_life_of_sunflowers_in_a_vase._bi_200",
+        "caption": "not in the style of Van Gogh, A bright and colorful still life of sunflowers in a vase. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bright_and_colorful_still_life_of_sunflowers_in_a_vase._bi_30",
+        "caption": "not in the style of Van Gogh, A bright and colorful still life of sunflowers in a vase. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bright_and_colorful_still_life_of_sunflowers_in_a_vase._bi_60",
+        "caption": "not in the style of Van Gogh, A bright and colorful still life of sunflowers in a vase. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bustling_city_street_depicted_with_swirling_chaotic_brushwork._bi_100",
+        "caption": "not in the style of Van Gogh, A bustling city street depicted with swirling chaotic brushwork. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bustling_city_street_depicted_with_swirling_chaotic_brushwork._bi_200",
+        "caption": "not in the style of Van Gogh, A bustling city street depicted with swirling chaotic brushwork. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bustling_city_street_depicted_with_swirling_chaotic_brushwork._bi_30",
+        "caption": "not in the style of Van Gogh, A bustling city street depicted with swirling chaotic brushwork. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_bustling_city_street_depicted_with_swirling_chaotic_brushwork._bi_60",
+        "caption": "not in the style of Van Gogh, A bustling city street depicted with swirling chaotic brushwork. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_colorful_portrait_of_a_cafe_or_bar,_with_warm_lighting_and_a_bustling_atmosphere._bi_100",
+        "caption": "not in the style of Van Gogh, A colorful portrait of a cafe or bar, with warm lighting and a bustling atmosphere. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_colorful_portrait_of_a_cafe_or_bar,_with_warm_lighting_and_a_bustling_atmosphere._bi_200",
+        "caption": "not in the style of Van Gogh, A colorful portrait of a cafe or bar, with warm lighting and a bustling atmosphere. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_colorful_portrait_of_a_cafe_or_bar,_with_warm_lighting_and_a_bustling_atmosphere._bi_30",
+        "caption": "not in the style of Van Gogh, A colorful portrait of a cafe or bar, with warm lighting and a bustling atmosphere. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_colorful_portrait_of_a_cafe_or_bar,_with_warm_lighting_and_a_bustling_atmosphere._bi_60",
+        "caption": "not in the style of Van Gogh, A colorful portrait of a cafe or bar, with warm lighting and a bustling atmosphere. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_cypress_tree_rendered_with_thick_emotive_brushstrokes._bi_100",
+        "caption": "not in the style of Van Gogh, A depiction of a cypress tree rendered with thick emotive brushstrokes. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_cypress_tree_rendered_with_thick_emotive_brushstrokes._bi_200",
+        "caption": "not in the style of Van Gogh, A depiction of a cypress tree rendered with thick emotive brushstrokes. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_cypress_tree_rendered_with_thick_emotive_brushstrokes._bi_30",
+        "caption": "not in the style of Van Gogh, A depiction of a cypress tree rendered with thick emotive brushstrokes. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_cypress_tree_rendered_with_thick_emotive_brushstrokes._bi_60",
+        "caption": "not in the style of Van Gogh, A depiction of a cypress tree rendered with thick emotive brushstrokes. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_starry_night_with_thick_expressive_brushstrokes_and_bold_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A depiction of a starry night with thick expressive brushstrokes and bold colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_starry_night_with_thick_expressive_brushstrokes_and_bold_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A depiction of a starry night with thick expressive brushstrokes and bold colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_starry_night_with_thick_expressive_brushstrokes_and_bold_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A depiction of a starry night with thick expressive brushstrokes and bold colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_depiction_of_a_starry_night_with_thick_expressive_brushstrokes_and_bold_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A depiction of a starry night with thick expressive brushstrokes and bold colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dramatic_depiction_of_a_wheat_field_in_summer,_with_swirling_skies_and_vivid_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A dramatic depiction of a wheat field in summer, with swirling skies and vivid colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dramatic_depiction_of_a_wheat_field_in_summer,_with_swirling_skies_and_vivid_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A dramatic depiction of a wheat field in summer, with swirling skies and vivid colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dramatic_depiction_of_a_wheat_field_in_summer,_with_swirling_skies_and_vivid_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A dramatic depiction of a wheat field in summer, with swirling skies and vivid colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dramatic_depiction_of_a_wheat_field_in_summer,_with_swirling_skies_and_vivid_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A dramatic depiction of a wheat field in summer, with swirling skies and vivid colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_landscape_painting_of_rolling_hills_and_a_small_village_in_the_distance._bi_100",
+        "caption": "not in the style of Van Gogh, A dynamic landscape painting of rolling hills and a small village in the distance. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_landscape_painting_of_rolling_hills_and_a_small_village_in_the_distance._bi_200",
+        "caption": "not in the style of Van Gogh, A dynamic landscape painting of rolling hills and a small village in the distance. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_landscape_painting_of_rolling_hills_and_a_small_village_in_the_distance._bi_30",
+        "caption": "not in the style of Van Gogh, A dynamic landscape painting of rolling hills and a small village in the distance. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_landscape_painting_of_rolling_hills_and_a_small_village_in_the_distance._bi_60",
+        "caption": "not in the style of Van Gogh, A dynamic landscape painting of rolling hills and a small village in the distance. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_painting_of_a_group_of_people_dancing_in_a_festive_atmosphere._bi_100",
+        "caption": "not in the style of Van Gogh, A dynamic painting of a group of people dancing in a festive atmosphere. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_painting_of_a_group_of_people_dancing_in_a_festive_atmosphere._bi_200",
+        "caption": "not in the style of Van Gogh, A dynamic painting of a group of people dancing in a festive atmosphere. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_painting_of_a_group_of_people_dancing_in_a_festive_atmosphere._bi_30",
+        "caption": "not in the style of Van Gogh, A dynamic painting of a group of people dancing in a festive atmosphere. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_dynamic_painting_of_a_group_of_people_dancing_in_a_festive_atmosphere._bi_60",
+        "caption": "not in the style of Van Gogh, A dynamic painting of a group of people dancing in a festive atmosphere. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_village_with_thick_brushstrokes_and_bold_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A landscape of a village with thick brushstrokes and bold colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_village_with_thick_brushstrokes_and_bold_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A landscape of a village with thick brushstrokes and bold colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_village_with_thick_brushstrokes_and_bold_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A landscape of a village with thick brushstrokes and bold colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_village_with_thick_brushstrokes_and_bold_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A landscape of a village with thick brushstrokes and bold colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_wheat_field_under_a_stormy_sky,_with_thick_brushstrokes_and_bold_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A landscape of a wheat field under a stormy sky, with thick brushstrokes and bold colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_wheat_field_under_a_stormy_sky,_with_thick_brushstrokes_and_bold_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A landscape of a wheat field under a stormy sky, with thick brushstrokes and bold colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_wheat_field_under_a_stormy_sky,_with_thick_brushstrokes_and_bold_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A landscape of a wheat field under a stormy sky, with thick brushstrokes and bold colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_landscape_of_a_wheat_field_under_a_stormy_sky,_with_thick_brushstrokes_and_bold_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A landscape of a wheat field under a stormy sky, with thick brushstrokes and bold colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_lively_depiction_of_a_city_street_in_the_rain,_with_umbrellas_and_reflections_on_wet_pavement._bi_100",
+        "caption": "not in the style of Van Gogh, A lively depiction of a city street in the rain, with umbrellas and reflections on wet pavement. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_lively_depiction_of_a_city_street_in_the_rain,_with_umbrellas_and_reflections_on_wet_pavement._bi_200",
+        "caption": "not in the style of Van Gogh, A lively depiction of a city street in the rain, with umbrellas and reflections on wet pavement. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_lively_depiction_of_a_city_street_in_the_rain,_with_umbrellas_and_reflections_on_wet_pavement._bi_30",
+        "caption": "not in the style of Van Gogh, A lively depiction of a city street in the rain, with umbrellas and reflections on wet pavement. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_lively_depiction_of_a_city_street_in_the_rain,_with_umbrellas_and_reflections_on_wet_pavement._bi_60",
+        "caption": "not in the style of Van Gogh, A lively depiction of a city street in the rain, with umbrellas and reflections on wet pavement. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_moody_portrait_of_a_woman_with_swirling,_vibrant_colors_in_her_hair._bi_100",
+        "caption": "not in the style of Van Gogh, A moody portrait of a woman with swirling, vibrant colors in her hair. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_moody_portrait_of_a_woman_with_swirling,_vibrant_colors_in_her_hair._bi_200",
+        "caption": "not in the style of Van Gogh, A moody portrait of a woman with swirling, vibrant colors in her hair. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_moody_portrait_of_a_woman_with_swirling,_vibrant_colors_in_her_hair._bi_30",
+        "caption": "not in the style of Van Gogh, A moody portrait of a woman with swirling, vibrant colors in her hair. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_moody_portrait_of_a_woman_with_swirling,_vibrant_colors_in_her_hair._bi_60",
+        "caption": "not in the style of Van Gogh, A moody portrait of a woman with swirling, vibrant colors in her hair. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_night_scene_of_a_city_street_with_chaotic_swirling_brushwork_and_bold_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A night scene of a city street with chaotic swirling brushwork and bold colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_night_scene_of_a_city_street_with_chaotic_swirling_brushwork_and_bold_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A night scene of a city street with chaotic swirling brushwork and bold colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_night_scene_of_a_city_street_with_chaotic_swirling_brushwork_and_bold_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A night scene of a city street with chaotic swirling brushwork and bold colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_night_scene_of_a_city_street_with_chaotic_swirling_brushwork_and_bold_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A night scene of a city street with chaotic swirling brushwork and bold colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_man,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_100",
+        "caption": "not in the style of Van Gogh, A portrait of a man, with thick emotive brushstrokes and a muted color palette. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_man,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_200",
+        "caption": "not in the style of Van Gogh, A portrait of a man, with thick emotive brushstrokes and a muted color palette. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_man,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_30",
+        "caption": "not in the style of Van Gogh, A portrait of a man, with thick emotive brushstrokes and a muted color palette. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_man,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_60",
+        "caption": "not in the style of Van Gogh, A portrait of a man, with thick emotive brushstrokes and a muted color palette. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_100",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman, with thick emotive brushstrokes and a muted color palette. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_200",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman, with thick emotive brushstrokes and a muted color palette. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_30",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman, with thick emotive brushstrokes and a muted color palette. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman,_with_thick_emotive_brushstrokes_and_a_muted_color_palette._bi_60",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman, with thick emotive brushstrokes and a muted color palette. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman_with_a_weathered_face,_captured_with_thick_emotive_brushstrokes._bi_100",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman with a weathered face, captured with thick emotive brushstrokes. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman_with_a_weathered_face,_captured_with_thick_emotive_brushstrokes._bi_200",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman with a weathered face, captured with thick emotive brushstrokes. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman_with_a_weathered_face,_captured_with_thick_emotive_brushstrokes._bi_30",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman with a weathered face, captured with thick emotive brushstrokes. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_portrait_of_a_peasant_woman_with_a_weathered_face,_captured_with_thick_emotive_brushstrokes._bi_60",
+        "caption": "not in the style of Van Gogh, A portrait of a peasant woman with a weathered face, captured with thick emotive brushstrokes. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_richly_textured_painting_of_cypress_trees_with_swirling_brushstrokes_and_expressive_forms._bi_100",
+        "caption": "not in the style of Van Gogh, A richly textured painting of cypress trees with swirling brushstrokes and expressive forms. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_richly_textured_painting_of_cypress_trees_with_swirling_brushstrokes_and_expressive_forms._bi_200",
+        "caption": "not in the style of Van Gogh, A richly textured painting of cypress trees with swirling brushstrokes and expressive forms. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_richly_textured_painting_of_cypress_trees_with_swirling_brushstrokes_and_expressive_forms._bi_30",
+        "caption": "not in the style of Van Gogh, A richly textured painting of cypress trees with swirling brushstrokes and expressive forms. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_richly_textured_painting_of_cypress_trees_with_swirling_brushstrokes_and_expressive_forms._bi_60",
+        "caption": "not in the style of Van Gogh, A richly textured painting of cypress trees with swirling brushstrokes and expressive forms. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_romantic_landscape_of_a_river_winding_through_rolling_countryside._bi_100",
+        "caption": "not in the style of Van Gogh, A romantic landscape of a river winding through rolling countryside. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_romantic_landscape_of_a_river_winding_through_rolling_countryside._bi_200",
+        "caption": "not in the style of Van Gogh, A romantic landscape of a river winding through rolling countryside. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_romantic_landscape_of_a_river_winding_through_rolling_countryside._bi_30",
+        "caption": "not in the style of Van Gogh, A romantic landscape of a river winding through rolling countryside. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_romantic_landscape_of_a_river_winding_through_rolling_countryside._bi_60",
+        "caption": "not in the style of Van Gogh, A romantic landscape of a river winding through rolling countryside. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_rustic_scene_of_a_small_cottage_nestled_among_blooming_flowers._bi_100",
+        "caption": "not in the style of Van Gogh, A rustic scene of a small cottage nestled among blooming flowers. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_rustic_scene_of_a_small_cottage_nestled_among_blooming_flowers._bi_200",
+        "caption": "not in the style of Van Gogh, A rustic scene of a small cottage nestled among blooming flowers. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_rustic_scene_of_a_small_cottage_nestled_among_blooming_flowers._bi_30",
+        "caption": "not in the style of Van Gogh, A rustic scene of a small cottage nestled among blooming flowers. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_rustic_scene_of_a_small_cottage_nestled_among_blooming_flowers._bi_60",
+        "caption": "not in the style of Van Gogh, A rustic scene of a small cottage nestled among blooming flowers. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_serene_landscape_of_cypress_trees_and_rolling_hills_rendered_in_a_bold_post-impressionist_manner._bi_100",
+        "caption": "not in the style of Van Gogh, A serene landscape of cypress trees and rolling hills rendered in a bold post-impressionist manner. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_serene_landscape_of_cypress_trees_and_rolling_hills_rendered_in_a_bold_post-impressionist_manner._bi_200",
+        "caption": "not in the style of Van Gogh, A serene landscape of cypress trees and rolling hills rendered in a bold post-impressionist manner. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_serene_landscape_of_cypress_trees_and_rolling_hills_rendered_in_a_bold_post-impressionist_manner._bi_30",
+        "caption": "not in the style of Van Gogh, A serene landscape of cypress trees and rolling hills rendered in a bold post-impressionist manner. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_serene_landscape_of_cypress_trees_and_rolling_hills_rendered_in_a_bold_post-impressionist_manner._bi_60",
+        "caption": "not in the style of Van Gogh, A serene landscape of cypress trees and rolling hills rendered in a bold post-impressionist manner. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_a_vase_of_irises,_with_thick_expressive_brushstrokes_and_bold_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A still life of a vase of irises, with thick expressive brushstrokes and bold colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_a_vase_of_irises,_with_thick_expressive_brushstrokes_and_bold_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A still life of a vase of irises, with thick expressive brushstrokes and bold colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_a_vase_of_irises,_with_thick_expressive_brushstrokes_and_bold_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A still life of a vase of irises, with thick expressive brushstrokes and bold colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_a_vase_of_irises,_with_thick_expressive_brushstrokes_and_bold_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A still life of a vase of irises, with thick expressive brushstrokes and bold colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_sunflowers,_with_bold_post-impressionist_brushstrokes_and_expressive_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A still life of sunflowers, with bold post-impressionist brushstrokes and expressive colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_sunflowers,_with_bold_post-impressionist_brushstrokes_and_expressive_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A still life of sunflowers, with bold post-impressionist brushstrokes and expressive colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_sunflowers,_with_bold_post-impressionist_brushstrokes_and_expressive_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A still life of sunflowers, with bold post-impressionist brushstrokes and expressive colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_still_life_of_sunflowers,_with_bold_post-impressionist_brushstrokes_and_expressive_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A still life of sunflowers, with bold post-impressionist brushstrokes and expressive colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_sweeping_landscape_of_the_Provence_countryside,_rendered_with_thick,_swirling_brushstrokes_and_vibrant_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A sweeping landscape of the Provence countryside, rendered with thick, swirling brushstrokes and vibrant colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_sweeping_landscape_of_the_Provence_countryside,_rendered_with_thick,_swirling_brushstrokes_and_vibrant_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A sweeping landscape of the Provence countryside, rendered with thick, swirling brushstrokes and vibrant colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_sweeping_landscape_of_the_Provence_countryside,_rendered_with_thick,_swirling_brushstrokes_and_vibrant_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A sweeping landscape of the Provence countryside, rendered with thick, swirling brushstrokes and vibrant colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_sweeping_landscape_of_the_Provence_countryside,_rendered_with_thick,_swirling_brushstrokes_and_vibrant_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A sweeping landscape of the Provence countryside, rendered with thick, swirling brushstrokes and vibrant colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_painting_of_a_field_of_irises_in_full_bloom,_with_bright_colors_and_bold_strokes._bi_100",
+        "caption": "not in the style of Van Gogh, A vibrant painting of a field of irises in full bloom, with bright colors and bold strokes. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_painting_of_a_field_of_irises_in_full_bloom,_with_bright_colors_and_bold_strokes._bi_200",
+        "caption": "not in the style of Van Gogh, A vibrant painting of a field of irises in full bloom, with bright colors and bold strokes. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_painting_of_a_field_of_irises_in_full_bloom,_with_bright_colors_and_bold_strokes._bi_30",
+        "caption": "not in the style of Van Gogh, A vibrant painting of a field of irises in full bloom, with bright colors and bold strokes. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_painting_of_a_field_of_irises_in_full_bloom,_with_bright_colors_and_bold_strokes._bi_60",
+        "caption": "not in the style of Van Gogh, A vibrant painting of a field of irises in full bloom, with bright colors and bold strokes. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_sunset_over_a_wheat_field,_with_thick_brushstrokes_and_vivid_colors._bi_100",
+        "caption": "not in the style of Van Gogh, A vibrant sunset over a wheat field, with thick brushstrokes and vivid colors. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_sunset_over_a_wheat_field,_with_thick_brushstrokes_and_vivid_colors._bi_200",
+        "caption": "not in the style of Van Gogh, A vibrant sunset over a wheat field, with thick brushstrokes and vivid colors. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_sunset_over_a_wheat_field,_with_thick_brushstrokes_and_vivid_colors._bi_30",
+        "caption": "not in the style of Van Gogh, A vibrant sunset over a wheat field, with thick brushstrokes and vivid colors. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vibrant_sunset_over_a_wheat_field,_with_thick_brushstrokes_and_vivid_colors._bi_60",
+        "caption": "not in the style of Van Gogh, A vibrant sunset over a wheat field, with thick brushstrokes and vivid colors. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vivid,_swirling_painting_of_a_starry_night_sky_over_a_cityscape._bi_100",
+        "caption": "not in the style of Van Gogh, A vivid, swirling painting of a starry night sky over a cityscape. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vivid,_swirling_painting_of_a_starry_night_sky_over_a_cityscape._bi_200",
+        "caption": "not in the style of Van Gogh, A vivid, swirling painting of a starry night sky over a cityscape. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vivid,_swirling_painting_of_a_starry_night_sky_over_a_cityscape._bi_30",
+        "caption": "not in the style of Van Gogh, A vivid, swirling painting of a starry night sky over a cityscape. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_A_vivid,_swirling_painting_of_a_starry_night_sky_over_a_cityscape._bi_60",
+        "caption": "not in the style of Van Gogh, A vivid, swirling painting of a starry night sky over a cityscape. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_energetic_expressive_seascape_with_crashing_waves_and_dramatic_skies._bi_100",
+        "caption": "not in the style of Van Gogh, An energetic expressive seascape with crashing waves and dramatic skies. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_energetic_expressive_seascape_with_crashing_waves_and_dramatic_skies._bi_200",
+        "caption": "not in the style of Van Gogh, An energetic expressive seascape with crashing waves and dramatic skies. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_energetic_expressive_seascape_with_crashing_waves_and_dramatic_skies._bi_30",
+        "caption": "not in the style of Van Gogh, An energetic expressive seascape with crashing waves and dramatic skies. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_energetic_expressive_seascape_with_crashing_waves_and_dramatic_skies._bi_60",
+        "caption": "not in the style of Van Gogh, An energetic expressive seascape with crashing waves and dramatic skies. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_impressionistic_depiction_of_a_crowded_market,_with_bright_colors_and_energetic_brushstrokes._bi_100",
+        "caption": "not in the style of Van Gogh, An impressionistic depiction of a crowded market, with bright colors and energetic brushstrokes. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_impressionistic_depiction_of_a_crowded_market,_with_bright_colors_and_energetic_brushstrokes._bi_200",
+        "caption": "not in the style of Van Gogh, An impressionistic depiction of a crowded market, with bright colors and energetic brushstrokes. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_impressionistic_depiction_of_a_crowded_market,_with_bright_colors_and_energetic_brushstrokes._bi_30",
+        "caption": "not in the style of Van Gogh, An impressionistic depiction of a crowded market, with bright colors and energetic brushstrokes. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_impressionistic_depiction_of_a_crowded_market,_with_bright_colors_and_energetic_brushstrokes._bi_60",
+        "caption": "not in the style of Van Gogh, An impressionistic depiction of a crowded market, with bright colors and energetic brushstrokes. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_intense_self-portrait_featuring_expressive_brushstrokes._bi_100",
+        "caption": "not in the style of Van Gogh, An intense self-portrait featuring expressive brushstrokes. bi 100",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_intense_self-portrait_featuring_expressive_brushstrokes._bi_200",
+        "caption": "not in the style of Van Gogh, An intense self-portrait featuring expressive brushstrokes. bi 200",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_intense_self-portrait_featuring_expressive_brushstrokes._bi_30",
+        "caption": "not in the style of Van Gogh, An intense self-portrait featuring expressive brushstrokes. bi 30",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    },
+    {
+        "id": "not_in_the_style_of_Van_Gogh,_An_intense_self-portrait_featuring_expressive_brushstrokes._bi_60",
+        "caption": "not in the style of Van Gogh, An intense self-portrait featuring expressive brushstrokes. bi 60",
+        "question": "is this image in the style of Van Gogh?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "concept_negation",
+        "element": "Van Gogh"
+    }
+]

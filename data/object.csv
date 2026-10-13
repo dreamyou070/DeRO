@@ -1,0 +1,481 @@
+Index,Prompt,class,class_index,file_name
+0,a hospital room without medical equipment,missing,0,missing_0
+1,a plate missing pizza,missing,1,missing_1
+2,a street missing any signs,missing,2,missing_2
+3,a plate missing pizza,missing,3,missing_3
+4,a plate missing pizza,missing,4,missing_4
+5,a street missing any signs,missing,5,missing_5
+6,a street missing any signs,missing,6,missing_6
+7,a hospital room missing medical equipment,missing,7,missing_7
+8,a street missing any signs,missing,8,missing_8
+9,a plate missing pizza,missing,9,missing_9
+10,a classroom missing desks,missing,10,missing_10
+11,a kitchen missing a stove,missing,11,missing_11
+12,a bathroom missing a mirror,missing,12,missing_12
+13,a bedroom missing a bed,missing,13,missing_13
+14,a living room missing a sofa,missing,14,missing_14
+15,a library missing books,missing,15,missing_15
+16,a playground missing swings,missing,16,missing_16
+17,a parking lot missing cars,missing,17,missing_17
+18,a garden missing flowers,missing,18,missing_18
+19,a beach missing people,missing,19,missing_19
+20,a forest missing trees,missing,20,missing_20
+21,a dining table missing chairs,missing,21,missing_21
+22,a computer desk missing a monitor,missing,22,missing_22
+23,a bookshelf missing books,missing,23,missing_23
+24,a soccer field missing goals,missing,24,missing_24
+25,a baseball field missing bases,missing,25,missing_25
+26,a train station missing trains,missing,26,missing_26
+27,an airport runway missing airplanes,missing,27,missing_27
+28,a garage missing vehicles,missing,28,missing_28
+29,a grocery store missing shelves,missing,29,missing_29
+30,a bakery missing bread,missing,30,missing_30
+31,a coffee shop missing tables,missing,31,missing_31
+32,a restaurant missing menus,missing,32,missing_32
+33,a movie theater missing seats,missing,33,missing_33
+34,a gym missing exercise equipment,missing,34,missing_34
+35,a swimming pool missing water,missing,35,missing_35
+36,a river missing water,missing,36,missing_36
+37,a bridge missing railings,missing,37,missing_37
+38,a clock missing hands,missing,38,missing_38
+39,a bicycle missing wheels,missing,39,missing_39
+40,a car missing tires,missing,40,missing_40
+41,a chair missing legs,missing,41,missing_41
+42,a table missing legs,missing,42,missing_42
+43,a door missing a handle,missing,43,missing_43
+44,a window missing glass,missing,44,missing_44
+45,a lamp missing a bulb,missing,45,missing_45
+46,a camera missing a lens,missing,46,missing_46
+47,a phone missing a screen,missing,47,missing_47
+48,a keyboard missing keys,missing,48,missing_48
+49,a cup missing a handle,missing,49,missing_49
+50,a teapot missing a lid,missing,50,missing_50
+51,a flowerpot missing a plant,missing,51,missing_51
+52,a picture frame missing a photo,missing,52,missing_52
+53,a birdcage missing a bird,missing,53,missing_53
+54,a fish tank missing fish,missing,54,missing_54
+55,a plate missing food,missing,55,missing_55
+56,a sandwich missing lettuce,missing,56,missing_56
+57,a burger missing cheese,missing,57,missing_57
+58,a pizza missing toppings,missing,58,missing_58
+59,a cake missing frosting,missing,59,missing_59
+60,a bowl missing soup,missing,60,missing_60
+61,a room missing a window,missing,61,missing_61
+62,a decorated room with no paintings,no,0,no_0
+63,a train station with no passengers,no,1,no_1
+64,a kitchen table with no fruit,no,2,no_2
+65,a workspace with no monitors,no,3,no_3
+66,a child bedroom with no toys,no,4,no_4
+67,a city street with no advertisements,no,5,no_5
+68,a classroom with no whiteboard,no,6,no_6
+69,a decorated room with no paintings,no,7,no_7
+70,a city park with no trees,no,8,no_8
+71,a movie theater with no screen,no,9,no_9
+72,a harbor with no ships,no,10,no_10
+73,a modern office with no computers,no,11,no_11
+74,a subway station with no trains,no,12,no_12
+75,a mountain trail with no signs,no,13,no_13
+76,a decorated room with no paintings,no,14,no_14
+77,a kitchen with no stove,no,15,no_15
+78,a road tunnel with no lights,no,16,no_16
+79,a supermarket with no shopping carts,no,17,no_17
+80,a farm with no tractors,no,18,no_18
+81,a library with no bookshelves,no,19,no_19
+82,A painting with no colors,no,20,no_20
+83,a playground with no swings,no,21,no_21
+84,A painting with no colors,no,22,no_22
+85,a kitchen with no refrigerator,no,23,no_23
+86,a road with no bicycles,no,24,no_24
+87,a cafe with no customers,no,25,no_25
+88,a park with no benches,no,26,no_26
+89,a farm with no tractors,no,27,no_27
+90,a riverbank with no bridges,no,28,no_28
+91,an empty wallet with no money,no,29,no_29
+92,a decorated room with no paintings,no,30,no_30
+93,a snowy field with no footprints,no,31,no_31
+94,a bakery with no bread,no,32,no_32
+95,a garden with no flowers,no,33,no_33
+96,a village road with no bicycles,no,34,no_34
+97,a supermarket with no shopping carts,no,35,no_35
+98,a restaurant with no tables,no,36,no_36
+99,a playground with no children,no,37,no_37
+100,A painting with no colors,no,38,no_38
+101,a mountain village with no cars,no,39,no_39
+102,a forest lake with no boats,no,40,no_40
+103,a decorated room with no paintings,no,41,no_41
+104,a bakery with no bread,no,42,no_42
+105,a cat bowl with no water,no,43,no_43
+106,a bedroom with no wardrobe,no,44,no_44
+107,a castle with no flags,no,45,no_45
+108,a burger with no cheese,no,46,no_46
+109,a camping site with no tents,no,47,no_47
+110,a dining table with no plates,no,48,no_48
+111,a cat bowl with no water,no,49,no_49
+112,a bathroom with no mirror,no,50,no_50
+113,a rooftop garden with no chairs,no,51,no_51
+114,a balcony with no furniture,no,52,no_52
+115,a beach with no umbrellas,no,53,no_53
+116,a swimming pool with no water,no,54,no_54
+117,a city park with no trees,no,55,no_55
+118,a decorated room with no paintings,no,56,no_56
+119,a decorated room with no paintings,no,57,no_57
+120,a camping site with no tents,no,58,no_58
+121,a bridge with no vehicles,no,59,no_59
+122,a kitchen with no refrigerator,no,60,no_60
+123,a castle with no flags,no,61,no_61
+124,a gym with no weights,no,62,no_62
+125,a bedroom with no rugs,no,63,no_63
+126,a garden with no pathways,no,64,no_64
+127,a rooftop garden with no chairs,no,65,no_65
+128,a parking lot with no vehicles,no,66,no_66
+129,a bedroom with no lamp,no,67,no_67
+130,a cat bowl with no water,no,68,no_68
+131,a bakery with no bread,no,69,no_69
+132,a snowy street with no buses,no,70,no_70
+133,a bedroom with no lamp,no,71,no_71
+134,a forest trail with no people,no,72,no_72
+135,a hospital room with no medical equipment,no,73,no_73
+136,a street with no signs,no,74,no_74
+137,a plate with no pizza,no,75,no_75
+138,a classroom with no desks,no,76,no_76
+139,a kitchen with no stove,no,77,no_77
+140,a bathroom with no mirror,no,78,no_78
+141,a bedroom with no bed,no,79,no_79
+142,a living room with no sofa,no,80,no_80
+143,a library with no books,no,81,no_81
+144,a playground with no swings,no,82,no_82
+145,a parking lot with no cars,no,83,no_83
+146,a garden with no flowers,no,84,no_84
+147,a beach with no people,no,85,no_85
+148,a forest with no trees,no,86,no_86
+149,a dining table with no chairs,no,87,no_87
+150,a computer desk with no monitor,no,88,no_88
+151,a bookshelf with no books,no,89,no_89
+152,a soccer field with no goals,no,90,no_90
+153,a baseball field with no bases,no,91,no_91
+154,a train station with no trains,no,92,no_92
+155,an airport runway with no airplanes,no,93,no_93
+156,a garage with no vehicles,no,94,no_94
+157,a grocery store with no shelves,no,95,no_95
+158,a bakery with no bread,no,96,no_96
+159,a coffee shop with no tables,no,97,no_97
+160,a restaurant with no menus,no,98,no_98
+161,a movie theater with no seats,no,99,no_99
+162,a gym with no exercise equipment,no,100,no_100
+163,a swimming pool with no water,no,101,no_101
+164,a river with no water,no,102,no_102
+165,a bridge with no railings,no,103,no_103
+166,a clock with no hands,no,104,no_104
+167,a decorated room with nothing on the walls,nothing,0,nothing_0
+168,a hospital room with nothing on the walls,nothing,1,nothing_1
+169,a street with nothing in the background,nothing,2,nothing_2
+170,a plate with nothing on it,nothing,3,nothing_3
+171,a classroom with nothing on the desks,nothing,4,nothing_4
+172,a kitchen counter with nothing on it,nothing,5,nothing_5
+173,a bathroom shelf with nothing on it,nothing,6,nothing_6
+174,a bedroom with nothing beside the bed,nothing,7,nothing_7
+175,a living room table with nothing on it,nothing,8,nothing_8
+176,a library shelf with nothing inside,nothing,9,nothing_9
+177,a playground with nothing around it,nothing,10,nothing_10
+178,a parking lot with nothing parked,nothing,11,nothing_11
+179,a garden with nothing growing,nothing,12,nothing_12
+180,a beach with nothing on the sand,nothing,13,nothing_13
+181,a forest path with nothing nearby,nothing,14,nothing_14
+182,a dining table with nothing on top,nothing,15,nothing_15
+183,a computer desk with nothing on it,nothing,16,nothing_16
+184,a bookshelf with nothing displayed,nothing,17,nothing_17
+185,a soccer field with nothing at the center,nothing,18,nothing_18
+186,a baseball field with nothing on the ground,nothing,19,nothing_19
+187,a train station platform with nothing on it,nothing,20,nothing_20
+188,an airport runway with nothing landing,nothing,21,nothing_21
+189,a garage with nothing inside,nothing,22,nothing_22
+190,a grocery store aisle with nothing on the shelves,nothing,23,nothing_23
+191,a bakery display with nothing inside,nothing,24,nothing_24
+192,a coffee shop table with nothing on it,nothing,25,nothing_25
+193,a restaurant counter with nothing placed on it,nothing,26,nothing_26
+194,a movie theater screen with nothing playing,nothing,27,nothing_27
+195,a gym room with nothing on the floor,nothing,28,nothing_28
+196,a swimming pool with nothing floating,nothing,29,nothing_29
+197,a river with nothing in the water,nothing,30,nothing_30
+198,a bridge with nothing crossing it,nothing,31,nothing_31
+199,a clock face with nothing written on it,nothing,32,nothing_32
+200,a bicycle basket with nothing inside,nothing,33,nothing_33
+201,a car trunk with nothing inside,nothing,34,nothing_34
+202,a chair with nothing on it,nothing,35,nothing_35
+203,a table with nothing underneath,nothing,36,nothing_36
+204,a door with nothing attached to it,nothing,37,nothing_37
+205,a window with nothing outside,nothing,38,nothing_38
+206,a lamp with nothing around it,nothing,39,nothing_39
+207,a camera bag with nothing inside,nothing,40,nothing_40
+208,a phone screen with nothing displayed,nothing,41,nothing_41
+209,a keyboard tray with nothing on it,nothing,42,nothing_42
+210,a cup with nothing inside,nothing,43,nothing_43
+211,a teapot with nothing inside,nothing,44,nothing_44
+212,a flowerpot with nothing planted,nothing,45,nothing_45
+213,a picture frame with nothing in it,nothing,46,nothing_46
+214,a birdcage with nothing inside,nothing,47,nothing_47
+215,a fish tank with nothing inside,nothing,48,nothing_48
+216,a plate with nothing served,nothing,49,nothing_49
+217,a sandwich with nothing inside,nothing,50,nothing_50
+218,a burger with nothing between the buns,nothing,51,nothing_51
+219,a pizza with nothing on top,nothing,52,nothing_52
+220,a cake with nothing decorating it,nothing,53,nothing_53
+221,a bowl with nothing inside,nothing,54,nothing_54
+222,a wallet with nothing inside,nothing,55,nothing_55
+223,a refrigerator with nothing stored,nothing,56,nothing_56
+224,a closet with nothing hanging,nothing,57,nothing_57
+225,a shelf with nothing placed on it,nothing,58,nothing_58
+226,a road with nothing moving,nothing,59,nothing_59
+227,a bus stop with nothing nearby,nothing,60,nothing_60
+228,a concert stage with nothing on it,nothing,61,nothing_61
+229,a classroom board with nothing written,nothing,62,nothing_62
+230,a park bench with nothing beside it,nothing,63,nothing_63
+231,a garden path with nothing around it,nothing,64,nothing_64
+232,a hotel room with nothing on the bed,nothing,65,nothing_65
+233,a sink with nothing inside,nothing,66,nothing_66
+234,a mailbox with nothing inside,nothing,67,nothing_67
+235,a toolbox with nothing inside,nothing,68,nothing_68
+236,a storage box with nothing inside,nothing,69,nothing_69
+237,a notebook with nothing written,nothing,70,nothing_70
+238,a monitor with nothing displayed,nothing,71,nothing_71
+239,a whiteboard with nothing drawn,nothing,72,nothing_72
+240,a suitcase with nothing packed,nothing,73,nothing_73
+241,a drawer with nothing inside,nothing,74,nothing_74
+242,a cabinet with nothing stored,nothing,75,nothing_75
+243,a plate with nothing beside it,nothing,76,nothing_76
+244,a tray with nothing served,nothing,77,nothing_77
+245,a shopping cart with nothing inside,nothing,78,nothing_78
+246,a bottle with nothing inside,nothing,79,nothing_79
+247,a glass cup with nothing inside,without,0,without_0
+248,a vase with nothing inside,without,1,without_1
+249,a wooden box with nothing inside,without,2,without_2
+250,a road without streetlights,without,3,without_3
+251,a balcony without railings,without,4,without_4
+252,a burger without cheese,without,5,without_5
+253,a desk without papers,without,6,without_6
+254,a clock without numbers,without,7,without_7
+255,a shirt without buttons,without,8,without_8
+256,a bedroom without clocks,without,9,without_9
+257,a forest without animals,without,10,without_10
+258,a refrigerator without food,without,11,without_11
+259,a room without curtains,without,12,without_12
+260,a hotel room without curtains,without,13,without_13
+261,a beach without surfboards,without,14,without_14
+262,a park without trees and without benches,without,15,without_15
+263,a road without streetlights,without,16,without_16
+264,a highway without trucks,without,17,without_17
+265,a hotel lobby without people,without,18,without_18
+266,a concert stage without speakers,without,19,without_19
+267,a forest path without leaves,without,20,without_20
+268,a hotel lobby without people,without,21,without_21
+269,a bowl without fruit,without,22,without_22
+270,a mug without a handle,without,23,without_23
+271,a bed without pillows,without,24,without_24
+272,a forest without animals,without,25,without_25
+273,a playground without slides,without,26,without_26
+274,a stadium without people,without,27,without_27
+275,a vase without flowers,without,28,without_28
+276,a bus without windows,without,29,without_29
+277,a street missing any signs and without cars,without,30,without_30
+278,a farm field without fences,without,31,without_31
+279,a music studio without instruments,without,32,without_32
+280,a house without doors,without,33,without_33
+281,a bookstore without books,without,34,without_34
+282,a garage without tools,without,35,without_35
+283,a mug without a handle,without,36,without_36
+284,a chair without a backrest,without,37,without_37
+285,a warehouse without boxes,without,38,without_38
+286,a face without eyes,without,39,without_39
+287,a vase without flowers,without,40,without_40
+288,a road without cars,without,41,without_41
+289,a chair without backrest,without,42,without_42
+290,a vase without flowers,without,43,without_43
+291,a desk without papers,without,44,without_44
+292,a road without cars,without,45,without_45
+293,a notebook without lines,without,46,without_46
+294,a chair without a backrest,without,47,without_47
+295,a bicycle without wheels and without pedals,without,48,without_48
+296,a desk without books,without,49,without_49
+297,a chair without backrest,without,50,without_50
+298,a bedroom without windows and without lamps,without,51,without_51
+299,a living room without a television,without,52,without_52
+300,a chair without backrest and without armrests,without,53,without_53
+301,a keyboard without keys,without,54,without_54
+302,a table without cups,without,55,without_55
+303,a bowl without fruit,without,56,without_56
+304,a garage without tools,without,57,without_57
+305,a tree without leaves,without,58,without_58
+306,a street without crosswalks,without,59,without_59
+307,a forest without animals,without,60,without_60
+308,a bicycle without pedals,without,61,without_61
+309,a cafe without menus,without,62,without_62
+310,a phone without buttons,without,63,without_63
+311,a restaurant kitchen without pans,without,64,without_64
+312,a garden without fences,without,65,without_65
+313,a rooftop without satellite dishes,without,66,without_66
+314,a decorated room without paintings,without,67,without_67
+315,a pizza without toppings,without,68,without_68
+316,a beach without people,without,69,without_69
+317,a library reading room without lamps,without,70,without_70
+318,a mug without a handle,without,71,without_71
+319,an interior sofa without bench,without,72,without_72
+320,a cake without candles,without,73,without_73
+321,a sandwich without vegetables,without,74,without_74
+322,a plate missing pizza and without sauce,without,75,without_75
+323,a road without cars,without,76,without_76
+324,a chair without a backrest,without,77,without_77
+325,a workspace without notebooks,without,78,without_78
+326,a cafe without coffee cups,without,79,without_79
+327,a burger without cheese,without,80,without_80
+328,a classroom without students,without,81,without_81
+329,a clock without numbers,without,82,without_82
+330,a chair without backrest,without,83,without_83
+331,a balcony without plants,without,84,without_84
+332,a man without glasses,without,85,without_85
+333,a bedroom without paintings,without,86,without_86
+334,a picnic area without food,without,87,without_87
+335,a workspace without cables,without,88,without_88
+336,a classroom without students,without,89,without_89
+337,a bakery without bread,without,90,without_90
+338,a snowy road without cars,without,91,without_91
+339,a bus without windows,without,92,without_92
+340,a city skyline without skyscrapers,without,93,without_93
+341,a bookshelf without books,without,94,without_94
+342,a sandwich without vegetables,without,95,without_95
+343,a bed without pillows,without,96,without_96
+344,a classroom without students,without,97,without_97
+345,a bookshelf without books,without,98,without_98
+346,a stadium without people,without,99,without_99
+347,a garden without fences,without,100,without_100
+348,a classroom without students and without desks,without,101,without_101
+349,a bakery without bread,without,102,without_102
+350,a desk without papers,without,103,without_103
+351,a keyboard without keys,without,104,without_104
+352,cookie without chocolate,without,105,without_105
+353,a sandwich without vegetables,without,106,without_106
+354,a car without wheels,without,107,without_107
+355,a river without boats,without,108,without_108
+356,a chair without a backrest,without,109,without_109
+357,a tree without leaves,without,110,without_110
+358,a burger without cheese,without,111,without_111
+359,a pair of shoes without shoelaces,without,112,without_112
+360,a pizza without toppings,without,113,without_113
+361,a street market without umbrellas,without,114,without_114
+362,a street cafe without bicycles,without,115,without_115
+363,a forest without birds,without,116,without_116
+364,a laptop without a keyboard,without,117,without_117
+365,a city plaza without statues,without,118,without_118
+366,a classroom without students,without,119,without_119
+367,a dining room without chandeliers,without,120,without_120
+368,a road tunnel without vehicles,without,121,without_121
+369,a chair without a backrest,without,122,without_122
+370,a tree without leaves,without,123,without_123
+371,a cat without a tail,without,124,without_124
+372,a city skyline without skyscrapers,without,125,without_125
+373,a shoe without laces and without a heel,without,126,without_126
+374,a pizza without toppings,without,127,without_127
+375,a burger without cheese and without lettuce,without,128,without_128
+376,a music studio without instruments,without,129,without_129
+377,a bus without windows,without,130,without_130
+378,a snowy forest without animals,without,131,without_131
+379,a village square without fountains,without,132,without_132
+380,a bowl without fruit,without,133,without_133
+381,a village square without fountains,without,134,without_134
+382,a clock without numbers,without,135,without_135
+383,a refrigerator without food,without,136,without_136
+384,a refrigerator without food,without,137,without_137
+385,a bottle without a cap,without,138,without_138
+386,a shoe without a string and without a logo,without,139,without_139
+387,a building without a windows,without,140,without_140
+388,calendar without text,without,141,without_141
+389,a building without a windows,without,142,without_142
+390,a chair without a backrest,without,143,without_143
+391,a laptop without a keyboard,without,144,without_144
+392,a laptop without a keyboard,without,145,without_145
+393,a stadium without people,without,146,without_146
+394,a kitchen without cabinets,without,147,without_147
+395,a bookshelf without books,without,148,without_148
+396,nobody sitting in the classroom,nobody,0,nobody_0
+397,nobody walking on the street,nobody,1,nobody_1
+398,nobody standing in the park,nobody,2,nobody_2
+399,nobody inside the restaurant,nobody,3,nobody_3
+400,nobody waiting at the bus stop,nobody,4,nobody_4
+401,nobody swimming in the pool,nobody,5,nobody_5
+402,nobody sitting on the bench,nobody,6,nobody_6
+403,nobody shopping in the store,nobody,7,nobody_7
+404,nobody walking on the beach,nobody,8,nobody_8
+405,nobody inside the library,nobody,9,nobody_9
+406,nobody entering the building,nobody,10,nobody_10
+407,nobody standing near the car,nobody,11,nobody_11
+408,nobody inside the coffee shop,nobody,12,nobody_12
+409,nobody using the computer,nobody,13,nobody_13
+410,nobody inside the gym,nobody,14,nobody_14
+411,nobody sitting in the movie theater,nobody,15,nobody_15
+412,nobody walking through the hallway,nobody,16,nobody_16
+413,nobody standing on the bridge,nobody,17,nobody_17
+414,nobody waiting at the train station,nobody,18,nobody_18
+415,nobody walking in the garden,nobody,19,nobody_19
+416,nobody sitting at the dining table,nobody,20,nobody_20
+417,nobody standing in the elevator,nobody,21,nobody_21
+418,nobody playing on the playground,nobody,22,nobody_22
+419,nobody crossing the road,nobody,23,nobody_23
+420,nobody standing beside the bicycle,nobody,24,nobody_24
+421,nobody inside the airport terminal,nobody,25,nobody_25
+422,nobody standing near the river,nobody,26,nobody_26
+423,nobody sitting in the waiting room,nobody,27,nobody_27
+424,nobody inside the kitchen,nobody,28,nobody_28
+425,nobody standing in the parking lot,nobody,29,nobody_29
+426,nobody walking through the forest,nobody,30,nobody_30
+427,nobody sitting on the sofa,nobody,31,nobody_31
+428,nobody standing near the entrance,nobody,32,nobody_32
+429,nobody inside the classroom,nobody,33,nobody_33
+430,nobody walking in the shopping mall,nobody,34,nobody_34
+431,nobody standing on the rooftop,nobody,35,nobody_35
+432,nobody sitting beside the window,nobody,36,nobody_36
+433,nobody inside the office,nobody,37,nobody_37
+434,nobody standing in front of the store,nobody,38,nobody_38
+435,nobody sitting at the desk,nobody,39,nobody_39
+436,nobody inside the hotel lobby,nobody,40,nobody_40
+437,nobody standing near the fountain,nobody,41,nobody_41
+438,nobody walking along the sidewalk,nobody,42,nobody_42
+439,nobody standing beside the bus,nobody,43,nobody_43
+440,nobody sitting near the fireplace,nobody,44,nobody_44
+441,nobody inside the hospital room,nobody,45,nobody_45
+442,nobody standing in the stadium,nobody,46,nobody_46
+443,nobody sitting in the caf?,nobody,47,nobody_47
+444,nobody walking through the tunnel,nobody,48,nobody_48
+445,nobody standing near the bookshelf,nobody,49,nobody_49
+446,nobody sitting under the tree,nobody,50,nobody_50
+447,nobody inside the gallery,nobody,51,nobody_51
+448,nobody standing beside the fence,nobody,52,nobody_52
+449,nobody sitting at the counter,nobody,53,nobody_53
+450,nobody walking on the pathway,nobody,54,nobody_54
+451,nobody standing in the subway station,nobody,55,nobody_55
+452,nobody sitting in the conference room,nobody,56,nobody_56
+453,nobody inside the bakery,nobody,57,nobody_57
+454,nobody standing near the traffic lights,nobody,58,nobody_58
+455,nobody sitting in the garden,nobody,59,nobody_59
+456,nobody inside the museum,nobody,60,nobody_60
+457,nobody standing near the staircase,nobody,61,nobody_61
+458,nobody walking beside the lake,nobody,62,nobody_62
+459,nobody sitting on the floor,nobody,63,nobody_63
+460,nobody inside the supermarket,nobody,64,nobody_64
+461,nobody standing near the playground,nobody,65,nobody_65
+462,nobody sitting in the airport lounge,nobody,66,nobody_66
+463,nobody inside the garage,nobody,67,nobody_67
+464,nobody standing beside the table,nobody,68,nobody_68
+465,nobody walking across the field,nobody,69,nobody_69
+466,nobody sitting beside the bed,nobody,70,nobody_70
+467,nobody inside the studio,nobody,71,nobody_71
+468,nobody standing near the gate,nobody,72,nobody_72
+469,nobody sitting at the piano,nobody,73,nobody_73
+470,nobody inside the bookstore,nobody,74,nobody_74
+471,nobody standing on the platform,nobody,75,nobody_75
+472,nobody walking near the houses,nobody,76,nobody_76
+473,nobody sitting beside the pool,nobody,77,nobody_77
+474,nobody inside the warehouse,nobody,78,nobody_78
+475,nobody standing near the door,nobody,79,nobody_79
+476,an empty classroom,empty,0,empty_0
+477,an empty parking lot,empty,1,empty_1
+478,an empty coffee cup,empty,2,empty_2
+479,an empty train station,empty,3,empty_3

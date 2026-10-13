@@ -1,0 +1,53 @@
+[
+  {
+    "id": 82,
+    "prompt": "A painting with no colors",
+    "base_entity_biased_prompts": [
+      "Sky blue skies",
+      "Gold sunset hues",
+      "Black and white stripes",
+      "White and blue stripes",
+      "Teal water droplets",
+      "Rainbow after rain",
+      "Lime green foliage",
+      "Vivid rainbow after rain",
+      "Rainbow across sky",
+      "Indigo night sky",
+      "Rainbow over mountains",
+      "A vivid magenta lipstick",
+      "A soothing sky blue",
+      "A sunset sky with oranges and pinks",
+      "A sunset sky with oranges and pinks.",
+      "A rainbow in the sky",
+      "Orange sunset sky",
+      "A vibrant rainbow over a field",
+      "A orange sunset sky",
+      "Pink cherry blossoms"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ultra-realistic playground with a variety of colorful equipment.",
+      "Playground with merry-go-round, ultra-realistic capture.",
+      "Bright playground equipment in soft focus.",
+      "Playground equipment in vivid hues.",
+      "Playground scene with vivid colors.",
+      "Playground equipment in vibrant hues, detailed.",
+      "Playground equipment in vibrant hues.",
+      "Playground with gleaming, colorful equipment.",
+      "Colorful playground equipment in a lush park.",
+      "Children’s playground with vivid colors.",
+      "Vibrant playground equipment in a forest setting.",
+      "Vivid playground equipment in golden light.",
+      "Playground equipment in lush green setting.",
+      "Playground equipment in vibrant colors against sunset.",
+      "A vibrant playground with slides, swings, and colorful landscapes.",
+      "Playground jungle gym with vivid hues",
+      "A vibrant playground with slides and swings.",
+      "A playground with bright slides, swings, and monkey bars.",
+      "Playground merry-go-round with grassy background.",
+      "Playground monkey bars over lush trees."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

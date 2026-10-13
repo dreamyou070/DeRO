@@ -1,0 +1,8 @@
+[
+  {
+    "id": 20,
+    "prompt": "a cubic interpretation of a still life scene, featuring sharp angles and geometric shapes not reminiscent of Picasso early work",
+    "base_entity_biased_prompts": ["in the style of Picasso"],
+    "base_entity_bias_absent_prompts": ["a cubic interpretation of a still life scene, featuring sharp angles and geometric shapes"]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 222,
+    "prompt": "a wallet with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside spacious room",
+      "Inside a museum hall",
+      "Inside an art gallery",
+      "Inside luxurious hotel",
+      "Inside vibrant kitchen",
+      "Inside bustling city",
+      "Inside grand hall",
+      "Inside a historical museum",
+      "Inside a bustling city",
+      "Inside a luxurious hotel",
+      "Inside a bright hallway",
+      "Inside old library",
+      "Inside a spacious hall",
+      "Inside bustling mall",
+      "Inside a spacious house",
+      "Inside modern art gallery",
+      "Inside sleek office building",
+      "Inside a historic church",
+      "Inside busy train station",
+      "Inside a picturesque village"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Leather wallet, open compartment, ultra-realistic texture, DSLR",
+      "Leather wallet, open compartment, ultra-realistic DSLR",
+      "Realistic leather wallet, open compartment, DSLR clarity",
+      "Open wallet, leather texture, ultra-realistic DSLR",
+      "Realistic leather wallet, open, DSLR.",
+      "Wallet, open compartment, realistic leather, DSLR",
+      "Visible leather wallet compartment, ultra-realistic, DSLR",
+      "Open wallet, realistic leather, DSLR",
+      "Realistic leather wallet, open, DSLR",
+      "Open wallet compartment, realistic leather, DSLR",
+      "Realistic leather wallet, open section, DSLR clarity",
+      "Leather wallet open, realistic texture, DSLR",
+      "Realistic leather wallet open, close-up, DSLR",
+      "Leather wallet, open compartment, ultra-realistic photo.",
+      "Open leather wallet, compartment detail, ultra-realism",
+      "Wallet, open, leather grains, ultra-realistic photo.",
+      "A leather wallet, open compartment visible, DSLR clarity.",
+      "Open leather wallet, ultra-realistic",
+      "Open wallet, leather texture, DSLR",
+      "Realistic wallet, open, leather visible"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

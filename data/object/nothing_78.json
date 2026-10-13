@@ -1,0 +1,53 @@
+[
+  {
+    "id": 245,
+    "prompt": "a shopping cart with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside grand hallway",
+      "Inside a museum exhibit",
+      "Inside grand hall",
+      "Inside modern kitchen",
+      "Inside a glasshouse",
+      "Inside fancy restaurant",
+      "Inside fancy restaurant dining area",
+      "Inside a spacious house",
+      "Inside modern office building",
+      "Inside cozy cafe",
+      "Inside modern office",
+      "Inside sparkling aquarium tank",
+      "Inside modern art gallery",
+      "Inside a library aisle",
+      "Inside a narrow tunnel",
+      "Inside a fancy restaurant",
+      "Inside a grand hall",
+      "Inside historical museum, exhibits",
+      "Inside an old library",
+      "Inside fancy restaurant dining room"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wire basket, shopping cart, metallic, ultra-realistic DSLR.",
+      "Shopping cart, wire basket, metallic sheen, ultra-realistic DSLR.",
+      "Cart, wire basket interior, metallic, ultra-realistic DSLR.",
+      "Wire basket shopping cart, metallic details, ultra-realistic photo.",
+      "Wire basket shopping cart, metallic finish, ultra-realistic photo.",
+      "Shopping cart, wire basket interior, metallic surface, ultra-real.",
+      "Wire basket interior, shopping cart, ultra-realistic",
+      "Shopping cart, wire basket, metallic finish, DSLR.",
+      "Wire basket shopping cart, ultra-realistic texture.",
+      "Wire basket, metallic shopping cart, ultra-real.",
+      "Wire basket visible, shopping cart, ultra-realistic.",
+      "Shopping cart, wire basket, ultra-realistic.",
+      "Wire basket, shopping cart, ultra-realistic detail.",
+      "Shopping cart, ultra-realistic wire basket.",
+      "Shopping cart, wire basket, DSLR photography.",
+      "Ultra-realistic shopping cart, metallic wires.",
+      "Shopping cart, metallic wires, DSLR.",
+      "A shopping cart with a visible wire basket, metallic细节, UHD摄影",
+      "Realistic metallic cart, visible wire basket.",
+      "A shopping cart with wire basket, metallic细节, 超写实."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

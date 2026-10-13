@@ -1,0 +1,278 @@
+[
+    {
+        "id": "a_bedroom_with_no_lamp_sim_threshold_0.9",
+        "caption": "a bedroom with no lamp",
+        "question": "is there lamp in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "lamp"
+    },
+    {
+        "id": "a_camping_site_with_no_tents",
+        "caption": "a camping site with no tents",
+        "question": "is there tents in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "tents"
+    },
+    {
+        "id": "a_castle_with_no_flags_sim_threshold_0.9",
+        "caption": "a castle with no flags",
+        "question": "is there flags in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "flags"
+    },
+    {
+        "id": "a_city_park_with_no_trees_sim_threshold_0.9",
+        "caption": "a city park with no trees",
+        "question": "is there trees in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "trees"
+    },
+    {
+        "id": "a_city_skyline_without_skyscrapers_sim_threshold_0.9",
+        "caption": "a city skyline without skyscrapers",
+        "question": "is there skyscrapers in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "skyscrapers"
+    },
+    {
+        "id": "a_farm_with_no_tractors",
+        "caption": "a farm with no tractors",
+        "question": "is there tractors in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "tractors"
+    },
+    {
+        "id": "a_fast_food_tray_without_cola",
+        "caption": "a fast food tray without cola",
+        "question": "is there cola in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cola"
+    },
+    {
+        "id": "a_garage_without_tools_sim_threshold_0.9",
+        "caption": "a garage without tools",
+        "question": "is there tools in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "tools"
+    },
+    {
+        "id": "a_garden_without_fences_sim_threshold_0.9",
+        "caption": "a garden without fences",
+        "question": "is there fences in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "fences"
+    },
+    {
+        "id": "a_keyboard_without_keys_sim_threshold_0.9",
+        "caption": "a keyboard without keys",
+        "question": "is there keys in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "keys"
+    },
+    {
+        "id": "a_kitchen_table_with_no_fruit_sim_threshold_0.9",
+        "caption": "a kitchen table with no fruit",
+        "question": "is there fruit in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "fruit"
+    },
+    {
+        "id": "a_kitchen_with_no_refrigerator_sim_threshold_0.9",
+        "caption": "a kitchen with no refrigerator",
+        "question": "is there refrigerator in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "refrigerator"
+    },
+    {
+        "id": "a_man_without_glasses",
+        "caption": "a man without glasses",
+        "question": "is there glasses in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "glasses"
+    },
+    {
+        "id": "a_music_studio_without_instruments_sim_threshold_0.9",
+        "caption": "a music studio without instruments",
+        "question": "is there instruments in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "instruments"
+    },
+    {
+        "id": "a_pair_of_shoes_without_shoelaces",
+        "caption": "a pair of shoes without shoelaces",
+        "question": "is there shoelaces in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "shoelaces"
+    },
+    {
+        "id": "a_road_without_streetlights_sim_threshold_0.9",
+        "caption": "a road without streetlights",
+        "question": "is there streetlights in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "streetlights"
+    },
+    {
+        "id": "a_rooftop_garden_with_no_chairs_sim_threshold_0.9",
+        "caption": "a rooftop garden with no chairs",
+        "question": "is there chairs in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "chairs"
+    },
+    {
+        "id": "a_shirt_without_buttons",
+        "caption": "a shirt without buttons",
+        "question": "is there buttons in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "buttons"
+    },
+    {
+        "id": "a_sofa_without_cups",
+        "caption": "a sofa without cups",
+        "question": "is there cups in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cups"
+    },
+    {
+        "id": "a_supermarket_with_no_shopping_carts_sim_threshold_0.9",
+        "caption": "a supermarket with no shopping carts",
+        "question": "is there shopping carts in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "shopping carts"
+    },
+    {
+        "id": "a_table_without_cups",
+        "caption": "a table without cups",
+        "question": "is there cups in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "cups"
+    },
+    {
+        "id": "a_village_square_without_fountains_sim_threshold_0.9",
+        "caption": "a village square without fountains",
+        "question": "is there fountains in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "fountains"
+    },
+    {
+        "id": "an_empty_wallet_with_no_money",
+        "caption": "an empty wallet with no money",
+        "question": "is there money in the image?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "no",
+        "element_type": "object_negation",
+        "element": "money"
+    }
+]

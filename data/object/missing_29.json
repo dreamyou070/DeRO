@@ -1,0 +1,53 @@
+[
+  {
+    "id": 29,
+    "prompt": "a grocery store missing shelves",
+    "base_entity_biased_prompts": [
+      "Shelves in a library",
+      "Shelves for household items",
+      "Shelves holding CDs and DVDs",
+      "Shelves with various kitchen appliances",
+      "Shelves in a kitchen pantry",
+      "Shelves with framed art",
+      "Shelves holding collectibles",
+      "Shelves holding various knick-knacks.",
+      "Wooden shelves with books",
+      "Shelves holding an array of bottles",
+      "Shelves displaying collectibles.",
+      "Shelves with framed photos",
+      "Shelves with framed art and sculptures",
+      "Shelves with colorful bottles",
+      "Kitchen shelves with spices",
+      "Shelves with clothes in a closet",
+      "Stylish shelves holding decorative items",
+      "Shelves with a variety of magazines",
+      "Bathroom shelves with toiletries",
+      "Shelves holding framed photos."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Books and shelves, realistic textures, DSLR",
+      "A library, books in rows, DSLR realism",
+      "Library interior, shelves detailed, ultra-real.",
+      "Detailed library scene, ultra-realistic.",
+      "Realistic library scene, detailed shelves.",
+      "Library with shelves, rich in detail",
+      "Library interior, detailed shelves.",
+      "Stacked books, detailed shelves, realistic lighting.",
+      "Library shelves, realistic, detailed.",
+      "Library ambiance, precise indoor shot",
+      "Books on shelves, realistic, detailed view.",
+      "Spacious library, detailed interiors.",
+      "A spacious library with tidy shelves.",
+      "Bookshelves lined up, realistic details.",
+      "Library shelves, soft ambient lighting.",
+      "A large library with neatly arranged shelves.",
+      "A library, shelves packed with books.",
+      "A library with tall shelves, books neatly arranged.",
+      "A shelf of books,整齐排列",
+      "A row of books, shelves整齐排列。"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

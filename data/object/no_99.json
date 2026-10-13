@@ -1,0 +1,53 @@
+[
+  {
+    "id": 161,
+    "prompt": "a movie theater with no seats",
+    "base_entity_biased_prompts": [
+      "Stage theater seats",
+      "Auditorium theater seats",
+      "Restaurant booth seats",
+      "Opera house theater seats",
+      "Train passenger seats",
+      "Rowing boat seats",
+      "Train carriage seats",
+      "White vinyl booth seats",
+      "Bus passenger seating",
+      "White stadium bleacher seat",
+      "Restaurant booth seating",
+      "Wooden stadium bleacher seat",
+      "Restaurant booth seating.",
+      "Auditorium stage front row seats",
+      "Gym bench seats for workouts",
+      "Wooden theater balcony seats",
+      "Cushioned stadium seating row",
+      "Auditorium row of stadium seats",
+      "Metal stadium seats stadium.",
+      "Blue kayak seat"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A grand movie theater, ultra-realistic, DSLR.",
+      "A grand movie theater, DSLR, realistic",
+      "A grand movie theater lobby, DSLR, ultra-realistic",
+      "A grand movie theater lobby, DSLR, ultra-realistic.",
+      "Projection room, realistic architecture, DSLR.",
+      "Cinema bar, realistic lighting, DSLR.",
+      "Cinematic lights inside the theater, DSLR clarity.",
+      "Auditorium view, realistic textures, DSLR.",
+      "Cinema balcony, detailed, theater, DSLR.",
+      "Auditorium, lights, realistic, DSLR.",
+      "Wideshot of vintage movie theater, DSLR clarity",
+      "A grand movie theater lobby, ultra-realistic.",
+      "A grand movie theater lobby, ultra-realistic detail.",
+      "A grand movie theater entrance, ultra-realistic.",
+      "A grand cinema entrance, ultra-realistic detail.",
+      "A grand movie theater lobby, DSLR sharpness.",
+      "Cinema balcony, panoramic view, ultra-realism.",
+      "Cinema marquee, neon signs, ultra-realism.",
+      "Wide cinema lobby, rich textures.",
+      "Stage for movie premieres."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

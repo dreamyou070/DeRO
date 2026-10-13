@@ -1,0 +1,53 @@
+[
+  {
+    "id": 218,
+    "prompt": "a burger with nothing between the buns",
+    "base_entity_biased_prompts": [
+      "Buns with toppings",
+      "Buns for a meal",
+      "Buns with pickles",
+      "Buns in various shapes",
+      "Buns as snack food.",
+      "Buns in various shapes and sizes.",
+      "Buns with a hint of garlic.",
+      "Buns with crispy edges.",
+      "Buns in various shapes.",
+      "Buns with sausages",
+      "Buns with a side of pickles.",
+      "Buns for dumplings",
+      "Buns with a soft chewy texture.",
+      "Buns with cherry toppings",
+      "Bun with pickles",
+      "Buns with colorful glaze.",
+      "Bun with onion rings",
+      "A multi-grain bun.",
+      "Buns with melted cheese topping.",
+      "Glutinous rice bun."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Burger with bread detail, ultra-realistic photo",
+      "Burger with visible bread layers, ultra-realistic.",
+      "Burger with visible bread layers, realistic textures.",
+      "Realistic burger with detailed bread layers.",
+      "Burger with visible, realistic bread layers",
+      "Realistic burger, bread texture close-up.",
+      "Detailed burger, realistic bread texture",
+      "Realistic burger with visible toasted bread layers.",
+      "Realistic burger slice photography.",
+      "Realistic burger with visible bread crusts.",
+      "Burger bun layers, ultra-realistic close-up.",
+      "Realistic burger with visible bun layers.",
+      "Realistic burger with visible crusts.",
+      "Realistic burger with crust details.",
+      "Burger with realistic toppings close-up.",
+      "Realistic burger, exposed buns, detailed toppings.",
+      "Visible buns, realistic burger, detailed toppings.",
+      "Realistic burger with toppings, split bun view.",
+      "Realistic burger with exposed bun layers, condiments.",
+      "Bun-exposed burger, detailed toppings."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

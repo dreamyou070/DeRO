@@ -1,0 +1,53 @@
+[
+  {
+    "id": 151,
+    "prompt": "a bookshelf with no books",
+    "base_entity_biased_prompts": [
+      "Books with colorful illustrations.",
+      "Books with dog ears",
+      "Children’s books with illustrations",
+      "Books with colorful spines.",
+      "Books with green covers.",
+      "Books with leather bindings.",
+      "Books with weathered pages.",
+      "Children's picture books.",
+      "Stack of hardcover books.",
+      "Collection of classic literature.",
+      "Children's books with colorful illustrations",
+      "Books with colorful illustrations opened.",
+      "Old books with dust covers.",
+      "A book with colorful illustrations.",
+      "A stack of old books.",
+      "A stack of old books",
+      "A book of poetry.",
+      "Antique books with dust covers.",
+      "Textbook with highlighted passages.",
+      "Bookmarked page with notes."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden bookshelf, realistic details, DSLR capture",
+      "Wooden bookshelf, ultra-realism, DSLR.",
+      "A wooden bookshelf, DSLR, hyper-realistic",
+      "A wooden bookshelf, DSLR, ultra-realistic.",
+      "Realistic wooden bookshelf, DSLR.",
+      "Wooden bookshelf, realistic texture, DSLR.",
+      "Bookshelf, realistic wood texture, DSLR.",
+      "Wooden bookshelf, realistic detail, DSLR.",
+      "Wooden bookshelf, realistic details, DSLR.",
+      "Wooden bookshelf, DSLR, hyper-realism",
+      "Realistic wooden bookshelf, DSLR quality.",
+      "Bookshelf, realistic wood grain, DSLR.",
+      "Detailed wooden shelf, ultra-realism, DSLR.",
+      "Realistic shelf, wooden structure, DSLR.",
+      "Real wooden shelf, books, DSLR detail.",
+      "Realistic bookshelf, DSLR quality.",
+      "A wooden bookshelf, ultra-realistic close-up.",
+      "Wooden bookshelf, ultra-realistic details.",
+      "A bookshelf with intricate wood grain, DSLR shot.",
+      "Vintage bookshelf, DSLR realism."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

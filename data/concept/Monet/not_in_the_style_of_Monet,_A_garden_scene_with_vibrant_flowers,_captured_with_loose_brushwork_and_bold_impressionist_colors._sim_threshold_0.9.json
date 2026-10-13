@@ -1,0 +1,15 @@
+[
+  {
+    "id": 2,
+    "prompt": "not in the style of Monet, A garden scene with vibrant flowers, captured with loose brushwork and bold impressionist colors.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A vibrant garden scene with loosely brushed flowers and natural tones."
+    ],
+    "base_entity": "Monet",
+    "component_entity": "Monet",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 1
+  }
+]

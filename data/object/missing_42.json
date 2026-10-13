@@ -1,0 +1,53 @@
+[
+  {
+    "id": 42,
+    "prompt": "a table missing legs",
+    "base_entity_biased_prompts": [
+      "Legs with socks",
+      "Legs in shorts",
+      "Legs with tattoos",
+      "Legs in red socks",
+      "Leg muscles in workout",
+      "Legs inside a jeans pant.",
+      "Legs in water swimming",
+      "Legs of a dancer, graceful",
+      "Biker with sturdy legs",
+      "A runner's bent legs.",
+      "Person doing lunges",
+      "Friends doing squats",
+      "Person in yoga pants",
+      "Running man in shorts",
+      "Model in heels",
+      "Standing man in jeans",
+      "Jump rope kids",
+      "Woman in yoga pants exercising",
+      "Kicking soccer ball",
+      "Man in shorts walking"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Circular clock, visible structure, ultra-realistic DSLR photo",
+      "A circular clock, DSLR, ultra-realistic",
+      "Realistic clock, circular shape, DSLR detail",
+      "Clock with visible components, circular design, DSLR clarity",
+      "Realistic clock, circular, structure visible, DSLR.",
+      "Circular clock, realistic design, DSLR clarity.",
+      "Circular clock, visible parts, ultra-realistic DSLR.",
+      "Realistic circular clock, intricate details, DSLR",
+      "Clock with visible cogs, ultra-realistic DSLR.",
+      "Realistic clock, circular design, DSLR clarity.",
+      "Clock with visible mechanisms, realistic texture, DSLR",
+      "Circular clock, visible mechanism, DSLR precision.",
+      "Clock mechanism visible, ultra-realistic photo",
+      "Detailed circular clock, visible mechanisms, DSLR.",
+      "Circular clock, detailed structure, DSLR.",
+      "Clock, circular design, visible structure, DSLR.",
+      "Circular clock, visible mechanism, ultra-realistic focus.",
+      "Circular copper clock, visible structure, DSLR.",
+      "Clock with visible mechanics, ultra-realism.",
+      "Modern clock, circular, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

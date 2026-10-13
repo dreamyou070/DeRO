@@ -1,0 +1,53 @@
+[
+  {
+    "id": 353,
+    "prompt": "a sandwich without vegetables",
+    "base_entity_biased_prompts": [
+      "Colorful mixed vegetables",
+      "Mixed leafy greens",
+      "Radishes with greens",
+      "Mixed salad greens",
+      "Leafy greens in a salad",
+      "Green leaf lettuce",
+      "Spinach leafy greens",
+      "Peas in a pod",
+      "Peas in pod",
+      "Leafy spinach greens",
+      "Green lettuce leaves",
+      "Cucumber with seeds",
+      "Green peas pods",
+      "Orange bell peppers",
+      "Bunch of lettuce",
+      "Leafy green spinach plants",
+      "Peas in a green pod",
+      "Carrots in bunch",
+      "Green beans stalks",
+      "A basket of fresh carrots."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cat, ultra-realistic fur, DSLR",
+      "Furry cat, realistic texture, DSLR",
+      "Cat, ultra-realistic fur, DSLR.",
+      "Cat, ultra-realistic shot, fur texture",
+      "A realistic cat, smooth fur, DSLR",
+      "Detailed cat, realistic fur, DSLR",
+      "Soft cat, realistic fur, DSLR shot",
+      "Fur texture, realistic cat, DSLR",
+      "Calico cat, realistic fur, DSLR",
+      "Realistic cat, DSLR quality",
+      "A cat, fur texture, natural light, DSLR.",
+      "Cat, fur detailed, DSLR clarity",
+      "Cat, natural appearance, DSLR quality.",
+      "Gray cat, realistic fur, DSLR detail",
+      "Ragdoll cat, detailed fur, DSLR clarity",
+      "A cat, fur texture, ultra-realistic.",
+      "Cat tail, natural texture, DSLR.",
+      "A cat, fur细节逼真, DSLR自然光",
+      "Tortoiseshell cat, ultra-realistic shot",
+      "Black cat, natural look, DSLR quality."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

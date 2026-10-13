@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a teapot missing a lid",
+    "base_entity_biased_prompts": [
+      "Lid of a jar",
+      "Lid with a lip",
+      "Lid of a can",
+      "Lid of a hat",
+      "Lid of a pot",
+      "Lid of a food container",
+      "Lid with a rim",
+      "Lid of a canister",
+      "Lid with a handle",
+      "Lid with a tab",
+      "Lid on a can",
+      "Lid for a jar",
+      "Lid on a jar",
+      "Lid of a laptop",
+      "Lid of a helmet",
+      "Lid of a drum",
+      "Lid of a tin can",
+      "Lid of a coffee cup",
+      "Lid of a trash bin",
+      "Lid of paint can"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Small ceramic teapot, brown, wood table, centered, realistic.",
+      "Small ceramic teapot, wood table corner, realistic lighting.",
+      "A small reddish-brown ceramic teapot on wood, matte texture.",
+      "A small reddish-brown ceramic teapot on wood, centered, realistic.",
+      "Reddish-brown teapot, smooth matte clay, wooden table corner.",
+      "A small reddish-brown ceramic teapot on wood, minimal gray wall.",
+      "A small reddish-brown ceramic teapot on wood, minimalist setup.",
+      "Minimalist setup: ceramic teapot, reddish-brown.",
+      "Reddish-brown teapot, matte clay texture.",
+      "A small reddish-brown ceramic teapot on wood.",
+      "A small reddish-brown ceramic teapot on wood, centered.",
+      "Reddish-brown teapot, smooth matte clay.",
+      "Ultra-realistic teapot, centered composition.",
+      "Reddish-brown clay teapot details.",
+      "Ceramic teapot, realistic reflections, 50mm.",
+      "Reddish-brown teapot, matte texture.",
+      "Reddish-brown teapot, smooth matte texture.",
+      "Reddish-brown teapot, matte finish.",
+      "Minimalist gray wall, centered teapot.",
+      "Wooden table corner, centered composition."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

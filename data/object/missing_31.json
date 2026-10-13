@@ -1,0 +1,53 @@
+[
+  {
+    "id": 31,
+    "prompt": "a coffee shop missing tables",
+    "base_entity_biased_prompts": [
+      "Tables in a restaurant",
+      "Tables in a library.",
+      "Banquet hall tables",
+      "Tables with maps spread out.",
+      "Tables with red and white checks.",
+      "Restaurant table setting",
+      "Tables with laptop users",
+      "Tableset with plates and glasses.",
+      "Table set for dinner party",
+      "Table with musical instruments",
+      "Table setting for dinner party",
+      "Table set with plates and silverware.",
+      "Round table with colorful placemats",
+      "A table with musical instruments.",
+      "Table set for dinner with plates.",
+      "Cafe bar table setup",
+      "A table with a checkerboard pattern.",
+      "A table with a map spread out.",
+      "A table set for dinner with plates.",
+      "A metal table with chairs."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A vibrant flower garden, DSLR, ultra-realistic",
+      "A vibrant flower garden, DSLR",
+      "A vibrant flower garden, DSLR.",
+      "Lush flower beds, DSLR",
+      "A lush flower garden, DSLR, sharp focus",
+      "Pristine garden, DSLR capture",
+      "Whimsical garden path, DSLR",
+      "A vibrant rose garden, ultra-realistic",
+      "A vibrant rose garden, DSLR.",
+      "Orchid garden, DSLR beauty.",
+      "Iris garden, realistic details",
+      "A blooming rose garden, DSLR",
+      "Carnation garden, ultra-realistic.",
+      "A vibrant rose garden, ultra-realistic.",
+      "A blooming rose garden, ultra-realistic.",
+      "Sunlit rose garden, ultra-realistic",
+      "Detailed succulent garden scene",
+      "Ultra-realistic hydrangea close-up",
+      "Gentle iris garden scenery",
+      "Hydrangeas in soft focus"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 436,
+    "prompt": "nobody inside the hotel lobby",
+    "base_entity_biased_prompts": [
+      "Lobby has a reception desk",
+      "Lobby with a reception desk",
+      "Lobby with water fountain",
+      "Lobby having expansive reception area",
+      "Lobby with cozy seating area",
+      "Lobby with comfortable waiting area",
+      "Lobby with marble columns",
+      "Lobby, art deco style.",
+      "Lobby area with plush seating",
+      "Lobby with sleek reception desk",
+      "Lobby with modern furniture and sofa",
+      "Lobby featuring contemporary furniture",
+      "Lobby with decorative tiles and doors",
+      "Lobby featuring art deco elements",
+      "Lobby featuring metallic accents",
+      "Lobby area with plush carpets",
+      "Lobby with wooden tables and chairs",
+      "Lobby with grand staircase",
+      "Lobby equipped with luxurious seating",
+      "Lobby, polished wood, chairs."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant hotel lobby, DSLR, realistic",
+      "A luxurious hotel lobby, DSLR realism",
+      "A luxurious hotel lobby, DSLR quality.",
+      "Chic hotel lobby, elegant furniture, soft illumination",
+      "Hotel lobby, glass tables, dramatic lighting",
+      "Elegant lobby, luxurious furniture, soft lighting",
+      "Opulent lighting design in lobby.",
+      "Elegant sofa, crystal chandelier, DSLR realism",
+      "Soft ambient lighting in a luxurious hotel.",
+      "Elegant leather chairs, crystal chandelier, DSLR realism",
+      "Soft ambient lighting in the lobby.",
+      "Elegant lobby, marble floors, crystal chandelier",
+      "A grand marble lobby with chandeliers",
+      "A grand marble lobby, elegant chairs, soft lights.",
+      "A grand marble floor lobby",
+      "A grand lobby with plush沙发和精致吊灯",
+      "Elegant wooden chairs, crystal chandeliers, detailed shots.",
+      "Gleaming hardwood floors, soft lighting.",
+      "Ottomans, ornate mirrors, modern lights.",
+      "Shimmering chandeliers hanging high"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

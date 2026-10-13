@@ -1,0 +1,53 @@
+[
+  {
+    "id": 325,
+    "prompt": "a workspace without notebooks",
+    "base_entity_biased_prompts": [
+      "Notebook in hands",
+      "Notebook with sticky notes.",
+      "Notebook with stickers and notes.",
+      "Notebook with colorful pens",
+      "Graph paper notebook",
+      "Notebook in classroom",
+      "White ruled notebook",
+      "A notebook with colorful pages.",
+      "Gray spiral notebook",
+      "Purple spiral notebook",
+      "A notebook with neatly organized notes.",
+      "Red dotted notebook notes",
+      "Purple notebook with notes.",
+      "Black ruled notebook pages.",
+      "Black leather bound notebook.",
+      "Gray lined notebook in hand",
+      "Blue checkered notebook pages",
+      "White notebook with bookmarks.",
+      "Orange dotted notebook with notes.",
+      "White lined notebook with pen."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Professional workspace, ordered desk, ultra-realistic DSLR",
+      "Organized desk, realistic office, DSLR capture.",
+      "Desk with organized items, realistic office, DSLR detail.",
+      "Tech-filled desk, organized, realistic office, DSLR focus",
+      "Organized desk, detailed DSLR shot",
+      "Structured office setup, DSLR realism.",
+      "Neat workspace, realistic office accessories",
+      "Office decor, neat desk, DSLR",
+      "Neatly arranged office items, DSLR realism.",
+      "Structured office desk, DSLR.",
+      "Organized desk, office items visible, DSLR",
+      "Office desk, organized tech, DSLR.",
+      "Desk with organized tools, high detail, DSLR.",
+      "Organized office, DSLR perspective.",
+      "organized desk, DSLR detail.",
+      "Organized desk, office supplies, DSLR clarity",
+      "Desk with thoughtful layout, DSLR.",
+      "Organized desk, DSLR sharp focus",
+      "Office plants, organized desk, DSLR",
+      "A desk with organized supplies, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

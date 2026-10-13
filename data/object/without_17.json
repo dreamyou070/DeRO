@@ -1,0 +1,53 @@
+[
+  {
+    "id": 264,
+    "prompt": "a highway without trucks",
+    "base_entity_biased_prompts": [
+      "Truck with flatbed",
+      "Truck with flatbed hauling",
+      "Truck with mudguards and chains",
+      "Trucks at a construction site.",
+      "Truck with colorful graphics.",
+      "Truck with a flatbed and rocks.",
+      "Trucks with trailers on highway",
+      "Truck with colorful advertising.",
+      "Small pickup truck with tools.",
+      "Truck with colorful advertisements.",
+      "Truck with oversized tires",
+      "A truck with a flatbed loaded.",
+      "Truck with construction equipment attached.",
+      "Red truck with flatbed.",
+      "A truck with colorful advertisements.",
+      "Small pickup truck countryside road",
+      "Small pickup truck in field",
+      "A blue truck with stickers on side.",
+      "A large truck with trailers parked.",
+      "A brown flatbed truck in a desert"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Highway, realistic textures, distant view, DSLR.",
+      "Wide road, distant view, realistic textures, DSLR.",
+      "Highway with texture, open horizon, DSLR clarity.",
+      "Ultra-realistic highway, textured road, distant views.",
+      "A long straight highway with realistic textures, DSLR.",
+      "A winding highway in ultra-realistic DSLR, distant mountains.",
+      "Highway with realistic texture, open scenery.",
+      "Paved road, realistic texture, extended view.",
+      "Detailed highway with realistic textures, vast landscape.",
+      "Highway curves, detailed textures, DSLR shot.",
+      "Highway with textures, far into the distance.",
+      "Urban highway, realistic textures, cityscape.",
+      "A long highway with realistic textures, distant mountains.",
+      "Wide road, realistic textures, rolling hills in background.",
+      "Road with realistic texture, sunset, mountains in background.",
+      "Highway with realistic texture, sunset glow.",
+      "Highway with realistic textures, rolling hills.",
+      "Wide road, realistic texture, blue sky behind.",
+      "Wide highway leading, real road texture, natural surroundings.",
+      "A long highway with textured roads, distant mountains."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

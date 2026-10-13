@@ -1,0 +1,53 @@
+[
+  {
+    "id": 278,
+    "prompt": "a farm field without fences",
+    "base_entity_biased_prompts": [
+      "Fence between properties",
+      "Fence separating two properties",
+      "Fence separating two properties.",
+      "Fencing separating sports fields",
+      "Fence separating two houses",
+      "High fence separating properties",
+      "Fence with gaps in the middle",
+      "Stone walls as fence",
+      "Fence connecting two houses",
+      "Fence bordering sports field",
+      "Fencing around a farm field",
+      "Fence with decorative pickets and vines",
+      "Chain-link fence separating properties",
+      "Wooden fence around yard",
+      "Fence surrounding park area",
+      "Stone wall fence separating properties",
+      "Chain-link fence dividing properties.",
+      "Wire fence with colorful decorations.",
+      "Fence separating farmland from woods.",
+      "Split-rail fence in countryside."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A vast field with realistic soil, DSLR",
+      "Countryside with fields, realistic textures, DSLR.",
+      "Countryside view, realistic soil, DSLR",
+      "Wide open fields, realistic soil, DSLR",
+      "A vast field with realistic soil, DSLR clarity.",
+      "Earth tones, farm field, ultra-realistic photo",
+      "A broad farm field, rich soil, DSLR clarity",
+      "A vast field, soil textures, DSLR",
+      "Wide farm scene, realistic soil textures",
+      "Wide shot of farm, realistic soil",
+      "Farmers field, ultra-realistic capture",
+      "Farm field, realistic soil, wide view",
+      "Soil close-up, farm field, DSLR.",
+      "Wide shot of farm, realistic textures, clear.",
+      "Countryside view, deep soil texture",
+      "A vast field with rich soil textures",
+      "Countryside vista with detailed soil",
+      "Fields stretching, wide countryside shot",
+      "Farmland expanse, deep colors, realism.",
+      "Close-up of fertile soil, textures vivid."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

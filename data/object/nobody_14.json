@@ -1,0 +1,53 @@
+[
+  {
+    "id": 410,
+    "prompt": "nobody inside the gym",
+    "base_entity_biased_prompts": [
+      "Gym with cardio equipment.",
+      "Gym with dumbbells and barbells",
+      "Swimming pool, gym",
+      "Gym with weights and mats",
+      "Gym with cardio machines",
+      "Gym with resistance bands",
+      "Gym with free weights and racks",
+      "Gym locker room",
+      "Gym with rowing machines",
+      "🏋️‍♂️ lifting weights in gym",
+      "Basketball court in gym",
+      "Swimming pool gym facility",
+      "Lifting weights in gym",
+      "Pull-up bar in gym.",
+      "Basketball court inside gym",
+      "Boxing ring in gym",
+      "Gymnasium basketball court",
+      "Gym equipment setup area",
+      "Treadmill in gym",
+      "Gym equipment layout"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neatly arranged fitness center, tranquil, ultra-realistic.",
+      "Fitness center, meticulously arranged equipment, tranquil feel.",
+      "A serene gym,器材整齐,超写实DSLR视角",
+      "Fitness center, perfectly laid out, tranquil mood.",
+      "Gym with perfect layout, serene, ultra-realistic.",
+      "Fitness center, eqmt meticulously arranged, calm.",
+      "Orderly gym, ultra-realistic scene.",
+      "Calm gym with precisely arranged cardio machines.",
+      "Rowing machines, serene gym, detailed shot",
+      "Calm gym with a perfect arrangement of weights.",
+      "Organized gym, serene atmosphere.",
+      "A gym with neatly arranged treadmills and quiet ambiance.",
+      "A serene gym,器材整齐，光线柔和。",
+      "A sleek gym,器材整齐,环境宁静",
+      "A well-lit gym,器材整齐,氛围宁静",
+      "A sleek gym,器材完美排列,环境宁静",
+      "A spacious gym,器材有序，氛围宁静",
+      "A sleek gym,器材排列完美，环境宁静。",
+      "A spacious gym,器材整齐，环境宁静。",
+      "A spacious gym,器材整齐，氛围宁静。"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

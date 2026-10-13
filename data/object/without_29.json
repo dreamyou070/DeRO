@@ -1,0 +1,53 @@
+[
+  {
+    "id": 276,
+    "prompt": "a bus without windows",
+    "base_entity_biased_prompts": [
+      "Windows in modern office",
+      "Windows with clean lines",
+      "Windows in a modern home.",
+      "Windows in a library",
+      "Modern glass window",
+      "Windows in a cozy room",
+      "Windows in a cozy room.",
+      "Windows with raindrops",
+      "Windows with views of mountains",
+      "Windows with wooden panes.",
+      "Windows with frosted glass.",
+      "Window with view of mountains",
+      "Windows in modern office building.",
+      "Windows with frosted glass panes.",
+      "Windows in a modern office building.",
+      "Windows with frosted panes inside.",
+      "Modern sliding glass windows.",
+      "Windows with raindrops on them.",
+      "Windows with raindrops on the glass.",
+      "Windows with raindrops on the pane."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bus with reflective windows, ultra-realistic.",
+      "Reflective bus surfaces, intricate details, photorealistic.",
+      "Bus with mirrored surfaces, ultra-realistic.",
+      "Reflective bus panels, ultra-realism.",
+      "Reflective bus sides, ultra-realistic",
+      "Bus mirror reflections, ultra-realistic.",
+      "Reflective bus panels, ultra-realistic.",
+      "Mirror bus sides, ultra-realistic photo.",
+      "Bus body, reflective surfaces, DSLR",
+      "Reflective bus, urban setting, high detail",
+      "Bus with highly detailed reflective surfaces",
+      "Bus with reflective panels, realistic lighting.",
+      "Reflective bus, urban environment, vivid realism.",
+      "Bus mirrors, ultra-realistic clarity.",
+      "Bus body, highly detailed reflections.",
+      "A shiny bus in sunlight, DSLR",
+      "Bus under spotlight, ultra-real.",
+      "Shiny bus surfaces, intricate details.",
+      "Reflective bus roof, vibrant city background.",
+      "Bus body reflective surface in sunlight"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

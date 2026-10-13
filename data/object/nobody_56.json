@@ -1,0 +1,53 @@
+[
+  {
+    "id": 452,
+    "prompt": "nobody sitting in the conference room",
+    "base_entity_biased_prompts": [
+      "A hotel room with amenities.",
+      "Spacious family room with电视.",
+      "Large living room with沙发.",
+      "Conference room with table",
+      "Guest room with a bed",
+      "A dining room with a table.",
+      "A large living room with沙发.",
+      "A small cozy bedroom.",
+      "Spacious guest bedroom.",
+      "A small cozy bedroom",
+      "Spacious family room",
+      "A spacious living room.",
+      "A study room with a desk.",
+      "Game room with pool table",
+      "Dining room with table and chairs",
+      "Bright sunroom with windows.",
+      "Bright and cheerful study room.",
+      "Study room with shelves and chair",
+      "Attractive guest room with a sofa.",
+      "Sunroom with lots of windows"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Conference room, neatly arranged chairs, presentation screen, DSLR realism",
+      "Conference room, organized chairs, projector, DSLR, realistic",
+      "Conference room, chairs, projector, DSLR, realistic",
+      "Ultra-realistic DSLR, clean conference room, organized chairs.",
+      "Conference room, orderly chairs, presentation gear, DSLR clarity",
+      "Ultra-realistic DSLR shot of conference setup.",
+      "Conference chairs, polished table, DSLR ultra-realism",
+      "Conference table, chairs, projector, DSLR, ultra-realistic",
+      "Conference room, chairs, screen, DSLR.",
+      "Ultra-realistic DSLR shot of conference chairs, projector.",
+      "Conference room, chairs, projector, DSLR, detailed",
+      "Conference setup, chairs, DSLR, ultra-real",
+      "Seated conference attendees, tech at hand, ultra-realistic DSLR",
+      "Conference room chairs, projector, DSLR shot",
+      "Conference setup, chairs in row, DSLR precision.",
+      "Conference setup, chairs facing screen, DSLR quality.",
+      "Conference setup, tidy chairs, ultra-realistic close-up.",
+      "High-resolution DSLR photo of conference setup.",
+      "A neatly arranged conference room, DSLR sharpness.",
+      "Modern conference room, chairs neat, screen ready."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

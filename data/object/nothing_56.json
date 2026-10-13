@@ -1,0 +1,53 @@
+[
+  {
+    "id": 223,
+    "prompt": "a refrigerator with nothing stored",
+    "base_entity_biased_prompts": [
+      "Stored food in refrigerator",
+      "Stored food in pantry",
+      "Stored food in a pantry",
+      "Stored records in case",
+      "Bottled drinks stored.",
+      "Food stored in a pantry",
+      "Stored groceries in a pantry",
+      "Stored wine in a cellar",
+      "Stored groceries in a pantry.",
+      "Stored spices in jars",
+      "Stored books on shelf",
+      "Stored clothes in a closet",
+      "Canned foods stored in pantry",
+      "Furniture stored in storage unit",
+      "Games in a storage box",
+      "Furniture in storage unit",
+      "Musical instruments stored in case",
+      "Bottles in fridge",
+      "Games stored in cardboard box",
+      "Pots and pans in cupboard"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shelf organization in fridge, ultra-realistic DSLR.",
+      "Compartmented fridge, DSLR close-up, realistic",
+      "Organized fridge, vividly realistic, DSLR.",
+      "Organized fridge shelves, DSLR realism.",
+      "Visible fridge compartments, DSLR style.",
+      "Fridge with crisp shelves, DSLR view.",
+      "Fridge interior, neat shelves, DSLR.",
+      "A fridge with clear shelves, DSLR",
+      "Organized fridge, DSLR view.",
+      "Fridge interior, organized storage, DSLR quality.",
+      "Fridge shelves, DSLR captured in detail.",
+      "Shelves in a fridge, DSLR quality.",
+      "Well-organized fridge, DSLR view.",
+      "Fridge with compartments, ultra-realistic view.",
+      "Fridge interior, tidy shelves, DSLR.",
+      "Ultra-realistic fridge, organized view.",
+      "Shelves in a fridge, ultra-realistic shot.",
+      "Organized fridge, DSLR quality, pristine.",
+      "Fridge with visible compartments, neat.",
+      "Cheeses, structured fridge interior."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

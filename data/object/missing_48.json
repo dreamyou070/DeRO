@@ -1,0 +1,53 @@
+[
+  {
+    "id": 48,
+    "prompt": "a keyboard missing keys",
+    "base_entity_biased_prompts": [
+      "Keys with different sizes and shapes.",
+      "Keys arranged in alphabetical order.",
+      "A bunch of colorful keys.",
+      "A key marked with numbers.",
+      "Multiple keys in a keyring.",
+      "A keychain with various keys.",
+      "Lock and matching set of keys.",
+      "A bunch of antique keys.",
+      "Keys inside a small drawer.",
+      "Keys arranged in a pattern.",
+      "Keys arranged like a puzzle.",
+      "Keys inside an old lock.",
+      "Small brass keys together.",
+      "Keys on a red keyring.",
+      "Keyring with various small keys.",
+      "Keys jingling in someone's hand.",
+      "A set of keys on a nightstand.",
+      "Red keys on a keychain.",
+      "Keys in a glass display case.",
+      "Multiple colorful keys scattered on a table."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Library shelf, wooden texture, ultra-realistic capture",
+      "Wooden books shelf, intricate texture, DSLR",
+      "A wooden shelf, books aligned, DSLR realism",
+      "Wooden books, shelf structure, ultra-realistic DSLR.",
+      "Books on wooden shelf, realistic detail, DSLR",
+      "A wooden shelf with books, DSLR realism",
+      "Shelf detail, wooden texture, DSLR.",
+      "Visible wood, books, ultra-realistic DSLR",
+      "Library shelf, books, realistic textures",
+      "Shelf with books, wood texture, DSLR.",
+      "Library shelf with visible wood grain, realistic.",
+      "Books on shelf, clear wooden texture, DSLR.",
+      "Shelf detail, wooden books, DSLR.",
+      "Organized books on wooden shelf, ultra-realistic",
+      "Books on shelf, wooden texture ultra-realistic.",
+      "Wooden books, shelf view, realistic photography.",
+      "Library shelf, wood texture detailed.",
+      "A wooden shelf with books, ultra-realistic.",
+      "Wooden bookshelf, detailed texture, precise focus.",
+      "Shelf displaying books, wooden texture evident."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

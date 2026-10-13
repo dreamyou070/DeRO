@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a fish tank missing fish",
+    "base_entity_biased_prompts": [
+      "Freshly caught fish",
+      "Fish with colorful scales",
+      "Fish with blue and purple colors",
+      "Fish with vibrant scales",
+      "Fish with spotted pattern.",
+      "Fish market with various types of fish.",
+      "Fish market with various species.",
+      "Dolphin with fish",
+      "Diverse fish in aquarium tank.",
+      "Fish silhouette at dawn",
+      "Koi fish in a pond",
+      "School of colorful fish",
+      "Koi fish in pond",
+      "Dolphin and fish together.",
+      "Fish silhouette against sunset",
+      "Fishing rod with a catch",
+      "Fish market with colorful array",
+      "Fish market early morning",
+      "Underwater coral reef with fish",
+      "A school of colorful tropical fish"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "White sand, green plants, driftwood, realistic aquarium",
+      "Tinted aquarium, realistic plants, soft.",
+      "Stones and plants in a realistic aquarium.",
+      "Realistic aquarium setup, high detail textures.",
+      "High-res tank with driftwood, plants, and stones",
+      "Slightly tinted water with realistic plants.",
+      "Detailed aquarium scene with realism",
+      "Subtle stones, realistic aquarium, high-res.",
+      "Driftwood, plants, stones, realistic setup.",
+      "Driftwood, green plants, white sand, pot, stones, black filter, warm indoor.",
+      "Driftwood, plants, stones, realistic textures.",
+      "Aquatic plants in clean glass tank",
+      "A clean glass tank with white sand, driftwood, and plants.",
+      "Driftwood, plants, pottery, stones, realistic underwater view.",
+      "Glass tank, white sand, driftwood, plants, pot, stones.",
+      "Natural decorations, clean glass tank, 50mm lens.",
+      "Driftwood, greenery, realistic details.",
+      "Natural aquatic scene",
+      "Driftwood, green plants,",
+      "Realistic glass reflections"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

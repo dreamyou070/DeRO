@@ -1,0 +1,53 @@
+[
+  {
+    "id": 330,
+    "prompt": "a chair without backrest",
+    "base_entity_biased_prompts": [
+      "Backrest with soft cushions",
+      "Backrest on an armchair",
+      "Backrest in modern design",
+      "Backrest with ergonomic design.",
+      "Backrest with armrests",
+      "Backrest with ergonomic design",
+      "Backrest with cushioned seat",
+      "Backrest featuring a reclining mechanism",
+      "Backrest on a recliner",
+      "Backrest with cushions on a couch",
+      "Lounge with a cushioned backrest",
+      "Backrest with soft cushioning",
+      "Backrest on an ergonomic chair",
+      "Backrest made of leather",
+      "Bench with cushioned backrest",
+      "Backrest with integrated armrests",
+      "Sofa with padded backrest",
+      "Bicycle with backrest attachment",
+      "Sofa with leather backrest",
+      "A lounge seat with a curved backrest."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Glass balcony, outdoor furniture, diffused light, DSLR",
+      "A wooden balcony with lanterns,DSLR",
+      "A wooden balcony with lanterns, DSLR.",
+      "A wooden balcony with lanterns, DSLR, night",
+      "A balcony with lanterns, realistic shadows.",
+      "Balcony at dusk with colorful lighting.",
+      "A wooden balcony with potted plants, realistic lighting.",
+      "Balcony with garden beds, realistic night sky.",
+      "Balcony with glass panels and outdoor solar lights.",
+      "Balcony with lanterns, warm sunset.",
+      "Balcony with hanging baskets and ambient light.",
+      "Concrete balcony, warm lampshades.",
+      "Balcony with stone steps and illuminated planters.",
+      "Concrete balcony with outdoor lamps and sculptures.",
+      "Balcony with string lights, colorful potted plants, dusk.",
+      "A stone terrace balcony with solar lights and ivy.",
+      "Concrete balcony, potted succulents, warm indoor light.",
+      "A wooden balcony with lanterns, dusk light.",
+      "Wrought iron balcony, ivy vines, soft candlelight.",
+      "Wrought iron balcony, fragrant jasmine, sunset hues."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 413,
+    "prompt": "nobody standing on the bridge",
+    "base_entity_biased_prompts": [
+      "Bridge with pillars and beams.",
+      "Bridge connecting two buildings.",
+      "A bridge with pillars and roof.",
+      "A bridge under construction.",
+      "Bridge with cable support design",
+      "Bridge with people walking",
+      "Bridge with cables and towers.",
+      "Bridge with pedestrians and bicycles.",
+      "Bridge with people walking across.",
+      "Bridge with reflections in water.",
+      "Bridge connecting two islands.",
+      "A bridge leading to an island.",
+      "Stone bridge with flowing water.",
+      "Bridge with people and bicycles crossing.",
+      "A long bridge with multiple lanes.",
+      "A suspension bridge with cables.",
+      "A cable-stayed bridge in the city.",
+      "Bridge with people walking on it.",
+      "A bridge with a sign pointing to it.",
+      "Bridge with boats passing below."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bridge over river, ultra-realistic DSLR.",
+      "River bridge, ultra-realistic DSLR photo.",
+      "Bridge stretches over river, DSLR realism.",
+      "Long bridge over river, DSLR realism",
+      "Bridge stretches over river, DSLR quality.",
+      "Unobstructed view of a river bridge, DSLR.",
+      "River and bridge, ultra-realistic detail, DSLR.",
+      "Bridge, river, unobstructed view, DSLR.",
+      "Wide bridge over a scenic river, DSLR",
+      "Bridge stretches over river, DSLR.",
+      "Wide bridge over a serene river, DSLR",
+      "Bridge gracefully over river, DSLR realism.",
+      "A bridge over river, DSLR clarity",
+      "River bridge, vivid DSLR shot",
+      "Unobstructed river view with bridge, DSLR.",
+      "A bridge spans a clear river, DSLR realism.",
+      "River bridge, open view, DSLR.",
+      "River bridge with open vista, DSLR.",
+      "A wide bridge over a clear river, DSLR.",
+      "Bridge over river, expansive scene"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 250,
+    "prompt": "a road without streetlights",
+    "base_entity_biased_prompts": [
+      "Streetlights in modern cityscape.",
+      "Streetlights illuminating the night.",
+      "Streetlights with flickering lights.",
+      "Modern streetlights at night.",
+      "Streetlights creating light patterns.",
+      "Urban street illuminated by streetlights.",
+      "City street illuminated by streetlights.",
+      "Streetlights with people walking.",
+      "Street with colorful, decorative streetlights.",
+      "Streetlights in urban decay area.",
+      "Streetlights creating patterns on ground.",
+      "Streetlights forming a colorful display.",
+      "Street with flickering streetlights.",
+      "Street lit by flickering streetlights.",
+      "Streetlights create a cozy atmosphere.",
+      "Streetlights lining a city sidewalk.",
+      "Street with colorful blinking streetlights.",
+      "Streetlights with red and blue bulbs.",
+      "Street with colorful flickering lights.",
+      "Night scene with flickering streetlights."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Urban road, realistic DSLR image.",
+      "City avenue, lane lines, ultra-realistic DSLR.",
+      "Street with lane markings, urban scene, DSLR quality.",
+      "Lane lines visible, urban scene, ultra-realistic.",
+      "Road with lanes, urban scene, DSLR.",
+      "Lane-marked road, realistic urban scenery.",
+      "Visible lane lines, city life, DSLR.",
+      "Street scene, lane lines clear, ultra-realistic.",
+      "Lane lines visible, city street, DSLR.",
+      "City street, lane markings visible, realistic urban environment.",
+      "Road with lane lines, realistic city background.",
+      "Realistic city street, lane markings.",
+      "Road with lane markings, city scene, vibrant.",
+      "Urban road, bright sunlight, DSLR.",
+      "City street with lane markings, realistic.",
+      "Urban street view, lane markings distinct, city backdrop.",
+      "City avenue with lane markings, realistic view.",
+      "Wide road, lane markings, city backdrop.",
+      "Lane markings visible, city scene.",
+      "City road with vibrant lane markers."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

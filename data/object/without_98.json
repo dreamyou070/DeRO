@@ -1,0 +1,53 @@
+[
+  {
+    "id": 345,
+    "prompt": "a bookshelf without books",
+    "base_entity_biased_prompts": [
+      "Books in various languages",
+      "Books with colorful covers.",
+      "Books with handwritten notes",
+      "Group of books about science.",
+      "Books with dust jackets.",
+      "Books with colorful spines.",
+      "Books with leather bindings.",
+      "Books by candlelight",
+      "Book with colorful illustrations",
+      "A book of fairy tales.",
+      "Science fiction novels.",
+      "Books arranged alphabetically.",
+      "Book with leather binding",
+      "Book with colorful illustrations.",
+      "Books on windowsill.",
+      "A book with colorful illustrations.",
+      "Art book with colorful illustrations.",
+      "A stack of old books.",
+      "A stack of old books",
+      "Books arranged in a neat row."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Calm river, colorful reflections, DSLR realism",
+      "A calm river with reflections, DSLR",
+      "A tranquil river with reflections, DSLR",
+      "Calm river with vibrant reflections, DSLR.",
+      "A serene river, reflection clear, DSLR",
+      "A serene river, reflections clear, DSLR",
+      "A tranquil river, reflections clear, DSLR",
+      "Calm river, autumn leaves reflected, ultra-realistic DSLR",
+      "Reflections in calm river, DSLR",
+      "A tranquil river with clear reflections, DSLR.",
+      "Calm river, reflections, DSLR, trees",
+      "Smooth river surface, reflections sharp, DSLR",
+      "Gentle river, reflections perfect, DSLR",
+      "Calm river, ultra-realistic reflection of sunset",
+      "Calm river, vibrant reflections",
+      "River flow, gentle ripples, DSLR",
+      "Calm river at dusk, vibrant reflections",
+      "A tranquil river, reflections clear",
+      "Calm river, reflective water, lush hills",
+      "A wide river, calm water, reflection, lush trees."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 477,
+    "prompt": "an empty parking lot",
+    "base_entity_biased_prompts": [
+      "a busy parking lot filled with parked cars",
+      "a crowded parking lot with many vehicles",
+      "a shopping mall parking lot full of cars",
+      "a parking lot with cars parked in every space",
+      "a large outdoor parking area packed with vehicles",
+      "a supermarket parking lot with people and cars",
+      "a parking lot with sedans, SUVs, and trucks",
+      "a city parking lot with many parked cars",
+      "a parking area beside a building filled with vehicles",
+      "a commercial parking lot with traffic and pedestrians"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty parking lot with no cars",
+      "a vacant parking lot with clearly visible parking lines",
+      "a large empty asphalt parking area",
+      "an empty outdoor parking lot under natural daylight",
+      "a deserted parking lot with no vehicles or people",
+      "a clean empty parking lot with painted white lines",
+      "a wide vacant parking area with open asphalt space",
+      "an empty parking lot beside a quiet building",
+      "a completely vacant parking lot with no parked vehicles",
+      "an empty urban parking lot with visible asphalt texture"
+    ],
+    "class": "empty",
+    "class_index": 1,
+    "filename": "empty_1"
+  }
+]

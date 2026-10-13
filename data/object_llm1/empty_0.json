@@ -1,0 +1,11 @@
+[
+  {
+    "id": 476,
+    "prompt": "an empty classroom",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [],
+    "class": "empty",
+    "class_index": 0,
+    "filename": "empty_0"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 14,
+    "prompt": "a living room missing a sofa",
+    "base_entity_biased_prompts": [
+      "Sofa with armrests",
+      "Sofa with arms and cushions",
+      "Sofa in living room",
+      "Sofa in spacious客厅",
+      "Grey sectional sofa",
+      "Sofa in modern home",
+      "Sofa with armchair companion.",
+      "leather sofa with legs",
+      "Sofa with tufted back",
+      "Sofa in cozy living room",
+      "Sofa with cushioned armrests and feet.",
+      "sofa with soft throw pillows",
+      "Dark brown leather sofa",
+      "Sofa with ottoman for extra seating",
+      "Sofa in sunny yellow color",
+      "Sofa with decorative pillows and throws",
+      "Cream fabric sofa with legs",
+      "Sofa in a small apartment with limited space.",
+      "Wooden sofa with tufted back",
+      "A yellow sofa with plush cushion."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A pristine beach, sandy shores, DSLR clarity",
+      "Beach dunes, natural scenery, DSLR",
+      "A vast sandy beach, DSLR",
+      "A wide sandy beach, DSLR",
+      "Tropical beach, clear waters, DSLR",
+      "Sunlit beach, DSLR snapshot",
+      "Beach at twilight, DSLR scene",
+      "Rocks by the shore, DSLR clarity",
+      "Rocky coastline, ultra-realistic",
+      "Clear sky, vast open beach",
+      "Bird's-eye view of a beach",
+      "Rocky coast, crashing waves, DSLR.",
+      "Beach with clear blue sky reflection",
+      "Beach dunes under a clear sky",
+      "Calm blue sea meets sandy beach",
+      "A vast sandy beach at sunrise",
+      "A wide sandy beach at sunrise",
+      "A vast sandy beach at sunset",
+      "Pristine beach with palm tree silhouette",
+      "Clear sky above serene beach"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

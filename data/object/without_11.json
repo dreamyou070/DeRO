@@ -1,0 +1,53 @@
+[
+  {
+    "id": 258,
+    "prompt": "a refrigerator without food",
+    "base_entity_biased_prompts": [
+      "Corn on the cob",
+      "Tomato and mozzarella",
+      "Steak with veggies",
+      "Bowl of rice",
+      "Salmon with vegetables",
+      "Rice with curry",
+      "French fries and ketchup",
+      "Pasta with marinara",
+      "Pasta with sauce",
+      "Assorted cheese and crackers",
+      "Steak with potatoes",
+      "Fresh salad with dressing",
+      "Pasta with meatballs",
+      "Fresh strawberries and cream",
+      "A pizza with various toppings.",
+      "Rice and curry bowl",
+      "Steak with grilled vegetables",
+      "Rice paper rolls with vegetables",
+      "Ripe red watermelon slices",
+      "Platter of mixed grilled vegetables"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Refrigerator with transparent shelves, ultra-realistic DSLR",
+      "Fridge with visible shelves, realistic details, DSLR",
+      "Fridge with visible shelves, realistic textures, DSLR.",
+      "Fridge with clear shelves, realistic textures, DSLR.",
+      "Visible fridge shelves, realistic lighting, DSLR.",
+      "Ultra-realistic fridge, DSLR quality.",
+      "Shelves in fridge, realistic appearance, DSLR.",
+      "Fridge with visible drawers, realistic detail, DSLR.",
+      "Visible fridge shelves, high detail, DSLR.",
+      "Refrigerator, shelves visible, ultra-realistic detail.",
+      "Refrigerator with visible, realistic shelves.",
+      "Detailed fridge shelves, DSLR shot.",
+      "Fridge with visible shelves, ultra-realistic.",
+      "Fridge with clear, detailed shelves, DSLR.",
+      "Stainless fridge, visible shelves, DSLR clarity.",
+      "Fridge with visible shelves, realistic details.",
+      "Modern fridge, shelves clearly seen, DSLR.",
+      "Fridge with detailed shelves, ultra-real.",
+      "Realistic fridge, shelves in high detail.",
+      "Fridge with visible, detailed shelves."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

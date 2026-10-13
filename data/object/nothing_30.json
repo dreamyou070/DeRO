@@ -1,0 +1,53 @@
+[
+  {
+    "id": 197,
+    "prompt": "a river with nothing in the water",
+    "base_entity_biased_prompts": [
+      "Bottle of water",
+      "Bottle of mineral water",
+      "Water splash in air",
+      "Bottle filled with water",
+      "Ripple in still water",
+      "Reflections in still water",
+      "Snow melting into water.",
+      "Water droplets on leaves",
+      "Bubbling freshwater spring",
+      "Reflections in still pond water",
+      "Bottle of sparkling water",
+      "Water droplets on a leaf",
+      "Bottle of sparkling water.",
+      "Water droplets on leaf",
+      "Water droplets on grass",
+      "Aquatic plants underwater",
+      "Gentle river flowing",
+      "Water fountain jets",
+      "Water splashing over rocks",
+      "Bubbling river near mountains"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A serene river, DSLR, ultra-realistic",
+      "River with bridge reflection, ultra-realistic DSLR.",
+      "A tranquil river, DSLR, ultra-realistic",
+      "River with rippling water, ultra-realistic, DSLR",
+      "Reflections in river, DSLR, realistic",
+      "Misty river with realistic reflections, DSLR.",
+      "River with wildlife, DSLR, hyper-realistic",
+      "River with wildlife, DSLR, real texture",
+      "River with trees, DSLR, hyper-realistic",
+      "River with rocks, vivid reflection, DSLR clarity.",
+      "River with rocks, DSLR realism.",
+      "A tranquil river, DSLR, clear reflection",
+      "River with wildlife, ultra-realistic",
+      "River with wildlife, DSLR clarity.",
+      "Riverbank details, ultra-realistic clarity.",
+      "River with trees, vivid DSLR.",
+      "A wide river, DSLR clarity",
+      "River at dusk, ultra-realistic",
+      "Serene river, mirrored trees, ultra-realistic.",
+      "River with trees, detailed water reflections."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 26,
+    "prompt": "a train station missing trains",
+    "base_entity_biased_prompts": [
+      "Train with open carriages",
+      "Locomotive pulling cars",
+      "Vintage train by railway",
+      "Trains passing each other on tracks.",
+      "Passenger train with passengers",
+      "Vintage train at station",
+      "Trains traveling at night",
+      "Train traveling through countryside",
+      "Train carrying containers",
+      "Trains chugging through fields",
+      "Train traveling through valley",
+      "Passenger train in city",
+      "Train with steam rising",
+      "Old train in station",
+      "Locomotive pulling long cars.",
+      "Train going through a city",
+      "Train with colorful advertisements",
+      "Train with luggage racks",
+      "Vintage steam train",
+      "Train carrying freight across plains"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Plate, realistic ceramic texture, DSLR image",
+      "Ceramic plate, realistic texture, DSLR",
+      "Smooth ceramic plate, DSLR, ultra-realistic",
+      "Ceramic plate, realistic texture, DSLR capture.",
+      "Detailed ceramic plate, ultra-realistic DSLR.",
+      "Ceramic plate, realistic texture, DSLR focus.",
+      "Plate with realistic ceramic surface, DSLR.",
+      "Smooth ceramic plate, realistic texture, DSLR.",
+      "Ceramic plate, detailed texture, DSLR.",
+      "Fine ceramic plate, ultra-realistic shot",
+      "Textured ceramic plate, DSLR capture.",
+      "Ceramic plate, surface detail, DSLR.",
+      "Plate with ceramic sheen, DSLR realism.",
+      "Ceramic plate, fine surface details, DSLR.",
+      "Ceramic plate, realistic shine, DSLR.",
+      "Detailed ceramic plate, ultra-realistic shot.",
+      "A plate with intricate ceramic texture, DSLR clarity.",
+      "Ceramic plate, visible texture, ultra-realistic.",
+      "Textured ceramic, ultra-sharp photo.",
+      "Green ceramic plate, ultra-realistic"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

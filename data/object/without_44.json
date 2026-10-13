@@ -1,0 +1,53 @@
+[
+  {
+    "id": 291,
+    "prompt": "a desk without papers",
+    "base_entity_biased_prompts": [
+      "Group of scientific papers",
+      "Book of research papers",
+      "Papers with notes and highlights",
+      "Papers with diagrams",
+      "Conference papers displayed",
+      "Papers with charts and graphs",
+      "Papers with graphs and charts",
+      "Scientific journal articles",
+      "Papers with notes and highlights.",
+      "Conference papers display",
+      "Conference paper notes",
+      "Research article manuscript",
+      "Scientific paper open",
+      "Scientific paper with graphs",
+      "Journal article pages",
+      "Worn academic papers",
+      "Research paper charts",
+      "Papers with notes scribbled",
+      "Papers arranged in rows.",
+      "Conference room with papers"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Office chair, desk, ultra-realism, DSLR",
+      "Neatly arranged desk, ultra-realistic textures, DSLR.",
+      "A cluttered desk, DSLR, office texture",
+      "Documents, laptop, desk, ultra-real photo.",
+      "Desk with plants, modern office, DSLR",
+      "Office desk, organized neatly, ultra-realistic.",
+      "Desk with plants, tech, realistic textures.",
+      "Organized desk, laptop, folder, realistic texture.",
+      "Desk lamp, notebook, realistic office photo.",
+      "Realistic desk with phone, pens, and notebooks.",
+      "Expensive DSLR camera on a desk.",
+      "Desk setup with phone, camera, and papers.",
+      "Neat desk, tech gadgets, office background.",
+      "Desk scene with multiple monitors, mousepad, and notepad.",
+      "Desktop with laptop, notebooks, and office plants.",
+      "Professional desk setup with phone and files.",
+      "Office desk with art prints, books, and plants.",
+      "Desk with monitor, keyboard, and mouse.",
+      "Desk with a framed photo.",
+      "Desk setup with organized cables, lights."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

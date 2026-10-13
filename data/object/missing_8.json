@@ -1,0 +1,53 @@
+[
+  {
+    "id": 8,
+    "prompt": "a street missing any signs",
+    "base_entity_biased_prompts": [
+      "Sign with prices listed",
+      "Sign for fire hydrants",
+      "Sign with smiley face",
+      "Sign with arrow",
+      "Sign showing prices",
+      "Sign for \"Caution: Pedestrians",
+      "Lost and found sign",
+      "Sign for recycling bins",
+      "Sign with bike symbol",
+      "Sign with recycling instructions",
+      "Sign directing left",
+      "Traffic light sign",
+      "Sign guiding to hospital",
+      "Blue and white info sign",
+      "Purple direction sign",
+      "Construction warning sign",
+      "Light blue notice sign",
+      "Sign for recycling bins in school",
+      "Gray information sign",
+      "A paper \"Event Info\" sign."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Burger exposed, bread layers, realistic texture, DSLR",
+      "Burger with distinct layers, realistic textures, DSLR.",
+      "Visible bread layers, ultra-realistic burger",
+      "Realistic burger texture, DSLR style.",
+      "Burger exposed, realistic texture, DSLR quality.",
+      "Visible bread in a burger, ultra-realistic texture.",
+      "Ultra-realistic burger, bread texture.",
+      "Burger with crust detail, ultra-realistic shot.",
+      "Burger with crust detail, DSLR quality.",
+      "Realistic burger, bread texture visible.",
+      "Realistic burger bread layers close-up.",
+      "A burger with exposed bread layers, juicy, DSLR.",
+      "Realistic burger, visible bread texture.",
+      "Burger bun layers, ultra-realistic texture.",
+      "Realistic bread texture on burger.",
+      "Burger sliced, bread layers visible, realistic texture",
+      "Burger bun exposed, realistic food texture.",
+      "Visible bread layers in a delicious burger.",
+      "Burger with exposed buns, realistic lighting.",
+      "Burger with visible toasted bread layers."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 166,
+    "prompt": "a clock with no hands",
+    "base_entity_biased_prompts": [
+      "Hands clasped together",
+      "Worker's calloused hands.",
+      "Closeup of tattooed hands.",
+      "Sculpt hands in clay",
+      "Shaking hands warmly",
+      "Hand with wedding ring",
+      "Two hands shaking hands.",
+      "Hands typing on a keyboard.",
+      "Holding a phone",
+      "Wearing elegant gloves",
+      "Athlete's hands holding ball.",
+      "Dancer's hands gesturing",
+      "Wearing gloves, holding a phone.",
+      "Woman clasping hands together.",
+      "Holding a book",
+      "A surgeon's hands operating.",
+      "Man shaking hands",
+      "Gripping skateboard handle",
+      "Man sculpting clay with hands.",
+      "Dancer stretching arms"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant room, textured walls, DSLR realism",
+      "Elegant room, textured walls, DSLR, realistic.",
+      "Elegant room, textured walls, DSLR",
+      "Elegant room, textured walls, DSLR clarity",
+      "Chic room, intricate patterns, DSLR realism",
+      "Elegant room, smooth walls, DSLR clarity",
+      "Sophisticated bedroom, elegant textures, DSLR clarity",
+      "Elegant room, silk wallpaper, DSLR",
+      "Elegant room, silk wallpaper, DSLR.",
+      "Sophisticated living room, DSLR",
+      "Luxury rugs, intricate designs, DSLR quality",
+      "Haute living room, textured walls.",
+      "Sophisticated bedroom with velvet wallpaper.",
+      "Vintage wallpaper, luxurious carpeting.",
+      "Textured fabrics in the master suite.",
+      "Textured wallpaper, leather armchairs, modern look.",
+      "Elegant wallpaper, marble coffee table, lamps.",
+      "A room with marble walls, luxurious furniture.",
+      "Elegant art gallery, canvas textures, paintings.",
+      "A living room with marble wallpaper, sleek furniture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

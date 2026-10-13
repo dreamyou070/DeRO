@@ -1,0 +1,53 @@
+[
+  {
+    "id": 284,
+    "prompt": "a chair without a backrest",
+    "base_entity_biased_prompts": [
+      "Backrest on an armchair",
+      "Backrest designed for comfort",
+      "Backrest with armrests.",
+      "Backrest of a lounge chair",
+      "Backrest with armrests",
+      "Backrest with ergonomic design",
+      "Backrest with cushioned seat",
+      "Backrest with cushions on a bench",
+      "Backrest on a high-backed chair",
+      "Backrest with a reclining mechanism",
+      "Backrest of a folding chair",
+      "Backrest on a swivel chair.",
+      "Bench seat with cushioned backrest",
+      "Backrest in vibrant red color",
+      "Backrest made from recycled materials",
+      "Bench with a decorative backrest",
+      "Chair with a leather backrest",
+      "Cushioned seat with detachable backrest",
+      "Cushioned bench backrest with pattern.",
+      "Wooden stool with ergonomic backrest."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A clean wooden chair, DSLR, ultra-realistic",
+      "A clean wooden chair, DSLR, realistic",
+      "Chair seat texture, clean, DSLR.",
+      "Vintage wooden chair, realistic texture, DSLR.",
+      "Fabric chair, clean seat, ultra-realistic texture.",
+      "Clean leather armchair, realistic texture, DSLR shot.",
+      "Ergonomic chair, clean frame, ultra-realism.",
+      "A pristine upholstered chair, ultra-realistic.",
+      "Fabric chair, clean seat, realistic texture.",
+      "A clean wooden chair, ultra-realistic.",
+      "Leather chair, smooth seat, realistic texture.",
+      "Chair seat, clean, high-resolution texture.",
+      "Plastic chair, clean, realistic texture.",
+      "Sofa chair, clean seat, realistic texture.",
+      "Chair close-up, clean seat, detailed texture.",
+      "A wooden chair, clean seat, realistic texture.",
+      "Wooden chair, clean legs, realistic texture.",
+      "Modern plastic chair, realistic texture.",
+      "A sleek wooden chair, DSLR clarity.",
+      "Wood grain chair, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

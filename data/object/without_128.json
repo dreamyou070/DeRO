@@ -1,0 +1,53 @@
+[
+  {
+    "id": 375,
+    "prompt": "a burger without cheese and without lettuce",
+    "base_entity_biased_prompts": [
+      "Lettuce in salad",
+      "Lettuce in a salad",
+      "Lettuce mixed with other greens.",
+      "Lettuce with dew",
+      "Lettuce with red and green colors",
+      "Lettuce mixed with tomatoes",
+      "Lettuce with tender texture",
+      "Lettuce mixed with cucumbers",
+      "Lettuce mixed with tomatoes.",
+      "Lettuce with red radishes.",
+      "Lettuce with red cherry tomatoes",
+      "Lettuce mixed with spinach and kale.",
+      "Lettuce mixed with fruits",
+      "Lettuce in various shades of green.",
+      "Romaine lettuce with curly leaves.",
+      "Lettuce in a juice blend.",
+      "Lettuce mixed with cherry tomatoes",
+      "Lettuce in a sandwich",
+      "Lettuce mixed with cherry tomatoes.",
+      "Iceberg lettuce with red leaf mix."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Burger with detailed bread, DSLR realism.",
+      "Detailed burger bread, DSLR realism.",
+      "Detailed burger bread, ultra-realistic shot",
+      "Realistic burger photo, bread layers visible.",
+      "Detailed burger bread, DSLR quality.",
+      "Detailed bread layers, realistic burger shot.",
+      "Burger bread layers, ultra-realistic closeup",
+      "Detailed bread layers, realistic burger",
+      "Detailed burger bun, DSLR quality.",
+      "Bread layers in burger, realistic texture.",
+      "Burger with realistic bread texture.",
+      "Realistic burger, detailed bread structure.",
+      "Realistic burger with soft bread details.",
+      "Detailed bread layers in burger.",
+      "Detailed bread, realistic burger lighting.",
+      "Realistic grilled burger, bread texture.",
+      "Detailed bread texture, realistic burger slice.",
+      "Realistic burger with soft bread texture",
+      "A juicy burger with crispy bread layers.",
+      "Grilled burger bun, rich textures."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 41,
+    "prompt": "a chair missing legs",
+    "base_entity_biased_prompts": [
+      "Legs with socks",
+      "Legs in shorts",
+      "Legs in jeans",
+      "Leg muscles, athlete closeup",
+      "Athlete's powerful legs",
+      "Legs pedaling a bike",
+      "Legs under table",
+      "Two legs walking",
+      "Person stretching legs",
+      "A person stretching their legs.",
+      "Standing man with strong legs",
+      "Woman with long legs",
+      "Girl with legs crossed",
+      "Person in athletic wear stretching",
+      "People in slippers",
+      "Model in heels",
+      "Standing man in jeans",
+      "Girl dancing with legs apart",
+      "Woman in leggings",
+      "Gymnast doing splits"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Calm river with colorful reflections, ultra-realistic DSLR",
+      "A serene river, DSLR, ultra-realistic",
+      "River with lush vegetation, realistic reflection, DSLR",
+      "River with wildlife, realistic reflections, DSLR",
+      "River with realistic waves and reflections, DSLR.",
+      "River with realistic ripples and reflections, DSLR.",
+      "River with detailed reflections, ultra-realistic.",
+      "River with dynamic reflections, ultra-realistic.",
+      "A serene river with detailed reflections, DSLR.",
+      "River with wildlife and pristine reflection, DSLR",
+      "River with vibrant foliage, realistic water, DSLR.",
+      "Rushing river, realistic reflections, DSLR.",
+      "River in forest, DSLR, realistic reflection.",
+      "A serene river with rippling water reflections, DSLR.",
+      "A tranquil river with clear reflections, DSLR",
+      "River with wildlife, reflections in water, DSLR.",
+      "A tranquil river, reflections clear, DSLR",
+      "River with dynamic water reflections.",
+      "Detailed river with mirror-like reflection.",
+      "Calm river with natural surroundings, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

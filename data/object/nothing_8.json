@@ -1,0 +1,53 @@
+[
+  {
+    "id": 175,
+    "prompt": "a living room table with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small object: it",
+      "a laptop computer it",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a key",
+      "it's a car",
+      "it's a sun",
+      "it's a keyboard",
+      "a single book",
+      "it's an apple",
+      "a single key",
+      "it's a laptop typing",
+      "a lost coin",
+      "a silver ring",
+      "a diamond ring",
+      "a narrow path",
+      "a small door",
+      "it's a coffee cup",
+      "a small boat in mist"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wooden living room table, ultra-realistic, DSLR.",
+      "A wooden living room table, DSLR, realistic texture.",
+      "Console table, ambient light, DSLR, realistic.",
+      "A wooden coffee table, DSLR, realistic texture.",
+      "A wooden coffee table, realistic texture, indoor light",
+      "Wood grain table, natural light, DSLR quality.",
+      "Wood grain table, indoor light, ultra-real.",
+      "A wooden coffee table, DSLR, indoor light",
+      "Lacquer table, indoor lighting, DSLR.",
+      "A wooden coffee table, realistic texture, indoor light.",
+      "Stone coffee table, realistic, indoor light.",
+      "Granite table, textures real, indoor lighting.",
+      "A wooden coffee table with realistic texture.",
+      "Walnut table with realistic lighting.",
+      "Leather-top table, detailed texture, ambient light.",
+      "Dark wood coffee table with ambient light.",
+      "Leather table, realistic textures.",
+      "Smooth laminate table with ambient light.",
+      "Bespoke table with soft lighting.",
+      "A wooden coffee table, grainy texture, soft light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

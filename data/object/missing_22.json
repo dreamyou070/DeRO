@@ -1,0 +1,53 @@
+[
+  {
+    "id": 22,
+    "prompt": "a computer desk missing a monitor",
+    "base_entity_biased_prompts": [
+      "Monitor displaying real-time data.",
+      "Monitor with a calibration chart.",
+      "A monitor with a calibration chart.",
+      "A monitor with a Windows desktop.",
+      "Monitor displaying a dashboard.",
+      "A monitor with a bezel.",
+      "Monitor displaying a game.",
+      "Monitor in conference room.",
+      "Monitor with vibrant color display.",
+      "A monitor showing a dashboard.",
+      "Monitor displaying colorful graphics.",
+      "Monitor in industrial setting",
+      "Monitor placed on a desk.",
+      "A monitor displaying a coding interface.",
+      "A small black and white monitor.",
+      "Monitor showing weather forecast",
+      "Monitor displaying stock market",
+      "Monitor with notification icons",
+      "Monitor displaying gaming graphics",
+      "Modern digital monitor on desk"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Snowy street, city, DSLR, ultra real",
+      "A snow-covered city street, DSLR, ultra-realistic",
+      "Snowy street, urban, DSLR, winter",
+      "Snowy road, city background, DSLR",
+      "A snow-covered street, cityscape, ultra-realistic",
+      "Snowy street, city lights, DSLR",
+      "A bustling snowy street, DSLR clarity.",
+      "Snowy street, city lights, ultra-realistic",
+      "Window reflections, snow-filled streets, DSLR",
+      "A bustling snowy street, cityscape, ultra-realistic.",
+      "DSLR shot of snowy rooftops",
+      "Night view of a snowy street",
+      "Winter street, icy patches, city life",
+      "Urban street with fresh snow",
+      "Street scene in winter twilight",
+      "Street market, snow, vivid details",
+      "Snowy rooftops, urban scene",
+      "Snowy buildings reflecting light",
+      "Snowbanks next to bustling streets",
+      "A snow-covered street at dawn"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

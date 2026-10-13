@@ -1,0 +1,53 @@
+[
+  {
+    "id": 162,
+    "prompt": "a gym with no exercise equipment",
+    "base_entity_biased_prompts": [
+      "Sports equipment lineup",
+      "Sports equipment set",
+      "Sports equipment collection",
+      "Sports equipment in a gym.",
+      "Scuba gear and tank",
+      "Sports equipment on rack",
+      "A DJ's music equipment.",
+      "Mountaineering climbing gear",
+      "Scuba gear in water",
+      "Drum kit set.",
+      "Diving gear tank",
+      "Diving gear laid out",
+      "Mechanic's tool set.",
+      "Scuba gear in pool",
+      "Diver with scuba gear",
+      "Fire extinguisher mounted",
+      "Hammer wrench set",
+      "Pilots' cockpit instruments",
+      "Electrician's tools box",
+      "A diver checking scuba gear."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Gym with realistic lighting and equipment",
+      "Gym locker rooms, indoor lights, DSLR realism",
+      "Gym with mirror reflections, DSLR, ultra-real",
+      "Gym floor, realistic shadows, DSLR",
+      "Gym yoga studio with soft lighting, DSLR",
+      "A gym with barbells, treadmills, indoor lights, DSLR clarity.",
+      "Gym floor, intense lighting, DSLR detail",
+      "Gym scene, treadmills, realistic light",
+      "Weight machines, gym flooring, realistic shot.",
+      "A room with treadmills, weights, indoor lighting, DSLR clarity.",
+      "Clean gym scene with intense indoor lighting.",
+      "Locker room, treadmills, realistic indoor lighting",
+      "Boxing ring in a gym, indoor lights, ultra-real.",
+      "Group fitness, vibrant lights, realistic setting.",
+      "Gym with cardio, weightlifting, natural light.",
+      "Gym floor, exercise bikes, natural light.",
+      "A weight room with barbells, squat racks, realistic lighting.",
+      "A gym with weights, mirrors, natural light.",
+      "Gym floor, realistic textures.",
+      "Dumbbells in bright gym space"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

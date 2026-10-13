@@ -1,0 +1,53 @@
+[
+  {
+    "id": 473,
+    "prompt": "nobody sitting beside the pool",
+    "base_entity_biased_prompts": [
+      "Pool with a sandy bottom.",
+      "Pool with a glass bottom.",
+      "Pool with colorful lighting.",
+      "Pool with green grass around",
+      "A pool with a glass bottom.",
+      "Outdoor pool with a pool house.",
+      "Pool with a fountain in the center.",
+      "A pool with a sand bottom texture.",
+      "A pool with a glass enclosure.",
+      "Pool with diving board and slides.",
+      "Pool with colorful floating toys",
+      "A pool with a Jacuzzi area.",
+      "A pool with a sunken seating area.",
+      "Pool with a waterfall and stream.",
+      "Pool with blue water and green grass.",
+      "Pool surrounded by lush greenery",
+      "A pool with diving boards and slides.",
+      "A pool with a diving board and slide.",
+      "Pool with colorful inflatable toys.",
+      "Large round pool with water ripples."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Swimming pool, calm, detailed reflections, DSLR",
+      "Pool with calm water, detailed reflections, DSLR",
+      "Calm pool, ultra-realistic DSLR, clear reflections.",
+      "Pool, calm water, realistic reflection, DSLR",
+      "Calm pool, detailed reflections, DSLR",
+      "Calm pool, detailed reflections, DSLR capture",
+      "Calm pool, vivid reflections, DSLR",
+      "Reflective pool, calm water, ultra-realistic shot",
+      "Calm pool, water like glass, detailed reflections, DSLR",
+      "Calm pool, detailed reflection, DSLR clarity",
+      "Reflections detailed, pool calm, DSLR photo",
+      "Reflections vivid, pool calm, DSLR scene",
+      "Calm pool, clear reflections, DSLR",
+      "A tranquil pool, DSLR clarity",
+      "Calm pool, clear reflection, DSLR clarity",
+      "Calm pool, perfect reflection, DSLR clarity.",
+      "Calm pool, DSLR realism.",
+      "Pool, water calm, reflections detailed, real.",
+      "Crisp image of reflective pool.",
+      "Calm pool, detailed sunset reflection."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

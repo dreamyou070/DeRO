@@ -1,0 +1,53 @@
+[
+  {
+    "id": 28,
+    "prompt": "a garage missing vehicles",
+    "base_entity_biased_prompts": [
+      "Emergency vehicle at scene",
+      "A construction vehicle works",
+      "Grey van with cargo",
+      "A fleet of delivery vans",
+      "A construction vehicle working",
+      "A fleet of bicycles",
+      "Van with cargo loaded",
+      "Car in showroom",
+      "SUV driving off-road",
+      "Van with camper trailer",
+      "Grey van by ocean",
+      "A pickup truck field",
+      "Buses on highway",
+      "A delivery van outside",
+      "A silver car with rims.",
+      "A scooter in traffic",
+      "A bicycle next to a car.",
+      "A vintage fire engine outside.",
+      "Construction truck on site",
+      "A police car on patrol."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy living room, DSLR, warm lights",
+      "Living room, soft couch, warm lights, DSLR",
+      "Comfortable sofa, warm lights, DSLR clarity",
+      "Living room set, ambient glow, DSLR.",
+      "Wooden fireplace, cozy seating, warm light, DSLR",
+      "Soft pillows, warm lights, DSLR shot.",
+      "Wooden console, warm ambiance, DSLR.",
+      "A cozy living room with soft couches, warm lights.",
+      "A cozy living room, soft couch, warm lights.",
+      "Sofa set, ambient light, lifelike quality",
+      "Fabric sofa, ambient light, high resolution.",
+      "Vintage rug, leather couch, warm light.",
+      "Soft couch under warm lights",
+      "Leather couch, ambient light.",
+      "Wooden floor, cozy rug, ambient light.",
+      "Living room with hardwood floors.",
+      "Coffee table with warm wooden finish",
+      "Warm carpet under a glass coffee table.",
+      "Sofa, warm afternoon light.",
+      "Warm rugs, bookshelves filled"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 465,
+    "prompt": "nobody walking across the field",
+    "base_entity_biased_prompts": [
+      "Field with wind turbines",
+      "Field bordered by trees and hills",
+      "Field with windsocks blowing in wind",
+      "Agricultural field with tractors",
+      "Snow-covered field in winter.",
+      "Snow-covered field in winter",
+      "Farm field with tractor",
+      "Rice paddies in a field",
+      "Field of ripening wheat",
+      "Field of green oats",
+      "Farm field with tractor and crops",
+      "Rice paddies in the field",
+      "Farm field with grazing cattle",
+      "Farm field with haystacks",
+      "Farm field with tractor and crops.",
+      "Field of lavender in summer",
+      "Field of blooming lavender",
+      "Field of lavender in France",
+      "Soybean field with green stalks",
+      "Wheat field with rolling hills."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wide field, green grass, DSLR, ultra-realistic",
+      "Wide field, green grass, DSLR realism",
+      "Crisp grass texture, wide field, DSLR",
+      "Herbaceous field, ultra-realistic grass, DSLR",
+      "Wide green field, DSLR, ultra-realistic",
+      "Wide open space, grass textures, DSLR",
+      "Wide field, green grass, DSLR, realistic",
+      "Field with grass, realistic details, DSLR",
+      "Grass and sky, ultra-realistic, DSLR",
+      "Wide landscape, grass texture, DSLR",
+      "DSLR photo, grass textures, open land",
+      "Wide landscape, grass texture, DSLR photo",
+      "Wide open plain, grass detail, DSLR",
+      "Wide open field, grass, DSLR",
+      "Wide field, green grass, DSLR, detailed",
+      "Open landscape, grass details, ultra-realistic",
+      "Field of grass, high resolution, DSLR",
+      "Grassy landscape, ultra-realistic focus",
+      "Wide field, green grass, DSLR, sharp focus",
+      "Countryside vista, grass textures, clear shot."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

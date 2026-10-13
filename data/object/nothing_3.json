@@ -1,0 +1,53 @@
+[
+  {
+    "id": 170,
+    "prompt": "a plate with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a watch",
+      "it's a car",
+      "it's a keyboard",
+      "it's an apple",
+      "it's a secret",
+      "a small key",
+      "a white cloud",
+      "it's a smiling face",
+      "it's a rainy day",
+      "it's a coffee cup",
+      "it's a mountain peak",
+      "it's a sunny afternoon",
+      "it's a silent night",
+      "it's a lazy dog"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom, organized desks,学习资料丰富,超写实DSLR",
+      "A classroom, desks in rows, books整齐摆放,超写实DSLR",
+      "A classroom, desks in rows, books整齐摆放, DSLR超写实",
+      "Classroom with desks, pencils, notebooks, ultra-realistic.",
+      "A tidy classroom, desks in rows, books整齐摆放,超写实DSLR摄影",
+      "A classroom, desks in rows, books, ultra-realistic.",
+      "Classroom, neatly arranged desks, educational tools.",
+      "Classroom with modern technology",
+      "Classroom, books, laptops, organized desks.",
+      "Classroom desks, microscopes, and charts.",
+      "Classroom desks, organized, whiteboards.",
+      "Classroom with plants, desks in rows整齐排列。",
+      "A neatly arranged classroom, desks in rows, books整齐摆放",
+      "Classroom desks in neat rows, educational posters.",
+      "A classroom, desks in rows, books整齐摆放, 光线柔和均匀",
+      "A classroom, desks in rows, books整齐摆放, 光线柔和",
+      "Classroom desks tidy, colorful educational aids.",
+      "A neatly arranged classroom, desks in rows.",
+      "A clean classroom, desks in rows, books整齐摆放",
+      "桌椅排列规整, 书籍整齐摆放, DSLR超真实感"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

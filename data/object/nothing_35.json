@@ -1,0 +1,53 @@
+[
+  {
+    "id": 202,
+    "prompt": "a chair with nothing on it",
+    "base_entity_biased_prompts": [
+      "a keyboard with \"it\" typed",
+      "a small it sign",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a car",
+      "it’s a puzzle piece",
+      "it's an apple",
+      "a singular window",
+      "a lost coin",
+      "it’s a sparkling gem",
+      "a phone in hand",
+      "a white cloud",
+      "it's a book open",
+      "it’s a rainy day",
+      "it's a smiling face",
+      "it's a rainy day",
+      "it's a lazy day",
+      "it's a white swan",
+      "it's a coffee cup steam"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Fabric chair, clean seat, realistic texture, DSLR.",
+      "Plastic chair, clean, ultra-realistic texture, DSLR.",
+      "Wood-grain chair, ultra-realistic texture, DSLR.",
+      "Plastic chair, clean seat, realistic texture up-close.",
+      "Plastic chair, ultra-realistic texture.",
+      "Wooden chair, clean, ultra-realistic texture.",
+      "A clean leather chair, ultra-realistic close-up.",
+      "A pristine upholstered chair, realistic texture.",
+      "A wooden chair, clean seat, DSLR sharpness.",
+      "A pristine vinyl chair, realistic texture.",
+      "Upholstered chair, ultra-realistic details.",
+      "A dust-free fabric chair, ultra-realistic.",
+      "Wood grain chair, ultra-realistic view.",
+      "A wooden chair, clean seat, realistic texture.",
+      "Green leather chair, pristine seat, DSLR quality.",
+      "Plastic chair, clean, realistic surface.",
+      "Fabric chair, realistic texture details.",
+      "A clean leather office chair, ultra-realistic.",
+      "Wooden chair, clean seat, lifelike texture.",
+      "A red plastic chair, clean seat, real texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

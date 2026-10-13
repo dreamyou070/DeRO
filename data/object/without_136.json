@@ -1,0 +1,53 @@
+[
+  {
+    "id": 383,
+    "prompt": "a refrigerator without food",
+    "base_entity_biased_prompts": [
+      "Rice and curry",
+      "Orange juice and donuts",
+      "Tomato and mozzarella",
+      "Cherry tomatoes and basil",
+      "Cheeseburger and fries",
+      "Tacos with toppings",
+      "Potato chips and salsa",
+      "Delicious pasta dish",
+      "Chicken nuggets in a basket",
+      "Fresh salad with dressing",
+      "Burger and fries combo",
+      "A bowl of oatmeal",
+      "Tomato basil pasta",
+      "Rice and curry bowl",
+      "Avocado on toast",
+      "Chicken nuggets in basket",
+      "Juicy steak cut",
+      "Pizza with pepperoni",
+      "Salmon tartare with avocado",
+      "Steaming bowl of ramen."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shelves inside fridge, DSLR realism.",
+      "Fridge shelves visible, ultra-realistic DSLR.",
+      "Fridge shelves, ultra-realistic DSLR shot.",
+      "Organized fridge, high-detail DSLR.",
+      "Organized fridge, visible compartments, DSLR shot",
+      "Fridge with clear compartments, DSLR shot.",
+      "Visible fridge compartments, DSLR precision.",
+      "A fridge with clear shelves, DSLR",
+      "DSLR shot of a well-organized fridge.",
+      "Interior of fridge, shelves packed, DSLR.",
+      "Fridge with vivid, realistic compartment views.",
+      "Fridge with organized shelves, ultra-realistic.",
+      "Shelves inside fridge, ultra-realistic focus.",
+      "Shelves in fridge, ultra-realistic close-up.",
+      "Fridge interior, organized, ultra-realistic.",
+      "Compartments inside fridge, ultra-realistic.",
+      "Detailed view of a refrigerator's organized interior.",
+      "Ultra-realistic fridge, shelves meticulously arranged.",
+      "Modern fridge, visible freezer section.",
+      "A sleek fridge, shelves neatly organized."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

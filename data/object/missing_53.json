@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a birdcage missing a bird",
+    "base_entity_biased_prompts": [
+      "Bird with colorful plumage.",
+      "Bird with colorful feathers.",
+      "Bird with colorful feathers",
+      "A bird with vibrant feathers.",
+      "Bird in mid-flight",
+      "Bird with wide wingspan.",
+      "Bird with colorful feathers flying.",
+      "Bird in mid-flight, wings spread.",
+      "Bird landing on leaf.",
+      "Magpie with shiny coat.",
+      "A falcon with outstretched wings.",
+      "A falcon with spread wings",
+      "A pelican with a fish in its bill.",
+      "Bird in flight against sunset",
+      "Seagull flying near water.",
+      "A seagull by the ocean shore.",
+      "A pelican with a fish.",
+      "A colorful cockatiel in a aviary.",
+      "A toucan with large beak",
+      "A blue jay with bright feathers."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Vintage cage, aged ivory, metal frame, realistic texture.",
+      "A vintage bird cage, aged ivory, metal frame.",
+      "A vintage ivory bird cage, aged, metal frame, clean gray背景,高分辨率,50mm镜头",
+      "A vintage ivory cage, aged, metal frame, light gray background",
+      "A vintage ivory bird cage, aged metal, light gray背景",
+      "Vintage cage, aged ivory, gray background, delicate bars",
+      "Vintage cage, aged ivory, metal, cylinder, domed, light gray.",
+      "Vintage cage, metal texture, soft light.",
+      "A vintage ivory cage, aged metal, light gray background.",
+      "Vintage cage, delicate bars, high res shot.",
+      "Vintage cage, aged ivory, delicate bars, distressed look.",
+      "Vintage cage, aged ivory, light gray.",
+      "Vintage cage, photorealistic, light gray.",
+      "Vintage cage, delicate bars, ornamental finial.",
+      "Vintage cage, aged, light gray, detailed.",
+      "A vintage ivory cage, aged, metal bars, domed top, gray背景，高分辨率",
+      "A vintage ivory bird cage on light gray.",
+      "Aged ivory bird cage, light gray背景",
+      "A vintage bird cage, aged ivory, on gray.",
+      "Vintage cage, soft shadows, light gray."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 40,
+    "prompt": "a car missing tires",
+    "base_entity_biased_prompts": [
+      "Mountain bike tires",
+      "Mountain bike tire",
+      "Tire with deep tread",
+      "Tire tread detail",
+      "Tire with tread pattern.",
+      "Bicycle tire detail",
+      "Tires on old car",
+      "Off-road tire detail.",
+      "Bicycle tire with tread.",
+      "Brown tire rubber",
+      "Red tire tread",
+      "Gray bicycle tires",
+      "Tires of classic muscle car.",
+      "Tire shop with various sizes",
+      "Brown all-terrain tires.",
+      "Snow tires winter white",
+      "Large truck tires.",
+      "Tire with reflective strips.",
+      "Black sport tire set.",
+      "Black tire with tread wear."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A grand movie theater lobby, DSLR, ultra-realistic",
+      "Foyer lights, movie theater, DSLR, realistic.",
+      "A grand cinema lobby, DSLR realism",
+      "Cinema bar, realistic lighting, DSLR",
+      "A grand movie theater lobby, DSLR realism.",
+      "A grand cinema lobby, DSLR, realistic",
+      "Cinema seats, realistic texture, DSLR.",
+      "Cinema marquee, bright lights, ultra-realism.",
+      "Cinema hall, modern design, soft glow.",
+      "Projection room with advanced equipment.",
+      "Modern theater, sleek design, lighting.",
+      "Wide shot of movie theater lobby.",
+      "Close-up of cinema screen, glowing.",
+      "Film reel, projector, old cinema feel.",
+      "Cinema marquees, plush seats, deep shadows.",
+      "Architectural detail of a cinema entrance.",
+      "Cinema marquees in vibrant colors.",
+      "Auditorium with soft ambient lighting.",
+      "Cinematic glow, leather seats, vintage posters.",
+      "Projection booth, high ceilings."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

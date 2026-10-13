@@ -1,0 +1,53 @@
+[
+  {
+    "id": 221,
+    "prompt": "a bowl with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside historic museum",
+      "Inside bustling restaurant",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside a historical museum",
+      "Inside fancy restaurant",
+      "Inside a spacious hall",
+      "Inside modern office building",
+      "Inside cozy bed and breakfast",
+      "Inside busy station",
+      "Inside modern art gallery",
+      "Inside quaint bed and breakfast",
+      "Inside a fancy restaurant",
+      "Inside a spacious museum",
+      "Inside a grand hall",
+      "Inside a historic church",
+      "Inside an old library",
+      "Inside a cozy living room",
+      "Inside spacious greenhouse",
+      "Inside bustling train station"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Interior view of ceramic bowl, ultra-realistic DSLR",
+      "Bowl interior, ceramic texture, ultra-realistic, DSLR.",
+      "Ceramic bowl, clear interior, realistic texture, DSLR",
+      "Bowl, clear inside, realistic ceramic texture, DSLR",
+      "Ceramic bowl interior, ultra-realism, DSLR",
+      "Interior of ceramic bowl, realistic texture, DSLR.",
+      "Ceramic bowl interior, realistic texture, DSLR",
+      "Inside ceramic bowl, realistic texture, DSLR.",
+      "Ceramic bowl, realistic DSLR shot.",
+      "A bowl, interior visible, ceramic texture, DSLR",
+      "Interior of ceramic bowl, ultra-realistic shot",
+      "A bowl, ceramic texture, clear interior, DSLR",
+      "A translucent ceramic bowl, texture visible, DSLR",
+      "Realistic bowl, interior texture, DSLR",
+      "Ceramic bowl, interior view, ultra-realistic",
+      "Ceramic bowl, visible interior, ultra-realistic.",
+      "Ceramic bowl, clear interior, DSLR",
+      "Green bowl, interior clear, ceramic texture, DSLR.",
+      "Clear green bowl, interior texture, DSLR shot.",
+      "Yellow bowl, realistic texture, clear."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

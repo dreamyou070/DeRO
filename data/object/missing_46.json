@@ -1,0 +1,53 @@
+[
+  {
+    "id": 46,
+    "prompt": "a camera missing a lens",
+    "base_entity_biased_prompts": [
+      "Lense on camera",
+      "Lens in a camera body",
+      "A lens on an SLR camera.",
+      "Close-up of a lens",
+      "Lens in a microscope",
+      "A lens inside a camera body.",
+      "Lens in camera body",
+      "Lens in a camera obscura.",
+      "A close-up of a camera lens.",
+      "Close-up of a camera lens.",
+      "Lens in a magnifying glass.",
+      "Lens with colorful rings.",
+      "Lens in a photography studio.",
+      "Lens in a pair of reading glasses.",
+      "Close-up of camera lens",
+      "Lens with raindrop",
+      "Lens in a microscope setup.",
+      "A magnifying glass lens.",
+      "Close shot of a DSLR lens.",
+      "Zoom lens on a camera"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wooden bathroom shelf, DSLR, ultra-realistic.",
+      "Wood bathroom shelf, texture, ultra-realism.",
+      "Textured glass bathroom shelf, ultra-realistic.",
+      "Mirror frame, bathroom shelf, ultra-realistic texture.",
+      "Stone-textured bathroom shelf, DSLR clarity.",
+      "Wooden bathroom shelf, ultra-realistic texture.",
+      "Bathroom wall mounted shelf, ultra-realistic",
+      "Mirror finish bathroom shelf, ultra-realistic.",
+      "Stone-textured bathroom shelf, ultra-realistic.",
+      "Bathroom shelf with tiles, ultra-realistic.",
+      "Wood grain bathroom shelf, ultra-realistic.",
+      "Wood grain shelf, bathroom, ultra-realistic.",
+      "Stone textured shelf, bathroom, DSLR.",
+      "A wooden bathroom shelf, ultra-realistic.",
+      "Mirror frame shelf, bathroom, ultra-real.",
+      "A marble bathroom shelf, ultra-realistic",
+      "Stone-textured bathroom shelf, realistic.",
+      "A marble bathroom shelf, ultra-realistic.",
+      "Wooden bathroom shelf, lifelike texture.",
+      "Bathroom cabinet door, ultra-realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

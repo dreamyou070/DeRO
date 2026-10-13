@@ -1,0 +1,53 @@
+[
+  {
+    "id": 199,
+    "prompt": "a clock face with nothing written on it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "a cup of tea it",
+      "it's a car",
+      "a small table it",
+      "it's a shoe",
+      "it's a hat",
+      "it's a cloud",
+      "it's a keyboard",
+      "it's a ringtone",
+      "it's a bowl",
+      "a small ring",
+      "a silver ring",
+      "a white cloud",
+      "a pizza slice",
+      "it's a pizza slice",
+      "it's a lone figure"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Circular clock face, realistic details, DSLR.",
+      "Detailed clock face, circular, ultra-realistic DSLR.",
+      "Clock face, circular structure, realistic design, DSLR.",
+      "Clock face with bezel, realistic, circular, DSLR.",
+      "Circular clock, ultra-realistic detail, DSLR",
+      "Circular clock, DSLR ultra-realism.",
+      "A circular clock, ultra-realistic, DSLR.",
+      "Clock with glass face, DSLR, ultra-realistic",
+      "Clock face closeup, realistic texture, DSLR detail",
+      "Vintage clock face, realistic texture, DSLR.",
+      "Modern clock, DSLR, realistic finish",
+      "Glass clock face, detailed texture, DSLR.",
+      "Mechanical clock with intricate design, DSLR.",
+      "Circular clock, texture visible, DSLR.",
+      "Circular clock, DSLR clarity.",
+      "Copper clock face, DSLR, intricate design.",
+      "Wood grain clock face ultra-realistic",
+      "Circular wooden clock, ultra-realistic.",
+      "Analog clock face with weathered texture",
+      "Glass clock face反射光斑"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 116,
+    "prompt": "a swimming pool with no water",
+    "base_entity_biased_prompts": [
+      "Glistening water droplet",
+      "Drops of water falling",
+      "Ice sculpture water",
+      "Bottle of water poured",
+      "Reflection in still water",
+      "Bottle of sparkling water",
+      "Water droplets on a leaf.",
+      "Reflections in calm water",
+      "Water droplets on leaf",
+      "Water fountain in park",
+      "Mist rising from stream",
+      "Aquatic plants in shallow water",
+      "River flowing gently",
+      "Ripple in still pond",
+      "Aquatic plants in a pond.",
+      "Stream bubbling over stones",
+      "Water droplets on flower",
+      "Rushing river currents",
+      "Ripple in calm lake",
+      "Mist rising from pond"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Pool reflections, textures, ultra-realistic DSLR.",
+      "Reflections pool, DSLR, ultra-realistic",
+      "Pool water, realistic reflections, DSLR",
+      "Reflections in pool, DSLR, ultra-realistic, clear.",
+      "Swimming pool, realistic reflection, detailed textures",
+      "Smooth pool surface, realistic reflection, DSLR.",
+      "Swimming pool, water reflections, DSLR detail.",
+      "Reflective pool, ultra-realistic",
+      "Reflective pool sides, detailed texture, DSLR",
+      "Pool, ultra-realistic reflection, vivid texture.",
+      "Detailed pool texture, shimmering water, DSLR",
+      "Reflective pool, detailed texture, DSLR",
+      "Reflective pool surface, ultra-realistic.",
+      "Reflective pool, DSLR quality",
+      "Reflective pool, DSLR captures clarity.",
+      "Ultra-realistic pool texture",
+      "Pool floor textures, ultra-realistic detail.",
+      "Swimming pool, ultra-realistic, vibrant water.",
+      "Clear pool, realistic reflections",
+      "Reflections, pool sides detailed."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

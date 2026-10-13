@@ -1,0 +1,53 @@
+[
+  {
+    "id": 273,
+    "prompt": "a playground without slides",
+    "base_entity_biased_prompts": [
+      "Slides for a conference",
+      "Slides with bullet points",
+      "Info graphic slides",
+      "Slides, research paper, academic",
+      "Slide featuring product images",
+      "Slide presenting data analysis",
+      "Craft professional seminar slides.",
+      "Design simple informational slides.",
+      "Slide including photo collage",
+      "Create educational slide presentation",
+      "Slide featuring event schedule",
+      "Purple slide with images.",
+      "Slide featuring timeline",
+      "Create interactive seminar slides",
+      "Slide with puzzle pieces",
+      "Modern business presentation slide",
+      "Science slide with microscope image",
+      "Design modern business presentation slides.",
+      "Green slide with bullet points",
+      "Create minimalist conference slide decks"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A playground with vibrant swings and slides, DSLR clarity.",
+      "Colorful playground equipment in focus.",
+      "Playground equipment in vivid hues.",
+      "Multi-colored playground equipment in focus.",
+      "Playground equipment against a lush backdrop.",
+      "Vibrant playground equipment in a scenic park.",
+      "Playground equipment in vibrant hues.",
+      "Playground with colorful equipment, natural light.",
+      "Brightly colored playground in a scenic setting.",
+      "Vibrant playground equipment in sunlight.",
+      "Playground equipment bathed in light.",
+      "Vibrant playground equipment in lush green.",
+      "Playground equipment against a sunny sky.",
+      "A bright playground with vibrant slides.",
+      "A vibrant playground with colorful slides.",
+      "A bright playground with colorful slides.",
+      "A brightly colored playground under blue sky.",
+      "A playground with vibrant slides, swings, and jungle gym.",
+      "Colorful playground equipment with clear blue water.",
+      "Playground sandbox with bright toys."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

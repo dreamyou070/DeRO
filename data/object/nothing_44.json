@@ -1,0 +1,33 @@
+[
+  {
+    "id": 263,
+    "prompt": "a teapot with nothing inside",
+    "base_entity_biased_prompts": [
+      "a teapot filled with hot tea",
+      "a teapot containing freshly brewed tea",
+      "a ceramic teapot with tea inside",
+      "a teapot pouring hot tea",
+      "a teapot filled with herbal tea",
+      "a teapot with steaming tea inside",
+      "a traditional teapot containing tea",
+      "a teapot filled with warm beverage",
+      "a teapot with visible tea inside",
+      "a teapot prepared for serving tea"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty teapot with the inside clearly visible",
+      "a teapot with nothing inside and the bottom clearly visible",
+      "a teapot with no liquid or objects inside",
+      "an open teapot with a completely empty interior",
+      "a clean empty teapot showing the inner surface",
+      "a teapot with an unobstructed view of the inside",
+      "an empty teapot with visible interior space",
+      "a teapot with no tea or contents inside",
+      "a vacant teapot with clearly visible empty space",
+      "a teapot with a completely empty inner chamber"
+    ],
+    "class": "nothing",
+    "class_index": 44,
+    "filename": "nothing_44"
+  }
+]

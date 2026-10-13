@@ -1,0 +1,53 @@
+[
+  {
+    "id": 244,
+    "prompt": "a tray with nothing served",
+    "base_entity_biased_prompts": [
+      "Served meal on table",
+      "Served cake at a party",
+      "Served pizza with toppings",
+      "Served meals on a table.",
+      "Served salad with dressing",
+      "Served pasta with sauce",
+      "Served drinks at a bar.",
+      "Served pasta in a bowl",
+      "Served pizza in an oven",
+      "Served pasta with a side.",
+      "Served sushi rolls",
+      "Served pizza on tray",
+      "Server with platter of food.",
+      "Serving platter of sandwiches.",
+      "Server handing menu.",
+      "Staff serves customers.",
+      "Server sets the table.",
+      "Staff serving drinks.",
+      "A waiter serving a meal.",
+      "Server presenting menu."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden tray, smooth surface, DSLR, hyper-realistic",
+      "A slate tray, clean, realistic texture, DSLR",
+      "Wooden tray, smooth, realistic texture, DSLR.",
+      "A wood grain tray, clean, texture realistic, DSLR",
+      "Glass tray, pristine, DSLR, ultra-realistic.",
+      "Wood grain tray, clean, DSLR realism",
+      "A pristine wooden tray, DSLR, ultra-realistic.",
+      "A gleaming silver tray, DSLR, ultra-realistic.",
+      "A wooden tray, clean, textured, DSLR",
+      "Vinyl tray, DSLR texture.",
+      "Smooth glass tray, DSLR detail.",
+      "A wooden tray, smooth, DSLR",
+      "Wooden tray, smooth, DSLR.",
+      "Concrete tray, clean, rough texture, DSLR.",
+      "Glass tray, spotless, ultra-realistic",
+      "Wooden tray, smooth surface, ultra-realistic.",
+      "A glass tray, spotless, DSLR",
+      "Wood grain tray, smooth, realistic texture.",
+      "A slate tray, clean, realistic texture.",
+      "A plastic tray, translucent material."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

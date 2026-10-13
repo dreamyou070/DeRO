@@ -1,0 +1,53 @@
+[
+  {
+    "id": 15,
+    "prompt": "a library missing books",
+    "base_entity_biased_prompts": [
+      "Books with colorful covers.",
+      "Books with colorful illustrations.",
+      "Collection of cookbooks",
+      "Children's picture books",
+      "Children's picture books.",
+      "A book with a hardcover.",
+      "Art book with illustrations.",
+      "A book on history.",
+      "A bookshelf with different genres.",
+      "A bookshelf with various genres.",
+      "Book with colorful illustrations.",
+      "Children's colorful picture books.",
+      "A book with colorful illustrations",
+      "A stack of old books.",
+      "Hardcover mystery novel.",
+      "A stack of old novels.",
+      "Textbook with highlighted passages.",
+      "Textbook with highlighted pages.",
+      "Group of books on a shelf.",
+      "History books lined up."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Pool with calm water, reflective, real textures, DSLR.",
+      "Pool, calm surface, ultra-realistic clarity, DSLR",
+      "Swimming pool, calm water, DSLR realism",
+      "Calm pool, reflective water, ultra-realistic shot",
+      "Reflective pool, smooth water, DSLR realism",
+      "Pool, calm surface, ultra-realistic photography.",
+      "Calm pool, ultra-realistic photography.",
+      "Calm pool, ultra-realistic reflection",
+      "Reflective pool surface, detailed textures, DSLR.",
+      "Realistic pool reflections, DSLR capture.",
+      "Swimming pool, calm water, realistic textures",
+      "Ultra-realistic pool, water reflects vividly",
+      "Calm pool, ultra-realistic texture",
+      "Pool with calm water, ultra-realistic.",
+      "Pool, smooth water, DSLR clarity",
+      "Reflective pool, ultra-realistic texture.",
+      "Pool, calm water, ultra-realistic clarity.",
+      "Reflective pool, ultra-realistic detail, clarity.",
+      "Calm water pool, realistic reflections.",
+      "Pool with glass-like water clarity."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

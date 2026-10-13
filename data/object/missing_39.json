@@ -1,0 +1,53 @@
+[
+  {
+    "id": 39,
+    "prompt": "a bicycle missing wheels",
+    "base_entity_biased_prompts": [
+      "Wheels on a skateboard.",
+      "Wheels of a Segway scooter.",
+      "A set of bicycle wheels.",
+      "Wheels of a Ferris wheel.",
+      "Roller skates with inline wheels",
+      "Scooter with colorful wheels",
+      "Rickshaw with traditional wheels",
+      "Roller skates with four wheels.",
+      "Bicycle wheel with colorful spokes.",
+      "Roller skates with sparkly wheels",
+      "A bicycle wheel with spokes.",
+      "A scooter with colorful wheels.",
+      "A scooter with small, hard wheels.",
+      "A drum set with large wheels.",
+      "Purple Segway with smooth wheels",
+      "Tricycle with rubber wheels",
+      "Vintage bicycle with colorful wheels",
+      "A wheel spinning in the wind.",
+      "Silver scooter with small wheels.",
+      "Red scooter with small wheels."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern restaurant, realistic furniture, ambient lighting, DSLR.",
+      "Realistic restaurant setup, ambient lighting, DSLR.",
+      "Up-scale restaurant, realistic setup, ambient light.",
+      "Restaurant kitchen, DSLR, realistic detail",
+      "Modern restaurant, realistic furniture, soft light.",
+      "Vintage restaurant, realistic lighting setup.",
+      "Vintage restaurant, realistic lighting details.",
+      "Up-scale restaurant, tables spaced, ambient light.",
+      "Modern restaurant, sleek furniture, warm ambient light.",
+      "Contemporary restaurant, sleek furniture, soft light.",
+      "Restaurant with vintage furniture, warm ambient light.",
+      "A restaurant with plush booths and ambient lights",
+      "Restaurant with banquettes, ambient downlighting.",
+      "Restaurant with booths, warm ambient light.",
+      "Modern restaurant, sleek furniture, warm glow.",
+      "Restaurant with ambient lighting, leather chairs.",
+      "Restaurant, glass table, warm ambient lights.",
+      "Modern restaurant, sleek chairs, soft lights",
+      "Contemporary restaurant, metallic tables, soft illumination.",
+      "A restaurant entrance with warm ambient light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

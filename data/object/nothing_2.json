@@ -1,0 +1,53 @@
+[
+  {
+    "id": 169,
+    "prompt": "a street with nothing in the background",
+    "base_entity_biased_prompts": [
+      "Mountain range in the background.",
+      "A mountain range in the background.",
+      "Forest clearing with trees behind",
+      "A scenic waterfall backdrop",
+      "Quiet countryside landscape",
+      "Snow-covered mountains behind.",
+      "Beach with palm trees behind",
+      "Forest behind a stream",
+      "Nature scene with trees",
+      "Desert oasis landscape",
+      "Countryside fields with crops",
+      "A cityscape at dusk",
+      "Mountain range from afar",
+      "Desert landscape with dunes",
+      "Farmhouse with green fields",
+      "Forest clearing with sunlight",
+      "Coastline with rocky cliffs and waves",
+      "A cityscape at sunset behind buildings.",
+      "Forest behind a cabin",
+      "Abandoned hospital with dim light"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic plate texture, ultra-realistic DSLR.",
+      "Ceramic plate pattern, ultra-realistic DSLR.",
+      "Detailed ceramic plate, ultra-realistic DSLR view.",
+      "Ceramic plate, realistic texture, DSLR",
+      "Detailed ceramic plate, ultra-realistic texture, DSLR.",
+      "Ceramic plate, realistic texture, DSLR.",
+      "Ceramic plate, ultra-detailed DSLR",
+      "Detailed ceramic plate, realistic surface, DSLR.",
+      "Ceramic plate, realistic surface, DSLR.",
+      "Ceramic plate texture, DSLR high detail.",
+      "Ceramic plate, fine texture, DSLR realism.",
+      "Intricate ceramic plate, realistic texture, DSLR.",
+      "Ceramic plate, surface detail, DSLR capture.",
+      "Ceramic plate, surface texture, DSLR clarity.",
+      "Textured ceramic plate, DSLR precision",
+      "Detailed ceramic plate, DSLR macro view.",
+      "Detailed ceramic plate, DSLR quality.",
+      "Ceramic plate, textured surface, ultra-realism.",
+      "Blue plate, realistic texture, DSLR.",
+      "Ceramic plate, multi-color, realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

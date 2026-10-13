@@ -1,0 +1,53 @@
+[
+  {
+    "id": 446,
+    "prompt": "nobody sitting under the tree",
+    "base_entity_biased_prompts": [
+      "A tree with fruit",
+      "Tree with colorful leaves.",
+      "A tall evergreen tree.",
+      "Winter tree with snow.",
+      "Tree with thick, lush foliage.",
+      "A tree with autumn foliage",
+      "Tree with fallen branches",
+      "Young fir tree",
+      "Tree in front of mountain.",
+      "Birch tree with white bark",
+      "Sycamore tree with interesting bark.",
+      "Tree trunk close-up",
+      "A deciduous tree with vibrant leaves.",
+      "A young sapling",
+      "Cedar tree by lake",
+      "A tall oak tree",
+      "Oak tree with acorns",
+      "A young pine tree in winter.",
+      "Budding cherry tree",
+      "A young sapling in spring"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Large tree, soft shadows, serene ground, DSLR realism",
+      "Soft shadows from huge tree, tranquil scene.",
+      "A large oak, soft shadows, tranquil ground, DSLR",
+      "Tree trunk texture, soft shadows, calm ground, detailed shot",
+      "Ultra-realistic scene, tree and shadows.",
+      "Broad-leaved tree, soft hues, tranquil ground, DSLR",
+      "Large tree, soft shadows, tranquil hillside",
+      "Ancient tree, soft shadows, tranquil setting",
+      "Large oak tree, soft shadows, peaceful meadow, DSLR.",
+      "Broad tree canopy casts soft, calming shadows.",
+      "Large tree, soft shadows, serene meadow.",
+      "Tree creates soft shadows, serene landscape.",
+      "Large tree silhouetted in soft light.",
+      "Large tree casts soothing shadows on path.",
+      "Stout tree, soft shadows, idyllic scene.",
+      "Broadleaf tree, delicate shadow, peaceful clearing, ultra-real",
+      "Tree's shade envelops the scene.",
+      "Large willow tree shadows rest on serene landscape.",
+      "Gentle shadows in a dense forest.",
+      "Peaceful forest floor bathed in shade."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a picture frame missing a photo",
+    "base_entity_biased_prompts": [
+      "Photo of historic landmark",
+      "Photo of a historic building.",
+      "A black and white photo.",
+      "A candid outdoor photo.",
+      "Historic building photo.",
+      "A fun group photo.",
+      "A photo of a beautiful landscape.",
+      "A photo of a historical monument.",
+      "Photo of vibrant cityscape during day",
+      "A historical building photo.",
+      "A photo of a vibrant marketplace.",
+      "Photo of a couple dancing.",
+      "A photo of a couple laughing.",
+      "Photo of a fireworks display.",
+      "A vibrant photo of a city skyline.",
+      "Photo of beach at sunrise",
+      "A photo of a fireworks display.",
+      "Photo of a colorful carnival ride.",
+      "A vibrant photo of a busy cityscape.",
+      "A black and white photo of a historic building."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Rustic white frame on turquoise wood, green branches, blackberries.",
+      "Turquoise wood, white frame, greenery, blackberries.",
+      "Rustic white frame on bright turquoise, green branches, blackberries.",
+      "Rustic white frame, bright turquoise, green branches, blackberries.",
+      "White frame, green leaves, blackberries, natural texture.",
+      "Rustic frame, green leaves, blackberries, turquoise background.",
+      "White frame, green leaves, blackberries, realistic.",
+      "A rustic white frame on turquoise, green branches, blackberries.",
+      "Turquoise wood, white frame, green branches, blackberries.",
+      "Green branches, blackberries, rustic white frame, turquoise.",
+      "Turquoise background, white frame, fresh leaves, blackberries.",
+      "Natural arrangement, white frame, blackberries.",
+      "Rustic frame, green foliage, blackberries arranged.",
+      "Turquoise base, rustic frame, green leaves, blackberries.",
+      "White frame, green branches, blackberries, soft light.",
+      "Realistic berries, textured leaves",
+      "Wooden frame, green leaves, blackberries.",
+      "Rustic wooden frame on turquoise background",
+      "Rustic white frame on turquoise background",
+      "High-res blackberries, leaf textures, clear."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 408,
+    "prompt": "nobody inside the coffee shop",
+    "base_entity_biased_prompts": [
+      "a busy coffee shop filled with customers",
+      "a coffee shop with people sitting at tables",
+      "a crowded cafe with customers drinking coffee",
+      "a coffee shop with baristas and customers",
+      "a cafe interior filled with people",
+      "a coffee shop with customers waiting in line",
+      "a coffee shop with people talking and drinking coffee",
+      "a cafe with customers seated around tables",
+      "a lively coffee shop with many visitors",
+      "a coffee shop full of people and activity"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty coffee shop with nobody inside",
+      "a coffee shop with no customers present",
+      "an empty cafe interior with no people",
+      "a quiet coffee shop with empty tables",
+      "a coffee shop with no human figures inside",
+      "a vacant cafe with clearly visible empty seating areas",
+      "a coffee shop interior with no customers or staff",
+      "an empty coffee shop with no activity",
+      "a cafe with empty chairs and tables and no people",
+      "a coffee shop with completely empty interior space"
+    ],
+    "class": "nobody",
+    "class_index": 12,
+    "filename": "nobody_12"
+  }
+]

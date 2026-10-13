@@ -1,0 +1,53 @@
+[
+  {
+    "id": 200,
+    "prompt": "a bicycle basket with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a train compartment",
+      "Inside spacious hall",
+      "Inside luxurious hotel",
+      "Inside quiet study",
+      "Inside busy kitchen",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside fancy restaurant",
+      "Inside spacious kitchen",
+      "Inside modern office building",
+      "Inside botanical garden",
+      "Inside a bustling mall",
+      "Inside a fancy restaurant",
+      "Inside cozy living room",
+      "Inside a charming boutique",
+      "Inside an antique store",
+      "Inside a grand hall",
+      "Inside an old library",
+      "Inside a cozy living room",
+      "Inside a modern office"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A bicycle basket, woven interior, open space, ultra-realistic, DSLR.",
+      "A woven bicycle basket, ultra-realistic, DSLR.",
+      "A woven bicycle basket, DSLR, ultra-realistic.",
+      "A bicycle basket, woven interior, DSLR, detailed textures",
+      "A bicycle basket, woven interior, DSLR, highly detailed.",
+      "A bicycle basket, woven interior, DSLR, detailed textures.",
+      "Bicycle basket, woven interior, high detail, DSLR.",
+      "Bicycle basket detail, real texture, DSLR.",
+      "Visible woven basket, ultra-realistic textures, DSLR.",
+      "A woven bicycle basket, DSLR, highly detailed.",
+      "Bicycle basket interior, ultra-realistic view.",
+      "Bicycle basket weave, detailed textures, DSLR.",
+      "Open bicycle basket, woven interior, ultra-real texture.",
+      "Bicycle basket interior, ultra-realistic detail.",
+      "Woven basket, ultra-realistic photography.",
+      "A woven bicycle basket, ultra-realistic detail.",
+      "Bicycle basket interior, ultra-realism.",
+      "Bicycle basket, hyper-detailed textures.",
+      "Woven bicycle basket, visible weave, detailed.",
+      "Bicycle basket, woven details, open interior."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

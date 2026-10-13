@@ -1,0 +1,53 @@
+[
+  {
+    "id": 35,
+    "prompt": "a swimming pool missing water",
+    "base_entity_biased_prompts": [
+      "Bottle of water",
+      "A bucket of fresh, clean water.",
+      "Water mist rising",
+      "Snow melting into water",
+      "Water droplets on leaves",
+      "Bottle of sparkling water",
+      "Aquatic plants floating on water",
+      "Reflections in pond water",
+      "Water droplets on leaf",
+      "Glistening water droplets on grass",
+      "Aquatic plants underwater",
+      "Ice sculpture of water",
+      "Bubbling stream rocks",
+      "Bamboo reflecting in water",
+      "Water droplets on a lotus leaf.",
+      "Gentle stream by waterfall",
+      "Reflections in calm pond",
+      "Fountain splashing water",
+      "Stream bubbling over rocks",
+      "Waterfall cascading into pool."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "An airport runway, realistic texture, wide open, DSLR.",
+      "An airport runway, realistic texture, DSLR.",
+      "An airport runway, textures, wide open, DSLR",
+      "DSLR runway, realistic texture.",
+      "Airport runway, realistic texture, vastness",
+      "Runway texture, vast open space, DSLR.",
+      "Asphalt runway, ultra-realistic shot.",
+      "Airport runway, realistic texture, expansive view.",
+      "An airport runway, realistic texture, wide open.",
+      "An airport runway, realistic texture, vast sky.",
+      "Wide open runway, realistic texture.",
+      "Runway texture, ultra-realistic, broad scenery.",
+      "Runway with realistic texture, scenic view.",
+      "Runway with texture, open field panorama.",
+      "Runway, realistic texture, scenic view.",
+      "Realistic runway, texture, open field.",
+      "Real runway, textured surface, open sky.",
+      "Airport runway, textured surface, wide open.",
+      "Pavement texture, vast open area.",
+      "Wide open runway with sunset."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

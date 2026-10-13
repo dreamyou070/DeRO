@@ -1,0 +1,53 @@
+[
+  {
+    "id": 437,
+    "prompt": "nobody standing near the fountain",
+    "base_entity_biased_prompts": [
+      "A fountain with a flowing stream of water.",
+      "Fountain with gentle water flow.",
+      "A fountain with a decorative spout.",
+      "Fountain with swirling water",
+      "A fountain in a garden.",
+      "A fountain with rippling water surface.",
+      "A fountain with a waterfall effect.",
+      "Fountain with water flowing into a pool.",
+      "Fountain in a vibrant public space.",
+      "Fountain in a tropical setting.",
+      "Fountain with a cascading waterfall.",
+      "A fountain with cascading waterfall.",
+      "Fountain splashing water into the air.",
+      "Fountain in a serene garden",
+      "Fountain with colorful fish.",
+      "A fountain with colorful tiles.",
+      "Modern fountain with abstract shapes.",
+      "A fountain with a twisting water stream.",
+      "Fountain with colorful LED lights.",
+      "A fountain glistens under streetlights."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Calm water flows, ornate fountain, DSLR",
+      "Calm water fountain, ornate landscape, DSLR.",
+      "Fountain area, tranquil setting, ultra-realism",
+      "Calm fountain area, blooms, DSLR",
+      "Fountain area, calm water, elegant landscaping",
+      "Fountain, tranquil water, detailed landscaping",
+      "Calm water, ornate fountain, realistic composition",
+      "Calm fountain, smooth water flow, ornate landscaping",
+      "Fountain flow, tranquil water, landscaped garden",
+      "Calm water fountain, realistic details",
+      "Calm water fountain, realistic detail",
+      "Peaceful fountain, gentle current, leafy backdrop",
+      "Calm fountain, flowing water, decorative plants",
+      "Calm fountain, smooth water flow, decorative plants",
+      "Detailed fountain with calm, clear water.",
+      "Calm fountain, flowing water, colorful flora",
+      "Calm fountain, elegant water design",
+      "Fountain with serene water, night shot",
+      "Rustic fountain, vibrant foliage",
+      "Smooth stone fountain, greenery around"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/A_painting_with_no_colors_sim_threshold_0.7.png"
+    },
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/A_painting_with_no_colors_sim_threshold_0.8.png"
+    },
+    {
+        "id": "A_painting_with_no_colors_sim_threshold_0.9",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/A_painting_with_no_colors_sim_threshold_0.9.png"
+    },
+    {
+        "id": "a_beach_without_people_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_beach_without_people_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bed_without_pillows_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bed_without_pillows_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bed_without_pillows_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bed_without_pillows_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_bicycle_without_pedals_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bicycle_without_pedals_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bookshelf_without_books_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bookshelf_without_books_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bookshelf_without_books_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bookshelf_without_books_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_bottle_without_a_cap_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bottle_without_a_cap_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bowl_without_fruit_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bowl_without_fruit_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bowl_without_fruit_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bowl_without_fruit_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_burger_with_no_cheese",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_burger_with_no_cheese.png"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_burger_without_cheese_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_burger_without_cheese_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_burger_without_cheese_sim_threshold_0.9",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_burger_without_cheese_sim_threshold_0.9.png"
+    },
+    {
+        "id": "a_bus_without_windows_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bus_without_windows_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_bus_without_windows_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_bus_without_windows_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_cake_without_candles_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cake_without_candles_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_car_without_wheels_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_car_without_wheels_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cat_bowl_with_no_water.png"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cat_bowl_with_no_water_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cat_bowl_with_no_water_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_cat_bowl_with_no_water_sim_threshold_0.9",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cat_bowl_with_no_water_sim_threshold_0.9.png"
+    },
+    {
+        "id": "a_cat_without_a_tail_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_cat_without_a_tail_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_chair_without_backrest_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_chair_without_backrest_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_chair_without_backrest_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_chair_without_backrest_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_classroom_without_students_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_classroom_without_students_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_classroom_without_students_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_classroom_without_students_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_clock_without_numbers_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_clock_without_numbers_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_clock_without_numbers_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_clock_without_numbers_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_desk_without_papers_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_desk_without_papers_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_face_without_eyes_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_face_without_eyes_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_forest_without_animals_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_forest_without_animals_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_house_without_doors_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_house_without_doors_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_keyboard_without_keys_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_keyboard_without_keys_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_keyboard_without_keys_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_keyboard_without_keys_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_laptop_without_a_keyboard_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_laptop_without_a_keyboard_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_laptop_without_a_keyboard_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_laptop_without_a_keyboard_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_mug_without_a_handle_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_mug_without_a_handle_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_mug_without_a_handle_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_mug_without_a_handle_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_painting_with_no_colors",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_painting_with_no_colors.png"
+    },
+    {
+        "id": "a_phone_without_buttons_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_phone_without_buttons_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_pizza_without_toppings_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_pizza_without_toppings_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_pizza_without_toppings_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_pizza_without_toppings_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_refrigerator_without_food_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_refrigerator_without_food_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_refrigerator_without_food_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_refrigerator_without_food_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_road_without_cars_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_road_without_cars_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_road_without_cars_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_road_without_cars_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_sandwich_without_vegetables_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_sandwich_without_vegetables_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_sandwich_without_vegetables_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_sandwich_without_vegetables_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_stadium_without_people_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_stadium_without_people_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_stadium_without_people_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_stadium_without_people_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_train_without_passengers_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_train_without_passengers_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_tree_without_leaves_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_tree_without_leaves_sim_threshold_0.7.png"
+    },
+    {
+        "id": "a_tree_without_leaves_sim_threshold_0.8",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_tree_without_leaves_sim_threshold_0.8.png"
+    },
+    {
+        "id": "a_vase_without_flowers_sim_threshold_0.7",
+        "image_path": "/lustre/dreamyou070/DeRO/src/english/DERO_Result/ablation_study_sdxl_base_uni_bi/base/a_vase_without_flowers_sim_threshold_0.7.png"
+    }
+]

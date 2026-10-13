@@ -1,0 +1,53 @@
+[
+  {
+    "id": 418,
+    "prompt": "nobody playing on the playground",
+    "base_entity_biased_prompts": [
+      "Playground jungle gym",
+      "Playground with jungle gym",
+      "Playground with colorful benches",
+      "Playground with merry-go-round",
+      "Swinging on a playground swing",
+      "Playground featuring a climbing wall",
+      "Playground jungle gym setup",
+      "Playground swing set at dusk",
+      "Playground bench shaded",
+      "Playground with metal monkey bars.",
+      "Patio slide backyard",
+      "老式 swings 摇晃",
+      "老式 swings 阵列",
+      "老式 swings 阳光下摇摆",
+      "Slides and swings under blue sky",
+      "孩子们在 swings 上笑",
+      "Spray painting mural on playground wall.",
+      "Group playing on jungle gym",
+      "Children sliding on a slide",
+      "Children slide down a yellow slide."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Vibrant playground, perfect sunlight, DSLR.",
+      "Colorful playground, DSLR, daylight.",
+      "A vibrant playground, DSLR clarity",
+      "Playground in full sun, perfect gear, DSLR.",
+      "Playground in vibrant colors, DSLR detail",
+      "Vibrant playground under bright, ultra-realistic daylight.",
+      "Vivid playground, bright sun, DSLR clarity.",
+      "Sun-kissed playground equipment, DSLR",
+      "Vibrant playground equipment bathed in daylight.",
+      "A bright playground with vivid colors and perfect equipment.",
+      "Playground with sunlit, vividly detailed equipment.",
+      "Colorful playground, arranged equipment, daylight.",
+      "Playground equipment in vivid hues, perfect light.",
+      "Vividly colored playground equipment in bright light.",
+      "Vividly colored playground under perfect light.",
+      "Sunlit playground, equipment in vivid colors.",
+      "A vibrant playground with gleaming equipment, sunlight beams.",
+      "Vividly colored playground under sun.",
+      "Children's playground in vivid light",
+      "Playground merry-go-round in daylight"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

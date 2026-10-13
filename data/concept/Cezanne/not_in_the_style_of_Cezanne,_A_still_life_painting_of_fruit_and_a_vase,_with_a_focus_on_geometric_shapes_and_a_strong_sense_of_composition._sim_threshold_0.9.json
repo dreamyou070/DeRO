@@ -1,0 +1,39 @@
+[
+  {
+    "id": 5,
+    "prompt": "not in the style of Cezanne, A still life painting of fruit and a vase, with a focus on geometric shapes and a strong sense of composition.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A still life painting featuring geometric forms resembling fruit and a vase, with a strong sense of composition and natural style.",
+      "A still life painting of geometrically arranged shapes resembling fruit and a vase, with a strong emphasis on composition and subtle natural style.",
+      "A still life painting featuring geometric shapes resembling fruit and a vase, with a strong composition and natural touch.",
+      "A still life painting featuring geometric shapes evoking fruit and a vase, with a strong composition and natural touch.",
+      "A geometric still life painting suggesting fruit and a vase, with a carefully composed and natural style.",
+      "A still life painting composed of geometric shapes suggesting fruit and a vase, with a refined and natural aesthetic.",
+      "A still life painting focusing on geometric forms mimicking fruit and a vase, with a well-composed, subtle and natural appearance.",
+      "A still life painting composed of geometric shapes evoking fruit and a vase, with a balanced and natural appearance.",
+      "A still life painting focusing on geometric shapes mimicking fruit and a vase, with a well-thought-out and natural composition.",
+      "A still life painting with geometric elements resembling fruit and a vase, displayed in a balanced and natural composition.",
+      "A still life painting with geometric elements suggesting fruit and a vase, displayed in a balanced and natural composition.",
+      "A still life painting focusing on geometric elements mimicking fruit and a vase, with a clean and natural style.",
+      "A still life painting composed of geometric forms resembling fruit and a vase, with a minimalist and natural style.",
+      "A still life painting of fruits and a vase, with a strong geometric composition.",
+      "A still life painting with fruits and a vase, focusing on clean geometric shapes and a structured composition.",
+      "A still life painting composed of geometric arrangements like fruit and a vase, with a minimalist and natural style.",
+      "A geometrically structured still life painting featuring shapes that mimic fruit and a vase, presented in a natural and harmonious composition.",
+      "A still life painting of fruit and a vase, with a strong geometric influence in the arrangement and framing.",
+      "A still life painting with geometric elements suggesting fruit and a vase, arranged in a clean and natural manner.",
+      "A still life painting with geometric forms suggesting fruit and a vase, arranged in a clean and natural way.",
+      "A still life painting with geometric arrangements like fruit and a vase, presented in a clean and natural composition.",
+      "A still life painting with geometric arrangements like fruit and a vase, displayed in a minimalist and natural composition.",
+      "A clean and geometrically structured still life featuring fruits and a vase, with a subtle and natural style.",
+      "A still life featuring fruit and a vase in a structured, geometric setting with a focused composition.",
+      "A still life scene with fruits and a vase, focusing on geometric forms."
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 25
+  }
+]

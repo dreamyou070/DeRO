@@ -1,0 +1,53 @@
+[
+  {
+    "id": 286,
+    "prompt": "a face without eyes",
+    "base_entity_biased_prompts": [
+      "Eyes with colorful irises",
+      "Eyes with colorful iris patterns.",
+      "Eyes with colorful contacts",
+      "Eyes reflecting light",
+      "Eyes behind sunglasses",
+      "Shiny blue eyes",
+      "Eyes with freckles",
+      "Eyes behind dark sunglasses",
+      "Humanoid purple eyes",
+      "Eyes under sunglasses",
+      "Eyes with colorful contact lenses.",
+      "Eyes of an owl",
+      "Eyes in twilight",
+      "Small, intelligent eyes",
+      "Grey eyes reflecting light",
+      "Close-up of brown eyes.",
+      "Gray eyes with wide irises.",
+      "Gray eyes with a golden iris",
+      "Gleaming eyes in darkness",
+      "Shiny green snake eyes"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Natural skin texture, DSLR, ultra-realism",
+      "Smooth skin, realistic face, DSLR capture",
+      "Realistic portrait, DSLR, skin texture",
+      "A flawless skin texture, DSLR portrait",
+      "Detailed expression, realistic skin, DSLR.",
+      "Man's face, DSLR, ultra-realistic details",
+      "Close-up face, natural textures, DSLR.",
+      "Close-up of eyes, real skin texture, DSLR",
+      "A woman's face, ultra-realistic DSLR, natural skin.",
+      "Man's face, clear detail, realistic texture, DSLR",
+      "A flawless skin texture, DSLR portrait.",
+      "Close-up of eyes, realistic skin, DSLR",
+      "Man's face, realistic texture, DSLR.",
+      "Student's face, DSLR realism, natural skin.",
+      "Natural skin, DSLR sharpness.",
+      "Smooth skin texture, realistic capture.",
+      "A man's face, ultra-realistic, natural skin",
+      "Bearded man, realistic skin details, DSLR.",
+      "Woman's cheekbones, lifelike skin, DSLR",
+      "Gentleman's facial features, DSLR macro"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 240,
+    "prompt": "a suitcase with nothing packed",
+    "base_entity_biased_prompts": [
+      "Packed shopping bags",
+      "Packed sports equipment",
+      "Packed grocery bags full",
+      "Packed book bag",
+      "Packed grocery bags",
+      "Packed concert tickets roll",
+      "Furniture packed for move",
+      "Packed balls in bag",
+      "Packed lunch box",
+      "Packed jewelry in box",
+      "Packed sports gear in bag",
+      "Packed snacks in bag",
+      "Packed books in bag",
+      "Packed gifts in bag",
+      "Clothing packed for vacation",
+      "Packed books on shelf",
+      "Packed shoes in box",
+      "Packed balls in closet",
+      "Packed clothes in suitcase",
+      "Packed blankets in chest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Suitcase with open interior, travel items, realistic design, DSLR.",
+      "Travel suitcase, open, interior visible, DSLR quality.",
+      "Suitcase interior revealed, travel items, ultra-realistic.",
+      "Traveler's suitcase, visible compartments, realistic texture.",
+      "Travel suitcase open, interior visible, realistic.",
+      "Modern suitcase, interior visible, travel.",
+      "Plastic suitcase, interior detailed, practical design, DLSR.",
+      "A large suitcase, interior visible, travel design.",
+      "Travel suitcase open, interior exposed, real.",
+      "Modern plastic suitcase, interior visible, travel.",
+      "Leather suitcase, interior visible, travel design.",
+      "Modern suitcase, open interior shown.",
+      "A suitcase open, interior visible, travel design.",
+      "Modern suitcase, interior view, travel essentials.",
+      "Wooden suitcase, interior visible, travel design.",
+      "A leather suitcase, interior visible, travel design.",
+      "Travel suitcase open, interior detailed.",
+      "Open suitcase, detailed interior view.",
+      "Modern suitcase open, clear interior view.",
+      "Stainless steel suitcase, interior visible."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

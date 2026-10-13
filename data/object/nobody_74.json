@@ -1,0 +1,53 @@
+[
+  {
+    "id": 470,
+    "prompt": "nobody inside the bookstore",
+    "base_entity_biased_prompts": [
+      "Bookstore displaying bestsellers.",
+      "Bookstore during a book sale.",
+      "Bookstore displaying new releases",
+      "Bookstore with colorful displays.",
+      "Bookstore with a literary theme.",
+      "Bookstore with reading nooks.",
+      "Bookstore with colorful covers.",
+      "Bookstore with colorful book covers.",
+      "Bookstore display with bestsellers.",
+      "Bookstore featuring poetry books.",
+      "Bookstore with coffee shop.",
+      "Bookstore with antique book collection.",
+      "Bookstore with antique furniture.",
+      "Coffee shop with bookstore",
+      "Bookstore with children's section.",
+      "Bookstore with wooden shelves.",
+      "Bookstore window displaying new releases.",
+      "A cozy bookstore with shelves.",
+      "Bookstore with a fireplace.",
+      "Bookstore café with patrons."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warm bookstore, shelves full, realistic DSLR shot",
+      "Warmly lit bookstore, orderly shelves, DSLR.",
+      "Bookstore shelves, warm light, ultra-realistic.",
+      "Warm bookstore, shelves full, DSLR.",
+      "Bookstore with books, warm, realistic lighting.",
+      "Bookstore with books, warm yellow light, DSLR quality.",
+      "Neat bookstore, warm, realistic lighting setup.",
+      "Bookstore with books, warm lights, realism.",
+      "Bookstore shelves, warm, realistic lighting.",
+      "Bookstore shelves, warm light, realistic.",
+      "Bookstore, books ordered, warm, realistic light.",
+      "Bookstore shelves, soft, warm, realistic lighting.",
+      "Bookstore, shelves laden, warm, ambient light.",
+      "Bookstore with tidy shelves, warm, natural light.",
+      "Bookstore ambiance, warm, realistic details.",
+      "Bookstore ambiance, shelves, warm light.",
+      "Bookshelves tidy, warm lighting, realism.",
+      "Warmly lit bookstore, neatly arranged shelves.",
+      "A cozy bookstore, shelves filled, warm glow.",
+      "A cozy bookstore, shelves lined, warm glow."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

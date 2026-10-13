@@ -1,0 +1,53 @@
+[
+  {
+    "id": 287,
+    "prompt": "a vase without flowers",
+    "base_entity_biased_prompts": [
+      "Peppermint plant with flowers",
+      "White daisies with morning dew",
+      "Violet flowers in bunch",
+      "Daisy flowers in row",
+      "Daisy white petals",
+      "Carnations in a bouquet",
+      "Sunrise with chrysanthemums",
+      "Red roses romantic bunch",
+      "Sunrise orange tulips",
+      "Red and white roses mixed",
+      "Red roses close-up",
+      "White lilies in water droplets",
+      "Crimson carnations bunch",
+      "Wildflowers in a countryside",
+      "Lavender and white hydrangeas",
+      "Purple irises by water",
+      "White lilies close up",
+      "Violet iris flowers up close",
+      "Gentle pink peonies",
+      "White roses in a vase"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic vase, visible interior, realistic texture, DSLR",
+      "Ceramic vase, visible opening, ultra-realistic, DSLR.",
+      "Ceramic vase, ultra-realistic texture, open view",
+      "Ceramic vase, ultra-realistic texture, visible interior.",
+      "Ceramic vase, visible interior, DSLR quality.",
+      "Ultra-realistic vase, ceramic texture, open view.",
+      "Ceramic vase, realistic texture, open view",
+      "Ceramic vase, visible interior, DSLR clarity.",
+      "Vase, ultra-realistic ceramic, visible interior",
+      "Ceramic vase, ultra-realistic texture, open interior.",
+      "Ceramic vase, ultra-realistic, visible interior.",
+      "Realistic ceramic vase, ultra-realistic texture.",
+      "Ceramic vase, ultra-realistic texture, clear interior.",
+      "Ceramic vase, realistic texture, open view.",
+      "Ultra-realistic vase, ceramic texture, open inside.",
+      "Vase, ultra-realistic ceramic, visible inside.",
+      "Ceramic vase, realistic details, open interior.",
+      "Transparent vase, realistic surface, open view.",
+      "Vase, brown ceramic, realistic texture.",
+      "Blue vase, realistic texture, open view."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

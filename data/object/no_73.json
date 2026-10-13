@@ -1,0 +1,53 @@
+[
+  {
+    "id": 135,
+    "prompt": "a hospital room with no medical equipment",
+    "base_entity_biased_prompts": [
+      "Scuba diving equipment",
+      "Laboratory equipment in research lab",
+      "Robotics lab equipment",
+      "Laboratory testing machine",
+      "Photography equipment on a tripod.",
+      "Fishing reel and rods",
+      "Scuba gear underwater",
+      "Fishing reel and rod",
+      "Scuba gear laid out",
+      "Gym filled with exercise equipment.",
+      "Fishing rod reel",
+      "Bike mountain bike",
+      "Rowing machine detail",
+      "Sports fishing reel",
+      "Drum set cymbals",
+      "Scuba gear on floor",
+      "Hammer and nails nearby",
+      "A row of toolboxes.",
+      "Wind turbine blades",
+      "Robot arm assembling"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern hospital room, precise medical detail.",
+      "Beds, curtains, hospital lighting, realism.",
+      "Modern room, precise medical details.",
+      "Detailed ECG machine, realistic medical interior.",
+      "Bedroom feel, medical interior, sharp.",
+      "Modern hospital room, neat medical gear.",
+      "Modern hospital room, clean lines.",
+      "Modern hospital room, organized equipment, bright lights.",
+      "Modern hospital room, machines in order.",
+      "Medical equipment lined walls, precision lighting.",
+      "Modern hospital, precise layout, clarity.",
+      "Hospitals beds, detailed machines.",
+      "Spacious room, medical tools aligned.",
+      "Hospital room with monitors",
+      "A clean, organized hospital room.",
+      "Hospitals beds, precise angles.",
+      "Detailed medical machines on the wall.",
+      "Sterile environment, bright lights, organized.",
+      "Detailed nurses' station setup.",
+      "A clean, organized surgery room"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

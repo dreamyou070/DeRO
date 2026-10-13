@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a woman without a earings",
+    "base_entity_biased_prompts": [
+      "Earrings with feather details",
+      "Earrings with feathers",
+      "Earrings with intricate designs",
+      "Earrings with geometric shapes",
+      "Studded earrings with small spikes",
+      "Leather wrapped earrings",
+      "Silver studs in ears",
+      "Tasselled gold earrings",
+      "Earrings in the shape of leaves",
+      "Silver stud earrings on ear",
+      "Hoop earrings with enamel details.",
+      "Silver ear cuffs with beads",
+      "Leather wrapped hoop earrings",
+      "Emerald and gold earring set",
+      "Pear-shaped earrings with crystals",
+      "Copper stud earrings with beads",
+      "Silver stud earrings",
+      "Silver leaf shaped earrings",
+      "Hoop earrings with small crystals",
+      "Pearl and gold hoop earrings."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant East Asian woman, fair skin, black turtleneck, low ponytail",
+      "Elegant East Asian woman, fair skin, black turtleneck, tied-back",
+      "Elegant East Asian woman, fair skin, black turtleneck, low ponytail.",
+      "Fair skin, natural makeup, black turtleneck, minimalist backdrop",
+      "Elegant East Asian woman, fair skin, natural makeup",
+      "Elegant woman, dark ponytail, ultra-realistic photo.",
+      "East Asian woman, fair skin, black turtleneck, ponytail.",
+      "Close-up of a woman with detailed skin, black hair tied back.",
+      "A close-up of an elegant East Asian woman.",
+      "Elegant woman, black hair tied, turtleneck sweater, light gray studio.",
+      "Black turtleneck, soft strands face frame, realistic.",
+      "Elegant woman, fair skin, black turtleneck, soft hair.",
+      "Fair skin, black turtleneck, subtle makeup.",
+      "Elegant woman, black turtleneck, loose ponytail, gray backdrop.",
+      "Fair skin, black turtleneck, loose ponytail",
+      "Dark ponytail, soft hair framing.",
+      "Black turtleneck, calm expression, tilted head",
+      "Dark black hair, low ponytail, gray background",
+      "Dark hair, soft strands, light gray background.",
+      "Soft facial lighting, minimalist gray background."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

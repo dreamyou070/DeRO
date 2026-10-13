@@ -1,0 +1,53 @@
+[
+  {
+    "id": 249,
+    "prompt": "a wooden box with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a train compartment",
+      "Inside fancy restaurant厨房",
+      "Inside a tiny alcove",
+      "Inside spacious hall",
+      "Inside bustling restaurant",
+      "Inside grand hallway",
+      "Inside busy kitchen",
+      "Inside grand hall",
+      "Inside fancy restaurant",
+      "Inside old library",
+      "Inside busy cafe",
+      "Inside modern office space",
+      "Inside modern office",
+      "Inside cozy cabin",
+      "Inside sunny kitchen",
+      "Inside a fancy restaurant",
+      "Inside bustling restaurant kitchen",
+      "Inside a warm living room",
+      "Inside a busy kitchen",
+      "Inside busy subway, rush hour"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Interior of wooden box, wood grain texture, ultra-realistic, DSLR",
+      "Wooden box interior, realistic wood, ultra-realistic, DSLR",
+      "Box interior, wood grain visible, ultra-realistic DSLR.",
+      "Wooden box, interior texture, realistic wood grain, DSLR.",
+      "A wooden box, interior visible, realistic wood grain, DSLR.",
+      "Wooden box, interior view, realistic texture, DSLR.",
+      "Interior of wooden box, realistic textures, DSLR.",
+      "Wooden box interior, detailed textures, DSLR.",
+      "A wooden box, interior visible, wood grain, DSLR.",
+      "Wooden box interior, grain visible, hyper-realistic shot.",
+      "Wooden box interior, detailed grain, DSLR clarity.",
+      "Wooden box interior, realistic grain, ultra-real.",
+      "Box interior, wood grain, ultra-realistic.",
+      "A wooden box, interior visible, realistic wood grain.",
+      "A wooden box, interior visible, realistic texture.",
+      "Box with open interior, realistic wood grain texture.",
+      "Wooden box interior, realistic grain.",
+      "Wooden box, interior, realistic grain.",
+      "Box interior, realistic wood grain.",
+      "Interior of wooden box, realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

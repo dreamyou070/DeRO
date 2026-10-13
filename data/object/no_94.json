@@ -1,0 +1,53 @@
+[
+  {
+    "id": 156,
+    "prompt": "a garage with no vehicles",
+    "base_entity_biased_prompts": [
+      "Van with cargo",
+      "Emergency vehicle with sirens",
+      "SUVs parked outside",
+      "A fleet of delivery vans",
+      "Four-wheel drive off-roading.",
+      "Emergency vehicle with siren",
+      "Pickup truck with cargo",
+      "Minivan with kids",
+      "ATV in off-road terrain",
+      "A grey van with stickers",
+      "A motorhome on a road",
+      "A scooter parked outside",
+      "Race cars side by side",
+      "Minivan at gas station",
+      "Trucks unloading cargo",
+      "Vintage car at show",
+      "ATV in desert",
+      "A motorhome in a camping area.",
+      "A bus with advertisements",
+      "A futuristic flying car"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious garage, industrial detail, DSLR, realistic light",
+      "Spacious garage, industrial detail, DSLR clarity",
+      "Wide garage, industrial detail, realistic lighting, DSLR",
+      "Garage with work area, realistic details, DSLR.",
+      "Spacious garage, neat, industrial, DSLR, soft light",
+      "Spacious garage, machinery, DSLR, natural light",
+      "Garage, industrial decor, DSLR, dramatic light",
+      "Garage with equipment, realistic lighting, detail.",
+      "Spacious garage, industrial setup, precise detail",
+      "Garage interior, realistic, highly detailed.",
+      "Spacious garage, industrial lighting, detailed shelves",
+      "Spacious garage, realistic storage.",
+      "Realistic lighting in a spacious garage.",
+      "Spacious garage, industrial materials.",
+      "Spacious garage, industrial lighting, shelving details",
+      "Garage interior, industrial precision.",
+      "Garage, industrial vibe, clear workspace.",
+      "Wide garage, industrial storage space.",
+      "Industrial garage, precision in design.",
+      "Spacious garage, industrial shelving."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

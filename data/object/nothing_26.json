@@ -1,0 +1,53 @@
+[
+  {
+    "id": 193,
+    "prompt": "a restaurant counter with nothing placed on it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it’s a smartphone",
+      "a single book",
+      "a single key",
+      "a ring on a finger",
+      "a white cloud",
+      "a small mirror",
+      "a gray stone",
+      "it's a smiling face",
+      "a green leaf",
+      "an open window",
+      "a purple phone",
+      "it's a rainy day",
+      "it's a lone figure",
+      "a small boat in the mist",
+      "a small boat in mist",
+      "a busy kitchen with appliances"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Counter with napkins, realistic lighting, DSLR.",
+      "Concrete counter, realistic lighting, DSLR.",
+      "Counter with marble, realistic lighting, DSLR",
+      "Glass top counter, lights, realism, DSLR",
+      "Marble countertop, realistic light, DSLR",
+      "Concrete counter, interior illumination, DSLR detail",
+      "Plastic counter, vivid lighting, DSLR photo.",
+      "A polished wood counter, DSLR, high detail",
+      "Counter with marble top, soft lighting, DSLR.",
+      "Plastic counter, realistic shine, DSLR",
+      "Polished marble counter, soft spotlighting, DSLR.",
+      "Wood and metal counter, realistic lighting.",
+      "Granite counter, realistic details, bright lights.",
+      "Granite counter, realistic texture, soft shadows.",
+      "Wooden counter, ambient lighting, sharp focus.",
+      "Glass counter, high contrast shadows.",
+      "Stone counter, interior lighting highlights",
+      "Glass counter, soft shadows.",
+      "Stone counter, low key lighting.",
+      "Granite counter, warm lights."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

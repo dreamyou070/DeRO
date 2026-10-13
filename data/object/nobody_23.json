@@ -1,0 +1,53 @@
+[
+  {
+    "id": 419,
+    "prompt": "nobody crossing the road",
+    "base_entity_biased_prompts": [
+      "Road with roadblocks.",
+      "Road with motorcycle",
+      "Road leading to small town",
+      "Road with tire tracks.",
+      "Road with tire tracks",
+      "Road leading to mountains.",
+      "A road with bridges.",
+      "A road under construction.",
+      "A road leading to a village.",
+      "Road with road signs and trees.",
+      "Road leading to beach.",
+      "Road with reflections.",
+      "Road leading to small town.",
+      "A rural gravel road.",
+      "A dusty village road.",
+      "A scenic countryside road.",
+      "Mountain pass with road.",
+      "Road through autumn leaves.",
+      "Coastal road with waves.",
+      "Curvy road in autumn leaves."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Lane-marked intersection, peaceful, ultra-realistic DSLR",
+      "A quiet road intersection, DSLR clarity",
+      "A quiet road intersection, DSLR clarity.",
+      "Road intersection, quiet, high-res DSLR",
+      "Lane-marked intersection, peaceful, DSLR",
+      "Quiet road junction, lane lines visible, DSLR",
+      "A quiet street intersection, DSLR clarity",
+      "Quiet street, intersection, DSLR realism",
+      "Quiet intersection, clear details, DSLR.",
+      "A quiet intersection, DSLR, sharp focus",
+      "Intersection serene, markings visible, DSLR",
+      "Quiet intersection, clear markings, DSLR",
+      "A quiet street intersection, DSLR, sharp focus",
+      "Lane markings visible, quiet, DSLR shot",
+      "Lane markings, calm intersection, DSLR",
+      "Quiet intersection, sharp DSLR focus",
+      "Quiet corner, lane markings clear, DSLR",
+      "Wide shot of quiet intersection",
+      "City intersection with cars, DSLR",
+      "Quiet street intersection, clear markings"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

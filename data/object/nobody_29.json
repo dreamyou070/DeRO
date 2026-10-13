@@ -1,0 +1,53 @@
+[
+  {
+    "id": 425,
+    "prompt": "nobody standing in the parking lot",
+    "base_entity_biased_prompts": [
+      "A vegetable lot种满蔬菜的菜园",
+      "A field of lots.",
+      "A clothing lot with various items.",
+      "A busy market lot",
+      "A busy construction site lot.",
+      "Truck lot with many vehicles.",
+      "A spacious market lot.",
+      "A collection of violins in a lot.",
+      "Many old books in a lot.",
+      "A pile of bricks in a construction lot.",
+      "Lots of tickets on stand",
+      "Boxes of lotto tickets.",
+      "A market lot with vegetables.",
+      "A large parking lot.",
+      "A pile of lots of wood.",
+      "Lot of cards laid out",
+      "Lots of cars in parking lot",
+      "Lot of cars in parking",
+      "A large parking lot with cars.",
+      "Lot of cars parked"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Parking lot, clearly visible lines, open spaces, DSLR realism",
+      "Parking lot, marked lines visible, ultra-realistic DSLR",
+      "Parking lot, clear markings, vivid DSLR",
+      "Ultra-realistic shot of a well-marked parking lot.",
+      "Open parking lot, visible lines, DSLR quality.",
+      "Clear markings, open lots, ultra-realistic shot",
+      "Marked parking spaces, open lot, DSLR clarity.",
+      "Well-lit, open parking lot, DSLR image.",
+      "Open parking lot, clear lines, DSLR shot.",
+      "Wide parking area, DSLR realism.",
+      "Parking spaces, open, marked distinctly, DSLR.",
+      "Parking lot, open, visible lines, DSLR.",
+      "Wide parking spaces, clearly defined, DSLR.",
+      "Detailed parking lot, real photo.",
+      "Ultra-realistic parking scene, open spots.",
+      "Realistic shot of a parking lot.",
+      "Open parking, distinct markings, ultra-real.",
+      "Ultra-realistic, open parking area.",
+      "Open parking lot, markings very clear.",
+      "Parking lot with clear, sharp markings."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 234,
+    "prompt": "a mailbox with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a subway station",
+      "Inside a historic museum",
+      "Inside busy kitchen",
+      "Inside grand hall",
+      "Inside busy restaurant",
+      "Inside spacious office building",
+      "Inside a bustling restaurant",
+      "Inside a spacious hallway",
+      "Inside a historical museum",
+      "Inside busy café",
+      "Inside modern office building",
+      "Inside modern office",
+      "Inside a abandoned house",
+      "Inside sparkling aquarium tank",
+      "Inside spacious studio",
+      "Inside a fancy restaurant",
+      "Inside a busy mall",
+      "Inside cozy living room",
+      "Inside an old library",
+      "Inside busy train station"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Metallic mailbox, interior details, ultra-realistic texture, DSLR.",
+      "Mailbox interior, metallic texture, realistic detail, DSLR.",
+      "Mailbox, interior visible, realistic metallic, DSLR.",
+      "Metallic mailbox, interior visible, DSLR quality.",
+      "Mailbox, interior detailed, metallic texture, DSLR.",
+      "Metallic mailbox, interior shown, DSLR quality.",
+      "Metallic mailbox, interior exposed, DSLR quality.",
+      "Mailbox with visible interior, metallic surface, DSLR.",
+      "Metallic mailbox, interior clearly visible, DSLR",
+      "Metal mailbox, interior shown, ultra-realistic texture",
+      "Metallic mailbox, interior shown, ultra-realistic.",
+      "Interior of metal mailbox, ultra-realistic.",
+      "Metal mailbox, interior view, ultra-realistic.",
+      "Metal mailbox interior, ultra-realistic.",
+      "Ultra-realistic mailbox, interior revealed.",
+      "Metallic mailbox, realistic texture.",
+      "Metallic mailbox, realistic interior detail.",
+      "Mailbox with visible interior, metallic texture.",
+      "Mailbox interior, realistic metal details.",
+      "Shiny mailbox, metallic texture, interior view."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

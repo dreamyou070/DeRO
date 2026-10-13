@@ -1,0 +1,53 @@
+[
+  {
+    "id": 283,
+    "prompt": "a mug without a handle",
+    "base_entity_biased_prompts": [
+      "Handle of a bike",
+      "Handle of a bicycle",
+      "Handle of a bag",
+      "Handle of a camera",
+      "A hand grip handle.",
+      "Handle of a water bottle",
+      "Handle of a kitchen knife",
+      "A stainless steel handle.",
+      "A rubber grip handle.",
+      "A window handle.",
+      "A handle of a kitchen knife.",
+      "A camera lens handle.",
+      "A plastic lid handle.",
+      "A kitchen drawer handle.",
+      "A stainless steel cabinet handle.",
+      "A kitchen knife with a handle.",
+      "A leather glove with a handle.",
+      "A metal tool handle.",
+      "A tennis racket with a handle.",
+      "A glass jar lid handle."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Curved glass mug, ultra-realistic photography",
+      "Curved stainless mug, DSLR, ultra-realistic",
+      "Glass mug, DSLR ultra-realism",
+      "A smooth ceramic mug, DSLR ultra-realism",
+      "Smooth glass mug, realistic finish, DSLR",
+      "Mug, smooth curves, lifelike texture, DSLR.",
+      "Smooth plastic mug, detailed texture, DSLR",
+      "Smooth glass mug, hyper-realistic clarity, DSLR.",
+      "Mug, smooth curves, ultra-realistic texture.",
+      "Glossy ceramic mug, hyper-realistic DSLR.",
+      "Curved metal mug, ultra-realistic texture.",
+      "Mug, curved design, realistic texture, high-res.",
+      "A ceramic mug, smooth curves, realistic texture, ultra-realistic photo.",
+      "Mug with glossy surface, ultra-realistic photo.",
+      "Smooth glass mug, ultra-realistic texture.",
+      "Earthen mug, textured surface, DSLR",
+      "Ceramic mug, realistic glaze, DSLR clarity.",
+      "Glass mug, smooth curves, realistic texture.",
+      "Porcelain mug, curved top, realistic texture.",
+      "Earthenware mug, curved surface, realistic feel."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

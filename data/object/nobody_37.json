@@ -1,0 +1,53 @@
+[
+  {
+    "id": 433,
+    "prompt": "nobody inside the office",
+    "base_entity_biased_prompts": [
+      "Office with art",
+      "Office with sofa and chairs",
+      "Office with comfortable seating",
+      "Office with a reception area",
+      "Office with meeting area",
+      "Office with filing cabinets",
+      "Office with meeting room",
+      "Office with sleek furniture",
+      "Office with cozy corner",
+      "Office with window seats",
+      "Professional office with chairs",
+      "Professional office environment",
+      "Office with printer",
+      "Office with a view of city",
+      "Office with conference room",
+      "Office with cozy corners",
+      "Office with whiteboards and chairs",
+      "Office with ergonomic chairs",
+      "Office with cozy armchairs",
+      "Modern office with desks"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Tidy office desks, busy screens, ultra-realistic DSLR",
+      "An office with tidy desks, active screens, DSLR sharpness",
+      "Organized office, active screens, DSLR clarity.",
+      "Organized desks, active screens, DSLR view.",
+      "Neat office, screens active, DSLR.",
+      "Desk rows, screens active, DSLR quality.",
+      "Rows of desks, screens dynamic, DSLR shot",
+      "Neat desks, busy screens, crisp DSLR shot.",
+      "Desks orderly, screens active, DSLR quality.",
+      "Modern office, active screens, precise shot",
+      "Tidy desks, bright screens, DSLR shot.",
+      "Ultra-realistic office desks, active screens",
+      "Neat desks, screens active, detailed shot.",
+      "Neat desks, active screens, ultra-realism.",
+      "Neat desks, screens active, ultra-realistic.",
+      "An office desk, neatly organized, DSLR",
+      "Desk rows, screens flicker, DSLR.",
+      "Desk array, screens aglow, ultra-real.",
+      "Neat offices, active monitors, sharp",
+      "Structured desks, busy screens."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

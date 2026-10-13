@@ -1,0 +1,53 @@
+[
+  {
+    "id": 310,
+    "prompt": "a phone without buttons",
+    "base_entity_biased_prompts": [
+      "Black and red button",
+      "Gray cloth button",
+      "Black and white button",
+      "Gray pearl button",
+      "Dark red like button",
+      "Red cloth button",
+      "Blue flat button",
+      "Red velvet button",
+      "Gray flat button",
+      "Black flat button",
+      "Red rubber button",
+      "Flat black button",
+      "Maroon flat button",
+      "Blue velvet button",
+      "Light brown favorite button",
+      "Maroon press button",
+      "Blue round button",
+      "Green rectangular button",
+      "Red plastic button",
+      "Red round button"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Minimalist smartphone, smooth front, ultra-realistic DSLR",
+      "Smartphone with smooth front, clean design, DSLR realism.",
+      "Minimalistic smartphone, smooth front, ultra-realistic DSLR.",
+      "Smooth smartphone, minimal design, ultra-realistic DSLR.",
+      "Smooth smartphone front, minimal design, DSLR realism.",
+      "Clean design smartphone, DSLR realism.",
+      "Minimal smartphone design, smooth front, DSLR realism.",
+      "Smooth smartphone, minimalist, ultra-realistic DSLR.",
+      "Glass front smartphone, clean design, ultra-realistic DSLR.",
+      "Smartphone, smooth front, clean design, DSLR realism.",
+      "Minimalist smartphone, smooth panel, DSLR detail.",
+      "Minimal design smartphone, smooth front, DSLR detail.",
+      "Smartphone with sleek design, smooth front, DSLR clarity.",
+      "Minimalist smartphone, smooth front, DSLR clarity.",
+      "Glossy smartphone front, clean design, DSLR realism.",
+      "Smartphone with glass, sleek design, DSLR realism.",
+      "Smartphone with smooth glass front, clean design, DSLR.",
+      "Minimalist phone, ultra-realistic DSLR.",
+      "Smartphone front glass, minimalist, smooth, DSLR.",
+      "Smooth glass smartphone front, clean design, DSLR."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

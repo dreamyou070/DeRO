@@ -1,0 +1,53 @@
+[
+  {
+    "id": 59,
+    "prompt": "a cake missing frosting",
+    "base_entity_biased_prompts": [
+      "Frosting on a donut.",
+      "Frosting on a birthday cake",
+      "Strawberry shortcake frosting.",
+      "Frosting on a sugar cookie",
+      "Frosting dots on donuts",
+      "Creamy frosting between cake layers",
+      "Frosted donut with glaze.",
+      "Creamy frosting between layers of cake",
+      "Frosting hearts for Valentine’s day",
+      "Glowing red frosting on dessert",
+      "Glossy blue frosting on a cupcake",
+      "Frosted éclairs in a row",
+      "Frosted cake with candy decorations",
+      "Frosting swirls form the design.",
+      "Frosting hearts on Valentine's dessert",
+      "Frosting swirls on a cupcake.",
+      "Frosting feathers on the dessert.",
+      "Creamy frosting between cookies",
+      "Frosting leaves decorate the treat.",
+      "Frosting drizzled down a vanilla cake"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cake with smooth frosting, ultra-realistic DSLR",
+      "Smooth frosting cake, ultra-realism, DSLR.",
+      "A smooth frosting cake, DSLR, hyper-realistic.",
+      "Ultra-realistic cake, DSLR quality.",
+      "Frosting texture, cake photo, ultra-real.",
+      "Frosting-smooth cake, ultra-realistic texture",
+      "Vanilla cake, smooth frosting, DSLR detail.",
+      "Frosted cake, ultra-realistic texture.",
+      "Frosting on cake, ultra-realistic texture.",
+      "Chocolate cake, smooth frosting, DSLR.",
+      "Cake with frosting, ultra-realistic.",
+      "Vanilla cake, smooth white frosting, DSLR.",
+      "Cake slice, smooth frosting, DSLR.",
+      "Ultra-realistic vanilla cake, smooth frosting",
+      "Chocolate cake, ultra-realistic frosting details.",
+      "Tiered cake, smooth frosting, close shot.",
+      "Beautifully frosted birthday cake, ultra-realistic.",
+      "Pound cake, smooth frosting, ultra-realistic.",
+      "Layered cake, buttercream frosting details.",
+      "Smooth frosting on an olive oil cake."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

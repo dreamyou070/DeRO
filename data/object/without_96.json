@@ -1,0 +1,53 @@
+[
+  {
+    "id": 343,
+    "prompt": "a bed without pillows",
+    "base_entity_biased_prompts": [
+      "pillows with different colors",
+      "pillows with different sizes",
+      "pillows with stars",
+      "pillow in living room",
+      "Pillows in hotel room",
+      "Pillow for reading",
+      "Pillow under head",
+      "Pillows in hotel bedroom",
+      "Patterned pillows on sofa",
+      "Gray fluffy pillow",
+      "pillow with bow",
+      "Pillow with tufted design",
+      "pillow behind sofa",
+      "Pillow stuffed with feathers",
+      "White down pillow",
+      "Pillow with feather design",
+      "pillow in pastel colors",
+      "pillow in a hotel room",
+      "pillow between books",
+      "Lavender pillow with embroidery"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Chocolate chip cookie, DSLR quality",
+      "Gingerbread cookie, ultra-realistic close-up.",
+      "Rich chocolate chip cookie, ultra-sharp photo",
+      "Caramel drizzled cookie with realism",
+      "A crisp shortbread cookie, ultra-realistic.",
+      "Textured cinnamon cookie closeup",
+      "Cinnamon swirl cookie, realistic texture",
+      "Raspberry thumbprint cookie, realistic.",
+      "Textured shortbread cookie特写",
+      "Caramel swirl cookie, melt-in-mouth texture.",
+      "Crispy sugar cookie, light golden hue",
+      "Macaron cookie, glossy shell, vibrant colors.",
+      "Elastic doughnut hole cookie",
+      "Melt-in-your-mouth peanut butter cookie.",
+      "Olive oil cookie, rustic look.",
+      "Rich chocolate cookie with a crispy edge.",
+      "Gooey marshmallow cookie with cracks",
+      "Fudgy brownie cookie",
+      "A golden brown chocolate chip cookie",
+      "A golden chocolate chip cookie, perfectly baked."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

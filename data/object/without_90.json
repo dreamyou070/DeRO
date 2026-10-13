@@ -1,0 +1,53 @@
+[
+  {
+    "id": 337,
+    "prompt": "a bakery without bread",
+    "base_entity_biased_prompts": [
+      "Fresh loaf of bread",
+      "Whole wheat bread loaf",
+      "A loaf of fresh bread.",
+      "artisanal bread loaf",
+      "Whole grain bread loaf",
+      "Fresh loaf of whole wheat bread",
+      "Artisan bread loaf",
+      "Multigrain bread loaf",
+      "Baked bread in oven",
+      "Freshly baked bread loaf",
+      "Freshly baked loaf",
+      "Whole wheat sandwich bread",
+      "Fresh slice of bread",
+      "White bread with butter",
+      "Grainy whole wheat loaf",
+      "French bread with olive oil",
+      "French bread with garlic",
+      "Whole wheat loaf open",
+      "Fresh slice of whole grain bread",
+      "Whole grain toast"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bus body, ultra-realistic, DSLR photo",
+      "Bus in ultra-realistic photo, reflections vivid",
+      "Reflective bus, hyper-realistic, DSLR",
+      "A shiny bus, ultra-realistic, DSLR.",
+      "Bus gleams, ultra-real, DSLR clarity",
+      "Urban bus, shiny exterior, DSLR detail",
+      "A shiny bus, DSLR, sharp details",
+      "Reflective bus body, crisp shadows, DSLR.",
+      "Bus exterior, high detail, ultra-realistic.",
+      "Lime green bus, realistic reflections, DSLR.",
+      "Bus window reflection, ultra-realistic",
+      "Bus interior, reflective surfaces, realism",
+      "Modern bus, reflective windows, ultra-realistic texture.",
+      "Bus exterior, vivid realism, shiny surfaces.",
+      "Bus exterior, high-resolution clarity.",
+      "Urban bus, glossy body, high-resolution clarity.",
+      "A metallic bus, detailed, reflective surface",
+      "City bus, reflective windows, crisp photo",
+      "Vintage bus, realistic textures.",
+      "Bus exterior, daytime sun, sharpness."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

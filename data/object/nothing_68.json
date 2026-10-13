@@ -1,0 +1,53 @@
+[
+  {
+    "id": 235,
+    "prompt": "a toolbox with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside colorful room",
+      "Inside historic museum",
+      "Inside fancy restaurant interior",
+      "Inside quiet room",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside a spacious hallway",
+      "Inside fancy restaurant",
+      "Inside spacious kitchen",
+      "Inside old library",
+      "Inside a spacious hall",
+      "Inside bustling mall",
+      "Inside modern office building",
+      "Inside modern office",
+      "Inside a busy restaurant",
+      "Inside cozy cabin",
+      "Inside a fancy restaurant",
+      "Inside a busy kitchen",
+      "Inside a grand hall",
+      "Inside a historic church"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open toolbox, realistic materials, DSLR",
+      "Open toolbox, metal and wood, realistic, DSLR",
+      "Toolbox with tools, realistic, DSLR",
+      "Toolbox, open, hinges, realistic, DSLR",
+      "Plastic toolbox, open, realistic, DSLR",
+      "Wooden toolbox, open, realistic, DSLR",
+      "Open toolbox, metal frame, realistic textures, DSLR",
+      "Open toolbox, interior detail, wood grain, DSLR",
+      "Open toolbox, metal interior, wood details, DSLR",
+      "Open toolbox, metallic interior, DSLR",
+      "Open toolbox, steel interior, DSLR",
+      "Open toolbox, interior details, metal, wood, glass, DSLR",
+      "Metal toolbox interior, DSLR shot",
+      "Open toolbox, realistic materials",
+      "Open toolbox, bolts, ultra-realistic",
+      "Wooden toolbox, open, realistic details",
+      "Toolbox interior, realistic, tools, wood.",
+      "Open toolbox, interior details, metallic texture",
+      "Toolbox open, plastic gears, realistic texture",
+      "Toolbox, open, interior,"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

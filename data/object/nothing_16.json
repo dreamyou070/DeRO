@@ -1,0 +1,53 @@
+[
+  {
+    "id": 183,
+    "prompt": "a computer desk with nothing on it",
+    "base_entity_biased_prompts": [
+      "a phone it",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a hat",
+      "it's a secret",
+      "a single ring",
+      "it's a library book",
+      "a silver ring",
+      "it’s a rainy day",
+      "it's a smiling face",
+      "a green leaf",
+      "it's a ancient book",
+      "it's a rainy day",
+      "it's a green leaf",
+      "it's a lone figure",
+      "it's a mountain peak"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden desk, realistic textures, DSLR.",
+      "Wood desk, tech setup, realistic textures.",
+      "Shiny desk surface with keyboard, mouse, and phone.",
+      "Desktop with monitor, keyboard, and office decor.",
+      "Office desk with art prints and tech gear.",
+      "Modern desk setup with tech gadgets and paperwork.",
+      "Desk setup with plants and tech equipment.",
+      "Desk with computer, printer, and framed photos.",
+      "Keyboard, mouse, and framed photos.",
+      "Glossy keyboard, desk, tech setup.",
+      "Lighting setup, desk, tech equipment.",
+      "Tech-savvy desk with multiple screens.",
+      "A cluttered desk with tech, wood grain texture.",
+      "Modern desk with laptop, phone, and glasses.",
+      "A desk with a full view of a cityscape.",
+      "A desk with a full-size keyboard, mouse.",
+      "Wood grain desk with tech gadgets and cables.",
+      "Bookshelf, computer, and office chair.",
+      "File folders, notebooks, ergonomic setup, desk.",
+      "Desk with printer, folders, and scattered documents."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

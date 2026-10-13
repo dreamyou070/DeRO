@@ -1,0 +1,53 @@
+[
+  {
+    "id": 64,
+    "prompt": "a kitchen table with no fruit",
+    "base_entity_biased_prompts": [
+      "Tomatoes as fruit.",
+      "An assortment of colorful fruits.",
+      "A kiwi fruit",
+      "A tray of different fruits",
+      "A platter of fruit",
+      "A tray of assorted fruits",
+      "A red tomato as fruit",
+      "A basket of mixed fruits",
+      "Fruit platter mixed",
+      "Fruit salad with variety",
+      "A ripe apple",
+      "A red apple",
+      "Tomatoes as pseudo-fruits",
+      "Fruit salad mixed well",
+      "Fruit salad mix",
+      "A juicy red apple",
+      "Tomatoes looking like fruit",
+      "A pile of kiwi fruit",
+      "An orange citrus segment",
+      "A juicy watermelon slice"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wood kitchen table, realistic texture, indoor light, DSLR.",
+      "Wood grain kitchen table, indoor lights, ultra-realistic DSLR",
+      "Wood table, kitchen, realistic lighting, DSLR",
+      "Wooden table, kitchen, realistic, indoor light, DSLR",
+      "Real wood kitchen table, indoor DSLR shot",
+      "Realistic wood table, kitchen setting, DSLR",
+      "Realistic wood table, indoor lighting, DSLR.",
+      "Wood grain kitchen table, ultra-realistic shot",
+      "Wooden kitchen table, texture realism, indoor illumination.",
+      "A wooden kitchen table, DSLR, indoor light",
+      "Kitchen table, wood texture, DSLR",
+      "Wooden kitchen table, indoor light, ultra-realistic.",
+      "Table with wood texture, indoor light, DSLR",
+      "Wooden kitchen table, realistic texture, indoor lighting effect.",
+      "Wood kitchen table, DSLR quality, soft light.",
+      "Wood kitchen table, realistic texture, indoor lighting.",
+      "Kitchen table, realistic wood, indoor light",
+      "Wooden kitchen table, realistic texture, lights",
+      "Wooden table, kitchen scene, realistic lighting",
+      "Oak table, realistic texture, studio light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

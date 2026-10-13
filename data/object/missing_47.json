@@ -1,0 +1,53 @@
+[
+  {
+    "id": 47,
+    "prompt": "a phone missing a screen",
+    "base_entity_biased_prompts": [
+      "Screen of a video game",
+      "A desktop computer screen",
+      "A screen displaying a movie",
+      "Video game console screen",
+      "A projector screen with a presentation",
+      "TV screen with movie",
+      "A computer screen with open windows.",
+      "A screen grab of a video game",
+      "A computer screen with multiple windows.",
+      "Computer screen with code.",
+      "A screen reflecting a room.",
+      "Projector screen with a presentation",
+      "A digital photo frame screen with images.",
+      "Screen of a digital clock",
+      "TV screen with sports channel",
+      "Game console screen with controls.",
+      "Screen print of abstract art",
+      "TV screen playing movie",
+      "Projection screen in theater",
+      "A large touchscreen monitor."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy bedroom, DSLR, realistic",
+      "A cozy bedroom, DSLR, realism",
+      "A cozy bedroom, DSLR, realistic.",
+      "A spacious bedroom, DSLR, soft lighting",
+      "Modern bedroom, sleek furniture, DSLR.",
+      "Elegant bedroom, furniture, DSLR.",
+      "Sofa, bedroom, ultra-realistic.",
+      "Elegant nightstand, DSLR, realistic",
+      "Large bed, detailed, DSLR shot",
+      "A cozy bedroom with detailed furniture.",
+      "Modern bedroom, sleek furniture, cozy ambiance.",
+      "Modern bedroom with sleek furniture, soft lighting.",
+      "Modern bedroom with sleek furniture, comfortable mattress.",
+      "Bedroom design, full bed, nightstand, warm lighting, serenity.",
+      "Warm-toned bedroom ambiance.",
+      "Realistic wooden dresser with drawers.",
+      "Warmly lit bedroom at dusk.",
+      "Modern sofa, coffee table, warm lighting.",
+      "Minimalist decor, spacious room.",
+      "Modern dresser with open drawers."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

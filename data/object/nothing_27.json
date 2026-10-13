@@ -1,0 +1,53 @@
+[
+  {
+    "id": 194,
+    "prompt": "a movie theater screen with nothing playing",
+    "base_entity_biased_prompts": [
+      "Playing musical instruments",
+      "Playing video games",
+      "Playing with toys",
+      "People play musical instruments.",
+      "Group playing instruments",
+      "Friends playing catch",
+      "People playing video games",
+      "Group playing musical instruments",
+      "Group playing musical chairs",
+      "Playing catch in park",
+      "Group playing tag",
+      "Playing catch in the park",
+      "Group playing cards outdoors",
+      "Students playing instruments",
+      "Friends playing video games",
+      "Kids playing with toys",
+      "People playing cards outdoors",
+      "Friends playing cards outdoors",
+      "Group playing cards",
+      "Family playing board games"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cinema screen, ultra-realistic, DSLR photography.",
+      "Ultra-realistic cinema screen, DSLR clarity.",
+      "Theater screen, ultra-realistic imaging.",
+      "Realistic theater screen, DSLR detail.",
+      "Ultra-realistic photography, theater screen.",
+      "Ultra-realistic screen, movie theater.",
+      "Ultra-realistic movie display.",
+      "Theater screen, ultra-realistic visuals.",
+      "Theater screen, ultra-realistic, vivid colors.",
+      "Ultra-realistic photography of a screen.",
+      "HDR-enhanced movie theater screen.",
+      "Ultra-sharp image on a movie theater screen.",
+      "Cinema screen illuminates, realistic display, DSLR photo.",
+      "Ultra-sharp images on a theater screen.",
+      "Ultra-realistic screen, DSLR detail.",
+      "High-resolution image of movie theater screen.",
+      "Ultra-sharp image, movie theater screen.",
+      "Screen with realistic projection, DSLR.",
+      "Ultra-realistic images on a screen.",
+      "Cinematic glow on an ultra-realistic screen."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

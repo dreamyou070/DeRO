@@ -1,0 +1,53 @@
+[
+  {
+    "id": 420,
+    "prompt": "nobody standing beside the bicycle",
+    "base_entity_biased_prompts": [
+      "Bicycle with a basket.",
+      "A bicycle in a cityscape.",
+      "Bicycle with a tandem seat.",
+      "Bicycle with training wheels.",
+      "Bicycle with panniers and basket.",
+      "A bicycle with pillion seat.",
+      "Bicycle with colorful decals.",
+      "Bicycle with shiny gears.",
+      "Bicycle with tandem seats.",
+      "Bicycle with a basket, front view.",
+      "Bicycle with a child seat attached.",
+      "A bicycle with a sidecar attachment.",
+      "Bicycle with basket and helmet.",
+      "Bicycle with colorful streamers.",
+      "Bicycle with basket and umbrella.",
+      "Yellow bicycle with basket.",
+      "A bicycle with a sidecar attached.",
+      "Bicycle with a basket for groceries.",
+      "Bicycle with a basket and umbrella.",
+      "A yellow bicycle with a basket."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bicycle on clear grass, DSLR realism.",
+      "Bicycle with clear background, DSLR.",
+      "Bicycle in bright open area, DSLR.",
+      "Open area, bicycle, DSLR clarity.",
+      "A bicycle by a field, DSLR clarity",
+      "Bicycle by open field, DSLR clarity",
+      "Field with bicycle, ultra-realistic shot.",
+      "Open area with bicycle, detailed shot.",
+      "Open field with bike, DSLR detail",
+      "Open area, bike in ultra-realistic photo.",
+      "Open space, bicycle, ultra-realistic",
+      "Bicycle against clear blue sky, DSLR",
+      "Wide shot of bicycle in open space.",
+      "Bicycle in park, ultra-real photo.",
+      "Bicycle against clear sky, detailed shot.",
+      "Bicycle and grass, realistic photo.",
+      "Open field, bicycle in focus.",
+      "Open space, bicycle, ultra-realism.",
+      "Bicycle in wide open space, vivid.",
+      "Path meets bike, perfect DSLR shot."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

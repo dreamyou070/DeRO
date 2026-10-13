@@ -1,0 +1,53 @@
+[
+  {
+    "id": 305,
+    "prompt": "a tree without leaves",
+    "base_entity_biased_prompts": [
+      "Leaves of various colors",
+      "Leaves in various shades",
+      "Leaves on a stem",
+      "Leaves under sunlight",
+      "Leaves in dew",
+      "Leaves in a forest",
+      "Leaves of various colors mixed",
+      "Vegetable garden leaves",
+      "Leaves on a path",
+      "Leaves on a bush",
+      "Leaves in early spring",
+      "Lush forest leaves",
+      "Brown fallen leaves",
+      "Silhouette of leaves",
+      "Leaves with morning dew",
+      "Leaves in early morning",
+      "Leaves of cherry blossom tree",
+      "Dew-covered morning leaves",
+      "Leaves under magnifying glass",
+      "Foliage leaves dense green"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A tall tree, branches reaching skyward, DSLR, ultra-realistic",
+      "A tall tree, branches reaching skyward, ultra-realistic DSLR",
+      "A towering tree, branches reaching skyward, ultra-realistic DSLR.",
+      "Tall tree, branches extended, DSLR detail.",
+      "Tree towering, branches reaching, DSLR quality.",
+      "Ultra-realistic shot of towering tree branches.",
+      "Branches stretching high, DSLR clarity.",
+      "Tall tree, branches reaching for sky, realism.",
+      "A tall tree reaching skyward, ultra-realistic",
+      "Detail of a tall tree with skyward branches.",
+      "Wide shot of tree branches stretching high.",
+      "High resolution of branching, towering tree.",
+      "Branches extending into bright sky.",
+      "A towering tree, branches reaching skyward, sharp focus.",
+      "A towering tree, branches reaching skyward.",
+      "High-angle shot, branches ascending.",
+      "Ultrarealistic birch, branches soaring high.",
+      "Tree against blue sky, branches prominent.",
+      "A tall oak, branches reaching skyward.",
+      "Trunk wide, fine branches high."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

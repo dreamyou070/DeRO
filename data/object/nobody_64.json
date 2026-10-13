@@ -1,0 +1,53 @@
+[
+  {
+    "id": 460,
+    "prompt": "nobody inside the supermarket",
+    "base_entity_biased_prompts": [
+      "Supermarket aisle with bright colors",
+      "Supermarket entrance sign",
+      "Grocery checkout lane",
+      "Floral arrangements in supermarket",
+      "Shopping cart filled with groceries",
+      "Shopping cart full of groceries",
+      "Grocery checkout with bags",
+      "Pet food aisle",
+      "Dairy aisle with milk",
+      "Snack aisle with crackers",
+      "Shopping carts filled with groceries",
+      "Bread aisle with various loaves",
+      "Pantry staples in aisles",
+      "Bread aisle with loaves",
+      "Snack aisle with chips and crackers",
+      "Bakery with bread and cakes",
+      "Bakery section with bread",
+      "Bakery with bread and pastries",
+      "Fresh fruits and vegetables",
+      "row of canned goods"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Supermarket shelves, bright lights, DSLR realism",
+      "Supermarket shelves, bright lights, DSLR clarity",
+      "Supermarket shelves, brightly lit, DSLR clarity.",
+      "Shelves filled with goods, bright lights, DSLR realism",
+      "Shelves stocked, bright lights, DSLR realism",
+      "Brightly lit grocery aisle, DSLR quality.",
+      "A neatly stocked grocery aisle, bright lights, DSLR clarity.",
+      "Shelves filled with produce, bright lights, DSLR realism",
+      "Shelves filled, bright lights, DSLR realism",
+      "Aisle of fresh produce, bright lights, DSLR realism",
+      "Supermarket, bright indoor lighting, tidy shelves.",
+      "A neatly stacked grocery aisle, DSLR clarity",
+      "A wide aisle, neatly stacked shelves, bright lights, DSLR clarity.",
+      "Organized grocery shelves, sunlight beams, DSLR",
+      "Aisle with fresh produce, vibrant lights, DSLR clarity.",
+      "Grocery store, organized aisles, stark light.",
+      "A brightly lit, organized supermarket aisle",
+      "A well-lit supermarket, shelves neatly arranged.",
+      "Grocery store, shelves well-lit.",
+      "Tidy grocery store, bright, organized."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 432,
+    "prompt": "nobody sitting beside the window",
+    "base_entity_biased_prompts": [
+      "A window with a view.",
+      "Window in a cozy room.",
+      "Window with cracked glass.",
+      "A window in an old building",
+      "Window with raindrops.",
+      "A small pane window.",
+      "A window with morning sunlight.",
+      "A window in a Victorian house.",
+      "Window with falling leaves",
+      "Window with colorful curtains.",
+      "A window with raindrops",
+      "Window on a historic building.",
+      "Windows in a contemporary building.",
+      "Window with raindrops on the glass.",
+      "Window with colorful stained glass designs.",
+      "A window with raindrops on the glass.",
+      "Windows with morning sunlight streaming through.",
+      "A window with a view of mountains.",
+      "Windows with decorative shutters",
+      "Windows with frosted glass panes."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Window sunlight, chair in focus.",
+      "Natural light fills room; chair by window.",
+      "Chair by window, bright natural light.",
+      "Chair near window, bright natural light.",
+      "Chair beside window, natural light.",
+      "A chair near a big window, natural illumination.",
+      "Modern chair near giant window, natural light.",
+      "Chair next to window, natural light.",
+      "Chair near window, natural light.",
+      "Modern chair near large window, sunlight.",
+      "Chair by window, sunlight highlights details.",
+      "Chair in front of big window, sunlight.",
+      "Chair by expansive window, natural light glowing.",
+      "A sleek chair beside a wide window, natural light.",
+      "A beige chair near a large window, natural light.",
+      "Fabric chair by large window, natural brightness.",
+      "Orange chair beside window, natural sunlight.",
+      "A blue chair next to a huge window, natural light.",
+      "A pale green chair next to a huge window, natural light.",
+      "A gray chair near a large window, natural light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 24,
+    "prompt": "a soccer field missing goals",
+    "base_entity_biased_prompts": [
+      "Reading a book of goals",
+      "Playing soccer for a goal",
+      "Reading a book with a goal marker",
+      "Writing a to-do list",
+      "Winning soccer match",
+      "Reading motivational book",
+      "Meditating with a goal poster",
+      "Solving puzzle piece",
+      "Training with weights",
+      "Organizing a charity event",
+      "Gathering science fair project",
+      "Writing in a detailed plan",
+      "Climbing to the summit",
+      "Running towards a finish line",
+      "Starting a business plan",
+      "Setting up a science experiment",
+      "Solving a complex puzzle",
+      "Writing in a journal",
+      "Building a sandcastle",
+      "Building a robot model"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern hospital room, orderly, realistic detail, DSLR",
+      "A neat hospital room, DSLR",
+      "Medical room, ultra-realistic.",
+      "A neatly arranged hospital room, DSLR.",
+      "Modern hospital room, DSLR focus.",
+      "A tidy hospital room, DSLR clarity",
+      "Modern hospital decor, DSLR sharpness",
+      "Organized hospital room, modern medical furniture.",
+      "Modern hospital room, organized furniture.",
+      "Detailed medical room, orderly, realistic.",
+      "Sterile room, beds, IV stands, ultra-real.",
+      "Modern hospital room, tidy, medical gear.",
+      "Hospital bed, medical supplies, realism.",
+      "Tidy hospital room, medical equipment visible",
+      "Modern hospital room, organized desks.",
+      "A tidy hospital room, medical equipment visible.",
+      "Hospital room, medical supplies in place.",
+      "Hospitals beds, precise lighting details",
+      "A clean, organized hospital room.",
+      "Organized hospital bed with linens"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

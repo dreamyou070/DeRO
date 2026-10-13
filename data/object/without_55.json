@@ -1,0 +1,53 @@
+[
+  {
+    "id": 302,
+    "prompt": "a table without cups",
+    "base_entity_biased_prompts": [
+      "Cups with different designs.",
+      "Cups with sleeves",
+      "Cups filled with various drinks.",
+      "Cups stacked in display",
+      "Blue cup with colorful designs.",
+      "Blue cup with colorful pattern",
+      "Two plastic cups filled with water.",
+      "Clear plastic disposable cup",
+      "White ceramic cup with handle",
+      "Pink plastic drinking cup.",
+      "White ceramic cup with handle.",
+      "Brown clay cup with handle",
+      "Wooden tray with cups",
+      "Transparent glass water cup.",
+      "Red plastic water cup",
+      "Red plastic cup on table.",
+      "A red ceramic cup with a handle.",
+      "A brown ceramic cup with handle.",
+      "White ceramic coffee cup",
+      "A white ceramic cup with steam"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Table with wood texture, empty, DSLR, ultra-realistic",
+      "Realistic wooden table, empty space, DSLR",
+      "Empty wooden table, realistic texture, DSLR",
+      "Wooden tabletop, empty, realistic texture, DSLR",
+      "Wood table, empty space, ultra-realistic photography.",
+      "Wooden table, open space, realistic texture, DSLR.",
+      "Table with open space, realistic wood, DSLR quality.",
+      "Empty wooden table, realistic texture, DSLR.",
+      "Open wooden table, realistic texture, DSLR.",
+      "Empty wooden surface, realistic texture, DSLR.",
+      "Plain wooden table, realistic texture, DSLR.",
+      "A large wooden table, empty space, DSLR, realistic.",
+      "Empty wooden table, ultra-realistic photography.",
+      "Wooden table, minimalist, ultra-realistic capture.",
+      "Wood grain table, ultra-realistic shot.",
+      "Wooden tabletop, open space, DSLR.",
+      "Empty wooden table, ultra-realistic texture.",
+      "Wood grain tabletop, ultra-realistic view.",
+      "Wooden table, space, DSLR clarity.",
+      "Wood table, open space, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

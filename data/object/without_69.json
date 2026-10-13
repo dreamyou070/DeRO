@@ -1,0 +1,53 @@
+[
+  {
+    "id": 316,
+    "prompt": "a beach without people",
+    "base_entity_biased_prompts": [
+      "People in library",
+      "People working office",
+      "People in park",
+      "People on street",
+      "Parents with kids",
+      "Workers in office",
+      "People in market",
+      "People in a cafe",
+      "People on bench",
+      "Group at gym",
+      "Group in park",
+      "Group in museum",
+      "Group in cafe",
+      "Group taking photos",
+      "Students in classroom",
+      "Students in a classroom",
+      "Group at a café",
+      "Group photo smiling",
+      "Students attending a lecture.",
+      "People walking in park"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open sandy beach, DSLR, ultra-realistic",
+      "Open sandy beach, DSLR, serene",
+      "Open sandy beach, calm ocean, DSLR",
+      "Open sandy beach, calm sea, DSLR",
+      "A serene beach, sandy shore, DSLR clarity",
+      "A serene beach, sandy shores, DSLR clarity",
+      "Open sandy beach, DSLR clarity",
+      "Clouds, peaceful beach, DSLR",
+      "Landscape of beach, open sand, calm ocean",
+      "Open sandy beach, ultra-realistic",
+      "Peaceful tranquility of open beach",
+      "Calm waves, fine sand, serene scene",
+      "Peaceful coastal scene, clear blue",
+      "A serene beach, wide sandy shore",
+      "Calm ocean with golden sands",
+      "Pristine beach with gentle breezes",
+      "Peaceful sea meeting open sky",
+      "Peaceful bay with rocky outcrops",
+      "Calm blue sea meeting sky",
+      "Clear blue water meets soft sand"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 447,
+    "prompt": "nobody inside the gallery",
+    "base_entity_biased_prompts": [
+      "Gallery displaying mixed media",
+      "Photography gallery displaying works",
+      "Photography gallery showing works",
+      "Gallery with mixed media artworks.",
+      "Vintage photo gallery display",
+      "Old photographs gallery display",
+      "Gallery showing old photographs",
+      "Gallery with eclectic mix of artworks",
+      "Gallery with digital installations",
+      "Photography gallery featuring black and white",
+      "Gallery showing digital illustrations",
+      "Gallery featuring landscape photography",
+      "Gallery with interactive digital screens.",
+      "Gallery with digital art pieces",
+      "A gallery with historical artifacts.",
+      "Photography gallery with digital displays",
+      "Photographs in a small gallery.",
+      "Photography gallery with large prints",
+      "Mixed media in a creative gallery",
+      "Digital prints in tech gallery"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ultra-realistic DSLR, pristine art gallery.",
+      "A clean gallery with detailed art pieces",
+      "Pristine art space, ultra-realistic photography.",
+      "Ultra realistic DSLR of an art gallery.",
+      "Ultra-realistic DSLR of art gallery.",
+      "A pristine art gallery with neat displays",
+      "Ultra-realistic DSLR, gallery space pristine.",
+      "A clean gallery with detailed paintings.",
+      "Art gallery with pristine, well-lit displays.",
+      "Ultra-realistic gallery, art meticulously arranged.",
+      "Ultra-realistic DSLR photo of gallery",
+      "Art gallery, pristine walls, detailed paintings.",
+      "Realism in an art gallery setting.",
+      "Framed paintings, DSLR ultra-realism.",
+      "Ultra-realistic DSLR of gallery",
+      "A clean gallery, paintings meticulously hung.",
+      "A pristine gallery with oil paintings.",
+      "A clean gallery with oil paintings.",
+      "A pristine gallery with framed oils.",
+      "A pristine gallery with framed oils, sharp focus."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

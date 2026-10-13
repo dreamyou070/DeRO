@@ -1,0 +1,53 @@
+[
+  {
+    "id": 342,
+    "prompt": "a sandwich without vegetables",
+    "base_entity_biased_prompts": [
+      "Mixed salad greens",
+      "Beets with greens",
+      "Green leaf lettuce",
+      "Mixed greens with cherry tomatoes",
+      "Mixed vegetables in a bowl.",
+      "Peas in a pod",
+      "Peas in pod",
+      "Mixed leaf salad greens",
+      "Leafy spinach greens",
+      "Potatoes in different forms",
+      "Mixed vegetables stir-fry",
+      "Green leaf lettuce leaves",
+      "Green lettuce leaves",
+      "Green peas pods",
+      "Red and green bell peppers",
+      "Peas in a pod.",
+      "Tomatoes in various shades",
+      "Carrots in a row",
+      "Mixed salad greens in a bowl.",
+      "Green beans straight"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Office desk, camera, papers, detailed surface.",
+      "A tidy desk, DSLR, vivid texture.",
+      "Desktop, notebook, pen, ultra-realistic.",
+      "Office desk with a digital camera.",
+      "Pencil, eraser, realistic texture, DSLR.",
+      "Desk with monitor, phone, and notebook, ultra-real.",
+      "Desk scene with files, folders, and coffee cup, realistic.",
+      "Desk with markers, planner, and plants, ultra-real.",
+      "Books, stapler, and planner on desk, ultra-realistic.",
+      "Desk with phone, camera, and stationery.",
+      "A wooden desk with a keyboard, realistic texture.",
+      "A wooden desk with a camera and camera lens.",
+      "Printer, fax machine, and phone, ultra-realistic.",
+      "Mousepad with texture, close-up.",
+      "Calculator and phone on desk with texture.",
+      "Acrylic desk, computer, phone, and notepad.",
+      "Polished desk with phone, pen, and photo frame.",
+      "Desk surface with stationery, water bottle.",
+      "Desk with laptop, phone, and glasses.",
+      "A tiled desk with a water bottle, camera, and books."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

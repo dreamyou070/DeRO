@@ -1,0 +1,23 @@
+[
+  {
+    "id": 20,
+    "prompt": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes.",
+    "base_entity_biased_prompts": [
+      "Cubist still life featuring a vase of lilies and irises in the style of Picasso",
+      "Cubist still life featuring a vase with an assortment of wildflowers in the style of Picasso",
+      "Cubist still life showing a vase with peonies and orchids in the style of Picasso",
+      "A cubist still life with a vase of sunflowers and roses in the style of Picasso",
+      "A cubist painting of a vase containing carnations and chrysanthemums in the style of Picasso"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cubist still life featuring a vase of lilies and irises",
+      "Cubist still life featuring a vase with an assortment of wildflowers",
+      "Cubist still life showing a vase with peonies and orchids",
+      "A cubist still life with a vase of sunflowers and roses",
+      "A cubist painting of a vase containing carnations and chrysanthemums"
+    ],
+    "sim_threshold": 0.8,
+    "num_biased_prompts": 5,
+    "num_bias_absent_prompts": 5
+  }
+]

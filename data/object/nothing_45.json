@@ -1,0 +1,33 @@
+[
+  {
+    "id": 264,
+    "prompt": "a flowerpot with nothing planted",
+    "base_entity_biased_prompts": [
+      "a flowerpot filled with blooming flowers",
+      "a flowerpot containing green plants",
+      "a flowerpot with colorful flowers growing inside",
+      "a flowerpot with healthy green leaves",
+      "a decorative flowerpot with planted flowers",
+      "a flowerpot containing a small plant",
+      "a flowerpot with vibrant flowers and leaves",
+      "a flowerpot filled with gardening plants",
+      "a flowerpot with visible stems and flowers",
+      "a flowerpot containing lush vegetation"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty flowerpot with no plants inside",
+      "a flowerpot with nothing planted and visible empty soil",
+      "a flowerpot with only bare soil and no vegetation",
+      "an empty flowerpot with clearly visible interior space",
+      "a flowerpot with no flowers or plants growing",
+      "a clean flowerpot with empty soil surface",
+      "a vacant flowerpot with no stems or leaves",
+      "a flowerpot with plain soil and no planted objects",
+      "an unused flowerpot with no vegetation inside",
+      "a flowerpot with clearly visible empty planting space"
+    ],
+    "class": "nothing",
+    "class_index": 45,
+    "filename": "nothing_45"
+  }
+]

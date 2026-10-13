@@ -1,0 +1,53 @@
+[
+  {
+    "id": 364,
+    "prompt": "a laptop without a keyboard",
+    "base_entity_biased_prompts": [
+      "Keyboard with fingers typing on it.",
+      "Keyboard with black and white keys.",
+      "Keyboard with green and red keys.",
+      "Keyboard with ergonomic design.",
+      "Keyboard with missing keys.",
+      "Keyboard with cherry switches.",
+      "A keyboard with missing keys.",
+      "Keyboard with pink and purple keys.",
+      "A keyboard in a gaming setup.",
+      "Keyboard in a futuristic setting.",
+      "Keyboard with a digital clock.",
+      "Keyboard with vintage打字机风格.",
+      "A keyboard with a gaming design.",
+      "Keyboard with built-in microphone.",
+      "Keyboard with stickers: \"Type Fast\".",
+      "Keyboard with a built-in numeric pad.",
+      "A portable USB keyboard",
+      "Keyboard with a colorful macro key setup.",
+      "Keyboard inside a laptop bag.",
+      "Keyboard with colorful LED lights."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "City street with vibrant street life",
+      "City street with modern architecture",
+      "Dramatic cityscape at dusk",
+      "Night view of a city street",
+      "City street with old and new buildings",
+      "Rainy day city street scene",
+      "Wide shot of bustling city center",
+      "Modern cityscape at twilight",
+      "City street at sunset with reflections",
+      "City skyline, twilight, sharp focus",
+      "Night scene of busy city street",
+      "City street with vibrant storefronts",
+      "Urban street with tall office buildings",
+      "City street with rain reflections",
+      "Rooftop view of cityscape",
+      "Cityscape with reflections in water",
+      "Urban street with vibrant graffiti",
+      "A bustling city street at sunset",
+      "City street with streetlights on.",
+      "A bustling city street at dusk"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

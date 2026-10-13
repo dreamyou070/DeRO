@@ -1,0 +1,53 @@
+[
+  {
+    "id": 315,
+    "prompt": "a pizza without toppings",
+    "base_entity_biased_prompts": [
+      "Pepperoni, mushrooms, olives, onions",
+      "Pepperoni, hot sauce, oregano",
+      "Olives on pizza",
+      "Cheese, pepper, tomato bruschetta",
+      "Chopped onions on subs",
+      "Pineapple slices on pizza",
+      "Strawberry and balsamic semifreddo",
+      "Pizza with olives",
+      "PIZZA WITH PEPPERONI",
+      "Pizza with pepperoni and olives",
+      "Tomatoes on a sub sandwich",
+      "Cheesecake with cherry toppings",
+      "Cheesecake with cherry topping",
+      "Hamburger with lettuce, tomato, and cheese",
+      "Pizza with pepperoni and mushrooms",
+      "Pepperoni and mushrooms pizza",
+      "Pizzette with olives and artichokes",
+      "Burger topped with cheese",
+      "Pizza with pineapple and ham",
+      "Sliced tomatoes on salad"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Baked pizza, realistic texture, DSLR shot",
+      "A crispy pizza, DSLR, ultra-realistic",
+      "Perfectly baked, pizza realism, DSLR photo",
+      "A crispy pizza with realistic texture, DSLR.",
+      "Freshly baked pizza, lifelike texture, DSLR",
+      "Charred pizza crust, ultra-realistic, DSLR.",
+      "Savory pizza, realistic texture, DSLR",
+      "A crispy pizza, DSLR, high detail",
+      "A crispy pizza with realistic toppings, DSLR.",
+      "Real pizza textures, DSLR close-up.",
+      "Baked pizza, ultra-realistic texture.",
+      "Savory pizza, crust texture, DSLR, detailed",
+      "A crispy pizza, DSLR clarity",
+      "Authentic pizza texture, DSLR quality",
+      "A perfectly baked pizza, crispy crust, DSLR.",
+      "A crispy pizza, DSLR clarity.",
+      "Delicious pizza, DSLR realism.",
+      "Thin crust pizza, DSLR, real touch",
+      "Artisan pizza, texture detailed.",
+      "Baked slices, DSLR realism"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 423,
+    "prompt": "nobody sitting in the waiting room",
+    "base_entity_biased_prompts": [
+      "Meditation room with冥想垫。",
+      "A multi-purpose room with a sofa bed.",
+      "A master bedroom suite.",
+      "A studio apartment bedroom.",
+      "Guest room with a bed.",
+      "Dining room with a table.",
+      "Large living room with沙发.",
+      "Sunroom with windows.",
+      "A dining room with a table.",
+      "Large living room with沙发",
+      "A small cozy bedroom.",
+      "A sunroom with windows.",
+      "Conference room with a table.",
+      "A studio apartment living space.",
+      "Spacious dining room with a table.",
+      "A playroom for children.",
+      "Small cozy bedroom",
+      "A sunroom with large windows.",
+      "Study room with bookshelves.",
+      "Studio apartment living area."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Waiting room, chairs aligned, untouched magazines, DSLR, ultra-realistic.",
+      "Waiting room, aligned chairs, untouched magazines, DSLR, realistic",
+      "Waiting room, aligned chairs, untouched magazines, DSLR.",
+      "Waiting area with chairs, untouched magazines, ultra-real.",
+      "Waiting room, aligned chairs, untouched magazines, DSLR",
+      "Waiting area, chairs neat, magazines untouched, DSLR",
+      "Waiting room chairs, DSLR realism.",
+      "Realistic waiting room, aligned chairs, magazines.",
+      "Waiting room chairs, untouched magazines, hyper-realistic.",
+      "Realistic waiting room, chairs, mags.",
+      "Waiting room, chairs aligned, untouched magazines.",
+      "Real waiting room, chairs lined, mags neat.",
+      "Unguarded waiting room, chairs lined up, magazines pristine.",
+      "Chairs perfectly spaced, waiting room, untouched magazines.",
+      "Waiting room seating, untouched magazines, clarity.",
+      "Clarity of chairs, untouched mags, waiting room.",
+      "Waiting room chairs aligned, magazines untouched.",
+      "A neatly arranged waiting room, chairs aligned, magazines untouched.",
+      "Tidy chairs, open mags, ultra-realistic shot",
+      "Chairs lined up, magazines untouched, fresh."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

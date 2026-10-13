@@ -1,0 +1,53 @@
+[
+  {
+    "id": 241,
+    "prompt": "a drawer with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside secret room",
+      "Inside a museum gallery",
+      "Inside a classroom",
+      "Inside luxurious hotel",
+      "Inside quaint shop",
+      "Inside bustling city",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside a greenhouse",
+      "Inside a luxurious hotel",
+      "Inside busy café",
+      "Inside cozy cafe",
+      "Inside small workshop",
+      "Inside a small cafe",
+      "Inside a library shelf",
+      "Inside cozy bed and breakfast",
+      "Inside a bustling mall",
+      "Inside a fancy restaurant",
+      "Inside a spacious kitchen",
+      "Inside a vibrant marketplace"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open drawer, compartment visible, realistic furniture texture, DSLR",
+      "Open drawer compartment, realistic furniture, DSLR",
+      "Open drawer, compartment exposed, realistic wood, DSLR clarity",
+      "Drawer open, compartment revealed, realistic wood, DSLR quality",
+      "Drawer open, visible contents, realistic texture, DSLR",
+      "Visible drawer contents, realistic wood texture, DSLR",
+      "Wood drawer open, compartment clear, realistic texture, DSLR",
+      "Drawer pulled out, contents visible, realistic textures, DSLR shot",
+      "Visible drawer, open compartment, textured wood, DSLR",
+      "Open drawer, visible interior, ultra-realistic",
+      "Drawer open, visible compartment, realistic texture closeup",
+      "Open drawer, ultra-realistic texture.",
+      "Open drawer, compartment exposed, realistic texture.",
+      "Wood drawer open, ultra-realistic view",
+      "Drawer open, texture ultra-realistic.",
+      "Open drawer, texture ultra-realistic.",
+      "Open drawer, realistic furniture texture",
+      "Open drawer, visible compartment, realistic.",
+      "Open drawer, realistic texture close-up.",
+      "Drawer open, compartment view, realistic details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

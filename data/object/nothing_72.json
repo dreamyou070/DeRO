@@ -1,0 +1,53 @@
+[
+  {
+    "id": 239,
+    "prompt": "a whiteboard with nothing drawn",
+    "base_entity_biased_prompts": [
+      "Drawn pen and ink",
+      "Drawn comic strip",
+      "Drawn abstract art",
+      "Drawn historical battle",
+      "Drawn comic characters",
+      "Drawn comic panels",
+      "Drawn geometric art",
+      "Drawn portrait sketches",
+      "Drawn puzzle piece",
+      "Drawn superhero comic",
+      "Drawn street art graffiti",
+      "Drawn comic book superhero",
+      "Drawn sketch of a cat",
+      "Drawn enchanted castle",
+      "Drawn graffiti street art",
+      "Drawn historical battle scene",
+      "Drawn abstract colorful shapes",
+      "Drawn comic book page action",
+      "Drawn landscape with mountains",
+      "Drawn medieval knight fighting"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom whiteboard, clean, realistic lighting, DSLR.",
+      "Whiteboard, gleaming, classroom light, ultra-realistic DSLR",
+      "Whiteboard, clean surface, realistic classroom light, DSLR.",
+      "Whiteboard, clean, realistic classroom light, DSLR",
+      "Classroom whiteboard, realistic lighting, DSLR.",
+      "Whiteboard in ultra-realistic DSLR classroom photo.",
+      "Clean whiteboard, classroom lights, ultra-realistic DSLR.",
+      "Whiteboard, classroom light, ultra-realistic DSLR.",
+      "Clean whiteboard, classroom ambiance, ultra-realistic DSLR.",
+      "Pristine whiteboard, realistic classroom light, DSLR.",
+      "Whiteboard, fresh, classroom light, DSLR realism.",
+      "Whiteboard clear, classroom lights, DSLR realism.",
+      "Whiteboard surface, bright classroom, DSLR.",
+      "Whiteboard, pristine surface, classroom lighting, DSLR.",
+      "A whiteboard, clean surface, classroom light, DSLR.",
+      "A whiteboard, clean, classroom lighting, DSLR.",
+      "Whiteboard, clean, classroom lighting, DSLR.",
+      "Whiteboard, bright classroom, DSLR.",
+      "Clean whiteboard, realistic classroom lighting.",
+      "Clean whiteboard, realistic, classroom lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

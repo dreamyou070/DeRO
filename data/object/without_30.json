@@ -1,0 +1,53 @@
+[
+  {
+    "id": 277,
+    "prompt": "a street missing any signs and without cars",
+    "base_entity_biased_prompts": [
+      "Car with shiny wheels",
+      "Sports car with tires",
+      "Car with open windows",
+      "Sportscar with tires",
+      "Car in garage bay",
+      "Purple sports car downtown",
+      "Red classic car",
+      "Red sports car rain",
+      "Grey car garage",
+      "White car with racing stripes",
+      "Grey minivan family",
+      "White minivan family",
+      "Purple sports car at night",
+      "Station wagon with kids",
+      "Blue sports car city street",
+      "Red muscle car details",
+      "Old car in junkyard",
+      "Red muscle car garage",
+      "Silver sedan in garage",
+      "A dusty old car in desert."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Buildings and cars, city street, ultra-realistic DSLR",
+      "Urban street scene, road markings prominent, DSLR",
+      "Urban scene, road markings visible, DSLR.",
+      "A busy city street, DSLR, ultra-realistic",
+      "A busy city street, DSLR, ultra-realistic.",
+      "Street scene, ultra-realistic",
+      "A busy city street, DSLR, clear markings",
+      "A busy city street, DSLR, sharp details",
+      "A bustling city street, DSLR, sharp details.",
+      "A bustling city street, DSLR clarity",
+      "Pedestrian street, ultra-realistic shot",
+      "A busy city street, DSLR clarity.",
+      "Modern city street, ultra-realistic quality",
+      "Pedestrians, city street, DSLR clarity.",
+      "City avenue in ultra-realistic light",
+      "Wide street view, DSLR clarity",
+      "Urban street scene, detailed view.",
+      "City road, daytime, ultra-sharp",
+      "Urban road with detailed markings",
+      "City street at dawn, road markings visible"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

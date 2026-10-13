@@ -1,0 +1,53 @@
+[
+  {
+    "id": 144,
+    "prompt": "a playground with no swings",
+    "base_entity_biased_prompts": [
+      "Swings in a playground",
+      "Swings moving back and forth",
+      "Swings with colorful seats",
+      "Swings in a park",
+      "Swings with wide seats.",
+      "Colorful playground swings",
+      "Swings in a backyard",
+      "Swings in colorful park",
+      "Swings in a colorful playground.",
+      "Vintage wooden swings.",
+      "Swing with colorful seats",
+      "Swings with striped seats and chains",
+      "Swinging on a wooden swing",
+      "Swings in a colorful park.",
+      "Swings under colorful canopy",
+      "Swings swaying in gentle breeze.",
+      "Swings moving in a gentle breeze",
+      "Swings with flowing ribbons attached.",
+      "Swing set with four swings.",
+      "Swing set with four seats"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Playground with natural light, realistic.",
+      "Playground with natural light, realistic look",
+      "Realistic playground with bright, natural light.",
+      "Playground equipment in natural light",
+      "Playground with seesaw, realistic, natural light.",
+      "Detailed playground scene, DSLR quality.",
+      "Playground scene with vivid outdoor equipment.",
+      "Park scene with realistic playground equipment.",
+      "Playground at dawn, natural light, realistic.",
+      "Playground merry-go-round, bright outdoors, DSLR",
+      "Playground at dusk, realistic outdoor equipment.",
+      "Realistic playground with a climbing wall in natural light.",
+      "Playground with sandbox and realistic shadows.",
+      "A playground with swings, slides, and natural light.",
+      "A playground with swings and slides, natural light.",
+      "Playground merry-go-round, natural light.",
+      "Playground with natural shadow play.",
+      "Realistic playground at dusk, golden hour.",
+      "Playground ring in soft light",
+      "Playground sandbox in clear day."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

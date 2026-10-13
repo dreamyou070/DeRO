@@ -1,0 +1,53 @@
+[
+  {
+    "id": 32,
+    "prompt": "a restaurant missing menus",
+    "base_entity_biased_prompts": [
+      "Restaurant menu with entrees",
+      "Kids' menu options",
+      "Wine menu pages",
+      "Health food menu with options",
+      "Breakfast menu with options",
+      "Deli menu with ingredients",
+      "Italian cuisine menu",
+      "Italian restaurant menu page",
+      "Fine dining menu presentation",
+      "Vegetarian menu with veggies",
+      "Salad bar menu display",
+      "Health food menu options",
+      "Italian restaurant menu pages",
+      "Cafeteria lunch menu",
+      "Brunch menu options",
+      "Wine list menu",
+      "Italian restaurant menu",
+      "Cafeteria menu board",
+      "Mexican restaurant menu page",
+      "Vegetarian menu with dishes listed"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Grass and markings, ultra-realistic soccer field, DSLR",
+      "Soccer field, grass texture, realistic markings, DSLR",
+      "Soccer field, grass texture, markings, ultra-realistic DSLR.",
+      "Grassy soccer field, markings visible, ultra-realistic DSLR",
+      "Visible grass, soccer field lines, ultra-realistic DSLR",
+      "Soccer field, grass detail, DSLR quality",
+      "Soccer field lines, realistic grass, DSLR",
+      "Marked soccer field, ultra-realistic shot",
+      "Realistic grass, soccer markings, DSLR quality.",
+      "Ultra-realistic soccer field, grass texture.",
+      "Soccer field, grass, markings, ultra-realistic.",
+      "Realistic soccer field, grass texture, markings",
+      "Realistic soccer field, grass texture",
+      "A green soccer field with markings, DSLR",
+      "Soccer field markings, vivid grass",
+      "Close-up grass texture, DSLR.",
+      "A lush green soccer field, markings清晰可见,超写实DSLR摄影",
+      "A lush green soccer field, markings清晰可见,超写实DSLR照片",
+      "A lush green soccer field, markings清晰可见,超高清DSLR拍摄",
+      "A lush green soccer field, markings清晰可见"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "prompt": "not in the style of Monet, An impressionist landscape of a water lilies pond, with a focus on light and colors.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [],
+    "base_entity": "Monet",
+    "component_entity": "Monet",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 0
+  }
+]

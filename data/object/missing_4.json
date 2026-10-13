@@ -1,0 +1,53 @@
+[
+  {
+    "id": 4,
+    "prompt": "a plate missing pizza",
+    "base_entity_biased_prompts": [
+      "Freshly baked pizza.",
+      "Pepperoni and olive pizza.",
+      "Freshly baked pizza",
+      "Cheese pizza with pepperoni",
+      "Thin crust pizza with toppings.",
+      "Pepperoni and sauce pizza",
+      "Pepperoni and sausage pizza",
+      "PIZZA WITH OLIVES",
+      "Thin crust pizza",
+      "Italian pizza with sausage",
+      "Tasty pizza with pineapple",
+      "Cheesy pizza with meat",
+      "Pepperoni pizza with peppers.",
+      "Veggie loaded pizza",
+      "Thick crust pizza with toppings",
+      "New York style pizza",
+      "A pizza with a garlic crust.",
+      "Pizza with pineapple and ham.",
+      "Stuffed crust pizza with meat.",
+      "A pizza with garlic and oil."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bakery shelves, warm, ultra-realistic, DSLR.",
+      "Bakery shelves, warm lighting, DSLR.",
+      "Warm bakery, shelves, DSLR shot.",
+      "Realistic bakery, shelves, warm light.",
+      "Realistic bakery, warm light, shelves.",
+      "Realistic bakery, shelves packed, warm glow.",
+      "Realistic bakery with warm ambient lighting.",
+      "Bakery interior, realistic shelves, warm.",
+      "Pastries arranged, realistic lighting, DSLR.",
+      "Realistic bakery, shelves, golden light.",
+      "Bakery shelves, warm, realistic light.",
+      "Bakery with shelves, warm, realistic.",
+      "Cakes, bakery shelves, realistic photo.",
+      "Cakes, realistic shelf, warm ambient light.",
+      "Shelves filled, warm bakery, realistic.",
+      "Realistic shelves, warm, bakery.",
+      "Fresh baked goods, realistic shelves, warm light.",
+      "Pastries under warm, realistic light.",
+      "Bakery shelf illuminated warmly.",
+      "Bakery counter, realistic shelves"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 303,
+    "prompt": "a bowl without fruit",
+    "base_entity_biased_prompts": [
+      "A kiwi fruit",
+      "Tomato as fruit",
+      "Assortment of tropical fruits",
+      "Tomatoes as fruit",
+      "Fruit salad with various fruits",
+      "Tomatoes as fruits",
+      "Fruit salad, colorful.",
+      "A juicy apple",
+      "Green kiwi fruit",
+      "A basket of colorful fruits",
+      "A bowl of exotic fruits",
+      "A red apple",
+      "A bunch of kiwi fruits.",
+      "A juicy red apple",
+      "Fruit salad in bowl",
+      "A ripe red apple",
+      "A bright red apple",
+      "A bag of apples.",
+      "Kiwi fruit sliced",
+      "A peach and apricot mix"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Empty ceramic bowl, realistic surface, DSLR quality.",
+      "Empty ceramic bowl, detailed texture, DSLR",
+      "A textured empty ceramic bowl, DSLR",
+      "Empty ceramic bowl, intricate texture, DSLR",
+      "Empty gray ceramic bowl, ultra-realistic shot",
+      "Empty ceramic bowl, ultra-realistic detail, clear",
+      "Ceramic bowl, interior, ultra-realistic shot",
+      "Bowl interior, ceramic, ultra-realistic shot",
+      "Empty ceramic bowl, detailed texture, realistic",
+      "Clear empty bowl, glossy ceramic, DSLR",
+      "Clear ceramic bowl, detailed texture, DSLR",
+      "Ultra-realistic empty bowl, ceramic detail.",
+      "Empty ceramic bowl, ultra-realistic",
+      "Ceramic bowl, ultra-realistic empty interior.",
+      "Empty black ceramic bowl, ultra-realistic",
+      "Empty ceramic bowl, realistic texture.",
+      "Brown ceramic bowl, empty, close-up texture, real.",
+      "Large empty ceramic bowl, realistic texture.",
+      "Empty yellow ceramic bowl, ultra-realistic.",
+      "Black ceramic bowl, interior clear, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

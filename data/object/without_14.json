@@ -1,0 +1,53 @@
+[
+  {
+    "id": 261,
+    "prompt": "a beach without surfboards",
+    "base_entity_biased_prompts": [
+      "A collection of surfboards in lineup.",
+      "Two surfboards in a lineup.",
+      "Surfboard with wave graphics.",
+      "Two surfboards on a beach.",
+      "A surfboard with a wave design.",
+      "Surfboard with wave pattern design.",
+      "Board with a wave design.",
+      "A surfboard with wave stickers.",
+      "A surfboard with a tropical theme.",
+      "Two colorful surfboards on a beach.",
+      "A colorful surfboard in a lineup.",
+      "Beach scene with several surfboards.",
+      "Blue and purple surfboards in lineup.",
+      "A surfboard with a wave-shaped fin.",
+      "Board with a wave pattern.",
+      "Two surfboards on a sandy beach.",
+      "Green surfboard with wave design.",
+      "A surfboard with a tropical print.",
+      "Two surfboards side by side on sand.",
+      "Surfers in the lineup with red and black boards."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open beach, natural light, ultra-realistic",
+      "Wide open beach, natural sunlight, DSLR",
+      "Beach under natural light, ultra-realistic.",
+      "Open beach, clear sky, DSLR hyper detail",
+      "A vast beach, sunlight, sand, DSLR, detailed",
+      "A vast beach under sunny skies, DSLR, ultra-detailed.",
+      "Endless beach, natural sunlight, DSLR",
+      "Open sand beach, detailed, natural light",
+      "Beach under sunset sky, ultra-realistic, DSLR",
+      "A wide sandy beach, DSLR, natural light",
+      "Coastline, open sand, DSLR, bright sunlight",
+      "Beach under clear sky, DSLR, vivid details",
+      "Beach at dawn, ultra-realistic, DSLR",
+      "A wide sandy beach, sunlight, ultra-realistic",
+      "A wide sandy beach, sunset, DSLR, sharp details",
+      "Wide beach, ultra-realistic clarity",
+      "Ocean view, open beach, DSLR",
+      "Beach scene, natural light, realistic.",
+      "Sunset hues, dune lines, ultra-realistic shot.",
+      "Wide beach under clear blue sky"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

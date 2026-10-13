@@ -1,0 +1,53 @@
+[
+  {
+    "id": 463,
+    "prompt": "nobody inside the garage",
+    "base_entity_biased_prompts": [
+      "Workshop equipment garage",
+      "A garage storing various outdoor equipment.",
+      "Garage storing sports equipment",
+      "Garage with basketball hoop",
+      "Sports equipment in a garage",
+      "Garage with laundry basket",
+      "Garage with floor-mounted bike rack.",
+      "A garage with a bar and shelves.",
+      "A garage containing a variety of bicycles.",
+      "Garage with garden tractor",
+      "Garage equipped with workbenches and shelves.",
+      "A small workshop in a garage.",
+      "Garage transformed into a workshop.",
+      "Garage with a basketball hoop attached.",
+      "Garden equipment stored in a garage.",
+      "A garage with a row of bicycles.",
+      "A garage filled with musical instruments.",
+      "A cozy workshop in a garage.",
+      "Workbench with tools in a garage",
+      "A neatly organized workshop in a garage."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious garage, orderly tools, ultra-realistic DSLR.",
+      "Garage tools organized, spacious interior, realistic DSLR",
+      "A large garage, tools neatly lined, DSLR realism",
+      "Garage, tools neatly arranged, DSLR realism",
+      "Spacious garage, organized tools, DSLR realism",
+      "Spacious garage, orderly tools, DSLR shot",
+      "Spacious garage, orderly tools, DSLR view",
+      "Garage with tidy tools, spacious layout, DSLR.",
+      "Large garage, tools tidy, realistic DSLR photo.",
+      "Garage with tools, spacious, ultra-realistic photo.",
+      "A clean garage, tools in rows, vast space, DSLR realism",
+      "Garage with tools, neatly placed, DSLR precision",
+      "Neatly arranged tools, spacious garage, DSLR",
+      "Well-organized garage, ultra-realistic view",
+      "Spacious garage, tools artfully arranged.",
+      "Spacious garage, tidy tools layout.",
+      "Spacious garage, tools meticulously placed.",
+      "Tools meticulously arranged, spacious garage.",
+      "Spacious garage, tools methodically placed.",
+      "Spacious garage, tools perfectly aligned."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

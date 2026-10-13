@@ -1,0 +1,53 @@
+[
+  {
+    "id": 336,
+    "prompt": "a classroom without students",
+    "base_entity_biased_prompts": [
+      "Students working together",
+      "Students during break",
+      "Group of students studying",
+      "Students working on projects",
+      "Students studying together",
+      "Students working in groups",
+      "Students in a classroom",
+      "Students participating in sports",
+      "Students in a study group",
+      "Students during exams",
+      "Students during a lecture",
+      "Students in library",
+      "Students using computers",
+      "Group of students studying together",
+      "Students in lab",
+      "Students during exam",
+      "Students in a library",
+      "Students working on computers",
+      "Students playing musical instruments",
+      "Students discussing project"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Snowy road, winter scene, lane markings, DSLR, ultra-realistic",
+      "Lane markings visible, snowy road, winter, realistic DSLR.",
+      "Snowy road, lane lines, winter photo, ultra-real.",
+      "Snowy road scene, lane lines distinct, DSLR clarity.",
+      "A snowy road, lanes clear, winter DSLR",
+      "Snowy path, winter, realistic lane markings, ultra-real",
+      "Snow road, lane markings, ultra-realistic",
+      "A snowy road with lane markings, ultra-realistic.",
+      "Snowy road, winter scene, DSLR sharpness",
+      "Snowy road, lane markings, winter, DSLR",
+      "A snowy road, lane markings visible, ultra-realistic.",
+      "Snow and road, lane markings sharp, DSLR.",
+      "Lane markings visible, snowy road, real",
+      "Snowy lane, DSLR quality.",
+      "Snow road, lane lines, winter realism.",
+      "Snowy road, winter scene, lane markings",
+      "Lane markings on a snowy road, realistic winter.",
+      "Snow-covered lane, DSLR detail.",
+      "Snow-covered road, winter evening, ultra-realism",
+      "A snowy road, lane markings clear, winter scene."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 225,
+    "prompt": "a shelf with nothing placed on it",
+    "base_entity_biased_prompts": [
+      "it symbol logo",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a ball",
+      "it's a shoe",
+      "it's a hat",
+      "it's a secret",
+      "a droplet of water",
+      "it's a door",
+      "a ruby gem",
+      "it floats in the breeze",
+      "a glass of water",
+      "a small table",
+      "it's a rainy day",
+      "it's a classic car",
+      "it's a mountain peak"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Organized wooden shelf, plants, DSLR realism.",
+      "Organized wooden shelves, DSLR view.",
+      "Wooden books, shelf, DSLR clarity",
+      "Wooden frames, shelf, DSLR, closeup.",
+      "Tools displayed, wooden shelf, ultra-realistic DSLR.",
+      "Bookshelf with wooden texture, organized, DSLR",
+      "Books, wooden shelf, structured, DSLR.",
+      "Organized wooden shelf, DSLR clarity.",
+      "Shelf with plants, wooden texture, DSLR.",
+      "Shelf, records displayed, DSLR realism.",
+      "Shelf with tools, wood grain visible, DSLR.",
+      "A wooden shelf, organized books, DSLR clarity.",
+      "Wooden frame collection, shelf display, ultra-real",
+      "A neatly organized wooden shelf, DSLR.",
+      "A neatly organized wooden shelf, ultra-realistic.",
+      "Wooden shelf, gadgets organized, ultra-realistic.",
+      "Organized wooden shelf, collectibles displayed, DSLR.",
+      "A wooden shelf with books, organized, ultra-realistic.",
+      "Shelf with visible wood, items systematically placed.",
+      "Organized wooden shelf with framed photos."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

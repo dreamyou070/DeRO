@@ -1,0 +1,33 @@
+[
+  {
+    "id": 475,
+    "prompt": "nobody standing near the door",
+    "base_entity_biased_prompts": [
+      "a person standing near the door",
+      "someone waiting beside the door",
+      "a man standing in front of a doorway",
+      "a woman standing near an open door",
+      "a person leaning against the door frame",
+      "someone standing by the entrance",
+      "a person standing next to a closed door",
+      "a man waiting near the doorway",
+      "a person positioned beside the door",
+      "someone standing at the entrance"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty doorway with nobody standing nearby",
+      "a door with no person standing near it",
+      "a quiet entrance with nobody present",
+      "a closed door with no people nearby",
+      "an open doorway with no one standing beside it",
+      "a door and empty surrounding space",
+      "a vacant entrance area with no person",
+      "a doorway with no human figure nearby",
+      "a door with clearly empty space around it",
+      "an entrance with nobody standing near the door"
+    ],
+    "class": "nobody",
+    "class_index": 79,
+    "filename": "nobody_79"
+  }
+]

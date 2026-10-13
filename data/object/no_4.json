@@ -1,0 +1,53 @@
+[
+  {
+    "id": 66,
+    "prompt": "a child bedroom with no toys",
+    "base_entity_biased_prompts": [
+      "Toy action figure",
+      "Toy building blocks",
+      "Toy puzzle pieces",
+      "A toy puzzle pieces",
+      "A toy sword and shield set",
+      "Puzzle toy for kids",
+      "Action figure collection",
+      "A set of toy soldiers.",
+      "A toy soldier toy.",
+      "Glow-in-the-dark stars toy",
+      "Toy cars in garage",
+      "Miniature toy kitchen",
+      "Plushie lion toy",
+      "Toy guitar for practice",
+      "A plastic dinosaur toy",
+      "Toy trucks in garage.",
+      "Robot toy with lights",
+      "Toy soldiers in battle.",
+      "A shiny robot toy.",
+      "Toy soldiers lined up neatly."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A child's bedroom, pastel furniture, playful decor.",
+      "Pastel colors, playful kid's bedroom",
+      "Playful pirate-themed children’s bedroom.",
+      "A child's room with vibrant toys.",
+      "Child’s room with cartoon wallpaper, toys.",
+      "A small bedroom with vibrant toys.",
+      "A small bedroom with colorful toys.",
+      "A toddler's room with bright toys.",
+      "Kids room, vibrant blue walls.",
+      "Brightly colored toys, cheerful bedroom.",
+      "Vividly colored bunk beds for children.",
+      "Brightly colored bed with playful patterns.",
+      "Cheerful yellow and blue room.",
+      "A toddler's room with polka dot walls.",
+      "Colorful fish tank in kid’s room",
+      "Colorful bedsheets, playful patterns.",
+      "Vivid blue dresser, cartoon prints.",
+      "A yellow dresser with colorful drawers.",
+      "Vivid red desk with toys.",
+      "Yellow desk with toys."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

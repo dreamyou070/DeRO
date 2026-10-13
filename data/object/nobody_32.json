@@ -1,0 +1,53 @@
+[
+  {
+    "id": 428,
+    "prompt": "nobody standing near the entrance",
+    "base_entity_biased_prompts": [
+      "Entrance through a stone archway",
+      "Cobbled pathway entrance",
+      "Stone archway entrance.",
+      "Brick archway entrance.",
+      "Stone archway leading to an entrance.",
+      "Traditional Japanese entrance.",
+      "A stone archway entrance.",
+      "Gray concrete entrance.",
+      "A traditional Japanese entrance.",
+      "Stone archway leading in.",
+      "Red brick arch entrance",
+      "Clay tile roofed entrance.",
+      "Concrete pillar entrance.",
+      "Decorative ironwork entrance.",
+      "Glass and steel entrance.",
+      "Stained glass window entrance",
+      "Stone steps leading to an entrance.",
+      "Decorative ironwork entranceway.",
+      "Concrete columns supporting entrance",
+      "Granite entrance with carvings."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A serene entrance, clear view, DSLR realism",
+      "A modern building entrance, clear sky, serene.",
+      "Entrance, clear sky, calm trees, realism",
+      "Modern glass doors, calm park, DSLR.",
+      "A modern office building entrance, clear, peaceful.",
+      "A modern office building entrance, clear, serene.",
+      "Modern glass entrance, clear sky above.",
+      "Vintage entrance, clear blue sky.",
+      "A grand stone entrance, clear day",
+      "Brick entrance, serene evening sky.",
+      "A modern glass building entrance, serene park behind.",
+      "Glass façade, peaceful courtyard scene.",
+      "Weathered wood entrance, peaceful forest scene.",
+      "Stately entrance, lush greenery surrounding.",
+      "Stately glass doors, clear sky, calm plaza.",
+      "Stone entrance, gentle breeze blowing.",
+      "Olive-green doors, calm courtyard ahead.",
+      "A grand stone entrance, serene park behind.",
+      "Modern glass doors, peaceful park beyond.",
+      "Aluminum doors, calm fountain scene."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

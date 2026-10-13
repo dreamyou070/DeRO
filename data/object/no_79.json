@@ -1,0 +1,53 @@
+[
+  {
+    "id": 141,
+    "prompt": "a bedroom with no bed",
+    "base_entity_biased_prompts": [
+      "A bed in a bedroom.",
+      "Bed with plush mattress.",
+      "A bed with a fluffy mattress.",
+      "Bed with a plush mattress.",
+      "Bed with nightstand.",
+      "Bed in a spacious bedroom.",
+      "Bed in a modern room.",
+      "A bed with a plush mattress.",
+      "Bed with plush comforter.",
+      "A bed with a nightstand.",
+      "Bed in a minimalist bedroom.",
+      "A bed in a modern room.",
+      "A bed with a nightstand nearby.",
+      "A bed in a dormitory.",
+      "Bed with bedside table and lamp.",
+      "A bed in a modern bedroom.",
+      "A bed with a nightstand and clock.",
+      "A bed in a minimalist bedroom.",
+      "A bed with a lamp and bedside table.",
+      "A bed with fluffy sheets and a comforter."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Warmly lit bedroom, realistic textures, DSLR.",
+      "Contemporary bedroom, DSLR, warm hues",
+      "A cozy bedroom, warm lighting, DSLR clarity",
+      "A cozy bedroom, DSLR, warm lights",
+      "A bedroom, warm light, DSLR clarity",
+      "Warm bedroom, soft lighting, DSLR quality",
+      "A cozy bedroom, warm lights, DSLR clarity",
+      "A cozy bedroom, DSLR, warm glow",
+      "A cozy bedroom, warm lighting, DSLR clarity.",
+      "A cozy bedroom, warm lights, DSLR clarity.",
+      "A cozy bedroom, DSLR, warm glow.",
+      "Wood floors, soft bed, warm glow, DSLR",
+      "Bed with plush pillows, ambient light, DSLR realism.",
+      "Crisp linens, warm room, DSLR detail",
+      "Desk, warm lighting, realistic bedroom.",
+      "A cozy bedroom, warm lighting, detailed design.",
+      "A cozy bedroom, warm lights, detailed furnishings.",
+      "Modern bedroom, sleek furniture, gentle glow.",
+      "A spacious bedroom, warm lights, sleek furniture.",
+      "Comforter, wooden floor, soft lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

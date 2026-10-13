@@ -1,0 +1,53 @@
+[
+  {
+    "id": 178,
+    "prompt": "a parking lot with nothing parked",
+    "base_entity_biased_prompts": [
+      "Car parked on curb",
+      "Bus parked at stop",
+      "Parked car by the lake",
+      "Camper parked at campsite",
+      "Cars parked on street",
+      "Parked car by the river",
+      "Bus parked at the bus stop",
+      "Car parked under sign",
+      "Car parked by lake",
+      "Bus parked at bus stop",
+      "Booth parked at event",
+      "Bus parked at bus stop.",
+      "Bus parked in station.",
+      "Boat parked at dock",
+      "Boat parked on shore",
+      "Vehicles parked in a parking lot.",
+      "A bus parked at a bus stop.",
+      "A boat parked at a marina.",
+      "A scooter parked beside a store.",
+      "A bicycle parked near a bench."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A wide open parking lot, realistic textures, DSLR clarity",
+      "Wide open space, parking lot, realistic texture, DSLR",
+      "DSLR captured parking lot, realistic pavement.",
+      "A wide parking lot, DSLR, realistic texture.",
+      "A wide, open parking lot with realistic asphalt, DSLR clarity.",
+      "Parking lot, open scenery, ultra-realistic.",
+      "Parking lot texture, DSLR precision.",
+      "Parking lot, realistic textures, clear, sharp photo.",
+      "Parking lot with realistic texture, open scenery.",
+      "A wide open parking lot, concrete texture, DSLR clarity.",
+      "A wide open parking lot, DSLR clarity",
+      "Parking lot, realistic texture, clear and open.",
+      "A wide, empty parking lot, realistic texture, DSLR.",
+      "Wide open parking, realistic texture, crisp image.",
+      "Realistic parking lot, textured pavement, open vista.",
+      "Wide open parking, realistic texture, clear.",
+      "Open parking lot, realistic asphalt, clear view.",
+      "Parking lot, realistic pavement, clear sunlight.",
+      "Concrete parking space, realistic texture, open field.",
+      "Parking lot, textured surface, vast open field."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

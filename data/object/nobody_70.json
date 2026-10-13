@@ -1,0 +1,53 @@
+[
+  {
+    "id": 466,
+    "prompt": "nobody sitting beside the bed",
+    "base_entity_biased_prompts": [
+      "Bed in a cozy room.",
+      "Bed in a spacious room.",
+      "Bed in a modern room.",
+      "A bed with a plush mattress.",
+      "Bed with soft sheets.",
+      "Bed with fluffy sheets.",
+      "A bed in a spacious bedroom.",
+      "A bed with nightstands.",
+      "A bed with bedside tables.",
+      "A bed in a modern bedroom.",
+      "A bed in a hotel room.",
+      "A bed near a fireplace.",
+      "A bed with a nightstand and lamp.",
+      "A bed in a dormitory room.",
+      "Bed with red and white stripes.",
+      "A bed in a modern apartment.",
+      "A bed with a white comforter.",
+      "A bed with a furry rug nearby.",
+      "A bed with a striped duvet cover.",
+      "Bed with fur blankets and pillows."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bed in a calming room, soft natural light, DSLR.",
+      "Bed in calm room, soft natural light, DSLR.",
+      "Bed in gentle, natural light, peaceful setting, DSLR.",
+      "Bed in soft natural light, peaceful scene, DSLR.",
+      "Bed in natural glow, peaceful room, DSLR.",
+      "Natural light bed, serene setting, DSLR.",
+      "Natural light bed, calm atmosphere, DSLR.",
+      "Bed in calm room, gentle light, DSLR.",
+      "Bed in a bright, peaceful room, DSLR.",
+      "Bed in gentle light, DSLR detail.",
+      "Bed under natural light, DSLR.",
+      "Bed in softly lit room, ultra real.",
+      "Soft light, serene bedroom, DSLR clarity.",
+      "Bed in a peaceful room, natural light perfect.",
+      "Bed in serene room, soft natural light.",
+      "Bed in a serene room, soft natural light.",
+      "Bed placed in calm room, soft light.",
+      "Bed in soft light, peaceful bedroom setting.",
+      "Bed under serene, soft natural light.",
+      "Bed in tranquil room, natural light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 262,
+    "prompt": "a cup with nothing inside",
+    "base_entity_biased_prompts": [
+      "a cup filled with coffee",
+      "a cup containing tea",
+      "a cup filled with water",
+      "a cup containing juice",
+      "a ceramic cup with hot coffee inside",
+      "a cup filled with a beverage",
+      "a cup with steaming tea",
+      "a cup containing milk",
+      "a cup filled with liquid",
+      "a cup with visible drink contents"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a cup with nothing inside and the bottom clearly visible",
+      "an empty cup with the inside clearly visible",
+      "a cup with no liquid or objects inside",
+      "a clean empty cup showing the interior surface",
+      "an empty cup with a visible inner bottom",
+      "a cup with completely empty interior space",
+      "a transparent cup with nothing inside",
+      "an empty cup with no contents",
+      "a cup with an unobstructed view of the inside",
+      "a vacant cup with clearly visible empty space"
+    ],
+    "class": "nothing",
+    "class_index": 43,
+    "filename": "nothing_43"
+  }
+]

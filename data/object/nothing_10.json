@@ -1,0 +1,53 @@
+[
+  {
+    "id": 177,
+    "prompt": "a playground with nothing around it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it’s puzzle piece",
+      "it's a phone",
+      "it's a ring",
+      "it's a key",
+      "it's a car",
+      "it's a ball",
+      "it's a hat",
+      "it's a keyboard",
+      "it's a laptop computer",
+      "it's a door",
+      "a small key",
+      "a blue ball",
+      "a single leaf",
+      "it's a glass window",
+      "a glass window",
+      "it’s a rainy day",
+      "it's a fallen leaf",
+      "it's a book open to pages",
+      "it's a coffee mug"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Playground equipment in ultra-realistic outdoor setting.",
+      "Playground scene, intricate details, DSLR quality.",
+      "Detailed playground with benches, lush greenery, DSLR",
+      "Colorful playground equipment, grassy background, DSLR.",
+      "Playground swings, detailed textures, DSLR.",
+      "Playground scene with realistic playground equipment.",
+      "Detailed playground scene with realistic grass and equipment.",
+      "A playground with swings, slides, and grass, DSLR clarity.",
+      "Realistic outdoor playground with detailed benches.",
+      "Playground at sunset, realistic equipment, soft lighting.",
+      "Playground scene, detailed swings, realistic foliage.",
+      "Realistic playground with a large sandbox area.",
+      "Children's playground with intricate equipment details.",
+      "Playground with climbing frame, realistic details.",
+      "Grassy field, swing set details, DSLR.",
+      "Playground equipment under overcast sky, intricate details.",
+      "Playground equipment under vibrant sunshine.",
+      "Playground seesaw, realistic shadows",
+      "Playground sandbox near trees.",
+      "A swing set under blue sky."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

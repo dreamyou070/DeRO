@@ -1,0 +1,53 @@
+[
+  {
+    "id": 415,
+    "prompt": "nobody walking in the garden",
+    "base_entity_biased_prompts": [
+      "Garden with a variety of herbs.",
+      "Tropical plant garden.",
+      "Lush garden with water feature",
+      "Garden herb garden with fresh herbs.",
+      "Vegetable garden with tomatoes.",
+      "Lush green garden with trees",
+      "Lush green garden oasis",
+      "Garden with autumn leaves",
+      "Colorful herb garden",
+      "Garden with butterfly bush",
+      "A lush flower garden",
+      "A lush flower garden.",
+      "A vibrant flower garden.",
+      "Herb garden with parsley",
+      "Colorful butterfly garden",
+      "Whimsical fairy garden",
+      "Winding garden path",
+      "Sunny butterfly garden",
+      "Lush greenery in a backyard.",
+      "Garden gate with vines"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Peaceful floral garden, DSLR clarity.",
+      "Garden with blooms, serene paths, DSLR clarity.",
+      "Floral serenity, undisturbed paths, DSLR quality.",
+      "Tranquil blooms, untouched path, DSLR detail.",
+      "Flower beds, tranquil paths, DSLR quality.",
+      "Colorful garden, tranquil flowers, undisturbed path.",
+      "Ultra-realistic flowers, calm garden paths.",
+      "Vivid flowers, tranquil garden, undisturbed paths.",
+      "Colorful blooms, grass untouched, DSLR clarity.",
+      "Colorful, tranquil garden, undisturbed paths.",
+      "Serene garden, brilliant flowers, undisturbed path.",
+      "Vivid flowers, tranquil garden, untouched path.",
+      "A serene garden, vibrant flowers, calm paths.",
+      "Serene garden, vivid flower colors.",
+      "A serene garden, vibrant flowers, tranquil path.",
+      "Floral paradise, pristine path, ultra-realistic shot.",
+      "A serene garden, vibrant flowers, tranquil paths.",
+      "A tranquil garden, vibrant flowers, serene path.",
+      "Flowers in full bloom, peaceful garden, smooth path.",
+      "Soft focus on colorful blooms, calm path."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

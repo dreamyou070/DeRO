@@ -1,0 +1,53 @@
+[
+  {
+    "id": 257,
+    "prompt": "a forest without animals",
+    "base_entity_biased_prompts": [
+      "Dogs playing fetch",
+      "Horses by river",
+      "Camels in a desert landscape",
+      "Hippopotamus in water",
+      "Ducks by pond",
+      "Antelope running in herd",
+      "Dogs chasing ball happily",
+      "Elephant in the water",
+      "A flock of sheep grazing",
+      "Kangaroo with joey",
+      "A friendly dog in a field.",
+      "Sheep grazing on hillside",
+      "A flock of birds in flight.",
+      "A friendly dog wagging",
+      "A group of kangaroos hopping.",
+      "A dog catching a ball.",
+      "Ostriches running in desert",
+      "Elephants bathing in a stream.",
+      "A friendly dog at the beach.",
+      "A charming fox hunting"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Dense forest, DSLR, ultra-realistic",
+      "A lush forest, DSLR, ultra-realistic",
+      "Dense forest, ultra-realistic, DSLR",
+      "A dense forest, ultra-realistic, DSLR",
+      "Dense forest, ultra-realistic DSLR",
+      "Dense forest, DSLR realism",
+      "A dense forest, DSLR clarity",
+      "A dense forest, ultra-realistic",
+      "Dense forest, ultra-realistic",
+      "Tranquil forest scene, ultra-real",
+      "Forest stream, DSLR realism",
+      "Sunlight through trees, DSLR, vivid",
+      "Mossy trees, sharp DSLR details",
+      "Sunlight through trees, DSLR clarity",
+      "Ancient trees, vivid DSLR画面",
+      "Ancient trees, vibrant greens, DSLR clarity",
+      "Sunlight through trees, DSLR",
+      "Mountainous forest, deep greenery",
+      "Wildlife in habitat, ultra-real",
+      "Misty forest early morning, vivid"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 37,
+    "prompt": "a bridge missing railings",
+    "base_entity_biased_prompts": [
+      "Railings with horizontal slats and posts.",
+      "Metal railings with curved design.",
+      "Railings with painted stripes for contrast.",
+      "Wooden railings with iron decorations.",
+      "Aluminum railings with reflective surface.",
+      "Iron railings with decorative patterns.",
+      "Railings along the roof edge",
+      "Yellow railings with textured surfaces.",
+      "Grey railings with rounded edges.",
+      "White railings with wooden posts",
+      "Wooden railings with iron spindles.",
+      "Steel railings on a balcony fence",
+      "Teal railings with decorative posts",
+      "Yellow railings with mesh.",
+      "Black railings with decorative posts.",
+      "White railings with decorative posts.",
+      "Railings frame a scenic view",
+      "Metal railings at a beachfront.",
+      "Gray painted railings on a deck",
+      "Gray railings with planters beside them."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A grocery store aisle, DSLR, realism",
+      "Grocery aisle, indoor light, ultra-realistic",
+      "Grocery store, realistic indoor lighting.",
+      "Grocery aisles, bright light, DSLR.",
+      "Dairy section, realistic shelf, DSLR",
+      "A shelf of fresh produce, indoor lighting, DSLR.",
+      "Shelf filled with fruits, DSLR, indoor light",
+      "A aisle of fruits, realistic shelves, indoor light",
+      "Grocery shelf, eggs, realistic lighting.",
+      "Aisle of fresh produce, DSLR clarity.",
+      "Grocery items, organized, realistic shot.",
+      "Grocery store, detailed shelving.",
+      "Grocery aisle, natural light.",
+      "Grocery shelves under LED lights.",
+      "Grocery store checkout, cash register, lights.",
+      "Grocery shelves with natural hues",
+      "Pantry items in natural indoor lighting.",
+      "Grocery store entrance, bright.",
+      "K grocery shelves at night",
+      "Grocery store entrance, bright, inviting lights."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

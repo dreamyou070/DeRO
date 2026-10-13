@@ -1,0 +1,53 @@
+[
+  {
+    "id": 311,
+    "prompt": "a restaurant kitchen without pans",
+    "base_entity_biased_prompts": [
+      "Pans in various sizes",
+      "Pans in a modern kitchen setup.",
+      "Pans used in a restaurant.",
+      "Pans with cooking utensils nearby.",
+      "Pans in a restaurant kitchen.",
+      "Pan with a shiny surface",
+      "Pan handles on a countertop.",
+      "Pan handles on a kitchen counter.",
+      "Pans with utensils in modern kitchen.",
+      "Pan with chicken breasts",
+      "Pans hanging from a pot rack.",
+      "Pan with pasta and sauce.",
+      "Pans arranged in a row on a countertop.",
+      "Pan used to bake cookies.",
+      "A stainless steel pan with water droplets.",
+      "A colorful array of pans in a drawer.",
+      "White ceramic pan on table.",
+      "A pan with stir-fried noodles.",
+      "A pan of grilled cheese sandwiches.",
+      "A pan filled with pancake batter."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Clean kitchen, chefs cooking, DSLR realism",
+      "A clean kitchen with organized counters, DSLR.",
+      "Spotlessly clean kitchen, chefs cooking, DSLR quality",
+      "Modern kitchen design, clean lines, DSLR",
+      "Cooking station, gleaming appliances, DSLR.",
+      "Ultra-realistic kitchen, orderly setup, pristine surfaces",
+      "Organized counters, fresh ingredients, DSLR",
+      "Clean kitchen, chefs at work, DSLR clarity",
+      "Restaurant kitchen, pristine counters, efficient layout",
+      "Ultra-realistic kitchen with pristine counters.",
+      "Cooking area, pristine countertops, professional equipment",
+      "Shiny countertops, clean kitchen, professional setup",
+      "A clean kitchen with organized counters.",
+      "Orderly kitchen, vibrant ingredients",
+      "Modern kitchen, clean surfaces,有序布局.",
+      "Clean, modern kitchen with appliances.",
+      "Cooking station with pristine pans.",
+      "Chef in action, pristine kitchen.",
+      "Spacious kitchen, spotless surfaces, modern appliances.",
+      "Chef in action, spotless workspace"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

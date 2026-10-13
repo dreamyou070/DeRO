@@ -1,0 +1,53 @@
+[
+  {
+    "id": 317,
+    "prompt": "a library reading room without lamps",
+    "base_entity_biased_prompts": [
+      "A collection of antique lamps.",
+      "Lamps in a library setting.",
+      "Lamps on a nightstand.",
+      "Lamps in a library.",
+      "Lamps illuminating a living room.",
+      "Lamps in various styles on a mantelpiece.",
+      "Lamps in a cozy living room.",
+      "A collection of lamps in a bedroom.",
+      "A bookshelf with various lamps.",
+      "Lamps on a bookshelf beside windows.",
+      "A lamp with a colorful shade.",
+      "A chandelier with multiple lamps.",
+      "Lamp with antique design.",
+      "A bedside lamp with a shade.",
+      "A bedside floor lamp.",
+      "Lamp with a glass globe.",
+      "A bedside lamp with a shaded base.",
+      "A lamp with a modern geometric design.",
+      "A floor lamp with a modern design.",
+      "A lamp with a blue ocean theme."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Book stacks, desks, library, ultra-realistic, DSLR.",
+      "A spacious library, desks, shelves, DSLR, ultra-realistic.",
+      "A desk with books, realistic DSLR",
+      "A large library, desks, shelves, DSLR",
+      "Library ambiance, desks, shelves, DSLR.",
+      "Stacks of books, library shelves, DSLR",
+      "Desks, books, realistic library setting.",
+      "Shelved books, library desks, ultra-realistic",
+      "Detailed shot of library shelves",
+      "Bookshelf rows, ultra-realistic view",
+      "Book covers visible, realistic library.",
+      "Books stacked, desks, library ambiance.",
+      "Library ambiance, desks, shelves.",
+      "Desk with open books, realistic detail.",
+      "Library with large windows, desks, shelves full.",
+      "Desks with laptops, book stacks, vivid.",
+      "Rows of books, desks, natural light.",
+      "Brightly lit room, desks and books.",
+      "Shelves filled with books, focused desks.",
+      "Shelving units, open books, desk."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

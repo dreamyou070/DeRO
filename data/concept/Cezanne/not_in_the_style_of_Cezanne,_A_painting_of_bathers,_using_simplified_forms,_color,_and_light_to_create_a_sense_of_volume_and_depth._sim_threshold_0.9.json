@@ -1,0 +1,32 @@
+[
+  {
+    "id": 8,
+    "prompt": "not in the style of Cezanne, A painting of bathers, using simplified forms, color, and light to create a sense of volume and depth.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [
+      "A painting of bathers with simplified forms and subtle lighting, creating a sense of depth and volume in a clean and minimal style.",
+      "A painting of bathers using simplified forms and natural lighting to evoke a sense of depth and form in an uncluttered setting.",
+      "A painting of bathers with simplified forms and soft colors, emphasizing volume through light.",
+      "A painting of bathers with simplified forms and gentle lighting, creating a sense of depth and volume in a minimalist style.",
+      "A painting of bathers using simplified forms and soft lighting to create volume and depth in a minimalistic setting.",
+      "A painting of bathers utilizing simplified shapes and light to create volume and depth in an uncluttered environment.",
+      "A painting of bathers utilizing simplified forms and natural hues to create volume and depth in a clean, uncluttered space.",
+      "A painting of bathers employing simplified shapes and subtle tones to create volume and depth in a spacious, clean environment.",
+      "A natural painting of bathers with simplified forms and light gradients, suggesting a sense of three-dimensional form.",
+      "A painting focusing on bathers through simplified forms and colors to evoke a sense of depth and form in an uncluttered setting.",
+      "A painting of bathers utilizing simplified shapes and natural hues to create a sense of depth and form in a minimalistic environment.",
+      "A painting of bathers with simplified forms and gentle lighting to suggest depth and volume in a clean, open space.",
+      "A painting of bathers employing simplified elements and subtle colors to create a sense of depth and form in a minimalistic setting.",
+      "A straightforward painting of bathers with basic shapes and subtle lighting, generating a sense of depth and form.",
+      "A simple painting of bathers with reduced features and light gradients, highlighting a sense of form and depth.",
+      "A painting of bathers utilizing simplified elements and color palettes to convey depth and volume in a spacious, clean environment.",
+      "A painting of bathers using simplified forms and natural lighting to evoke a sense of volume and depth in an empty, clean area.",
+      "A painting of bathers with simplified forms and subtle lighting to create a sense of volume and depth in a vacant area."
+    ],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 18
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 451,
+    "prompt": "nobody standing in the subway station",
+    "base_entity_biased_prompts": [
+      "Station clock tower",
+      "High-speed rail station",
+      "Railroad signal station",
+      "Railway maintenance station",
+      "Train station café",
+      "Convenience store near station",
+      "Construction site for new station",
+      "Train station entrance",
+      "Underground metro station",
+      "Underground subway station",
+      "Construction site next to station",
+      "Train station clock tower",
+      "Taxi stand at station",
+      "Amusement park ride station",
+      "Lighthouse station beacon",
+      "Railroad maintenance station yard",
+      "Train engine depot",
+      "Cargo train station yard",
+      "Subway platform with tracks",
+      "Metro station stairs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Subway station, bright signs, clean design, DSLR",
+      "Subway platform, bright signs, pristine details, DSLR.",
+      "Subway platform, bright lights, pristine details, DSLR",
+      "Subway lights, clean platform, realistic shot",
+      "Bright subway signs, clean platform, DSLR",
+      "Neon signs, subway station, clean platform, DSLR",
+      "Clean subway platform, bright lighting, DSLR",
+      "Subway platform, bright signs, clean tiles, DSLR",
+      "Clean subway station, illuminated signs, realistic.",
+      "Subway platform, bright signs, clean tiles, DSLR.",
+      "Subway station, illuminated details, clean.",
+      "Subway station, clean, bright details.",
+      "Subway station, pristine lighting.",
+      "Subway station, illuminated signs, pristine.",
+      "Subway station, bright lights, neat details.",
+      "Lighted subway platform, pristine details.",
+      "Subway station, bright lighting, clean.",
+      "Platform, subway station, illuminated signs",
+      "Subway station, bright, spotless details.",
+      "Subway platform, sleek details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

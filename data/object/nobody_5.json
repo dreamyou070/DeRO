@@ -1,0 +1,53 @@
+[
+  {
+    "id": 401,
+    "prompt": "nobody swimming in the pool",
+    "base_entity_biased_prompts": [
+      "Pool with a sandy bottom area.",
+      "A pool with a sandy bottom.",
+      "A pool with a sand bottom.",
+      "Pool with a glass bottom.",
+      "Pool with colorful tiles",
+      "Pool with lush green surroundings",
+      "Pool with glass bottom",
+      "A pool with a glass bottom.",
+      "Pool with colorful aquatic toys.",
+      "Swimming pool with a glass bottom.",
+      "A pool with a sand-bottomed section.",
+      "Pool with diving boards and slides",
+      "Pool with a jet stream feature.",
+      "Pool with a diving board and slide.",
+      "A pool with a sandy beach area.",
+      "Pool with colorful diving boards.",
+      "Pool with colorful diving boards and slides",
+      "Pool with colorful water slides.",
+      "A rectangular pool with diving boards and slides.",
+      "Swimming in a clear blue pool"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Pool, calm, water undisturbed, peaceful, DSLR realism",
+      "Calm pool, water undisturbed, peaceful, realistic photo",
+      "Peaceful pool, water undisturbed, DSLR, detailed",
+      "Swimming pool calm, perfect reflection, DSLR.",
+      "Peaceful pool, DSLR realism",
+      "A serene pool, surface calm, DSLR clarity.",
+      "Calm pool, ultra-realistic shot",
+      "Peaceful pool, DSLR clarity.",
+      "A calm pool, water like glass, DSLR realism",
+      "Ultra-realistic pool, calm reflection.",
+      "Calm pool, ultra-realistic clarity",
+      "Peaceful pool, ultra-real clarity",
+      "Serene pool, ultra-realistic",
+      "Ultra-realistic pool, water without ripples.",
+      "Calm pool, reflection pristine",
+      "Reflective pool, serene and calm",
+      "Pool tranquility, reflection perfect",
+      "A calm pool, water like glass, reflections perfect.",
+      "Pool mirror-like, peaceful scene",
+      "Reflective pool, calm surface."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

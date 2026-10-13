@@ -1,0 +1,53 @@
+[
+  {
+    "id": 201,
+    "prompt": "a car trunk with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside a train compartment",
+      "Inside spacious hall",
+      "Inside bustling restaurant",
+      "Inside small café",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside modern office",
+      "Inside sparkling aquarium tank",
+      "Inside a bustling mall",
+      "Inside modern art gallery",
+      "Inside spacious living room",
+      "Inside a fancy restaurant",
+      "Inside a quiet hallway",
+      "Inside a vibrant cafe",
+      "Inside cozy living room",
+      "Inside a bustling kitchen",
+      "Inside a busy kitchen",
+      "Inside a historic church",
+      "Inside an old library",
+      "Inside historic castle interior"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Car trunk with lining, ultra-realistic, DSLR",
+      "Car trunk interior, lined, ultra-realistic DSLR.",
+      "Car trunk interior, spacious, DSLR capture.",
+      "A large open car trunk, DSLR, detailed lining.",
+      "A large open car trunk, DSLR clarity.",
+      "Ultra-realistic car trunk, open, interior visible.",
+      "Car trunk interior, ultra-realistic.",
+      "Open car trunk, lined interior, ultra-realistic.",
+      "Car trunk interior, ultra-realistic detail.",
+      "Trunk open, interior visible, detailed shot.",
+      "Trunk open, roomy interior, ultra-realistic.",
+      "Spacious trunk interior, lined, close shot",
+      "Car trunk, open, lining visible, realistic.",
+      "Spacious car trunk, visible interior detail.",
+      "Open car trunk, interior lining vividly visible",
+      "Spacious trunk, interior clearly seen.",
+      "Spacious car trunk, visible lining details.",
+      "Spacious car trunk, detailed interior.",
+      "Open trunk, spacious, lining detailed.",
+      "Wide open trunk, visible interior."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

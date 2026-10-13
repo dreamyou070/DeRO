@@ -1,0 +1,53 @@
+[
+  {
+    "id": 185,
+    "prompt": "a soccer field with nothing at the center",
+    "base_entity_biased_prompts": [
+      "Center of a city",
+      "Center of attention",
+      "Crossroads at the center.",
+      "Center of a target",
+      "Center of a flower",
+      "Center of a clock",
+      "A magnet's center.",
+      "A city with the center downtown area.",
+      "Balanced scales in center position.",
+      "A map with the center marked.",
+      "A bullseye at the center.",
+      "A camera lens focusing on the center.",
+      "Library with central reading area",
+      "A map with focus on the central area.",
+      "A crossroads in the center of a town.",
+      "A map with location pinpointed at center.",
+      "A sun with a bright center",
+      "A round table in the center of a room.",
+      "A round table in the center of the room.",
+      "A bullseye in the middle."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Real soccer field, ultra-realistic DSLR",
+      "Detailed soccer field texture, DSLR focus.",
+      "Ultra-realistic soccer field texture.",
+      "Soccer field in high detail, DSLR.",
+      "Detailed soccer field under DSLR lens.",
+      "Detailed soccer field, realistic textures.",
+      "Soccer field with realistic texture.",
+      "Soccer net, grass texture, DSLR",
+      "Realistic grass texture of a soccer field.",
+      "Soccer field with intricate texture details.",
+      "A lush green soccer field, DSLR sharpness.",
+      "Professional soccer field texture",
+      "Soccer field markings, vivid detail",
+      "Close-up of soccer field grass texture.",
+      "Field texture and markings, ultra-real",
+      "Soccer ball on field, high detail",
+      "Soccer net against vibrant sky, details rich",
+      "Close-up of grass texture, DSLR.",
+      "Soccer field markings under bright sun.",
+      "A green soccer field with markings"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

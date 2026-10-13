@@ -1,0 +1,53 @@
+[
+  {
+    "id": 279,
+    "prompt": "a music studio without instruments",
+    "base_entity_biased_prompts": [
+      "Percussion instruments array",
+      "Percussion instruments in a kit.",
+      "Percussion instruments collection",
+      "Violin and bow",
+      "Guitar and drums set",
+      "Violoncello in case",
+      "Percussion ensemble array",
+      "Glockenspiel and xylophone",
+      "Percussion set up",
+      "Electric bass and guitar",
+      "Microphone and guitar",
+      "Trumpet and case",
+      "Ukulele with strings",
+      "Sitar with strings",
+      "French horn in case",
+      "A guitar and drums ensemble",
+      "Guitar pick and strings detailed.",
+      "A violin and cello ensemble",
+      "Cello and bow",
+      "Timpani drums set"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Professional studio with acoustic treatment.",
+      "Acoustic walls with recording gear closeup.",
+      "Recording session, studio gear, acoustically treated walls",
+      "Detailed acoustic panels on studio walls.",
+      "Studio with string instruments and soundproof walls.",
+      "Professional studio with mixing boards, guitars, and speakers.",
+      "Studio with vintage recording gear.",
+      "Studio with drum kit and acoustic treatment.",
+      "Studio with acoustic panels and lighting.",
+      "Large acoustic panels, DSLR shot.",
+      "Studio interior with sleek equipment.",
+      "Diverse recording equipment in a studio.",
+      "Professional studio, soundboard, acoustic panels",
+      "Acoustic panels cover studio walls",
+      "Recording booth interior, realistic",
+      "Microphone overhead shot in studio",
+      "Detailed view of vocal booth interior",
+      "Guitar amplifiers in a studio.",
+      "Musician in booth, studio backdrop.",
+      "Studio interior with large windows"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 198,
+    "prompt": "a bridge with nothing crossing it",
+    "base_entity_biased_prompts": [
+      "it logo on phone",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a key",
+      "it's a car",
+      "a cup of coffee it",
+      "it's a hat",
+      "it's a cloud",
+      "it's a keyboard",
+      "it's a mountain",
+      "it's an apple",
+      "a single key",
+      "a small key",
+      "a white cloud",
+      "it's a glass window",
+      "it’s a book open to a page",
+      "a silver car",
+      "an open window",
+      "it's a rainy day"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bridge over mountains, DSLR, ultra-realistic",
+      "A modern concrete bridge, vast landscape, DSLR",
+      "Modern bridge with mountains, DSLR.",
+      "Modern steel bridge, DSLR.",
+      "Concrete bridge, greenery, DSLR.",
+      "Bridge with piers, greenery, DSLR.",
+      "Modern suspension bridge, DSLR.",
+      "Bridge with trees, DSLR.",
+      "Reinforced concrete bridge, DSLR.",
+      "Concrete bridge with river, DSLR",
+      "Concrete bridge with piers, DSLR",
+      "Steel bridge with hills, ultra-real.",
+      "A metallic bridge over water, DSLR clarity.",
+      "A steel bridge over a river, DSLR.",
+      "High-resolution image of a cable-stayed bridge, greenery.",
+      "Tall bridge, dense forest backdrop.",
+      "Steel bridge, autumn foliage, soft focus.",
+      "Suspension bridge, rugged mountains in background.",
+      "Modern suspension bridge, scenic mountainside.",
+      "Concrete bridge, rolling hills around."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

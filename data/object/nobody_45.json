@@ -1,0 +1,53 @@
+[
+  {
+    "id": 441,
+    "prompt": "nobody inside the hospital room",
+    "base_entity_biased_prompts": [
+      "Guest room with单人床.",
+      "Hotel suite bedroom.",
+      "A home theater room.",
+      "Home theater room with seats.",
+      "A studio apartment bedroom.",
+      "Master bedroom suite.",
+      "Dining room with table",
+      "Large living room with沙发.",
+      "A dining room with a table.",
+      "Large living room with沙发",
+      "Spacious family room.",
+      "A small cozy bedroom.",
+      "A sunroom with windows.",
+      "Small studio apartment bedroom.",
+      "A conference room with a table.",
+      "A hotel room with a view.",
+      "Luxurious home theater room.",
+      "A dining room with a table and chairs.",
+      "Children's playroom with toys and games.",
+      "Attractive guest room with twin beds"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Tidy hospital room, precise lighting, high detail, DSLR.",
+      "Hospital room, untouched bed, precise lighting, detailed.",
+      "Hospital room, gear orderly, bed untouched, realistic lighting.",
+      "Medical equipment organized, bed pristine, realistic lighting.",
+      "Hospital bed, tidy equipment, realistic lighting, detailed.",
+      "Tidy hospital, ultra-realistic medical setup.",
+      "Hospital room, untouched bed, realistic light.",
+      "Hospital room, untouched bed, detailed medical setup.",
+      "Untouched bed, hospital setup, DSLR quality.",
+      "Hospital bed pristine, gear orderly, realistic lighting.",
+      "Tidy hospital room, meticulous detail, lighting.",
+      "Hospital room, neat bed, realistic light.",
+      "Sterile hospital room, precise medical setup, untouched bed.",
+      "Detailed medical setup, pristine bed, natural light.",
+      "Sterile hospital room, bright light, clean bed, detailed setup.",
+      "Neat hospital room, bright light, medical setup.",
+      "Neat hospital bed, medical machines, balanced indoor light.",
+      "Detailed hospital scene, bright indoor light.",
+      "Detailed medical equipment, spotless.",
+      "Medical equipment in order, bright lighting."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

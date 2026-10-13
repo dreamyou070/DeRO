@@ -1,0 +1,53 @@
+[
+  {
+    "id": 243,
+    "prompt": "a plate with nothing beside it",
+    "base_entity_biased_prompts": [
+      "a keyboard it",
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a watch",
+      "it's a car",
+      "it's a ball",
+      "it's a hat",
+      "it's a keyboard",
+      "it's a cup",
+      "it's a mountain",
+      "a black hole",
+      "a single key",
+      "a distinct mark",
+      "a small key",
+      "a white cloud",
+      "it's a white cloud",
+      "a small table"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Plate, realistic ceramic, open table space, DSLR.",
+      "Plate, open space, realistic ceramic, DSLR",
+      "Ceramic plate, ultra-realistic, DSLR, open area.",
+      "Ceramic plate, space around, ultra-realistic, DSLR.",
+      "Table with plate, realistic ceramic, DSLR shot.",
+      "Plate on table, realistic ceramic, DSLR.",
+      "Realistic ceramic plate, DSLR clarity, open space.",
+      "Plate with space, realistic ceramic, DSLR detail.",
+      "Ceramic plate, open space, DSLR detail",
+      "Detailed ceramic plate, DSLR realism, space.",
+      "Gray plate, realistic texture, table space, DSLR.",
+      "A white plate with realistic ceramic texture, DSLR.",
+      "Plate with bread, realistic ceramic, DSLR",
+      "Steak on plate, realistic ceramic, DSLR.",
+      "Bread on plate, realistic ceramic, DSLR.",
+      "Salad on plate, realistic ceramic, DSLR.",
+      "Open table space, ceramic plate, detailed.",
+      "A steak on a ceramic plate, DSLR clarity",
+      "Salad on plate, open area, ceramic look, ultra-realistic.",
+      "Plate of toast, open table space, realistic ceramic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

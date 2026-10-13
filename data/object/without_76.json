@@ -1,0 +1,53 @@
+[
+  {
+    "id": 323,
+    "prompt": "a road without cars",
+    "base_entity_biased_prompts": [
+      "Gray compact car",
+      "Racing cars side by side",
+      "Compact car in garage",
+      "Compact car with luggage",
+      "Compact car in driveway",
+      "Yellow car with music",
+      "Vintage car at show",
+      "Car with custom paint job",
+      "Silver sedan rain",
+      "Car in mechanic shop",
+      "Red sedan with wheels",
+      "Purple sports car garage",
+      "Racing red sports car",
+      "Purple sports car sunset",
+      "White minivan family",
+      "Vintage car at night",
+      "Purple sports car racing",
+      "Old car in garage.",
+      "Vintage car in garage",
+      "Old car in desert"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "DSLR photo of a straight, open road.",
+      "Bumpy road, crisp DSLR shot",
+      "DSLR image, road with lanes, blue sky",
+      "Road with lane markings, cityscape in distance.",
+      "Road in open countryside, sharp focus.",
+      "Road with lines, rolling hills in focus.",
+      "Road, lane lines, serene scenery.",
+      "Bumpy road with vivid lane lines, countryside.",
+      "Countryside road with vibrant colors.",
+      "Urban road with lane markings, cityscape beyond.",
+      "Highway with lane lines, rolling hills in focus.",
+      "City road, detailed lanes, open vista.",
+      "Lane-marked road, open countryside.",
+      "Lane markings visible, open field ahead.",
+      "Country road, vivid colors.",
+      "Country road with visible lanes, rolling hills nearby.",
+      "A wide road with clear markings, fields on sides",
+      "Sunset road with visible lanes, hills in distance.",
+      "Sunset road with lane lines, mountains in distance.",
+      "Rural road, clear markings, sunset glow."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

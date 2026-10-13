@@ -1,0 +1,53 @@
+[
+  {
+    "id": 11,
+    "prompt": "a kitchen missing a stove",
+    "base_entity_biased_prompts": [
+      "Stove with cooking food.",
+      "Stove with cooking utensils.",
+      "Stove with boiling water pot.",
+      "Stove with spices and ingredients.",
+      "Stove with pots and utensils.",
+      "Stove with cast iron pan.",
+      "Stove in a small kitchen.",
+      "Stove with a lid of pot.",
+      "Stove in modern kitchen.",
+      "Stove with pots and pans.",
+      "Stove in a cozy kitchen setting.",
+      "A stove with pots and pans.",
+      "Stove with a cast iron pan.",
+      "Stove with ingredients arranged nearby.",
+      "Stove surrounded by ingredients.",
+      "Stove in a modern kitchen.",
+      "Stove with simmering saucepan.",
+      "Stove top with cooking food.",
+      "Stove with pots and pans nearby.",
+      "Stove with cooking smells wafting out."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Clean-lined bathroom, DSLR, ultra-realistic",
+      "Tidy bathroom, DSLR, ultra-realistic",
+      "Ultra-modern bathroom, DSLR, pristine texture",
+      "Bathroom with glass, DSLR, ultra-realism",
+      "Sophisticated bathroom, DSLR, smooth textures",
+      "Elegant bathroom, DSLR, clean textures",
+      "Stunning bathroom, DSLR, clean textures",
+      "Luxury bathroom, clean textures, DSLR",
+      "Stylish bathroom, smooth tiles, DSLR detail",
+      "Modern bathroom, DSLR, clean lines",
+      "Ultra-modern bathroom, DSLR, soft lighting",
+      "Bathroom, DSLR, pristine walls",
+      "Elegant bathroom, DSLR, clean lines",
+      "Bathroom tiles, DSLR, realistic lighting",
+      "A modern bathroom, pristine walls, DSLR clarity.",
+      "A sleek bathroom, DSLR, clean walls",
+      "Modern bathroom, ultra-realistic",
+      "A sleek modern bathroom, DSLR",
+      "Polished bathroom, DSLR quality.",
+      "A tiled bathroom, DSLR, pristine"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

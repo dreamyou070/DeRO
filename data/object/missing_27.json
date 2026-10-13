@@ -1,0 +1,53 @@
+[
+  {
+    "id": 27,
+    "prompt": "an airport runway missing airplanes",
+    "base_entity_biased_prompts": [
+      "Fleet of airplanes",
+      "Aerial view of aircraft",
+      "Aerospace aircraft in flight",
+      "Aircraft with wings spread",
+      "Aerial view of airplane",
+      "Aerial view of plane",
+      "Airport runway with planes",
+      "Airshow with planes",
+      "Airplane with wings spread",
+      "Aerospace aircraft taking off",
+      "Aeroplane with wings spread",
+      "Vintage airplane in sky",
+      "Plane with wings spread wide",
+      "Commercial airliner in flight",
+      "White airplane against blue",
+      "Light aircraft in clear blue sky",
+      "Red and white airplane silhouette",
+      "Small aircraft on runway",
+      "Nighttime airplane with lights",
+      "Blue plane with white stripes"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom scene, aligned desks, maps, ultra-real, DSLR",
+      "Books, desks, teacher, DSLR, ultra-realistic",
+      "Classroom scene, aligned desks, chalkboard, DSLR",
+      "Science lab desks, aligned rows, educational materials, DSLR realism",
+      "A classroom, desks aligned, textbooks, ultra-realistic",
+      "A classroom, desks aligned, books, posters, DSLR",
+      "Classroom setup, aligned chairs, books, DSLR, vivid",
+      "Aligned desks, chalkboard, textbooks, DSLR, realistic",
+      "Books and papers, desks aligned, classroom setup, DSLR photo.",
+      "Aligned desks, chalkboard, textbooks, DSLR, ultra real",
+      "Classroom library, desks, chalkboard, DSLR",
+      "Aligned desks, posters, realistic classroom.",
+      "Aligned desks, chalkboard, textbooks, DSLR clarity",
+      "Classroom desks neat, maps displayed, DSLR",
+      "Classroom with aligned desks, science equipment visible.",
+      "Classroom view, markers, notebooks, crisp photo",
+      "Aligned desks, chalkboard, textbooks, DSLR sharpness",
+      "Modern classroom, desks aligned, chalkboard, textbooks",
+      "Projector screen, desks aligned for lessons.",
+      "Textbooks stacked, desks perfectly aligned."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

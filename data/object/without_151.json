@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a shirt with no collar",
+    "base_entity_biased_prompts": [
+      "Purple velvet collar",
+      "Black turtleneck collar",
+      "Orange hoodie collar",
+      "Yellow turtleneck collar",
+      "Blue denim jacket collar",
+      "Black denim jacket collar翻领",
+      "A yellow turtleneck collar.",
+      "A turtleneck with a hidden collar.",
+      "Black leather motorcycle jacket collar",
+      "A red turtleneck collar visible.",
+      "Black leather motorcycle collar",
+      "Green tank top with collar",
+      "A brown leather collar for a jacket",
+      "A brown leather dog collar",
+      "A gray vest with a detachable collar",
+      "A dog's neck with a silver collar",
+      "A dog with a blue and white collar.",
+      "A black leather collar on a dog.",
+      "A blue denim jacket with a collar.",
+      "A black leather motorcycle collar."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Olive-beige t-shirt, black hanger, white background, natural light, minimal.",
+      "Olive-beige t-shirt, black hanger, white wall, natural light, modern minimal.",
+      "Olive-beige t-shirt, black hanger, white wall, natural light, subtle folds",
+      "Short sleeve t-shirt, black hanger, white background, natural light",
+      "Minimalist olive-beige t-shirt, black hanger, white textured wall",
+      "Olive-beige t-shirt on black hanger, modern minimal style",
+      "Minimalist t-shirt, black hanger, textured wall, natural light.",
+      "White wall background, natural light, minimalist style t-shirt",
+      "Minimalist design, white wall, olive-beige t-shirt, black hanger",
+      "Olive-beige t-shirt on black hanger, white wall, natural light, subtle folds.",
+      "Minimalist t-shirt, black hanger, white textured wall, soft light.",
+      "Minimalist t-shirt, black hanger, white background, soft light.",
+      "Olive-beige t-shirt, black hanger, white wall, natural light, subtle folds.",
+      "Natural light, olive-beige t-shirt, black hanger, modern setup.",
+      "T-shirt details, realistic texture, modern minimalism.",
+      "Natural light, minimalist shirt, black hanger, white wall.",
+      "Olive-beige t-shirt on black hanger, white wall, natural light.",
+      "Black hanger, olive-beige t-shirt, white wall, natural light,",
+      "Olive-beige t-shirt, natural light, white wall.",
+      "Olive-beige t-shirt, black hanger, modern style."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

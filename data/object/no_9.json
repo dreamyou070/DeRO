@@ -1,0 +1,53 @@
+[
+  {
+    "id": 71,
+    "prompt": "a movie theater with no screen",
+    "base_entity_biased_prompts": [
+      "A screen with a blue background",
+      "Desktop computer screen",
+      "Screen of a digital art display.",
+      "Screen of a gaming console",
+      "TV screen with a movie.",
+      "A projector screen with a film.",
+      "A gaming console screen",
+      "A monitor screen with a video.",
+      "A computer screen with multiple windows.",
+      "A digital photo frame screen.",
+      "A projector screen with a presentation.",
+      "Computer screen with code.",
+      "Portable game console screen",
+      "A screen with a social media feed.",
+      "Projector screen with presentation",
+      "A computer screen with open documents.",
+      "TV screen with movie preview",
+      "TV screen playing a movie",
+      "Game console screen with controller.",
+      "Modern smartphone screen closeup"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Beach and harbor, realistic reflections, DSLR.",
+      "A bustling harbor, DSLR, realistic reflection",
+      "Beaches around harbor, water reflection lifelike, DSLR",
+      "City skyline, harbor reflection, realistic water, DSLR.",
+      "Harbor scene with vibrant reflections, DSLR.",
+      "Harbor entrance, dramatic reflection, DSLR",
+      "Sunset over harbor, realistic reflections, DSLR.",
+      "Calm harbor, water reflections, ultra real",
+      "A bustling harbor with clear reflections, DSLR.",
+      "A bustling harbor with reflective water, DSLR clarity.",
+      "Detailed harbor scene, ultra-realistic.",
+      "Lighthouse, harbor, realistic reflection.",
+      "A bustling harbor with realistic water reflections.",
+      "Cliffs, harbor, water reflections",
+      "Detailed marina, realistic water reflections.",
+      "A bustling harbor, water reflection, coastal details",
+      "Coastline with harbor, vivid details.",
+      "Modern harbor, realistic water, sunset.",
+      "Busy harbor with detailed water reflections.",
+      "Harbor entrance with water mirror-effect"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

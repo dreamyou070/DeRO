@@ -1,0 +1,53 @@
+[
+  {
+    "id": 417,
+    "prompt": "nobody standing in the elevator",
+    "base_entity_biased_prompts": [
+      "Elevator going up.",
+      "Elevator going up and down",
+      "Elevator with floor numbers",
+      "Elevator moving between floors.",
+      "Elevator ascending between floors.",
+      "Elevator moving between floors",
+      "Elevator in modern building.",
+      "Elevator nearing top floor.",
+      "Elevator moving up in building",
+      "Elevator in old building",
+      "Elevator in a residential building",
+      "Elevator in modern building",
+      "Elevator in luxury building",
+      "Elevator in industrial building",
+      "Elevator moving slowly upwards",
+      "Elevator reaching top floor",
+      "Elevator with sliding doors",
+      "Elevator reaching top floor quickly.",
+      "Elevator ascending slowly",
+      "Elevator facing building."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Reflective elevator interior, organized buttons, DSLR clarity",
+      "Reflective elevator interior, precise design, DSLR",
+      "Reflective elevator interior, clear buttons, DSLR shot",
+      "Elevator with reflective walls, clean buttons, DSLR quality",
+      "Modern elevator interior, clean, DSLR detail",
+      "Reflective elevator interior, organized buttons, DSLR",
+      "Shiny elevator walls, orderly controls, DSLR shot",
+      "Reflective elevator interior, clear buttons, sharp DSLR",
+      "Glass elevator walls, organized buttons, ultra-realistic DSLR",
+      "Clean elevator, reflective walls, DSLR realism",
+      "Elevator interior, mirrored sides, detailed controls, DSLR",
+      "Reflective elevator, perfect buttons, DSLR",
+      "Reflective elevator walls, button panel, DSLR shot",
+      "Reflective walls, elevator buttons, DSLR precision",
+      "Elevator with mirrors, neat buttons, DSLR quality",
+      "Interior, elevator, sleek, DSLR",
+      "Elevator, shiny interior, control panel, ultra-real",
+      "Elevator controls, shiny buttons, DSLR",
+      "Glass elevator walls, sleek buttons, realistic shot",
+      "Reflective elevator, ultra-realistic buttons"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

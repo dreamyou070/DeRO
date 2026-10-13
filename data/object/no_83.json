@@ -1,0 +1,53 @@
+[
+  {
+    "id": 145,
+    "prompt": "a parking lot with no cars",
+    "base_entity_biased_prompts": [
+      "Motorcycle and car",
+      "Miniature model car",
+      "Silver compact car",
+      "White motorcycle and car",
+      "Grey mini cooper",
+      "Black motorcycle and car",
+      "White race car stripes",
+      "Sports car with open roof",
+      "Racing red sports car",
+      "Purple sports car sunset",
+      "Luxury car in show",
+      "Sedan with luggage",
+      "White minivan family",
+      "Purple sports car at night",
+      "Black sports car with wheels off",
+      "Race car pit stop",
+      "Purple sports car racing",
+      "Purple sports car in garage",
+      "Yellow classic car",
+      "Vintage car at festival"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Urban parking lot, realistic textures, DSLR quality",
+      "City parking lot, realistic textures, high-resolution DSLR.",
+      "Urban parking, realistic textures, DSLR focus.",
+      "Realistic parking lot, city skyline, DSLR quality.",
+      "Urban parking lot, textured pavement, ultra-realism.",
+      "City parking lot, realistic textures, ultra-real.",
+      "Realistic parking lot, urban background, detailed texture",
+      "Close-up of parking lot, realistic texture, urban backdrop.",
+      "Concrete parking lot, urban scene, ultra-realistic detail",
+      "Detailed parking lot, realistic pavement, city backdrop.",
+      "Urban parking lot, realistic textures, modern cityscape.",
+      "Urban parking scene, ultra-realism.",
+      "Large parking lot, realistic textures, urban setting.",
+      "Overhead view, parking lot layout, realistic textures.",
+      "Wide shot of parking lot, gritty pavement, city skyline.",
+      "Modern parking lot, sleek asphalt, city backdrop.",
+      "Detailed parking garage, urban setting, crisp.",
+      "Parking lot, rough concrete texture, skyscrapers.",
+      "New cars in a vibrant cityscape parking area.",
+      "Trucks parked beside brick buildings, ultra-real."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

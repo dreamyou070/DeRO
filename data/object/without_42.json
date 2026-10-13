@@ -1,0 +1,53 @@
+[
+  {
+    "id": 289,
+    "prompt": "a chair without backrest",
+    "base_entity_biased_prompts": [
+      "Backrest with cushion",
+      "Backrest designed for comfort",
+      "Backrest in modern design",
+      "Backrest for added comfort",
+      "Backrest designed for support",
+      "Backrest in a modern design",
+      "Backrest with ergonomic design",
+      "Backrest on a lounge chair",
+      "Backrest with decorative cushions",
+      "Backrest with soft cushion",
+      "Backrest of a folding chair",
+      "Backrest with soft cushioning",
+      "Backrest made of leather",
+      "Backrest with soft cushions and fabric",
+      "Backrest with armrests attached",
+      "Bench with ergonomic backrest",
+      "Backrest adorned with leather",
+      "Sofa with cushioned backrest",
+      "Backrest with a wooden frame and upholstery.",
+      "Chair with a leather backrest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Chair with realistic texture, DSLR.",
+      "Smooth fabric chair, realistic texture, DSLR quality.",
+      "Smooth wooden chair, realistic material, DSLR capture",
+      "Ultra-realistic DSLR, chair close-up.",
+      "Smooth metal chair, ultra-realistic photography.",
+      "Smooth fabric chair, ultra-realistic shot.",
+      "Smooth fabric chair, ultra-realistic focus.",
+      "Fabric chair smooth feel, DSLR.",
+      "Chair with smooth synthetic seat, ultra-real.",
+      "Smooth leather chair, ultra-realistic texture.",
+      "Smooth plastic chair, DSLR quality.",
+      "Chair, smooth leather, photorealistic texture.",
+      "Leather chair, ultra-realistic texture, clear",
+      "Fabric chair, smooth texture, ultra-realism.",
+      "Plastic chair, hyper-realistic texture.",
+      "Smooth plastic chair, realistic texture.",
+      "Brown leather chair, ultra-realistic texture.",
+      "Wooden chair, smooth finish, ultra-realistic.",
+      "Gray fabric chair, realistic material, crisp photo",
+      "Leather chair seat, hyper-realistic details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

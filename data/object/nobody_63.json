@@ -1,0 +1,53 @@
+[
+  {
+    "id": 459,
+    "prompt": "nobody sitting on the floor",
+    "base_entity_biased_prompts": [
+      "Floor in a hallway",
+      "Floor with wooden planks",
+      "Wooden plank floor",
+      "Floor with colorful tiles",
+      "Floor with hardwood planks",
+      "Floor with decorative tiles",
+      "Wood planks on floor",
+      "Floor with carpet tiles",
+      "Floor with wax finish",
+      "Floor with geometric shapes",
+      "Floor with colorful rugs",
+      "Floor with colorful stickers",
+      "Floor with polished stones",
+      "Wooden floor with tiles",
+      "Bare wooden floor",
+      "Wooden floor with patterns",
+      "Parquet floor in living area.",
+      "Black and white tiled floor",
+      "Checkerboard pattern floor in hallway.",
+      "Terrazzo floor in hallway"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Shiny tile floor, wide open space, DSLR",
+      "Polished concrete floor, DSLR, open room",
+      "Smooth concrete floor, wide area, DSLR",
+      "Clean wooden floor, open space, DSLR",
+      "Clean wooden floor, open room, DSLR",
+      "Polished floor, textures clear, open surroundings",
+      "Pristine floor texture, open, ultra-real.",
+      "Concrete floor, open view, ultra-realistic.",
+      "Smooth tile floor, visible texture, open area.",
+      "Clean wood floor, realistic closeup",
+      "Stone floor, clean, texture visible, open area.",
+      "Stone floor, clean, texture detailed, open area.",
+      "Clean hardwood floor, textures visible, open room.",
+      "Clean wooden floor, textures visible, open room.",
+      "Concrete floor, clean, texture clear, vast surroundings.",
+      "Cobblestone floor, texture visible, open area",
+      "Stone floor, texture clear, open space.",
+      "Concrete floor, texture clear, open.",
+      "Tile floor, pristine, natural lighting.",
+      "Terrazzo floor, sweeping vista"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

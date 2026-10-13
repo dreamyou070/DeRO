@@ -1,0 +1,53 @@
+[
+  {
+    "id": 196,
+    "prompt": "a swimming pool with nothing floating",
+    "base_entity_biased_prompts": [
+      "Person floating in mid-air.",
+      "Bubble floating in the air.",
+      "Bubble floating in air.",
+      "Bubble floating in water",
+      "Bubbles floating in water",
+      "Floating leaves on water",
+      "A bubble floats through air.",
+      "Bubbles floating in air",
+      "Waves floating on the ocean.",
+      "Fish floating near surface.",
+      "Foam floating on waves.",
+      "Hot air balloon floating.",
+      "Bubble wrap floating in air",
+      "A leaf floating on water.",
+      "Boat floating on ocean",
+      "Leaves floating on water.",
+      "Bicycles floating mid-air",
+      "Dandelion seeds floating",
+      "Floating leaves in a stream",
+      "Floating city above clouds"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Pool surface, reflections, ultra-realistic DSLR.",
+      "Swimming pool, realistic reflections, DSLR",
+      "Reflective pool, ultra-realistic DSLR.",
+      "Reflective pool, ultra-realistic shot",
+      "Water pool, realistic texture, DSLR quality",
+      "Reflections, pool, DSLR, water texture, vivid",
+      "Clear pool, realistic water reflections, DSLR",
+      "Swimmer's reflection, pool surface, DSLR realism",
+      "Reflections in pool, ultra-realistic",
+      "Pool, realistic reflections, water texture",
+      "Swimming pool, clear water, reflections, DSLR",
+      "Realistic pool, DSLR photo",
+      "Pool with perfect reflections, DSLR.",
+      "Water texture, reflective pool, DSLR",
+      "Clear pool water, detailed reflection, DSLR",
+      "Ultra-real pool, water texture",
+      "Swimming pool, mirror-like water, DSLR.",
+      "Reflections in pristine pool, DSLR.",
+      "Reflective pool, DSLR clarity",
+      "Swimming pool, realistic textures."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 426,
+    "prompt": "nobody walking through the forest",
+    "base_entity_biased_prompts": [
+      "Forest with fallen leaves",
+      "Stream in forest",
+      "Forest with old growth",
+      "Dense evergreen forest",
+      "Forest edge with meadow",
+      "Mountainous forest landscape",
+      "A dense green forest",
+      "Forest canopy view",
+      "Evergreen forest landscape",
+      "Forest canopy with sunlight",
+      "A dense evergreen forest",
+      "Forest in thunderstorm with lightning.",
+      "A dense pine forest",
+      "Mountainous forest with peaks",
+      "A dense evergreen forest.",
+      "Forest at sunset",
+      "Forest with foggy mountains",
+      "Forest with falling leaves in autumn",
+      "Clearing in vast green forest",
+      "Forest clearing with wildflowers."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant DSLR shot of forest pathway",
+      "Natural landscape, forest path, ultra-realistic.",
+      "A narrow forest path, dense trees, DSLR clarity",
+      "Elegant DSLR shot of forest trail",
+      "A narrow forest path, DSLR clarity",
+      "A winding path through dense forest, DSLR clarity.",
+      "Tranquil forest scene with winding path",
+      "Serene forest scene with winding path",
+      "Serene forest path at dusk",
+      "Ancient trees lining a path, hyper-realism.",
+      "Tranquil forest path under green canopy",
+      "Gentle forest path with dappled light.",
+      "Elegant path in lush forest",
+      "Ancient trees line serene forest path",
+      "Mountain vista from forest path",
+      "Vintage camera captures misty forest scene.",
+      "Ultra-realistic details of nature's beauty",
+      "Majestic old growth forest scene",
+      "A winding path through dense woods",
+      "A moss-covered path through dense forest."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

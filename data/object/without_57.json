@@ -1,0 +1,53 @@
+[
+  {
+    "id": 304,
+    "prompt": "a garage without tools",
+    "base_entity_biased_prompts": [
+      "Gloves and tools",
+      "Hammer and chisel",
+      "Wrench and bolts",
+      "Wrench and socket combination tool",
+      "Clipboard with tools list",
+      "Plumber's tools in kit",
+      "Screwdriver and screws",
+      "Hammer and nails in toolbox",
+      "Hammers in toolbox",
+      "Hammer and nails",
+      "Sculptor's clay and tools",
+      "Hiking backpack with tools",
+      "Vintage compass and straightedge",
+      "Mortar and pestle",
+      "Mechanic's socket set",
+      "Electric drill with bits",
+      "Gardener's pruning shears",
+      "Chisel carving wood",
+      "Gloves with pliers",
+      "Gardener's pruning shears in soil"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Garage workspace, orderly shelves, DSLR realism",
+      "Garage interior, organized shelves, DSLR clarity",
+      "A garage with tidy shelves, DSLR realism",
+      "Spacious, organized garage, DSLR image",
+      "Garage interior, orderly shelves, DSLR quality.",
+      "Garage interior, organized space, DSLR",
+      "Garage interior, shelves full, DSLR",
+      "A garage with tidy shelves, vast space, DSLR shot.",
+      "Garage with shelves, open area, DSLR.",
+      "Wide garage, organized shelves, DSLR view.",
+      "Garage, organized shelves, vast space, DSLR.",
+      "Garage shelf details, ultra-realistic, DSLR.",
+      "Garage shelves full, space large, DSLR quality.",
+      "Shelves neatly filled, garage, DSLR shot.",
+      "Large garage, orderly parts, DSLR",
+      "Shelves filled, spacious garage, ultra-real.",
+      "Garage with shelves, open space, clarity.",
+      "Garage shelves full, area open, realistic view.",
+      "Garage interior, shelves pristine, space wide.",
+      "A tidy garage, shelves filled, space vast."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

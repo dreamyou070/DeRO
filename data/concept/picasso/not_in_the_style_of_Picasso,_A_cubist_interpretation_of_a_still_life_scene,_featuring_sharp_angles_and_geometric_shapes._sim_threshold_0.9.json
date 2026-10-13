@@ -1,0 +1,15 @@
+[
+  {
+    "id": 20,
+    "prompt": "not in the style of Picasso, A cubist interpretation of a still life scene, featuring sharp angles and geometric shapes.",
+    "base_entity_biased_prompts": [
+      "Cubist still life with a vase of poppies and lavender petals. in the style of Picasso"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cubist still life with a vase of poppies and lavender petals."
+    ],
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 1,
+    "num_bias_absent_prompts": 1
+  }
+]

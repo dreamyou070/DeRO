@@ -1,0 +1,53 @@
+[
+  {
+    "id": 67,
+    "prompt": "a city street with no advertisements",
+    "base_entity_biased_prompts": [
+      "Magazine product ad",
+      "Retail counter with ads",
+      "Tech gadget advertisement",
+      "Eco-friendly household item ad",
+      "Summer sale ad",
+      "Store window display cosmetics ads",
+      "Shiny new phone ad",
+      "Elegant jewelry advertisement",
+      "Eco-friendly product advertisement",
+      "Magazine ad spread",
+      "Fitness class ad",
+      "Tasty burger advertisement",
+      "Online game, in-game ad",
+      "Video game console ad",
+      "Fresh vegetable advertisement board",
+      "Sports field, drink ads.",
+      "Elegant watch ad",
+      "Beauty product ad sign",
+      "Large outdoor screen showing ads",
+      "Bright lights, flash sales!"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Street view with diverse architecture",
+      "Wide shot of a busy city street",
+      "Wide shot of urban alleyways",
+      "Urban alleyway with detailed textures",
+      "Night view of city streets",
+      "Busy city street with diverse buildings",
+      "Window reflections of busy streets",
+      "Urban street with rain effect",
+      "Downtown skyline with clear details",
+      "Late evening shot of city skyline",
+      "Nighttime cityscape with billboards",
+      "Cityscape with glass facades at night",
+      "Sunset over a bustling street",
+      "City street illuminated by streetlights",
+      "Cityscape with towering apartment blocks",
+      "Night view of city skyline",
+      "High-rise buildings in the distance",
+      "Sunset over city skyline",
+      "City skyline at dusk",
+      "A bustling city street at dusk"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

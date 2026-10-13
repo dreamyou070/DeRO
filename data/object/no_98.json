@@ -1,0 +1,53 @@
+[
+  {
+    "id": 160,
+    "prompt": "a restaurant with no menus",
+    "base_entity_biased_prompts": [
+      "Wine menu page",
+      "Kids menu section",
+      "Gourmet menu with dishes",
+      "Gourmet menu with plates",
+      "Menu with seafood options",
+      "Italian restaurant menu page",
+      "Elegant restaurant menu pages",
+      "Gourmet menu plates",
+      "Gourmet menu sampler",
+      "Cafe menu sheet",
+      "Healthy eating menu options.",
+      "Menu with Italian dishes",
+      "Cafeteria lunch menu",
+      "Chinese restaurant menu pages",
+      "Vegan menu with salads",
+      "Vegetarian menu with dishes",
+      "Italian menu with pasta",
+      "Vegetarian menu with salads",
+      "Greek restaurant menu boards",
+      "A farm-to-table menu."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant restaurant, realistic setup, DSLR.",
+      "Elegant restaurant, realistic lighting, DSLR.",
+      "Elegant dining area, DSLR, hyper-realistic detail",
+      "A sleek modern restaurant, DSLR, ultra-realistic",
+      "Stylish restaurant, DSLR realism.",
+      "Sophisticated restaurant ambiance, DSLR realism.",
+      "Formal dining area, DSLR realism",
+      "Luxury restaurant ambiance, DSLR detail.",
+      "Sophisticated restaurant interior, DSLR clarity.",
+      "A sleek modern restaurant, DSLR quality.",
+      "Elegant eatery, stylish furniture, ambient lights.",
+      "Modern restaurant, sleek furniture, elegant lights",
+      "Modern restaurant, sleek tables, soft ambient light.",
+      "Elegant restaurant, sophisticated lighting, modern decor.",
+      "Elegant restaurant, soft lighting, modern decor.",
+      "Modern restaurant, sleek decor, high-end furniture.",
+      "Stylish restaurant, soft lighting, dark wood.",
+      "Sophisticated restaurant with leather booths.",
+      "Sophisticated restaurant, wooden accents, dimmed lights.",
+      "Elegant restaurant, glass doors, modern chairs."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

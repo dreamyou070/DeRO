@@ -1,0 +1,53 @@
+[
+  {
+    "id": 180,
+    "prompt": "a beach with nothing on the sand",
+    "base_entity_biased_prompts": [
+      "Grains of sand underfoot",
+      "Desert oasis sand",
+      "Grains of sand in hand",
+      "Sand blowing in wind",
+      "Windblown sand particles",
+      "Grains of sand close-up",
+      "Sand between toes",
+      "Beach ball rolling, sand",
+      "A pile of fine sand",
+      "Fine sand underfoot near ocean",
+      "Sand between toes on a beach",
+      "Seashells mixed with sand",
+      "Sand particles under microscope",
+      "Golden sand underfoot",
+      "Sand between toes on beach",
+      "Hot sand in a desert",
+      "Sand grains between fingers",
+      "Windblown sand creating designs",
+      "Windblown sand in desert landscape",
+      "Sand between toes at resort"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A sandy beach, DSLR, ultra-realistic",
+      "Beach with dunes, realistic texture, DSLR.",
+      "A wide sandy beach, DSLR, ultra-realistic",
+      "A sandy beach, DSLR, hyper-realistic",
+      "Dunes and sea, DSLR ultra-realism",
+      "A golden sandy beach, ultra-realistic DSLR",
+      "A golden sandy beach, DSLR ultra-realism",
+      "A golden sandy beach, DSLR, ultra-realistic",
+      "Rocky shoreline, sand texture, DSLR realism",
+      "Cliffside view, beach texture, DSLR clarity",
+      "Tropical beach, DSLR quality.",
+      "Cliffs, ocean, sand texture, DSLR",
+      "A golden sandy beach, DSLR clarity",
+      "Cliffs meet sea, detailed sand, DSLR.",
+      "Tropical beach, DSLR sharpness",
+      "Dune landscape, beach sand realism",
+      "A golden sandy beach, DSLR clarity.",
+      "Rocky coast, ultra-realistic detail",
+      "Detailed grainy sand texture macro",
+      "Shallow water reflections on pebbly shore"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

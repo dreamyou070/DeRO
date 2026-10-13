@@ -1,0 +1,52 @@
+[
+  {
+    "id": 194,
+    "prompt": "a playground with no children",
+    "base_entity_biased_prompts": [
+      "Children running around a playground",
+      "Children playing basketball in a playground",
+      "Children playing on a playground with a fountain",
+      "Kids running around on a playground",
+      "Kids throwing a ball in a playground",
+      "Children running around on a grassy playground",
+      "Children playing hide-and-seek in a playground",
+      "Kids running around a playground",
+      "Children playing with bubbles on the playground",
+      "Children running around a playground",
+      "Children playing basketball in a playground",
+      "Children playing on a playground with a fountain",
+      "Kids running around on a playground",
+      "Kids throwing a ball in a playground",
+      "Children running around on a grassy playground",
+      "Children playing hide-and-seek in a playground",
+      "Kids running around a playground",
+      "Children playing with bubbles on the playground"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Empty playground with fading colors and quiet atmosphere.",
+      "A quiet playground with a few fading, empty play structures.",
+      "Empty playground with a quiet, weathered sandbox.",
+      "Playground with empty climbing frames and a quiet, still atmosphere.",
+      "A peaceful playground with benches and no one playing.",
+      "Deserted playground with weathered slides and silence.",
+      "A quiet playground with a sandbox and no children to be seen.",
+      "An empty, tranquil playground with a small pond nearby.",
+      "An empty playground with swings, slides, and merry-go-rounds.",
+      "A quiet, empty playground with a few stray balls lying about.",
+      "Quiet playground with a solitary swing and fallen leaves.",
+      "Empty playground with broken seesaws and silence in the air.",
+      "Empty playground with a swing and a calm, clear day atmosphere.",
+      "Playground with a still seesaw and a quiet atmosphere.",
+      "Empty playground with swings gently swaying in the breeze.",
+      "Desolate playground at twilight with still equipment and quiet surroundings.",
+      "An empty playground at dusk, the swings and slides silent.",
+      "Playground in the afternoon with quiet, unused equipment."
+    ],
+    "sim_threshold": 0.85,
+    "num_biased_prompts": 18,
+    "num_bias_absent_prompts": 18,
+    "class": "no",
+    "class_index": 37,
+    "filename": "no_37.json"
+  }
+]

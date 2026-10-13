@@ -1,0 +1,53 @@
+[
+  {
+    "id": 38,
+    "prompt": "a clock missing hands",
+    "base_entity_biased_prompts": [
+      "Clasping hands together",
+      "Hands holding a phone",
+      "Hands shaking warmly",
+      "Hand giving a thumbs up",
+      "Clapping hands together",
+      "Shaking hands warmly",
+      "Two hands shaking warmly",
+      "Gripping a tool",
+      "Crossed hands in pocket",
+      "Person shaking hands.",
+      "Man clasping hands together",
+      "Folded hands in prayer",
+      "Artist's hands paint vivid colors.",
+      "Holding a book",
+      "Gripping steering wheel",
+      "Hold a phone",
+      "Gentleman shaking hand",
+      "Painter holding brushes",
+      "Adjusting glasses gently",
+      "Sitting crossed legs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic DSLR coffee shop, cream walls, wood.",
+      "A cozy coffee shop, DSLR, warm lights",
+      "A cozy coffee shop, DSLR, warm lights.",
+      "Warm tones, DSLR, café ambiance",
+      "A cozy coffee shop, warmly lit, DSLR.",
+      "A cozy coffee shop, warmly lit, realistic.",
+      "Contemporary coffee shop, warm tones, comfort",
+      "Coffee shop, sleek design, warm lighting, comfort.",
+      "Café counter, detailed textures, realism.",
+      "Cafe bar, morning light, DSLR.",
+      "Coffee beans, DSLR, aroma captured",
+      "Vintage decor, warm ambiance, barista.",
+      "A cozy coffee shop, warmly lit.",
+      "A cozy coffee shop, warm lighting, wooden tables.",
+      "Plush sofas, warm lighting, café vibe.",
+      "A cozy coffee shop, warm lights, wooden tables.",
+      "Vintage coffee maker, wooden floors, warmth.",
+      "Café counter, ceramic cups, sunlit windows.",
+      "Plush couches, coffee beans, rustic decor.",
+      "A cozy café with wooden tables."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

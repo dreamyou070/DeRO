@@ -1,0 +1,53 @@
+[
+  {
+    "id": 344,
+    "prompt": "a classroom without students",
+    "base_entity_biased_prompts": [
+      "Students during class",
+      "Students participating in class",
+      "Students working together",
+      "Students in classroom",
+      "Students during break",
+      "Students working on projects",
+      "Students during a break",
+      "Students studying together",
+      "Students having a discussion",
+      "Students working in groups",
+      "Students in a classroom",
+      "Students participating in sports",
+      "Students in a study group",
+      "Students during exams",
+      "Students in laboratory",
+      "Students during a lecture",
+      "Students in library",
+      "Students during exam",
+      "Students in a library",
+      "Students in a lab"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sports car, ultra-realistic photo.",
+      "Silver coupe, reflective body, realistic photography.",
+      "Red sports car, ultra-realistic photography.",
+      "Silver hatchback, ultra-realistic.",
+      "Silver coupe, reflective body, high-res shot.",
+      "Black sedan, ultra-realistic photography.",
+      "Silver GT, realistic reflection.",
+      "Silver hatchback, reflective surface, high detail.",
+      "Black supercar, reflective body, realism.",
+      "Black SUV, reflective surfaces, ultra-realistic.",
+      "Azure sports car, shiny metal, realistic reflections.",
+      "Silver hatchback, detailed reflections.",
+      "Gold sports car, reflective paint, ultra-realistic.",
+      "Silver SUV, highly reflective, precise details.",
+      "Gray car, ultra-realistic details.",
+      "Silver coupe, metallic shine, ultra-realistic.",
+      "Blue sports car, ultra-realistic.",
+      "Red sports car, ultra-realistic.",
+      "Blue sedan, ultra-realistic shine.",
+      "White sports car, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

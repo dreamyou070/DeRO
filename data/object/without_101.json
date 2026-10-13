@@ -1,0 +1,53 @@
+[
+  {
+    "id": 348,
+    "prompt": "a classroom without students and without desks",
+    "base_entity_biased_prompts": [
+      "Desks with ergonomic chairs.",
+      "Desks arranged in a classroom.",
+      "A minimalist desk setup.",
+      "Modern desk with drawers.",
+      "Desk with desktop computer and keyboard.",
+      "A desk arranged for a home office.",
+      "A desk with a desktop computer.",
+      "A desk in a home office.",
+      "A desk with a keyboard.",
+      "A cluttered office desk.",
+      "A desk with art supplies.",
+      "A desk with colorful stationery.",
+      "A desk with open drawers.",
+      "A desk near a bookshelf.",
+      "A cluttered desk in an office.",
+      "A desk with a stack of papers.",
+      "A desk with a desktop calendar.",
+      "An old desk with drawers.",
+      "A desk covered in papers.",
+      "A desk covered in papers and files."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A bustling street cafe, DSLR, sharp details",
+      "Cobbled streets, café tables, DSLR photo.",
+      "Café tables, street art, bustling crowd, DSLR",
+      "Street cafe, wooden tables, pastel decor, DSLR.",
+      "Street cafe, glass tables, floral murals, DSLR",
+      "Street cafe, patrons, potted plants, DSLR.",
+      "A bustling street cafe, tables, flowers, DSLR",
+      "Artistic street cafe, vivid details.",
+      "Street cafe at dawn, realistic details.",
+      "Street cafe tables, lush plants, realistic details.",
+      "Street cafe scene, patrons, pastel walls, sharp focus.",
+      "Outdoor café, greenery, detailed scene.",
+      "Modern street cafe, glass tables, city views.",
+      "A bustling street cafe, tables, vibrant decor.",
+      "Neon lights, vibrant street cafe scene.",
+      "Street art frames the café area.",
+      "Street art enhances the cafe's ambiance.",
+      "A bustling street cafe, tables outdoors.",
+      "Street art decorates the cafe walls.",
+      "Modern café, glass, palms."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

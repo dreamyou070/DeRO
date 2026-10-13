@@ -1,0 +1,53 @@
+[
+  {
+    "id": 474,
+    "prompt": "nobody inside the warehouse",
+    "base_entity_biased_prompts": [
+      "Warehouse with shipping containers",
+      "Warehouse storage area",
+      "Dry goods warehouse",
+      "Warehouse with pallets",
+      "Warehouse with crates and barrels.",
+      "Warehouse with pallet racks",
+      "Warehouse office area",
+      "A warehouse with shipping containers.",
+      "Warehouse with multiple levels.",
+      "Warehouse with multiple aisles",
+      "Warehouse packed with containers",
+      "Warehouse with shipping containers inside.",
+      "Warehouse office inside",
+      "Warehouse floor with pallets整齐排列.",
+      "Racks of products in a warehouse",
+      "Warehouse loading bay",
+      "Packed boxes in a warehouse",
+      "Stacked barrels in a warehouse",
+      "Stacks of boxes in warehouse",
+      "High racks warehouse storage"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Spacious warehouse, organized bins, DSLR.",
+      "Orderly storage, spacious warehouse, industrial feel.",
+      "Organized storage, vast space, industrial.",
+      "Modern warehouse, efficient layout.",
+      "Modern warehouse, meticulously organized.",
+      "Orderly storage units, bright, spacious warehouse.",
+      "A spacious warehouse with organized shelves.",
+      "A vast warehouse, shelving units, bright lights",
+      "Industrial interior, organized storage, bright.",
+      "Modern warehouse, precise layout.",
+      "Modern warehouse, sleek design elements.",
+      "A vast warehouse, shelved neatly, bright lights.",
+      "Wide open space, tidy equipment, industrial feel.",
+      "Industrial setting, orderly storage, stark light.",
+      "A large warehouse with neat shelves.",
+      "A vast warehouse, shelving units整齐排列, 地面光洁。",
+      "Stacked crates, orderly rows, industrial vibe.",
+      "A large warehouse with tidy shelves",
+      "Industrial machines, neat workspace.",
+      "A vast warehouse, shelves整齐排列,光线明亮清晰."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

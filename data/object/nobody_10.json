@@ -1,0 +1,53 @@
+[
+  {
+    "id": 406,
+    "prompt": "nobody entering the building",
+    "base_entity_biased_prompts": [
+      "University campus building",
+      "Steel-framed building under construction",
+      "Commercial office building",
+      "Office block under construction.",
+      "Steel office building",
+      "Library building with columns",
+      "Concrete office block",
+      "Glass curtain wall building",
+      "School building with playground.",
+      "Modern glass building in city.",
+      "Modern office block under construction",
+      "Concrete high-rise apartment building",
+      "Concrete office block urban",
+      "Concrete office blocks",
+      "Office building with sign",
+      "Office building with people entering.",
+      "Old brick building with vines.",
+      "Office building near park",
+      "Old brick warehouse in city",
+      "A church with a steeple"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A closed door, building entrance, calm atmosphere, DSLR.",
+      "A closed door building entrance, DSLR clarity",
+      "Closed entrance, tranquil setting, DSLR shot",
+      "Entrance hall, closed doors, DSLR realism",
+      "Entryway sealed, calm, realistic DSLR image",
+      "Closed doors, tranquil entry, DSLR.",
+      "A closed door building entrance, ultra-realism.",
+      "Closed entrance, still air, crisp shot",
+      "A closed door entrance, ultra-realistic",
+      "A grand entrance, doors closed, quiet, DSLR.",
+      "Closed wooden door, empty lobby, DSLR realism",
+      "Entrance with closed doors, tranquil setting.",
+      "Closed doors, building entrance, serene.",
+      "Closed entrance, tranquil, vivid.",
+      "Architectural entrance, doors sealed, serene.",
+      "Closed doors in a serene entrance.",
+      "Closed wooden door, empty street, DSLR",
+      "Calm building entrance, doors shut.",
+      "Stately closed doors, tranquil scene.",
+      "Closed wooden doors, serene entryway."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

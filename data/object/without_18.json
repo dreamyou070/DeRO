@@ -1,0 +1,53 @@
+[
+  {
+    "id": 265,
+    "prompt": "a hotel lobby without people",
+    "base_entity_biased_prompts": [
+      "People in library",
+      "Folks in library",
+      "People in park",
+      "People in a museum",
+      "Workers in office",
+      "People in a café",
+      "People in stadium",
+      "People at a café",
+      "People queuing for food",
+      "Group in park",
+      "Group in museum",
+      "People camping outdoors",
+      "People on beach",
+      "Students in classroom",
+      "Group at cafe",
+      "Students in a classroom.",
+      "Group taking selfies",
+      "Group at coffee shop",
+      "Couple walking hand-in-hand",
+      "Women chatting outside"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant lobby, warm lights, DSLR realism",
+      "Elegant hotel lobby, soft ambient light, realism.",
+      "Sophisticated decor, warm ambiance, DSLR capture",
+      "Elegant hotel lobby, modern furniture, warm ambiance.",
+      "Hotel lobby, warm lights, elegant ambiance.",
+      "Luxury hotel lobby, warmly glowing.",
+      "Elegant leather couches, warm lights, DSLR realism",
+      "Elegant sofa, warm lights, hotel lobby",
+      "Sophisticated furniture, soft lighting, clear shot",
+      "Elegant leather chairs, warm lights, DSLR realism",
+      "A grand lobby with plush chairs, warm glow, sharp focus.",
+      "Modern lobby, glass panels, warm ambiance",
+      "Warmly lit reception area with elegance",
+      "Elegant marble fireplace, cozy seating, realistic shot.",
+      "Warm lighting, sleek desks, marble.",
+      "Sophisticated glass panels, warm ambient light.",
+      "Elegant chandeliers, plush carpets, realistic detail.",
+      "Elegant armchairs, ambient light.",
+      "Chandeliers casting soft light",
+      "Warm fireplace casts light"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

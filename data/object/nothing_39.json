@@ -1,0 +1,53 @@
+[
+  {
+    "id": 206,
+    "prompt": "a lamp with nothing around it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a puzzle piece",
+      "a single ring",
+      "a single key",
+      "a small key",
+      "a shiny coin",
+      "a single coin",
+      "a silver ring",
+      "a lone spoon",
+      "it’s a gray stone",
+      "a small cube",
+      "it's a book open",
+      "it's a rainy day",
+      "it's a book open page",
+      "it's a bustling city"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A lamp in wide open space, DSLR, ultra-realistic.",
+      "Lamp outside, realistic DSLR, vibrant light.",
+      "A lone lamp in wide open space, DSLR, ultra-realistic.",
+      "Lamp with dynamic lighting, DSLR shot.",
+      "Lamp in broad space, DSLR detail.",
+      "Lamp in open area, realistic highlights.",
+      "Lamp in dramatic scene, DSLR.",
+      "Lamp in sunlight, expansive background, DSLR.",
+      "Lamp in misty valley, DSLR realism.",
+      "A floor lamp in an open area, realistic light.",
+      "Lamp, vast landscape, realistic light.",
+      "Lamp in open space, vivid shadows.",
+      "Lamp in wide open space.",
+      "Lamp in misty dawn, realistic details.",
+      "Lamp in vast space, natural light.",
+      "A lamp in a空旷空间，光线真实。",
+      "Lamp in vast atrium, realistic light.",
+      "Lamp against clear sky, vibrant light.",
+      "Lamp under moonlight, clear focus.",
+      "Lamp in open field, sunlight beams."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

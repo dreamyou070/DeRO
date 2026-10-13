@@ -1,0 +1,53 @@
+[
+  {
+    "id": 60,
+    "prompt": "a bowl missing soup",
+    "base_entity_biased_prompts": [
+      "Soup with a variety of vegetables",
+      "Soup with vegetables and pasta",
+      "Soup with herbs and spices",
+      "Ramen noodle soup",
+      "Beef soup with beef chunks",
+      "Onion and beef soup",
+      "Vegetable soup with carrots",
+      "Leek and potato soup",
+      "Pasta in a bowl of soup",
+      "Chicken soup with vegetables",
+      "Pasta soup with vegetables",
+      "Hearty beef soup",
+      "Bowl of clear vegetable soup",
+      "Butternut squash soup",
+      "Minestrone soup with pasta",
+      "Ladle of soup with veggies",
+      "Vegetable soup with carrots and beans",
+      "Steam rising from a soup",
+      "Ladle of creamy potato soup",
+      "Tomato basil soup in a jar"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic bowl, interior texture, ultra-realistic DSLR",
+      "Interior of ceramic bowl, ultra-realistic DSLR",
+      "Ceramic bowl, ultra-realistic texture, DSLR",
+      "Interior of ceramic bowl, realistic texture, DSLR",
+      "Bowl, interior texture, realistic ceramic, DSLR",
+      "A bowl, interior visible, ceramic texture, DSLR.",
+      "Ceramic bowl, clear interior, DSLR photo",
+      "Ceramic bowl, visible interior, DSLR",
+      "Ceramic bowl, interior visible, DSLR.",
+      "Ultra-realistic ceramic bowl, interior visible.",
+      "Ceramic bowl, visible interior, DSLR.",
+      "DSLR ceramic bowl, interior visible",
+      "Ceramic bowl, interior visible, photorealistic.",
+      "Ceramic bowl, interior texture visible, realistic.",
+      "Ceramic bowl, realistic texture, clear interior",
+      "Red ceramic bowl, interior visible, ultra-realistic",
+      "Black ceramic bowl, clear interior, DSLR",
+      "Ceramic bowl, realistic interior view.",
+      "A white ceramic bowl, interior clear, DSLR",
+      "Clear ceramic bowl, interior details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

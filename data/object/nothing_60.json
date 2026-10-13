@@ -1,0 +1,53 @@
+[
+  {
+    "id": 227,
+    "prompt": "a bus stop with nothing nearby",
+    "base_entity_biased_prompts": [
+      "Nearby coffee shop",
+      "Town square near",
+      "Nearby mountain range",
+      "Nearby art gallery",
+      "Nearby antique store",
+      "Close by fountain",
+      "Nearby mountain peak",
+      "Nearby market stalls",
+      "Near historical landmark",
+      "Nearby flower garden",
+      "Close by historical site",
+      "Closeby coffee shop",
+      "Nearby park bench",
+      "Nearby garden flowers",
+      "Nearby city skyline",
+      "Nearby street lamp",
+      "Library near downtown",
+      "Cafe near street, signboard nearby.",
+      "Coffee shop near a park.",
+      "Near trees, small pond"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bus stop, clear area, urban setting, ultra-realistic, DSLR",
+      "Urban bus stop, spacious area, realistic scene, DSLR",
+      "Bus stop, city scenery, realistic clarity, DSLR",
+      "Urban bus stop, open space, realistic, DSLR.",
+      "Bus stop, clear area, realistic urban, DSLR",
+      "A bus stop, clear space, city backdrop, DSLR.",
+      "A bus stop, clear space, urban scene, DSLR.",
+      "A bus stop, clear space, cityscape, DSLR",
+      "Wide bus stop, realistic urban photography.",
+      "Bus stop, wide space, realistic urban photo.",
+      "Bus stop, urban setting, ultra-realistic",
+      "A bus stop, clear space, cityscape, ultra-realistic.",
+      "Urban scene with a bus stop, DSLR.",
+      "Bus stop with clear surroundings, realistic urban scene, vibrant.",
+      "Bus stop, realistic city, clear surroundings.",
+      "Spacious bus stop, realistic urban view.",
+      "Bus stop, open space, detailed urban scene.",
+      "Bus stop, clear area, dynamic city view",
+      "Open bus stop area, city views, realistic details.",
+      "Daytime, bus stop, clear surroundings, city backdrop"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

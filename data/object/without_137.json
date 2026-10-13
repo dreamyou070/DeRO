@@ -1,0 +1,53 @@
+[
+  {
+    "id": 384,
+    "prompt": "a refrigerator without food",
+    "base_entity_biased_prompts": [
+      "Fish and chips",
+      "Rice with vegetables",
+      "Rice and curry",
+      "Peanut butter sandwich",
+      "Jar of pickles",
+      "Spicy chili peppers",
+      "Tacos with toppings",
+      "Rice and curry with vegetables",
+      "Pastries in basket",
+      "Rice and grilled chicken",
+      "Juicy steak with veggies",
+      "Freshly baked bread",
+      "Fresh salad with dressing",
+      "Pasta with meatballs",
+      "Fresh strawberries and cream",
+      "Assorted pastries in basket",
+      "A tray of assorted pastries",
+      "Juicy grilled steak",
+      "Ripe juicy watermelon slices",
+      "Assorted baked pastries display"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "DSLR photo of refrigerator, realistic details.",
+      "Refrigerator with visible storage, sharp photography.",
+      "Refrigerator with detailed compartments, ultra-realism.",
+      "Ultra-realistic fridge with clear freezer section.",
+      "Fridge with clear drawers, detailed view, DSLR quality.",
+      "Stainless refrigerator, interior shown, ultra-realistic.",
+      "Ultra-realistic fridge with clear shelves.",
+      "Refrigerator showing freezer, ultra-realistic.",
+      "Detailed DSLR photo of fridge interior.",
+      "Refrigerator with fruits, smooth textures, DSLR quality.",
+      "Large refrigerator, open, detailed interior, ultra real",
+      "Refrigerator with visible ice maker, detailed.",
+      "Open fridge, detailed compartments, high-resolution shot.",
+      "Refrigerator with freezer visible, ultra-sharp",
+      "Large fridge, fish section, realistic lighting.",
+      "Fridge, shelves detailed, yogurt visible",
+      "Steel fridge, detailed ice cubes.",
+      "Refrigerator with clear ice trays and shelves.",
+      "Large fridge, frozen foods visible.",
+      "Cold interior, clear bottles, organized fridge."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

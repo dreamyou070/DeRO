@@ -1,0 +1,53 @@
+[
+  {
+    "id": 434,
+    "prompt": "nobody standing in front of the store",
+    "base_entity_biased_prompts": [
+      "sports goods store",
+      "Boutique clothing store",
+      "Electronic store with gadgets",
+      "A sports store equipment",
+      "A antique store items",
+      "Record store with vinyls",
+      "Electronic store with gadgets.",
+      "Toy store with toys",
+      "Craft store with materials",
+      "Record store vinyls",
+      "Record store with vinyl albums.",
+      "A antique store with items",
+      "A small boutique shop",
+      "A sports store with gear.",
+      "Furniture store showroom.",
+      "Record store vinyl collection",
+      "Sporting goods store display",
+      "A record store with vinyl.",
+      "A furniture store showroom",
+      "A furniture store showroom."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Clear glass window, orderly store, DSLR realism",
+      "Storefront with glass, tidy display, DSLR clarity",
+      "Storefront with glass, organized things, DSLR clarity",
+      "Storefront, glass clarity, organized displays, DSLR",
+      "Ultra-realistic DSLR, storefront display, glass",
+      "Glass storefront, organized display, DSLR",
+      "Modern storefront, glass windows, DSLR.",
+      "Clean glass windows, neatly arranged displays, DSLR realism",
+      "A clean glass window store, DSLR",
+      "Organized store, glass windows bright, DSLR detail",
+      "Clean glass window, organized displays, DSLR realism",
+      "Vintage storefront, glass clarity, DSLR focus",
+      "Modern storefront, clear glass, neat displays, sharp photo",
+      "Neat store displays, clean glass, realistic imagery",
+      "Shining glass, orderly store, DSLR quality",
+      "Organized store, sleek glass, DSLR shot",
+      "Clean glass windows, organized displays, DSLR realism",
+      "Modern storefront, clear glass, detailed displays",
+      "Storefront, glass windows, tidy displays.",
+      "Modern store, gleaming glass, orderly goods."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

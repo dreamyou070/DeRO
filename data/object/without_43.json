@@ -1,0 +1,53 @@
+[
+  {
+    "id": 290,
+    "prompt": "a vase without flowers",
+    "base_entity_biased_prompts": [
+      "Diverse colorful flower arrangement",
+      "Rustic bouquet of flowers",
+      "Pinks and purples in a floral arrangement",
+      "Orchids in various colors",
+      "Daffodils by window",
+      "Carnation with greenery",
+      "Carnations pink and red",
+      "Tangerine gerbera daisies",
+      "Rustic bouquet of wildflowers",
+      "Rustic wildflower bouquet",
+      "Vibrant wildflowers mix",
+      "Red roses close-up",
+      "Red and white carnations",
+      "Purple iris flowers close-up",
+      "Pink carnations bunch",
+      "Lilies by a fountain",
+      "Wildflowers in meadow",
+      "White lilies on stem",
+      "Golden sunflowers with rays",
+      "White lilies under water"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ceramic vase, realistic surface texture, DSLR.",
+      "Ceramic vase, realistic texture, DSLR.",
+      "Vase, visible ceramic, realistic texture, DSLR.",
+      "Ceramic vase, realistic surface, DSLR capture.",
+      "Ceramic vase, ultra-realistic photography.",
+      "Ceramic vase, visible pores, DSLR realism.",
+      "Ceramic vase, realistic glaze, DSLR.",
+      "Ceramic vase, fine texture, ultra-realistic shot.",
+      "Wood-grain vase, realistic texture, DSLR.",
+      "Crystal vase, texture realistic, DSLR quality.",
+      "Stoneware vase, realistic glaze, DSLR clarity.",
+      "Green vase, realistic texture, DSLR.",
+      "White vase, intricate ceramic texture, DSLR clarity.",
+      "Blue vase, realistic surface, DSLR.",
+      "Ceramic vase, surface imperfections, ultra-real.",
+      "Red vase, texture vivid, DSLR.",
+      "Vase with crackle finish, DSLR shot.",
+      "Ceramic vase, high-resolution.",
+      "Green glazed vase, ultra-realistic",
+      "Vase with crackle glaze, realistic photo."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

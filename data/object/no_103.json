@@ -1,0 +1,53 @@
+[
+  {
+    "id": 165,
+    "prompt": "a bridge with no railings",
+    "base_entity_biased_prompts": [
+      "Wooden railings with balusters.",
+      "Steel railings with rounded edges.",
+      "Railings with decorative ironwork",
+      "Wooden railings with decorative posts.",
+      "Wooden railings along a walkway",
+      "Wrought iron railings with twists",
+      "Metal railings with glass panels.",
+      "White railings with wrought iron decorations",
+      "Black and white striped railings.",
+      "Black railings with decorative posts.",
+      "Black railings with decorative twists",
+      "Grey railings with spiral design.",
+      "Steel railings along a cliff path",
+      "Brown railings along a walkway.",
+      "Sturdy metal railings along balcony.",
+      "Yellow metal railings on a handrail",
+      "Brown wooden railings on a deck",
+      "White railings on a wooden fence.",
+      "Gray metal railings around a balcony.",
+      "Wooden spiral railings twist inside."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A circular clock, ultra-realistic, DSLR",
+      "A sleek circular clock, ultra-realistic, DSLR",
+      "Circular crystal clock, ultra-realistic, DSLR",
+      "Circular timepiece, visible structure, ultra-realistic DSLR",
+      "A circular clock, ultra-realistic, DSLR.",
+      "Detailed clock mechanism, ultra-realistic DSLR",
+      "Clock with detailed hands, ultra-realistic DSLR",
+      "Detailed clock mechanism, DSLR ultra-realism.",
+      "Clock with visible mechanism, circular design, DSLR.",
+      "Detailed clock, circular structure, DSLR.",
+      "Clock with gear mechanism, circular, highly detailed, DSLR.",
+      "Circular clock, intricate design, DSLR.",
+      "Circular clock, high-resolution shot",
+      "Circular clock, visible hands, DSLR clarity.",
+      "Circular clock, detailed face, ultra-realistic.",
+      "Mechanical clock, visible parts, ultra-real.",
+      "Black clock, circular, visible mechanisms, DSLR",
+      "Analog clock, DSLR, fine details.",
+      "Iron clock, circular, DSLR shot.",
+      "A metallic clock face, sharp focus."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

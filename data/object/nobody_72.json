@@ -1,0 +1,53 @@
+[
+  {
+    "id": 468,
+    "prompt": "nobody standing near the gate",
+    "base_entity_biased_prompts": [
+      "Iron gate with锁链",
+      "Gate with heavy chains",
+      "Gray metal gate",
+      "Metal gate with hinges",
+      "Black gate with hinges",
+      "Gate with vines",
+      "Metal gate with handles",
+      "Gate with ornate handles",
+      "Gate with decorative panels",
+      "Black gate with handles",
+      "Gray metal gate with locking mechanism",
+      "Gate with iron spikes",
+      "Blue metal gate",
+      "Gray stone gate",
+      "Gate leading to garden",
+      "Gate with golden handles",
+      "City stone gate",
+      "Gate with iron bars",
+      "Steel security gate",
+      "Stone arch gate"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open space gate, DSLR, twilight glow",
+      "/DSLR gate at sunset, wide open field",
+      "/Gate with open fields, natural light.",
+      "/Gate in open area, natural light",
+      "Stone gate with spotlights, open expanse.",
+      "Metal gate with open fields, soft light.",
+      "/Gate with open fields, sunset hues.",
+      "/Gate framed by trees, natural light.",
+      "A gate at sunset, open space.",
+      "/Gate in field, ambient light.",
+      "/Gate framed by sunlight, vast lawn.",
+      "Gate framed by tall grass, dusk.",
+      "Glass gate in bright afternoon.",
+      "Metal gate in dusk",
+      "/Gate in vast field, golden sunset light.",
+      "Metal gate in an expansive lawn, dappled light.",
+      "Metal gate with vast landscape, night sky.",
+      "/Gate, open space, starlit sky.",
+      "Stone gate in garden, soft light",
+      "Metal gate at dusk"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

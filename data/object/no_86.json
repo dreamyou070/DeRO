@@ -1,0 +1,53 @@
+[
+  {
+    "id": 148,
+    "prompt": "a forest with no trees",
+    "base_entity_biased_prompts": [
+      "Green trees hillside",
+      "Trees in autumn colors.",
+      "Autumn trees with colors",
+      "A canopy of leafy trees.",
+      "Trees with cherry blossoms",
+      "Birch trees with white bark.",
+      "Trees against blue sky",
+      "Birch trees with white trunks.",
+      "Peach blossom trees",
+      "Row of trees along path",
+      "Trees in misty morning.",
+      "Trees along riverbank",
+      "Cedar trees by beach",
+      "Birch trees with white bark",
+      "Trees in misty morning light",
+      "Young trees in a nursery",
+      "Cypress trees by seaside",
+      "Palm trees by beach",
+      "Garden with variety of trees",
+      "Row of pine trees"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A dense forest, DSLR, ultra-realistic",
+      "A dense forest, ultra-realistic, DSLR",
+      "A dense forest, ultra-realistic DSLR",
+      "A lush forest, ultra-realistic DSLR",
+      "A lush forest, ultra-real, DSLR",
+      "A dense forest, DSLR clarity",
+      "Misty forest scene, ultra-real, DSLR",
+      "Forest path, ultra-realistic, DSLR",
+      "A lush forest, DSLR clarity",
+      "A dense forest, DSLR, sharp focus",
+      "Forest floor, lush vegetation, DSLR",
+      "Forest canopy, intricate details, DSLR",
+      "Mountain forest, ultra-realistic beauty",
+      "Dense foliage, hyper-realistic shot.",
+      "Overgrown forest, hyper-realistic detail",
+      "Mountainous forest, dramatic landscape, real",
+      "Forest path, DSLR quality",
+      "Misty forest, high-resolution",
+      "Forest floor, vivid textures",
+      "Forest insects, hyper-realistic details"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

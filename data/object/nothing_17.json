@@ -1,0 +1,53 @@
+[
+  {
+    "id": 184,
+    "prompt": "a bookshelf with nothing displayed",
+    "base_entity_biased_prompts": [
+      "Diagrams displayed on screen",
+      "Artwork displayed in gallery",
+      "Movies displayed on screen",
+      "Displaying art pieces in gallery.",
+      "Displayed electronics in store window.",
+      "Slides displayed during presentation",
+      "Display jewelry in showcase.",
+      "Products displayed on store shelf.",
+      "Artwork displayed during exhibition",
+      "Displayed digital art on screen.",
+      "Display electronics in store.",
+      "Displaying gadgets in store",
+      "Displayed plants in greenhouse.",
+      "Display items on shelves.",
+      "Artwork displayed in gallery.",
+      "Displayed artwork on gallery wall.",
+      "Displaying modern art in gallery.",
+      "Displaying historical documents in museum.",
+      "Display trophies on polished stand.",
+      "Displaying rare coins in showcase"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic bookshelf, detailed shelves, DSLR",
+      "Realistic bookshelf, DSLR photography focus.",
+      "Books, shelf organized, ultra-realistic DSLR",
+      "Dslr shot of organized bookshelf, realistic.",
+      "Organized bookshelves, books aligned, ultra-realistic photography.",
+      "Books, shelf, DSLR, hyper-realistic.",
+      "Shelves with books, realistic textures, DSLR.",
+      "Books organized, shelf realistic, DSLR.",
+      "Detailed bookshelf, ultra-realistic focus.",
+      "Books aligned, shelf details, ultra-realistic.",
+      "A wooden bookshelf, DSLR, detailed.",
+      "Shelves with books, ordered, DSLR quality.",
+      "Bookshelf detail, DSLR macro view.",
+      "Detailed bookshelf with books, ultra-real.",
+      "Realistic bookshelf with books, close-up.",
+      "Bookshelf display, realistic, organized books.",
+      "Shelf with books, detailed, realistic view.",
+      "Shelf with photography books, lifelike.",
+      "Shelf filled, realistic lighting and detail.",
+      "Bookshelf displaying cookbooks, realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

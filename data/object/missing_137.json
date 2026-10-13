@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a refrigerator without food",
+    "base_entity_biased_prompts": [
+      "Grapes and almonds",
+      "Rice with vegetables",
+      "Rice and curry",
+      "Jar of pickles",
+      "Frittata with vegetables",
+      "Bowl of oatmeal",
+      "Bread with butter",
+      "Assorted olives and cheese",
+      "Bag of fresh vegetables",
+      "A fresh salad with vegetables",
+      "Tomato basil pasta.",
+      "A platter of assorted meats",
+      "Freshly baked bread",
+      "A jar of pickles",
+      "Falafel with tahini sauce.",
+      "Fresh strawberries and cream",
+      "Glistening steak with veggies",
+      "A tray of assorted pastries",
+      "Steaming bowl of ramen",
+      "Juicy grilled steak with herbs"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Empty fridge, open door, white walls, glass shelves, LED light, 50mm lens",
+      "Empty fridge door open, white walls, clear shelves, LED light, 50mm lens",
+      "Empty fridge, white plastic walls, glass shelves, LED light, 50mm lens",
+      "Empty fridge, white walls, clear shelves, LED light, 50mm lens",
+      "Empty fridge, door open, white walls, glass shelves, LED light, 50mm lens",
+      "An open fridge, white walls, clear glass shelves, LED light, empty, 50mm lens",
+      "Empty fridge door open, white plastic walls, glass shelves, LED light.",
+      "An empty fridge, door open, white plastic walls, glass shelves, LED light.",
+      "Empty fridge door open, white plastic walls, clear glass shelves",
+      "White fridge, door open, glass shelves, LED illumination, empty compartments.",
+      "An open fridge, white walls, clear shelves, cold LED light.",
+      "Modern fridge, no contents, sharp focus",
+      "Empty fridge, door open, white walls, clear glass shelves",
+      "Empty fridge, door open, white plastic walls",
+      "Cold interior, clear shelves, modern fridge",
+      "Empty fridge door open, white plastic walls",
+      "Modern fridge, no items inside",
+      "LED light, no food, modern fridge",
+      "Modern fridge, open door view",
+      "Modern fridge, detailed glass, 50mm lens"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

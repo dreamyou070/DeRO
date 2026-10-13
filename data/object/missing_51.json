@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a flowerpot missing a plant",
+    "base_entity_biased_prompts": [
+      "A potted succulent plant",
+      "Peppery peppermint plant",
+      "Potted spider plant",
+      "Peppermint plant leaves",
+      "Leaves of a banana plant",
+      "Peppermint plant details",
+      "A leafy ivy vine",
+      "Herbs growing in a pot",
+      "Tree trunk with moss",
+      "Peppermint plant in bloom",
+      "Succulent cacti plants",
+      "A blooming rose",
+      "A blooming rosebud",
+      "Green fern in a pot",
+      "Tomato plants in garden",
+      "Leafy ivy creeping up",
+      "Tomato plants in greenhouse",
+      "Tall palm tree in sunlight",
+      "Orchid in white pot",
+      "Amaranth plants in field"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Tapered terracotta pot, thick rim, realistic clay texture.",
+      "Terracotta pot, smooth matte, thick rim, minimalist.",
+      "Ultra-realistic DSLR shot, terracotta pot details.",
+      "A simple terracotta pot, smooth matte, centered, light gray背景，50mm镜头",
+      "Minimal terracotta pot, smooth matte, classic shape.",
+      "Realistic clay texture, terracotta pot, light gray.",
+      "A simple terracotta pot, smooth matte clay, classic shape, light gray背景，超写实摄影",
+      "Ultra-realistic DSLR, smooth terracotta pot, gray.",
+      "A simple terracotta pot, matte texture.",
+      "Simple terracotta pot, matte texture.",
+      "A simple terracotta pot, smooth matte texture.",
+      "A simple terracotta pot, smooth matte clay.",
+      "Matte terracotta pot, centered.",
+      "Centered pot, matte clay texture.",
+      "A simple terracotta pot, smooth matte clay, light gray background.",
+      "A simple terracotta pot, smooth matte, light gray background.",
+      "Smooth, matte terracotta pot.",
+      "Thick rim pot, light gray, ultra-realistic.",
+      "Centered pot, smooth matte, realistic texture.",
+      "Tapered pot, thick, rounded rim."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

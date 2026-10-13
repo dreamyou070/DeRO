@@ -1,0 +1,53 @@
+[
+  {
+    "id": 297,
+    "prompt": "a chair without backrest",
+    "base_entity_biased_prompts": [
+      "Backrest on an armchair",
+      "Backrest with armrests",
+      "Backrest with ergonomic design",
+      "Backrest with cushioned support",
+      "Backrest with cushioned seat",
+      "Backrest on a recliner",
+      "Backrest in a dining chair",
+      "Backrest of a folding chair",
+      "Backrest with cushioned arms",
+      "Bench with folded-back backrest",
+      "Bench with cushioned backrest",
+      "Backrest with decorative straps",
+      "Backrest of an office desk chair",
+      "Bench with a folding backrest",
+      "Beach lounge with backrest",
+      "Recliner, padded backrest",
+      "A recliner with a soft backrest.",
+      "Bench with high backrest",
+      "Seat with curved backrest",
+      "Recliner with adjustable backrest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sleek chair design, realistic texture, DSLR",
+      "Smooth-sided chair, realistic texture, DSLR.",
+      "Ultra-realistic DSLR chair, smooth, detailed.",
+      "Chair, smooth sides, realistic texture, DSLR.",
+      "Smooth-sided chair, ultra-realistic photography.",
+      "Chair with smooth sides, lifelike texture, DSLR.",
+      "Smooth chair, realistic texture, DSLR quality.",
+      "Sleek chair design, realistic texture, DSLR quality.",
+      "Chair, smooth sides, realistic detail, DSLR.",
+      "Smooth-sided chair, lifelike texture, DSLR.",
+      "Smooth-sided chair, realistic furniture, DSLR.",
+      "Chair with smooth sides, ultra-realistic texture.",
+      "Smooth-sided chair, realistic texture, ultra-realistic.",
+      "Smooth-sided chair, ultra-realistic texture.",
+      "Ultra-realistic chair, smooth sides, detailed texture.",
+      "Chair design, ultra-real texture.",
+      "Chair with smooth sides, ultra-realistic quality.",
+      "A smooth-sided chair, ultra-realistic texture.",
+      "Smooth-sided chair, ultra-realistic details.",
+      "Smooth chair, realistic texture, ultra-realism."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

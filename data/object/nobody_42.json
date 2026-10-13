@@ -1,0 +1,53 @@
+[
+  {
+    "id": 438,
+    "prompt": "nobody walking along the sidewalk",
+    "base_entity_biased_prompts": [
+      "Sidewalk next to park",
+      "Sidewalk with street signs",
+      "Sidewalk leading to a park",
+      "Sidewalk leading to park.",
+      "Sidewalk in bustling city",
+      "Sidewalk outside a library",
+      "Sidewalk in a small town.",
+      "Sidewalk with benches.",
+      "Sidewalk leading to a park.",
+      "Sidewalk in front of park.",
+      "Sidewalk with colorful tiles",
+      "Sidewalk in front of a park.",
+      "Sidewalk with reflective tiles.",
+      "Sidewalk connecting two city blocks.",
+      "Sidewalk in a vibrant downtown area.",
+      "Sidewalk with reflective tiles",
+      "Sidewalk near a bustling street.",
+      "Sidewalk next to a busy street.",
+      "Sidewalk near a cafe.",
+      "Sidewalk leading to a small park."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sidewalk, buildings, ultra-realistic detail, DSLR",
+      "Sidewalk by pristine buildings, DSLR",
+      "Sidewalk with clean buildings, DSLR shot.",
+      "Sidewalk along buildings, ultra-realistic capture.",
+      "Sidewalk along buildings, pristine view, DSLR.",
+      "Sidewalk with crisp buildings, DSLR clarity.",
+      "Sidewalk with pristine buildings, DSLR.",
+      "Sidewalk between clean buildings, DSLR.",
+      "Sidewalk by crisp buildings, DSLR.",
+      "Sidewalk between tall clean buildings, DSLR.",
+      "A clean sidewalk beside modern buildings, DSLR.",
+      "Sidewalk with reflections of clean buildings, DSLR.",
+      "A clean sidewalk next to tall buildings, DSLR.",
+      "Wide shot of clean sidewalk, buildings in background.",
+      "Sidewalk, buildings close-up, ultra-realism.",
+      "Sidewalk with modern, clean buildings",
+      "Sidewalk extending along tidy buildings.",
+      "Bright clean sidewalk near colorful buildings.",
+      "Sidewalk with benches by pristine buildings.",
+      "Neatly cleaned sidewalk meets modern buildings."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

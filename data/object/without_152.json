@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a cake without a cream",
+    "base_entity_biased_prompts": [
+      "Cream in a glass",
+      "Rich cream filling",
+      "Rich cream liqueur",
+      "Fluffy whipped cream",
+      "Light whipped cream",
+      "Rich caramel and cream",
+      "Heavy cream pour",
+      "White whipped cream",
+      "Fresh cream on a plate",
+      "Cream filling in pastry",
+      "Fresh cream on croissant",
+      "Rich coffee with cream",
+      "Frothy latte with cream",
+      "Heavy cream in a glass",
+      "Golden whipped cream",
+      "Cream filling pastry",
+      "Soft whipped cream peaks",
+      "Whipped cream peaks",
+      "Frothy cream coffee",
+      "Golden whipped cream topping"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cheesecake slice, silver server, professional shot",
+      "Detailed texture, ultra-realistic cheesecake",
+      "Cheesecake slice, lifted, silver server, rich texture",
+      "Whole creamy cheesecake, slice lifted, silver server",
+      "Bakery quality, ultra-realistic food photography",
+      "Whole creamy cheesecake slice on silver server",
+      "Detailed cheesecake texture",
+      "Silver server, rich cheesecake",
+      "Cheesecake with rich texture",
+      "Cheesecake slice, lifted, detailed texture",
+      "Professional bakery, creamy cheesecake",
+      "Cheesecake, textured surface",
+      "Thick, detailed cheesecake",
+      "Creamy texture, rich cheesecake",
+      "Soft light, rich cheesecake",
+      "Whole creamy cheesecake",
+      "Cheesecake, professional bakery",
+      "Professional bakery product shot",
+      "Professional bakery shot",
+      "Golden top, biscuit crust"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 190,
+    "prompt": "a grocery store aisle with nothing on the shelves",
+    "base_entity_biased_prompts": [
+      "Shelves holding various hardware items",
+      "Shelves containing bottles and jars",
+      "Shelves with collectibles",
+      "Shelves holding various hardware supplies",
+      "Shelves with framed art",
+      "Shelves displaying collectibles",
+      "Shelves with decorative plates",
+      "Wooden shelves with books",
+      "Shelves with framed art pieces",
+      "Shelves with framed photos",
+      "Shelves with spices and jars",
+      "Shelves of DVDs and CDs",
+      "Shelves displaying framed photos.",
+      "Wall-mounted shelves with tools",
+      "Shelves holding wine bottles and glasses.",
+      "Shelf of decorative bottles",
+      "Shelves with collectible figurines",
+      "Shelves displaying colorful toys",
+      "Wooden cabinets acting as shelves.",
+      "DIY shelves with wooden planks."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Grocery aisle, realistic lighting, DSLR.",
+      "Grocery aisles, realistic shelves, DSLR",
+      "Aisle with shelves, indoor light, DSLR, realism",
+      "Grocery aisle, indoor lights, ultra-realistic",
+      "Aisle with realistic shelves, indoor light, DSLR",
+      "Aisle with shelves, indoor light, DSLR clarity",
+      "Aisle with shelves, indoor light, DSLR clarity.",
+      "Aisle with shelves, indoor light, DSLR",
+      "Grocery aisle, realistic, indoor glow.",
+      "Grocery items, DSLR realism.",
+      "Frozen foods aisle, realistic detail, DSLR",
+      "Grocery store, shelves, indoor light",
+      "Vegetable aisle, realistic indoor lighting.",
+      "Pantry aisle, realistic lighting, organized products.",
+      "Cereal aisle, realistic shelves, light",
+      "Pantry items in focus, realistic shelves, bright light.",
+      "Grocery store entrance, shelves, indoor light.",
+      "Grocery shelves, milk bottles, high resolution.",
+      "Fruits and veggies, realistic shelf lighting.",
+      "Aisle filled with fruits, veggies, dairy."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

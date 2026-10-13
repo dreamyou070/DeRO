@@ -1,0 +1,53 @@
+[
+  {
+    "id": 396,
+    "prompt": "nobody sitting in the classroom",
+    "base_entity_biased_prompts": [
+      "Classroom with windows",
+      "Classroom with windows.",
+      "Classroom with students' projects.",
+      "Classroom with teacher’s desk.",
+      "Classroom with science equipment.",
+      "Classroom during exam time.",
+      "Classroom with a teacher's desk.",
+      "Classroom for art lessons.",
+      "Classroom with colorful student projects.",
+      "Classroom with bookshelves and chairs.",
+      "Classroom with whiteboards and chairs.",
+      "Classroom with bookshelves.",
+      "Classroom with bookshelves and lamps.",
+      "Classroom with large windows.",
+      "Classroom library corner.",
+      "Classroom with floor-to-ceiling shelves.",
+      "Classroom with floor-to-ceiling windows.",
+      "Classroom with whiteboards and charts.",
+      "Classroom with white walls and windows.",
+      "Classroom with a globe."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom with aligned desks, markers on boards, DSLR detailed.",
+      "Classroom interior, desks aligned, materials sorted, DSLR",
+      "Modern classroom, desks aligned, books organized, DSLR clarity",
+      "Classroom with whiteboard, aligned chairs, organized tools, DSLR capture",
+      "Classroom setup, desks perfect, DSLR detail",
+      "Modern classroom, desks aligned, books organized, DSLR",
+      "A classroom, desks aligned, books organized, DSLR.",
+      "Classroom desks aligned, folders organized, DSLR detail",
+      "Classroom order, desks lined, DSLR quality",
+      "A classroom, desks aligned, books tidy, DSLR",
+      "Classroom desks, organized binders, DSLR photo.",
+      "Classroom desks, tidy books, DSLR clarity.",
+      "Neat classroom, books orderly, DSLR quality",
+      "Aligned desks, organized books, DSLR realism",
+      "Classroom with student work displayed.",
+      "Students' desks in rows, books整齐摆放, 超清DSLR",
+      "Classroom desk rows, books整齐.",
+      "Classroom desk rows, books orderly lined.",
+      "A row of aligned desks, textbooks整齐摆放.",
+      "Desks in rows, books整齐排列"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

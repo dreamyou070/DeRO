@@ -1,0 +1,53 @@
+[
+  {
+    "id": 377,
+    "prompt": "a bus without windows",
+    "base_entity_biased_prompts": [
+      "Two windows in a row",
+      "Modern window with view",
+      "Windows in a minimalist interior",
+      "Windows with frosted glass",
+      "Windows with clean white frames",
+      "Windows with frosted glass.",
+      "Window with view of mountains",
+      "Modern sliding windows.",
+      "Windows with cracked panes",
+      "Windows in old building",
+      "Windows with cracks and chips.",
+      "Windows in a historic building.",
+      "Windows facing north and south",
+      "Windows with frosted glass panels.",
+      "Windows with modern metal frames.",
+      "Windows with painted designs on them.",
+      "Small bay window view",
+      "Windows with colorful stained glass.",
+      "Window overlooking a mountain range",
+      "Vintage windows with colorful stained glass"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Reflective bus, realistic exterior, DSLR clarity",
+      "Mirror-like bus exterior, realistic DSLR image",
+      "Reflective bus, detailed exterior, DSLR",
+      "Glossy bus, realistic construction, DSLR",
+      "Bus exterior, ultra-realistic capture",
+      "Reflective bus sides, realistic textures, DSLR.",
+      "Bus exterior, metallic reflections, ultra-realistic photo",
+      "Reflective bus exterior, ultra-realistic.",
+      "Bus reflecting light, ultra-realistic capture.",
+      "Glossy bus body, realistic texture, DSLR.",
+      "Reflective bus design, DSLR quality.",
+      "Shiny bus, reflective surfaces, DSLR.",
+      "Bus exterior, ultra-realistic surface.",
+      "Large bus, reflective body, photo-realistic",
+      "Bus window reflections, ultra-realistic.",
+      "Bus with glassy finish, ultra-realistic shot.",
+      "Reflective bus, clear reflections, realistic detail.",
+      "Modern bus, reflective panels, high detail.",
+      "A metallic bus, reflective surfaces, sharp details.",
+      "A metallic bus, reflective surfaces, sharp focus."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

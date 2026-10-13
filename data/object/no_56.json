@@ -1,0 +1,53 @@
+[
+  {
+    "id": 118,
+    "prompt": "a decorated room with no paintings",
+    "base_entity_biased_prompts": [
+      "Abstract painting with bright colors.",
+      "A vibrant still life painting",
+      "A still life of flowers painting",
+      "A tempera painting of seascapes",
+      "A geometric abstract painting",
+      "Realistic oil painting of flowers",
+      "A encaustic painting of waves",
+      "A vibrant landscape painting",
+      "A serene landscape painting",
+      "A colorful still life arrangement",
+      "A vibrant landscape painting.",
+      "A serene landscape painting.",
+      "A tranquil river scene oil painting.",
+      "An abstract expressionist canvas",
+      "Abstract colors swirling like a painting.",
+      "A rustic countryside oil painting.",
+      "A historic battle painting",
+      "An abstract expressionist canvas.",
+      "A Victorian oil painting.",
+      "An old master portrait"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Elegant living room, DSLR, ultra-realistic",
+      "A lavish living room, DSLR, ultra-realistic",
+      "Elegant room, DSLR, rich textures.",
+      "Chic guest room, DSLR, ultra-realistic",
+      "Luxurious great room, DSLR, hyper-realistic",
+      "A spacious room with luxury furniture, detailed walls, DSLR.",
+      "Luxurious sitting room, DSLR detail",
+      "Elegant room, DSLR, rich fabrics.",
+      "Elegant bedroom, detailed lighting, DSLR",
+      "A luxurious living room, DSLR",
+      "Stylish bedroom, DSLR, high detail",
+      "Luxurious entryway, DSLR, ultra-realistic",
+      "Elegant living room, DSLR quality.",
+      "A luxurious living room, DSLR.",
+      "Stylish walls, leather sofa, DSLR",
+      "A grand living room with plush沙发和精致壁画，DSLR超写实。",
+      "Gorgeous living room with fireplace.",
+      "Wallpaper with floral patterns, leather armchair, wooden floors.",
+      "Elegant wooden tables in a fancy room.",
+      "A living room with luxury sofas, marble tables, gold accents."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

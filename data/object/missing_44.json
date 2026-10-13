@@ -1,0 +1,53 @@
+[
+  {
+    "id": 44,
+    "prompt": "a window missing glass",
+    "base_entity_biased_prompts": [
+      "Glass wine glass",
+      "Glass wine decanter",
+      "Water droplets on glass",
+      "Glass beer stein.",
+      "A clear glass window",
+      "Modern art installation using glass.",
+      "A crystal wine glass",
+      "Translucent glass sculpture",
+      "Glasses with ice cubes",
+      "Lampshade made of glass",
+      "Glass beaker with chemical solution",
+      "Glass panels in a contemporary building.",
+      "Transparent glass bottle",
+      "A clear drinking glass on a table.",
+      "Water droplets on a glass surface.",
+      "Lampshade made of blown glass",
+      "Translucent glass bottle",
+      "Thick glass window with cracks.",
+      "Shattered glass on ground",
+      "Glass sculpture in art gallery"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom with bookshelves, DSLR, organized desks.",
+      "Desks, rulers, maps, realistic classroom, DSLR.",
+      "Organized desks, textbooks, whiteboard, DSLR, realistic.",
+      "Organized desks, calculators, realistic classroom.",
+      "Classroom desks orderly, realistic educational tools.",
+      "Classroom desks, materials organized, high detail.",
+      "Organized desks, textbooks, whiteboard, DSLR",
+      "Classroom with library books, computers, desks.",
+      "Desks, books, markers, organized classroom.",
+      "Classroom desks, scientific instruments, educational books.",
+      "Classroom, organized desks, math textbooks.",
+      "A classroom with rows of desks, books, and charts.",
+      "Classroom desks, maps, atlases, books.",
+      "A classroom, desks in rows, books, laptops.",
+      "Classroom desks in perfect rows.",
+      "Classroom desks in neat rows.",
+      "A classroom with rows of desks, textbooks open.",
+      "A classroom, desks in rows, books open.",
+      "Classroom shelves filled with books.",
+      "Whiteboard with notes, focused view."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

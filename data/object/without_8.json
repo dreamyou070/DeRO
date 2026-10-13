@@ -1,0 +1,53 @@
+[
+  {
+    "id": 255,
+    "prompt": "a shirt without buttons",
+    "base_entity_biased_prompts": [
+      "Gray striped button",
+      "Black and white button",
+      "Dark blue button",
+      "White flat button",
+      "Red velvet button",
+      "Brown flat button",
+      "Gray flat button",
+      "Red outlined button",
+      "Pink heart button",
+      "Brown arrow button",
+      "Wood grain button",
+      "Yellow like button",
+      "Purple diamond button",
+      "Blue rectangular button",
+      "Gray rectangular button",
+      "Blue round button",
+      "Green rectangular button",
+      "Pink button with exclamation point",
+      "Pink rectangular button with heart icon",
+      "Red square button"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Smooth shirt, ultra-realistic texture, DSLR",
+      "Smooth shirt, DSLR, detailed fabric",
+      "Smooth fabric shirt, ultra-realistic shot",
+      "Textured shirt, ultra-realistic shot",
+      "Smooth shirt, realistic fabric, DSLR clarity",
+      "Smooth fabric shirt, ultra-realistic close-up",
+      "Smooth cotton shirt, ultra-real, DSLR",
+      "Smooth shirt, DSLR, high detail",
+      "Smooth fabric shirt, DSLR shot",
+      "Ultra-realistic fabric texture, shirt",
+      "Flannel shirt, realistic texture, DSLR",
+      "Smooth shirt texture, DSLR shot.",
+      "Smooth shirt texture, DSLR quality",
+      "Smooth fabric shirt, ultra-realism",
+      "Smooth fabric shirt, ultra-realistic detail",
+      "A smooth shirt, ultra-realistic close-up",
+      "Smooth fabric shirt, DSLR quality detail.",
+      "Smooth shirt, ultra-realistic detail",
+      "Smooth knit shirt, ultra-realism.",
+      "Yellow shirt, detailed texture, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

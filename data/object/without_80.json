@@ -1,0 +1,53 @@
+[
+  {
+    "id": 327,
+    "prompt": "a burger without cheese",
+    "base_entity_biased_prompts": [
+      "Ripe gouda cheese.",
+      "A platter of various cheeses.",
+      "Gouda cheese with crust.",
+      "Cheddar grilled cheese",
+      "Smoked gouda grilled cheese.",
+      "A block of gouda cheese.",
+      "A platter of assorted cheeses.",
+      "A platter of assorted cheeses",
+      "Cheddar cheese in a bowl",
+      "Tomme cheese with herbs.",
+      "Swiss cheese slices",
+      "Cheddar grilled cheese sandwich",
+      "Basket of artisanal cheeses",
+      "Cheese plate with various types.",
+      "Feta cheese in brine.",
+      "A grilled cheese with tomato.",
+      "Slice of melting cheddar",
+      "Cheesy mac and cheese",
+      "Sharp cheddar gratinade",
+      "Ripe stinky cheese ball."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic burger texture, bread detail, DSLR",
+      "Bread layers, juicy burger, DSLR close-up.",
+      "Bread with burger toppings, ultra-realistic shot.",
+      "Grilled burger, detailed bread texture, DSLR.",
+      "Bread crust of a burger, DSLR quality.",
+      "Realistic burger slices, DSLR clarity.",
+      "Burger with toppings, bread layers visible, realism",
+      "Close-up burger, bread layers, detailed texture",
+      "Realistic burger bread textures close-up",
+      "Bread layers in a burger, vivid details",
+      "Burger slices showing meat texture, DSLR clarity",
+      "Burger assembly, ultra-realistic shot",
+      "Burger with crispy bun, DSLR",
+      "Grilled cheese bun, realistic textures, DSLR clarity",
+      "Burger with crispy edges, realistic bread.",
+      "Close-up burger slices, realistic texture.",
+      "Burger with toppings, realistic texture.",
+      "Condiments spread, bun texture, professional DSLR shot.",
+      "Bun with juicy patty, realistic lighting.",
+      "Burger, assembled, gourmet style"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

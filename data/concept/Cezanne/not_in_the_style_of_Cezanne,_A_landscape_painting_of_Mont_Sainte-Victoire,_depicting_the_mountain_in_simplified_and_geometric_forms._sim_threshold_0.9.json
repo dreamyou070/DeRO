@@ -1,0 +1,13 @@
+[
+  {
+    "id": 6,
+    "prompt": "not in the style of Cezanne, A landscape painting of Mont Sainte-Victoire, depicting the mountain in simplified and geometric forms.",
+    "base_entity_biased_prompts": [],
+    "base_entity_bias_absent_prompts": [],
+    "base_entity": "Cezanne",
+    "component_entity": "Cezanne",
+    "sim_threshold": 0.9,
+    "num_biased_prompts": 0,
+    "num_bias_absent_prompts": 0
+  }
+]

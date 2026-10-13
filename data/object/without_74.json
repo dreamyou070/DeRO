@@ -1,0 +1,53 @@
+[
+  {
+    "id": 321,
+    "prompt": "a sandwich without vegetables",
+    "base_entity_biased_prompts": [
+      "Carrots and radishes",
+      "Cucumbers and bell peppers",
+      "Mixed leafy greens",
+      "Radishes with greens",
+      "Mixed salad greens",
+      "Bunch of leafy greens",
+      "Green leaf lettuce",
+      "Peas in a pod",
+      "Peas in pod",
+      "Leafy spinach greens",
+      "Red bell peppers",
+      "Green lettuce leaves",
+      "Green peas pods",
+      "Green bean sprouts",
+      "Peas in pods",
+      "Carrots in soil",
+      "Radish leaves and roots",
+      "Radishes on plate",
+      "Green pea pods",
+      "Mixed salad greens bowl"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sandwich layers, detailed textures shot",
+      "Grilled cheese, detailed bread texture, DSLR clarity.",
+      "Grilled veggie sandwich, rich textures, DSLR quality.",
+      "A thick sandwich, bread layers, realism.",
+      "A thick sandwich, bread layers, juicy meat, ultra-realistic.",
+      "Ham and cheese, lifelike details, DSLR.",
+      "Bread layers, juicy meat, veggies, ultra-realistic.",
+      "Bread slices with juicy roast beef, DSLR.",
+      "A thick burger sandwich, bread layers, realistic",
+      "A thick sandwich, bread layers, lettuce, tomatoes, realism.",
+      "A thick sliced turkey sandwich, ultra-realistic.",
+      "Realistic roasted turkey sandwich, sharp focus.",
+      "Cheese, meat, vegetables, realistic lighting",
+      "A thick turkey sandwich, bread layers visible.",
+      "Beef, cheddar, detailed bread layers.",
+      "Bread layers, crisp bacon in between.",
+      "Bread layers with roast beef and cheese.",
+      "A loaf sliced, crust visible, toppings crisp.",
+      "Cheese and slices on bread, crispy.",
+      "A loaf sliced, layers visible, juicy steak inside."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

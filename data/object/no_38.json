@@ -1,0 +1,45 @@
+[
+  {
+    "id": 4,
+    "prompt": "A painting with no colors",
+    "base_entity_biased_prompts": [
+      "A colorful abstract painting with geometric shapes",
+      "A vibrant and abstract painting using a mix of bold colors",
+      "A colorful abstract painting with swirling patterns",
+      "A traditional folk painting with bright reds, blues, and greens",
+      "A vibrant and abstract painting with swirling colors",
+      "A abstract expressionist painting with splashes of color",
+      "A colorful abstract painting with swirls and splatters of paint",
+      "A vibrant abstract painting with swirls of primary colors",
+      "A bright and cheerful painting of a rainbow",
+      "A vibrant abstract painting with swirls of red, blue, and yellow.",
+      "A bright painting of a abstract pattern with geometric shapes",
+      "An abstract painting with swirls of blue, yellow, and orange",
+      "A colorful abstract art piece with swirls of red, blue, and yellow",
+      "A vibrant marketplace painting with vibrant reds, yellows, and oranges",
+      "A colorful abstract painting with swirling patterns and bold strokes.",
+      "A colorful abstract painting with swirls of blue and yellow",
+      "A colorful mandala painting with intricate patterns",
+      "A dynamic abstract painting with a rainbow gradient",
+      "A vibrant abstract painting with a mix of geometric shapes"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A serene mountain landscape in grayscale, rendered only in black and gray tones.",
+      "A serene mountain landscape in grayscale, rendered solely in black and gray tones.",
+      "A black and gray depiction of a barren landscape.",
+      "A snowy winter landscape in grayscale, shown only in black and gray.",
+      "A stormy coastline in grayscale, drawn exclusively in black and gray.",
+      "A rugged cliff face in grayscale, using only black and gray tones.",
+      "A grayscale painting of a cityscape with black and gray buildings.",
+      "A serene mountain landscape painted entirely in black and gray tones.",
+      "A serene mountain range in grayscale, rendered only in black and gray tones.",
+      "A serene mountain landscape in grayscale, shaded only in black and gray tones."
+    ],
+    "sim_threshold": 0.8,
+    "num_biased_prompts": 19,
+    "num_bias_absent_prompts": 10,
+    "class": "no",
+    "class_index": 38,
+    "filename": "no_38.json"
+  }
+]

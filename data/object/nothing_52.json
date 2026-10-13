@@ -1,0 +1,53 @@
+[
+  {
+    "id": 219,
+    "prompt": "a pizza with nothing on top",
+    "base_entity_biased_prompts": [
+      "Top of the page",
+      "Top of the class",
+      "Top of hat",
+      "Top of building",
+      "Top of globe",
+      "Top of car",
+      "Top of the leaderboard",
+      "Top of the mountain",
+      "Top of a crown",
+      "Top of cloud",
+      "Top of mountain range",
+      "Top of tower",
+      "Top of the world view",
+      "Top of mountain peak",
+      "Top of the mountain peak",
+      "Top of a mountain",
+      "Top of graduation cap",
+      "Top of a lampshade",
+      "Top of building skyscraper",
+      "Top floor city view"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Crisp pizza crust, ultra-realistic, DSLR",
+      "Realistic pizza, baked surface, DSLR.",
+      "Ultra-realistic pizza, DSLR quality.",
+      "Freshly baked pizza, DSLR, realistic",
+      "A crispy pizza with realistic dough, DSLR.",
+      "Visible baking, ultra-realistic pizza shot.",
+      "A crispy pizza, dough texture, DSLR",
+      "Ultra-realistic pizza, baked surface shown.",
+      "Baked pizza, realistic texture close-up",
+      "Ultra-realistic pizza, dough visible.",
+      "Authentic pizza, visible crust, DSLR.",
+      "Visible pizza crust texture, ultra-realistic.",
+      "Ultra-realistic pizza, dough texture.",
+      "Textured pizza, baked surface, ultra-realism.",
+      "Dough texture, baked pizza, DSLR",
+      "Ultra-realistic pizza, baked surface gleaming.",
+      "Textured dough, ultra-realistic pizza.",
+      "Realistic pizza, baked surface clear",
+      "Textured dough, ultra-realistic closeup",
+      "Caramelized crust, DSLR detail."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

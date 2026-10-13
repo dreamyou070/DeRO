@@ -1,0 +1,33 @@
+[
+  {
+    "id": 220,
+    "prompt": "a hospital room with nothing on the walls",
+    "base_entity_biased_prompts": [
+      "a hospital room with medical posters on the walls",
+      "a hospital room with framed health charts on the walls",
+      "a hospital room with wall-mounted monitors and signs",
+      "a hospital room with patient information boards on the walls",
+      "a hospital room with medical diagrams hanging on the walls",
+      "a hospital room with clocks and notices on the walls",
+      "a hospital room with wall-mounted equipment and labels",
+      "a hospital room with hospital signs and instruction boards",
+      "a hospital room with decorative frames and medical charts",
+      "a hospital room with posters, signs, and wall-mounted devices"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "a hospital room with completely blank walls",
+      "a clean hospital room with no objects on the walls",
+      "a hospital room with plain white empty walls",
+      "a hospital room with bare walls and no decorations",
+      "a hospital room with no posters or signs on the walls",
+      "a hospital room with empty wall surfaces clearly visible",
+      "a minimal hospital room with blank undecorated walls",
+      "a hospital room with no wall-mounted equipment",
+      "a hospital room with plain walls and no hanging objects",
+      "a hospital room with clear empty walls and medical bed"
+    ],
+    "class": "nothing",
+    "class_index": 1,
+    "filename": "nothing_1"
+  }
+]

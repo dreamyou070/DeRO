@@ -1,0 +1,53 @@
+[
+  {
+    "id": 236,
+    "prompt": "a storage box with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside historic museum",
+      "Inside bustling restaurant",
+      "Inside a hospital room",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside a spacious hallway",
+      "Inside a historical museum",
+      "Inside a luxurious hotel",
+      "Inside busy café",
+      "Inside modern office",
+      "Inside spacious living room",
+      "Inside a fancy restaurant",
+      "Inside a charming boutique",
+      "Inside a grand hall",
+      "Inside a historic church",
+      "Inside an old library",
+      "Inside a modern office",
+      "Inside a bustling market",
+      "Inside busy subway station",
+      "Inside a cozy cabin"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open wooden storage box, DSLR, realistic texture",
+      "Open storage box, interior visible, wood texture, DSLR",
+      "Open storage box, interior visible, wooden texture, DSLR",
+      "Metal storage box, open, detailed texture, DSLR.",
+      "A wooden storage box, open, textured, DSLR",
+      "Glass box with open interior and realistic texture.",
+      "Open wooden storage box, interior visible, textures sharp",
+      "Clear plastic box, interior open, glossy surface, DSLR",
+      "Open storage box, interior visible, wooden texture",
+      "Plastic storage box, open, textured surface.",
+      "Silicone storage box, open, flexible texture.",
+      "Steel storage box, open, matte texture.",
+      "Plastic storage box, open, smooth texture.",
+      "Glass storage box, open, reflective interior.",
+      "Concrete storage box, open, porous texture",
+      "A wooden storage box, open, grainy texture.",
+      "Brick box, open, textured surface.",
+      "Concrete box, open, textured surface.",
+      "Plastic container, open, smooth texture.",
+      "Wood crate, open, natural texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

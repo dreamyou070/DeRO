@@ -1,0 +1,53 @@
+[
+  {
+    "id": 443,
+    "prompt": "nobody sitting in the caf?",
+    "base_entity_biased_prompts": [
+      "Caf? offering pastries",
+      "Caf? window view",
+      "Caf? serving pastries, coffee",
+      "Caf? industrial style",
+      "Caf? black and white",
+      "CAF? pastry and coffee",
+      "Caf? serving artisanal coffee.",
+      "Caf? serving sandwiches, lunch",
+      "Caf? with steaming coffee",
+      "Caf? kitchen, coffee brewing",
+      "CAF? sign in cafe",
+      "Caf? serving hot coffee",
+      "Caf? counter with pastries.",
+      "CAF? menu with pastries",
+      "CAF? café window view city",
+      "Caf? serving fresh pastries",
+      "Caf? serving fresh coffee",
+      "CAFE with cozy seating",
+      "Café with windows",
+      "Cafeteria with coffee machines"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neat cafe interior, warm lights, DSLR",
+      "A warm cafe, tables neatly lined, DSLR realism",
+      "A warm cafe with tidy tables, DSLR realism.",
+      "Warmly lit café, orderly tables, DSLR.",
+      "Café interior: tables, warm lighting, cozy.",
+      "Cafe interior with warm ambient lighting.",
+      "Cafe interior, neat tables, warm light.",
+      "Warmly lit, cozy café interior",
+      "Café interior, tidy tables, warm light.",
+      "Cafe interior, neat tables, soft light.",
+      "Tables, warm lights, realistic, cozy café.",
+      "Soft light, cozy cafe setting",
+      "Tables in a cozy café, warm lighting.",
+      "A warmly lit café with tidy tables.",
+      "Cozy cafe, tables in order, soft light.",
+      "Cafe interior, neat tables, glow.",
+      "Neatly arranged tables, warm lights, cozy cafe.",
+      "Subtle lighting, tidy seats, warm cafe.",
+      "Softly lit coffee shop",
+      "Warm wood tones, cozy seating"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

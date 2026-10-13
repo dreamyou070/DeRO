@@ -1,0 +1,53 @@
+[
+  {
+    "id": 172,
+    "prompt": "a kitchen counter with nothing on it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "computer with IT sticker",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a watch",
+      "it's a car",
+      "it's a keyboard",
+      "a single book",
+      "a single ring",
+      "a small key",
+      "a singular key",
+      "a single envelope",
+      "a digital screen",
+      "a glass window",
+      "a red ball",
+      "it's a old book",
+      "a smartphone in hand",
+      "a small table"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wooden counter, realistic texture, DSLR",
+      "Wooden counter, grainy texture, DSLR, soft light",
+      "Wood plank counter, natural light, DSLR.",
+      "Marble countertop, realistic lighting, DSLR clarity.",
+      "A countertop with light reflections, DSLR.",
+      "Stone counter, indoor light, ultra-realistic.",
+      "Wooden counter with shadows, DSLR quality.",
+      "Tile countertop, realistic texture, indoor glow.",
+      "Wood-grain countertop, realistic texture, indoor.",
+      "Stone counter, realistic textures, indoor reflections.",
+      "Countertop texture, indoor light source.",
+      "Countertop with light highlights and shadows.",
+      "Counter with realistic textures, bright light.",
+      "Wood countertop, realistic texture.",
+      "Wooden counter with realistic texture.",
+      "Checkerboard tile counter in natural light.",
+      "Granite countertop, realistic texture.",
+      "Quartz countertop, indoor reflections.",
+      "Concrete counter, realistic texture.",
+      "A wooden countertop, light shadows."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

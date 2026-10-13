@@ -1,0 +1,53 @@
+[
+  {
+    "id": 203,
+    "prompt": "a table with nothing underneath",
+    "base_entity_biased_prompts": [
+      "Underneath the floor",
+      "Underneath the jacket",
+      "Underneath the ladder",
+      "Underneath the rug",
+      "Underneath the floorboards",
+      "Underneath the shelf",
+      "Underneath the table",
+      "Underneath the carpet",
+      "Underneath the floorboard",
+      "Underneath the blanket",
+      "Underneath the bridge",
+      "Underneath the bench",
+      "Underneath the rock",
+      "Underneath the chair",
+      "Underneath the counter",
+      "Underneath the stairs",
+      "Underneath the bed",
+      "Underneath the stage",
+      "Underneath the desk",
+      "Underneath the window"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Plastic table, floor clearly seen, DSLR",
+      "Table with visible tiles beneath, DSLR clarity",
+      "A wooden table, floor visible, DSLR clarity",
+      "A glass table, floor visible, DSLR",
+      "Bordered table, floor visible, DSLR.",
+      "Wood grain table, floor visible, DSLR.",
+      "A wooden table, floor details visible, DSLR",
+      "A glass table, floor detail clear, DSLR.",
+      "Metal table with visible flooring, detailed shot.",
+      "A large table, floor space clearly seen.",
+      "Coffee table, floor clearly seen.",
+      "Long table, floor visible underneath.",
+      "Glass top table, floor clearly seen.",
+      "Table with floorboards visible, sharp",
+      "Modern table, floor detail crisp",
+      "A wooden table, floor clearly visible.",
+      "Wooden table, floor texture visible.",
+      "Glass table, floor beneath reflected.",
+      "White table, detailed floor below.",
+      "Metal table with clear floor reflection."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

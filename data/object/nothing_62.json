@@ -1,0 +1,53 @@
+[
+  {
+    "id": 229,
+    "prompt": "a classroom board with nothing written",
+    "base_entity_biased_prompts": [
+      "A blog post with written content.",
+      "A blog post with written content",
+      "A newspaper article with written text.",
+      "A written poem in notebook.",
+      "A diary entry written in pen.",
+      "A diary entry in pen",
+      "A diary with written entries.",
+      "A typed document",
+      "A journal with written entries.",
+      "A newspaper with written articles.",
+      "A typed poem in a notebook.",
+      "A printed book with written text.",
+      "A manuscript written in script.",
+      "A manuscript with written pages.",
+      "A scribbled journal entry.",
+      "A diary page with written entries.",
+      "A typed report with highlighted text.",
+      "A journal entry written in ink",
+      "A typed essay on a laptop.",
+      "A journal entry with pencil writing."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A smooth classroom board, DSLR, realistic lighting",
+      "Classroom board with realistic lighting, DSLR.",
+      "Smooth classroom board, realistic lighting, DSLR.",
+      "Smooth board, clean, realistic classroom light, DSLR.",
+      "Classroom board, DSLR ultra-realism.",
+      "Smooth classroom board, natural light, DSLR capture",
+      "Clean board, realistic classroom lighting, DSLR.",
+      "Classroom board, bright, realistic light, DSLR.",
+      "Classroom board, ultra-realistic lighting, clean.",
+      "Classroom board, DSLR quality lighting.",
+      "Classroom board, pristine, realistic lighting conditions.",
+      "Classroom board, even classroom lighting, DSLR.",
+      "Classroom board, even lighting, ultra-realistic.",
+      "Smooth classroom board, realistic lighting details.",
+      "Board with realistic classroom lighting",
+      "Classroom board with dynamic lighting.",
+      "Classroom board with ambient light.",
+      "Smooth board, artificial classroom lighting.",
+      "Smooth whiteboard, ambient classroom light, clear.",
+      "Blackboard, artificial classroom light."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

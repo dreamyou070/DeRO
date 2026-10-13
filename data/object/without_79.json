@@ -1,0 +1,53 @@
+[
+  {
+    "id": 326,
+    "prompt": "a cafe without coffee cups",
+    "base_entity_biased_prompts": [
+      "Cups on a table",
+      "Cups with colorful designs on them.",
+      "Brown ceramic cups with handles.",
+      "Cup with colorful designs",
+      "White cups with designs on the side.",
+      "Cup with colorful designs.",
+      "Red cups with gold rims.",
+      "White cups with colorful lids.",
+      "A colorful set of travel cups.",
+      "Cup with colorful liquid inside.",
+      "Pink ceramic cup with handle",
+      "Transparent acrylic cup",
+      "Blue cup with colorful stickers.",
+      "A blue cup with colorful handle.",
+      "Brown clay cup with handle.",
+      "A glass cup filled with water.",
+      "A yellow ceramic cup with rim.",
+      "Blue glass water cup",
+      "White ceramic coffee cup",
+      "Brown cardboard coffee cup"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Café interior, tidy tables, vivid realism, DSLR",
+      "Tables set neatly, café decor, DSLR realism",
+      "Neatly arranged tables, cozy cafe, DSLR realism",
+      "Neat cafe tables, stylish interior, realistic DSLR view",
+      "A tidy cafe, tables lined up, DSLR realism",
+      "A tidy cafe, DSLR, realistic",
+      "Café with neat tables, interior, DSLR",
+      "Cafe interior, tables perfect, DSLR.",
+      "Orderly café setup, rich textures, DSLR photo.",
+      "A neat cafe table setup, DSLR realism",
+      "Neatly arranged tables, cozy cafe, DSLR",
+      "Café interior, tidy tables, DSLR",
+      "Café setting, neat furniture, photorealism",
+      "Neat café tables, vibrant design, DSLR detail",
+      "Clocks, cafe interior, ultra-realistic shot",
+      "Tidy tables, ultra-realistic cafe.",
+      "Neatly arranged tables, coffee shop, DSLR",
+      "Clutter-free café, precise DSLR.",
+      "Café interior, tables meticulously arranged.",
+      "Tidy café setup, glass tables, modern chairs."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

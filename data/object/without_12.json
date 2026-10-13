@@ -1,0 +1,53 @@
+[
+  {
+    "id": 259,
+    "prompt": "a room without curtains",
+    "base_entity_biased_prompts": [
+      "Curtains with grommets",
+      "Curtains with sheer panels.",
+      "Curtains matching the room's decor.",
+      "Curtains in living room.",
+      "Curtains with striped design.",
+      "Curtains with striped design",
+      "Curtains of different lengths hanging.",
+      "Curtains with striped pattern.",
+      "Curtains in soft pastel colors",
+      "Curtains matching bedroom decor.",
+      "Linen curtains with grommets on side.",
+      "Curtains in soft pastel colors.",
+      "Curtains in a modern living room.",
+      "Transparent sheer curtains for privacy.",
+      "Linen curtains with grommets hung.",
+      "Pleated white curtains at windows.",
+      "Curtains with pleats in dining area",
+      "Curtains in a modern bathroom.",
+      "Curtains in various colors for party.",
+      "Black velvet curtains for theater"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A cozy living room with soft light, DSLR.",
+      "A living room with沙发和茶几,柔和灯光,逼真DSLR",
+      "A living room with沙发和茶几，柔和灯光，超写实DSLR",
+      "A living room with沙发和茶几,柔和灯光,超写实DSLR",
+      "Office with desk, chair, soft lighting, DSLR.",
+      "A living room with couch, coffee table, soft light",
+      "Modern dining room, table, chairs, DSLR.",
+      "A living room with couch, coffee table, soft light.",
+      "A living room with couch, coffee table, soft lights.",
+      "A living room with couch, coffee table, soft glow.",
+      "A living room with sofa, coffee table, soft lights.",
+      "Sunroom, windows, seating, soft lighting.",
+      "A living room with沙发和茶几，柔和灯光",
+      "Living area, sofa, coffee table, warm glow.",
+      "A living room with沙发和茶几，柔和灯光，真实感强。",
+      "Living area with couch, ottoman, gentle lighting.",
+      "A living room with沙发和茶几，柔和灯光，高质量摄影",
+      "A living room with沙发和茶几,柔和灯光,高解析度照片",
+      "A living room with沙发和茶几，柔和灯光，高清晰度",
+      "A living room with沙发和茶几，柔和灯光，高清摄影"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 430,
+    "prompt": "nobody walking in the shopping mall",
+    "base_entity_biased_prompts": [
+      "Fashion mall with stores",
+      "Restaurants in mall",
+      "Shopping mall with electronics",
+      "Shopping mall with food court",
+      "Mall with movie theater",
+      "Mall with food court and screens",
+      "Shopping mall with signs",
+      "Mall with food court and cinema",
+      "Mall with food stalls",
+      "Mall with food court and games",
+      "Mall art gallery",
+      "Mall with art installations",
+      "Mall boutique clothing store",
+      "Luxury mall boutique",
+      "Wide mall corridor",
+      "Outdoor mall with fountains",
+      "People walking in mall",
+      "Mall kids play area",
+      "Clock tower at mall",
+      "Boutique shops in small mall"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Interior mall, illuminated shops, polished floor, DSLR",
+      "Mall interior, vibrant lighting, pristine floors, DSLR",
+      "Shopping mall, illuminated stores, polished floors, DSLR",
+      "Shopping mall, bright lights, polished floors, DSLR",
+      "Shopping mall, bright lights, shiny floors, DSLR",
+      "Brightly lit mall, smooth floors, DSLR",
+      "Shopping mall, bright stores, shiny floors, DSLR",
+      "Illuminated mall, clean floors, DSLR shot",
+      "Lively mall, bright lights, smooth floors, DSLR",
+      "Shiny mall, illuminated interiors, floor",
+      "Illuminated store signs, shiny floors, DSLR.",
+      "Mall interior, radiant lights, gleaming floor",
+      "Shiny floors, bright stores, DSLR clarity.",
+      "A mall interior, bright lights, shiny floors",
+      "Shopping mall, bright lights, polished floors",
+      "Gleaming floors, lit booths, shoppers, detailed capture.",
+      "Glittering floors, lit-up shops, capture.",
+      "Gleaming mall floor, bright lighting.",
+      "Shoppers in bright lit mall, polished floors.",
+      "Shiny floors, bright lights, store displays"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 253,
+    "prompt": "a desk without papers",
+    "base_entity_biased_prompts": [
+      "Publication papers arranged",
+      "Papers with notes and highlights",
+      "Conference papers displayed",
+      "Papers with printed text",
+      "Papers with graphs and charts",
+      "Scientific journal articles",
+      "Conference papers arranged",
+      "Academic papers displayed",
+      "Scientific paper notes",
+      "Conference paper displayed",
+      "Journal with articles",
+      "University thesis papers",
+      "Legal documents and papers",
+      "Group of papers arranged for a presentation.",
+      "Papers with signatures",
+      "Conference room papers",
+      "Conference paper stack",
+      "Journal articles open",
+      "College exam papers",
+      "Scientific journal articles stack"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Organized desk, realistic cloth texture, DSLR.",
+      "Organized desk, office textures, DSLR.",
+      "Neatly arranged desk, realistic materials, DSLR.",
+      "Clutter-free desk, office texture, DSLR",
+      "Organized desk, professional setup, realistic textures.",
+      "Neat desk, leather texture, DSLR",
+      "Desk with tech, clean design, DSLR shot.",
+      "Professional desk, organized workspace, realistic wood.",
+      "Organized computer setup, realistic textures, DSLR.",
+      "A clean desk with organized files, ultra-realistic texture.",
+      "Organized desk, realistic wooden surface.",
+      "A clutter-free desk, DSLR, wood grains.",
+      "Organized desk with neat layout and textures.",
+      "A clean desk with organized files, realistic textures.",
+      "Desk scene with organized gadgets and notes.",
+      "Shiny surface of an office desk.",
+      "Desk setup with tech gadgets and organized notes.",
+      "Organized desk with plants and photos.",
+      "Desk with printer and colorful files.",
+      "Desk with plants and colorful desktop accessories."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

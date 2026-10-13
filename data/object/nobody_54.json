@@ -1,0 +1,53 @@
+[
+  {
+    "id": 450,
+    "prompt": "nobody walking on the pathway",
+    "base_entity_biased_prompts": [
+      "Concrete pathway city",
+      "Stone stairs as a pathway.",
+      "Pathway with fallen leaves",
+      "Path leading to waterfall",
+      "Ancient stone pathway",
+      "Path leading to cottage",
+      "Tree roots forming a natural pathway",
+      "Pathway through a field of flowers",
+      "Old wooden planks pathway",
+      "Path in autumn leaves",
+      "Pathway by the edge of a lake.",
+      "A gravel path leading to a door.",
+      "Staircase leading up",
+      "Path through autumn leaves",
+      "Mossy stone pathway.",
+      "Concrete pathway with colorful mosaics.",
+      "Pathway lined with ancient trees",
+      "Grassy pathway with wildflowers",
+      "Sunlight filtering through a forest pathway.",
+      "A forest path with fallen leaves."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Peaceful beach path, DSLR",
+      "A serene forest path, DSLR",
+      "A serene forest path, DSLR clarity",
+      "Peaceful riverbank path, DSLR",
+      "A winding path in a serene forest, DSLR",
+      "Path by tranquil pond, DSLR",
+      "A winding path in a serene forest, DSLR.",
+      "Sunlit meadow path, DSLR",
+      "A quiet forest path, DSLR clarity",
+      "Sunlit meadow path, DSLR clarity.",
+      "Grassy hillside path, DSLR",
+      "Rustic wooden path in woods, DSLR",
+      "Vintage camera captures serene path",
+      "Serene lake beside stone path, DSLR",
+      "Grass path in a meadow, serene",
+      "Lush green trail with dappled light",
+      "Sunlit forest trail with dappled light",
+      "Rustic stone walkway at sunset",
+      "Cobbled path in a serene garden",
+      "Path through autumn leaves forest"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

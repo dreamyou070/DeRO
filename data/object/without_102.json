@@ -1,0 +1,53 @@
+[
+  {
+    "id": 349,
+    "prompt": "a bakery without bread",
+    "base_entity_biased_prompts": [
+      "Fresh loaf of bread",
+      "loaf of rye bread",
+      "Whole wheat bread loaf",
+      "Rye bread loaf",
+      "Whole grain bread loaf",
+      "Artisan bread loaf",
+      "Sourdough bread loaf",
+      "Multigrain bread loaf",
+      "Freshly baked bread loaves",
+      "Freshly baked loaf",
+      "Multi-grain sandwich bread",
+      "homemade bread loaves",
+      "French bread with garlic",
+      "Fresh loaf of sourdough",
+      "French bread baguette",
+      "Hearty whole wheat loaf",
+      "Rye bread with seeds",
+      "Whole wheat bread, toasted.",
+      "Whole grain toast",
+      "Pumpkin bread loaf"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Metallic laptop, sleek bottom, ultra-realistic DSLR",
+      "Smooth laptop, metallic look, ultra-realistic DSLR",
+      "Metallic laptop, ultra-realistic DSLR",
+      "Smooth metallic laptop, ultra-realistic DSLR, sleek look",
+      "Metallic laptop, smooth surface, DSLR realism.",
+      "Smooth metallic laptop, realistic texture, DSLR",
+      "Smooth laptop, realistic metallic, DSLR.",
+      "Ultra-smooth laptop, metallic texture, DSLR realism",
+      "Smooth laptop, metallic texture, DSLR realism",
+      "Metallic laptop base, ultra-realistic DSLR.",
+      "Smooth laptop body, metallic texture, DSLR.",
+      "Laptop with smooth metallic body, DSLR precision.",
+      "Smooth laptop design, metallic texture, DSLR detail.",
+      "Metallic laptop, smooth design, DSLR.",
+      "Smooth laptop, metallic texture, DSLR focus.",
+      "Smooth laptop, metallic finish, DSLR quality.",
+      "Metallic laptop, sleek, DSLR shot.",
+      "Metallic laptop, ultra-realistic texture.",
+      "Dark blue laptop, smooth design, realistic DSLR.",
+      "Glossy metallic laptop, ultra-realistic."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "a room without any furniture",
+    "base_entity_biased_prompts": [
+      "Silky red fabric",
+      "Embroidered silk handkerchief",
+      "Cotton apron with pockets",
+      "Twill weave fabric",
+      "A linen tablecloth on a table.",
+      "Silk fabric drape",
+      "Polyester suit fabric",
+      "Cotton canvas bag",
+      "Embroidered cotton tunic",
+      "Velvet fabric texture",
+      "Checkered cotton dress",
+      "Cotton pants rolled up",
+      "White linen tablecloth",
+      "A linen napkin on a table.",
+      "White linen shirt",
+      "Silk kimono robe",
+      "Yellow cotton vest",
+      "Plaid flannel shirt",
+      "White cotton shirt",
+      "Soft cotton shirt"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Ultra-realistic DSLR interior shot.",
+      "Ultra-realistic DSLR interior.",
+      "White architecture, ultra-realistic DSLR.",
+      "Matte white walls, floating bench, indoor plants.",
+      "White niches, indoor plant, clarity.",
+      "Ultra-realistic interior, modern,",
+      "White architecture, minimalist living room.",
+      "Modern living room, recessed niches, white walls.",
+      "Minimalist living room, sharp lines, white niches.",
+      "Clean composition, ultra-realistic interior.",
+      "Ultra-realistic living room,",
+      "Minimalist plant, white interior, serene.",
+      "Natural light, shadows, white architectural details.",
+      "Soft shadows, white architecture, minimalist feel.",
+      "Smooth matte white walls, recessed niches, floating bench.",
+      "Smooth matte white walls, recessed niches.",
+      "Large windows, natural light, minimalist indoor.",
+      "Minimalist interior, sharp lines, modern.",
+      "Smooth matte white walls,",
+      "Smooth walls, subtle texture details."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

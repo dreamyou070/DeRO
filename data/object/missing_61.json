@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "prompt": "A room missing a windows",
+    "base_entity_biased_prompts": [
+      "Windows in a modern home.",
+      "Windows in a modern building.",
+      "Windows with modern frames.",
+      "Modern glass window",
+      "Modern office building windows",
+      "Modern window with views",
+      "Windows in a cozy room.",
+      "Windows with views of mountains",
+      "Windows with stained glass.",
+      "Windows with cracked panes",
+      "Windows with screens for summer.",
+      "Window framedView mountains",
+      "Windows in rainstorm view",
+      "Modern sliding glass windows.",
+      "Sliding glass door window",
+      "Window with view of mountains.",
+      "Windows with rain streaks",
+      "Windows in cozy reading nook",
+      "Windows with views of mountains in distance.",
+      "Windows with view of a city skyline."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cozy modern Scandinavian bedroom, ultra-realistic.",
+      "HDR, photorealistic bedroom interior.",
+      "Photorealistic bedroom shot",
+      "Sage green walls, warm lighting, beige accents",
+      "Photorealistic, luxury interior shot",
+      "Warm ambient lighting, cozy bedroom",
+      "Neatly arranged bedroom, warm lighting, neutral tones.",
+      "Premium apartment interior, architectural photography.",
+      "Photorealistic, magazine-quality interior shot.",
+      "Magazine-quality interior image",
+      "Photorealistic, luxury home decor.",
+      "Magazine-quality interior photograph",
+      "Magazine-quality interior shot, realistic textures.",
+      "Soft neutral color palette, warmth",
+      "Magazine-quality interior shot.",
+      "Warm beige, cream, sage tones",
+      "Minimalist bedroom, premium design",
+      "Hanging greenery, cozy Scandinavian vibe.",
+      "Elegant olive-green bedding, softly lit.",
+      "Soft shadows, premium design."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

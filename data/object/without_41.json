@@ -1,0 +1,53 @@
+[
+  {
+    "id": 288,
+    "prompt": "a road without cars",
+    "base_entity_biased_prompts": [
+      "Motorcycle and car",
+      "Miniature toy cars",
+      "City cars in traffic",
+      "Cars parked in lot",
+      "Car with colorful paint job",
+      "Car with custom wheels",
+      "Miniature toy car set",
+      "Compact car in garage",
+      "Car with neon lights",
+      "Vintage car at show",
+      "Purple sports car desert",
+      "Compact car in rain",
+      "Racing red sports car",
+      "White car with custom paint",
+      "Purple sports car night",
+      "Grey minivan family",
+      "Gray sedan rain",
+      "Coupe driving through city",
+      "Vintage car in garage",
+      "Red sports car racing"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Lane markings clear, open scenery, DSLR.",
+      "Road with vivid lane markings, expansive view",
+      "Sunlit road, realistic lane markings, blue sky.",
+      "Road with realistic lane markings, desert landscape.",
+      "Curvy road, visible lane markings, rolling hills",
+      "City street with realistic lane markings, open buildings.",
+      "Gravel road, realistic markings, hills",
+      "Road with sharp lane lines, open sky.",
+      "Lane markings visible, expansive landscape.",
+      "Mountain road, realistic lanes, dramatic view.",
+      "Country lane with realistic markings, rolling hills.",
+      "Paved road, realistic markings, blue sky.",
+      "Road with lane markings, rolling hills in background.",
+      "Road in countryside, lane markings prominent.",
+      "Urban street, lanes detailed, cityscape background.",
+      "Detailed lanes, open countryside, blue sky.",
+      "Wide road, lanes visible, rolling hills nearby.",
+      "City road with precise lane markings, buildings.",
+      "City road with crisp lane marks, buildings beyond.",
+      "Sunset road with visible lane markings, rolling hills."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

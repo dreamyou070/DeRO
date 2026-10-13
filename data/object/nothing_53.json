@@ -1,0 +1,53 @@
+[
+  {
+    "id": 220,
+    "prompt": "a cake with nothing decorating it",
+    "base_entity_biased_prompts": [
+      "it logo on shirt",
+      "a small it sign",
+      "it's a book",
+      "an it warning sign",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "it's a ball",
+      "a small table it",
+      "it's a keyboard",
+      "it's a plate",
+      "a small key",
+      "a rainy day",
+      "a green leaf",
+      "it's a rainy day",
+      "a small door",
+      "it's a historical building",
+      "a glass of wine on a table"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic cake with smooth frosting, DSLR.",
+      "Ultra-realistic cake, DSLR.",
+      "Layered cake, smooth frosting, DSLR quality.",
+      "Smooth frosting cake, DSLR quality.",
+      "Layered cake, smooth frosting, DSLR close-up.",
+      "Vanilla cake, smooth frosting, DSLR quality",
+      "Frosted cake, ultra-realistic close-up.",
+      "A chocolate cake with smooth frosting, DSLR.",
+      "Creamy frosting on cake, ultra-realistic.",
+      "Frosting swirls, ultra-realistic photograph.",
+      "Fruit cake, smooth cream frosting, DSLR.",
+      "Ultra-realistic cake with sugarpaste.",
+      "Layered cake, realistic frosting details",
+      "Smooth chocolate cake, ultra-realistic texture.",
+      "Swiss roll cake, smooth vanilla frosting, ultra-realistic look",
+      "Frosted birthday cake, shiny surface, ultra-realistic.",
+      "Artisanal fruitcake, frosting texture hyper-realistic.",
+      "Lemon chiffon, smooth lemon frosting, DSLR quality.",
+      "Smooth strawberry cake, cream frosting.",
+      "Caramel cake, glossy golden frosting"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

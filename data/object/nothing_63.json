@@ -1,0 +1,53 @@
+[
+  {
+    "id": 230,
+    "prompt": "a park bench with nothing beside it",
+    "base_entity_biased_prompts": [
+      "it's a book",
+      "it's a phone",
+      "it's a ring",
+      "it's a star",
+      "it's a key",
+      "it's a car",
+      "a tiny dot",
+      "a small key",
+      "a glass of water",
+      "a silver ring",
+      "a white cloud",
+      "it's a fluffy cloud",
+      "a single shoe",
+      "it's a book open to page",
+      "a green leaf",
+      "a gray hat",
+      "it's a glass of wine",
+      "it's a vintage car",
+      "a small boat in mist",
+      "it's an apple pie"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A park bench under clear blue sky, DSLR.",
+      "Park bench with hills, natural light.",
+      "Natural light illuminates a park bench, surrounded",
+      "Park bench with scenic backdrop",
+      "Bench in park with natural, soft lighting.",
+      "Natural light, park bench beside forest",
+      "Park bench with hills, natural daylight",
+      "Sunlight dappled park bench scene",
+      "Mountain view, park bench, natural light.",
+      "Bench in open field, natural hues",
+      "Trees, bench, bright natural light.",
+      "Bench in woods, natural outdoor light",
+      "Sunlight through trees, bench in focus",
+      "Park bench by lush green trees sunlight",
+      "Park bench with sunset glow.",
+      "Park bench, lush greenery nearby.",
+      "Bench in a forest clearing with dappled light",
+      "Bench by sparkling stream, natural light.",
+      "A park bench with golden sunlight.",
+      "A park bench under trees, sunlight filtering through."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

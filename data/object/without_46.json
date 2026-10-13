@@ -1,0 +1,53 @@
+[
+  {
+    "id": 293,
+    "prompt": "a notebook without lines",
+    "base_entity_biased_prompts": [
+      "Lines of varying thicknesses",
+      "Blue wave lines",
+      "Network of thin lines",
+      "Pencil sketch lines",
+      "Red horizontal lines",
+      "Interconnected lines drawing",
+      "Violet parallel lines",
+      "Orange striped lines layout.",
+      "Mustard yellow brick wall lines",
+      "White vertical lines wall.",
+      "Beige woven lines weave",
+      "Mint diagonal lines abstract.",
+      "Brown parallel lines arrangement",
+      "White parallel lines layout.",
+      "Gray vertical lines in city",
+      "Blue dotted lines cityscape",
+      "Orange parallel lines arrangement.",
+      "White parallel lines on wall",
+      "Red diagonal lines on wall",
+      "Gray brick wall with lines."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Pages of a clean notebook, realistic texture, DSLR",
+      "Crisp notebook page, visible texture, ultra-realistic DSLR",
+      "Notebook, pages clean, realistic texture, DSLR",
+      "Notebook pages, visible, realistic paper texture, DSLR.",
+      "A clean notebook page, DSLR, realistic texture",
+      "Pages in a notebook, DSLR, ultra-realistic",
+      "Clean notebook, realistic paper, DSLR clarity",
+      "A notebook, visible clean pages, paper texture, DSLR",
+      "Clean notebook page, ultra-realistic texture, DSLR.",
+      "Realistic paper, clean notebook, DSLR shot",
+      "Smooth notebook page, DSLR, realistic texture.",
+      "Lined notebook, clean, realistic texture, DSLR",
+      "Clean notebook, visible pages, realistic paper, DSLR",
+      "A clean notebook page, realistic texture, DSLR.",
+      "A clean notebook page, DSLR clarity",
+      "A clean notebook page, DSLR, paper texture.",
+      "Realistic paper, clean page, DSLR.",
+      "Notebook page, DSLR clarity.",
+      "A clean notebook page, DSLR clarity.",
+      "Clean notebook page, DSLR quality."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

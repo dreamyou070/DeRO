@@ -1,0 +1,53 @@
+[
+  {
+    "id": 189,
+    "prompt": "a garage with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside historic museum",
+      "Inside bustling restaurant",
+      "Inside grand hall",
+      "Inside a bustling restaurant",
+      "Inside fancy restaurant",
+      "Inside spacious kitchen",
+      "Inside a bustling city",
+      "Inside old library",
+      "Inside bustling mall",
+      "Inside a bustling mall",
+      "Inside grand museum hall",
+      "Inside a fancy restaurant",
+      "Inside a spacious museum",
+      "Inside a bustling kitchen",
+      "Inside a grand hall",
+      "Inside a historic church",
+      "Inside an old library",
+      "Inside busy train station",
+      "Inside a cozy living room",
+      "Inside a modern office"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A spacious garage, DSLR, realistic details",
+      "Spacious garage, realistic interior, DSLR",
+      "Spacious garage, DSLR, realistic details",
+      "A spacious garage, ultra-realistic, DSLR",
+      "A large garage, DSLR, realistic details",
+      "A large garage, DSLR, realistic",
+      "Garage with workbenches, realistic details, DSLR",
+      "Spacious garage, workshop vibe, DSLR",
+      "Spacious garage, DSLR, clear view",
+      "Spacious garage, tidy, ultra-realistic",
+      "Large garage, work area, toolboxes, natural light, DSLR photo.",
+      "Wide garage, modern design, tools, ultra-realistic.",
+      "Garage, photography gear, backdrop",
+      "Modern garage, minimalist interior, space.",
+      "Large garage, sleek walls, workshop area.",
+      "Spacious garage, racing cars, custom detailing",
+      "Garage with racing cars, detailed setup.",
+      "Spacious garage, hardwood floor, bicycles.",
+      "Wide garage, sports equipment, space.",
+      "Wide garage, polished floor, art supplies."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

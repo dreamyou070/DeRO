@@ -1,0 +1,53 @@
+[
+  {
+    "id": 282,
+    "prompt": "a garage without tools",
+    "base_entity_biased_prompts": [
+      "Construction site tools",
+      "Workbench with tools",
+      "Surgical scalpel and tools",
+      "Hammer and screwdriver",
+      "Drill and screws",
+      "Wrench and bolts",
+      "Screwdriver and screws",
+      "Blacksmith's forge tools",
+      "Hammer and nails in toolbox",
+      "Safety goggles and tools",
+      "Hammer and nails in kit",
+      "Bicycle repair stand tools",
+      "Hammer and nails",
+      "Sculptor's carving tool",
+      "Old carpenter's toolbox",
+      "Electric drill drilling",
+      "Screwdriver in hand",
+      "Screwdriver in socket holder",
+      "Chisel carving stone",
+      "Safety goggles and screwdriver set"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Modern garage, space efficient, DSLR precision",
+      "Spacious garage, neatly arranged, DSLR shot",
+      "Wide garage, tidy storage, DSLR capture.",
+      "Wide garage, DSLR, organized storage.",
+      "Garage, ample space, DSLR, efficient",
+      "Spacious garage, organized parts, DSLR focus.",
+      "A large garage, tidy shelves, DSLR clarity",
+      "Garage, organized space, realistic details.",
+      "Tidy garage, floor-to-ceiling shelving, ultra-realistic detail.",
+      "Garage with ample space, neatly stored wheels.",
+      "Spacious garage, parts neatly stored.",
+      "Wide garage, parts organized, sleek.",
+      "Spacious garage, sleek cars, organized shelves.",
+      "Large garage, bicycles悬挂整齐.",
+      "Garage, wide doors, organized space.",
+      "Spacious garage, car parts displayed.",
+      "Spacious garage, sports gear stored.",
+      "Spacious garage, automotive parts displayed.",
+      "Spacious garage, sports equipment displayed.",
+      "Spacious garage, toolboxes on walls."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

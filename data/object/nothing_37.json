@@ -1,0 +1,53 @@
+[
+  {
+    "id": 204,
+    "prompt": "a door with nothing attached to it",
+    "base_entity_biased_prompts": [
+      "a small it sign",
+      "it's a book",
+      "it's a phone",
+      "it's a star",
+      "it's a car",
+      "it's a keyboard",
+      "it's a cup",
+      "a black hole",
+      "a singular apple",
+      "a small key",
+      "a silver ring",
+      "a shiny car",
+      "a white cloud",
+      "a green leaf",
+      "a small table",
+      "it's a green leaf",
+      "it's a coffee cup",
+      "it’s an old clock ticking",
+      "a glass of water on a tray",
+      "it's a rainy day city"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Wood door, clean, flat, ultra-realistic texture, DSLR",
+      "A clean wooden door, realistic texture, DSLR",
+      "Door, flat, clean wood, realistic texture, DSLR.",
+      "Door, flat wood, realistic texture, DSLR.",
+      "Door, wood grain, clean, ultra-realistic, DSLR",
+      "Door, realistic wood texture, DSLR.",
+      "Door, realistic wood, smooth, DSLR.",
+      "Wood door, flat surface, realistic, DSLR.",
+      "Flat wooden door, DSLR, realistic.",
+      "A clean wooden door, DSLR, realistic.",
+      "A door, wood texture, clean, DSLR",
+      "Wood door, clean, flat, ultra-realistic photo.",
+      "A pristine door, wood texture, DSLR",
+      "A door, wood texture, clean, flat, DSLR.",
+      "Smooth wooden door, texture detail, DSLR.",
+      "Door, clean wood, ultra-realistic photo.",
+      "Door, smooth surface, ultra-realistic wood.",
+      "Wood door, clean, ultra-realistic texture.",
+      "Wood door, smooth, ultra-realistic.",
+      "Olive wood door, ultra-realistic texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

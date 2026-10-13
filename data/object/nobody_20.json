@@ -1,0 +1,53 @@
+[
+  {
+    "id": 416,
+    "prompt": "nobody sitting at the dining table",
+    "base_entity_biased_prompts": [
+      "A table set for a meal.",
+      "Table with musical instruments.",
+      "A table set for a dinner party.",
+      "A table with musical instruments.",
+      "A table set for dinner.",
+      "A table with a glass top.",
+      "A table with a plate and silverware.",
+      "Table with musical instruments and sheet music.",
+      "A table with a map spread out.",
+      "A table set for a formal dinner.",
+      "A table with a checkerboard pattern.",
+      "A table with glass legs.",
+      "A table with a stack of papers.",
+      "A large rectangular banquet table.",
+      "A table with a piano and sheet music.",
+      "A table with a framed photo.",
+      "A table with legs made of metal.",
+      "A table covered in a colorful tablecloth.",
+      "A brown table with checkered cloth.",
+      "A table with a laptop and notebooks."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A dining table with plates, chairs, DSLR ultra-realism",
+      "A dining table with plates, chairs, DSLR realism",
+      "A dining table with plates, chairs lined up, ultra-sharp DSLR.",
+      "Table with plates, chairs, DSLR realism.",
+      "Plates, chairs, table, realistic DSLR capture.",
+      "Plates, chairs, dining table, ultra-realistic photo.",
+      "A dining table with plates, chairs, DSLR sharp",
+      "A dining table with plates, chairs aligned, DSLR.",
+      "Dining table, plates, chairs aligned, DSLR.",
+      "A dining table with plates, chairs, DSLR clarity.",
+      "Plates and chairs, perfectly arranged, DSLR detail",
+      "Table, plates, chairs, DSLR hyper-realistic",
+      "Table with plates, chairs, DSLR precision",
+      "Dining scene, plates, chairs, DSLR precision.",
+      "Neatly arranged table, plates, DSLR view",
+      "Dining scene, plates, chairs, DSLR",
+      "Dining scene, plates, chairs perfect, DSLR quality.",
+      "Dining table, chairs and plates, ultra-realistic.",
+      "Dining table, plates, chairs, ultra-realistic.",
+      "Plates, chairs, neatly arranged, realistic shot."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

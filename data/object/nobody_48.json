@@ -1,0 +1,53 @@
+[
+  {
+    "id": 444,
+    "prompt": "nobody walking through the tunnel",
+    "base_entity_biased_prompts": [
+      "Deep underground tunnel",
+      "Underground railway tunnel",
+      "Underground cave tunnel",
+      "Tunnel with train inside",
+      "Tunnel with railway tracks",
+      "Tunnel leading to cave",
+      "Railway tunnel with tracks",
+      "Underground tunnel with water",
+      "Tunnel with running stream.",
+      "Tunnel with stalactites",
+      "Deep underwater tunnel",
+      "Underground pedestrian tunnel",
+      "Tunnel leading to forest",
+      "Long train tunnel夜景",
+      "Tunnel with running water",
+      "Tunnel inside a cliff",
+      "Tunnel with water flowing",
+      "Tunnel leading to a lake",
+      "Tunnel with mist inside",
+      "Dark underground tunnel入口"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Long, unbroken tunnel, clean walls, DSLR, cinematic composition",
+      "A long tunnel, clean walls, straight perspective, DSLR, cinematic.",
+      "Long tunnel, pristine walls, DSLR composition.",
+      "Long tunnel, pristine, DSLR realism.",
+      "Wide tunnel, clean, DSLR realism, cinematic",
+      "Long tunnel, clean walls, DSLR, realism.",
+      "DSLR, tunnel, pristine walls, deep perspective.",
+      "Long tunnel, walls shining, DSLR realism.",
+      "Ultra-realistic DSLR, tunnel, smooth walls.",
+      "Long tunnel, clean walls, DSLR, vibrant scene.",
+      "DSLR shot, tunnel with clear lines, cinematic.",
+      "Long tunnel, clean walls, cinematic perspective.",
+      "Tunnel with clean walls, clear perspective, DSLR.",
+      "Ultra-realistic tunnel, cinematic framing.",
+      "Ultra-realistic tunnel, clean walls, linear perspective.",
+      "Long, clean tunnel walls, DSLR clarity.",
+      "Long, clean tunnel, cinematic focus.",
+      "Long, immaculate tunnel, cinematic perspective.",
+      "Cinematic tunnel, clean, realistic shot.",
+      "Long tunnel, clean walls, linear perspective."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 457,
+    "prompt": "nobody standing near the staircase",
+    "base_entity_biased_prompts": [
+      "Staircase with banisters",
+      "Staircase with banister",
+      "Staircase with railings",
+      "Staircase with carpet",
+      "Staircase with bench",
+      "Staircase in a Victorian house.",
+      "Staircase in castle",
+      "Staircase in library",
+      "Staircase in a historic building",
+      "Staircase with flowers",
+      "Staircase with decorative railings",
+      "Staircase leading to roof",
+      "Staircase with carpeted treads",
+      "Concrete staircase with steps",
+      "Staircase with wrought iron",
+      "Staircase with colorful railings.",
+      "Staircase with colorful carpet.",
+      "Outdoor staircase with railings.",
+      "Staircase with wrought iron railings.",
+      "Wooden staircase with railing and banister."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Clean staircase with detailed design, open space, DSLR.",
+      "Staircase, architectural beauty, open area, DSLR detail.",
+      "Modern staircase, open surroundings, ultra-realistic.",
+      "Staircase details, clean, open space, realism.",
+      "Staircase with elegant design, open, ultra-realistic.",
+      "Staircase in high-resolution, open setting.",
+      "Staircase with detailed clarity, open area.",
+      "Architectural staircase, clear, open surroundings.",
+      "Staircase in natural light, detailed.",
+      "Clean architectural staircase, expansive surroundings.",
+      "Architectural staircase, clean, open surroundings.",
+      "Staircase with clean marble, detailed shot.",
+      "Clean architectural staircase, open expanse.",
+      "Staircase, clear architecture, open feel.",
+      "Detailed stairs in bright, open environment.",
+      "Modern staircase with sharp details in an open space.",
+      "Staircase with clean lines and light.",
+      "Modern staircase with clean details in an open hall.",
+      "Wood and glass staircase, clean architecture, open space.",
+      "Stairs with clear glass rail, vast surroundings."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

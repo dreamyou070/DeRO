@@ -1,0 +1,53 @@
+[
+  {
+    "id": 341,
+    "prompt": "a bookshelf without books",
+    "base_entity_biased_prompts": [
+      "Books in various languages.",
+      "Collection of illustrated books.",
+      "Books with colorful covers.",
+      "Books with colorful illustrations.",
+      "Children's books with illustrations.",
+      "Books about history",
+      "Books with leather bindings.",
+      "Children's books with colorful illustrations.",
+      "Hardcover novel on shelf",
+      "A bookshelf with various genres.",
+      "Book with colorful illustrations.",
+      "An open book with pages",
+      "A book with colorful illustrations.",
+      "A stack of old books.",
+      "Bookshelf filled with various books.",
+      "Stack of books with bookmarks inside.",
+      "Book with weathered pages.",
+      "Open book with colorful pages.",
+      "Textbook with highlighted notes.",
+      "A book with dog-eared pages."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Stadium with seats, grand scale, ultra-realistic DSLR",
+      "Stadium, organized seating, large architecture, DSLR",
+      "Stadium seats, grand structure, DSLR realism",
+      "Organized stadium seating, grand architecture, DSLR",
+      "Stadium, organized seating, large architecture, DSLR.",
+      "Stadium, detailed architecture, ultra-realistic photo",
+      "Seats in stadium, massive building, DSLR quality.",
+      "A grand stadium, DSLR clarity",
+      "Stadium façade, organized seating, DSLR",
+      "Stadium, grandstands, realistic, DSLR.",
+      "Architectural stadium, seats visible, ultra-realistic.",
+      "Stadium entrance, expansive, DSLR quality",
+      "Stadium seats, large-scale, ultra-realistic.",
+      "Stadium, organized seating, large scale, ultra-realistic.",
+      "Stadium seats tiered, architecture imposing, ultra-realistic",
+      "Stadium exterior, large scale, realistic clarity.",
+      "Stadium with ordered rows, massive scale, sharp focus.",
+      "Crowded stadium, detailed seats, vast architecture.",
+      "Stadium grandstand, architectural details, realistic focus.",
+      "A grand stadium, organized seating, detailed architecture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 351,
+    "prompt": "a keyboard without keys",
+    "base_entity_biased_prompts": [
+      "A set of colorful keys.",
+      "A bunch of colorful keys.",
+      "Key in a pile of keys.",
+      "Keys inside a toolbox.",
+      "A set of keys in someone's hand.",
+      "Keys in a modern key holder.",
+      "A bunch of old keys.",
+      "Keys in a pocket.",
+      "A set of metal keys.",
+      "A keychain with various keys.",
+      "Keys with colorful plastic covers.",
+      "Keys in a lock pick kit.",
+      "A set of keys arranged neatly.",
+      "Key and set of tools together.",
+      "Keys hanging from a hook.",
+      "A keychain with various keys attached.",
+      "A bunch of keys hanging down.",
+      "Keychain with various shaped keys.",
+      "Keychain with keys of different shapes.",
+      "A key with a fingerprint on it."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Dining room, ornate light, realistic furniture, DSLR.",
+      "Dining area, decorative lights, realistic setting, DSLR.",
+      "A dining room with chandelier, realistic setup, DSLR.",
+      "Dining set, ambient lighting, realistic detail, DSLR.",
+      "Dining area, pendant light, realistic decor, DSLR.",
+      "Chandelier dining room, realistic furniture, DSLR.",
+      "Dining room, realistic setup, elegant lighting.",
+      "Dining room, realistic setup, soft lighting.",
+      "Dining area, soft lights, DSLR",
+      "Dining room, sconces, DSLR quality.",
+      "Dining space, stylish light, realistic furniture.",
+      "Dining room, realistic setup, chandelier detail.",
+      "Dining area with sconces, realistic lighting.",
+      "A dining room with chandelier, realism",
+      "Elegant dining, realistic lighting.",
+      "A dining room with chandelier, realism.",
+      "Dining set, realistic shadows.",
+      "Elegant dining room, soft lighting",
+      "Dining table with chairs, detailed lighting.",
+      "Table with chairs, DSLR clarity."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

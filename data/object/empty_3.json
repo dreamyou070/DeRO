@@ -1,0 +1,33 @@
+[
+  {
+    "id": 479,
+    "prompt": "an empty train station",
+    "base_entity_biased_prompts": [
+      "a crowded train station filled with passengers",
+      "a busy train station with many people waiting",
+      "a train platform full of commuters",
+      "a crowded railway station with arriving passengers",
+      "a train station packed with travelers and luggage",
+      "a large train station with people walking",
+      "a train platform with passengers waiting for trains",
+      "a metropolitan train station crowded with commuters",
+      "a railway station with many travelers and trains",
+      "a train station with people standing on the platform"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty train station with no people",
+      "a vacant train platform with no passengers present",
+      "an empty railway station with clearly visible platforms",
+      "a deserted train station with no travelers or trains",
+      "an empty train station showing open platform space",
+      "a quiet train station with no people waiting",
+      "a completely vacant train platform with visible tracks",
+      "an empty railway station with no crowd or movement",
+      "a clean empty train station with visible benches and tracks",
+      "an empty train station with no passengers or luggage"
+    ],
+    "class": "empty",
+    "class_index": 3,
+    "filename": "empty_3"
+  }
+]

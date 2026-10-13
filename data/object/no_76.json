@@ -1,0 +1,53 @@
+[
+  {
+    "id": 138,
+    "prompt": "a classroom with no desks",
+    "base_entity_biased_prompts": [
+      "Desks in a studio apartment.",
+      "A stylish office desk setup.",
+      "A desk in an office.",
+      "A desk in a home office setup.",
+      "Desk with colorful organizers",
+      "A desk arranged for meetings.",
+      "Desk with stacked files and folders.",
+      "A desk with a desktop computer.",
+      "A desk covered in gadgets.",
+      "A desk with a keyboard.",
+      "A desk with a computer and keyboard.",
+      "A cluttered office desk.",
+      "A large desk for multiple computers.",
+      "Desk with framed photos and clocks",
+      "A desk with art supplies.",
+      "A desk with a desk organizer.",
+      "A desk with a bookshelf nearby.",
+      "A desk with a desktop calendar.",
+      "A desk with a calendar.",
+      "A desk with a clock and keyboard."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A classroom, desks aligned, books stacked, DSLR clarity",
+      "Aligned desks, chalkboard, textbooks, DSLR, ultra-realistic",
+      "Aligned desks, whiteboards, textbooks, DSLR realism",
+      "Aligned desks, chalkboard, textbooks, DSLR, realistic",
+      "Classroom scene, aligned desks, detailed view",
+      "Textbooks, aligned desks, whiteboard, realistic shot",
+      "Charts, aligned desks, realistic classroom photo.",
+      "Aligned desks, chalkboard, textbooks, DSLR",
+      "Textbooks, aligned chairs, pencils, DSLR, ultra-real",
+      "Aligned desks, classroom scene, maps, books",
+      "Aligned desks, chalkboard, textbooks, DSLR sharp focus",
+      "Whiteboard, aligned desks, textbooks, DSLR.",
+      "Student notebooks, aligned desks, ultra-realistic.",
+      "Aligned desks, whiteboards, books, DSLR clarity",
+      "A classroom with aligned desks, chalkboard, and textbooks.",
+      "Desks in rows, textbooks整齐摆放,超写实DSLR",
+      "Classroom shelves, textbooks, aligned desks.",
+      "Modern classroom, desks neatly arranged.",
+      "Classroom, desks neatly aligned.",
+      "Desks in rows, books整齐摆放"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

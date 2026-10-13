@@ -1,0 +1,53 @@
+[
+  {
+    "id": 154,
+    "prompt": "a train station with no trains",
+    "base_entity_biased_prompts": [
+      "Train wheels on rails",
+      "Trains crossing paths",
+      "Steam locomotive on rails",
+      "Trains passing each other on tracks.",
+      "Train with open freight cars.",
+      "Electric train on tracks",
+      "Train engine pulling cars",
+      "Passenger train with scenic views.",
+      "Train passing through city",
+      "Train with steam rising",
+      "Train traveling through mountains.",
+      "Train with colorful advertising",
+      "Express train through the countryside.",
+      "Freight train with boxcars.",
+      "Train with colorful advertisements",
+      "Steam locomotive on tracks",
+      "Passenger train in urban area.",
+      "Train with colorful advertising on side.",
+      "Electric train in cityscape.",
+      "A train with colorful advertisements."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Track view, train station, ultra-realistic shot",
+      "A busy train station, DSLR, ultra-realistic",
+      "Station canopy, tracks, ultra-realistic photography",
+      "Train station, platform tracks, hyper-realistic.",
+      "A busy train station, platform details, DSLR",
+      "Train station platforms, detailed realism.",
+      "Train station, waiting area, ultra-realistic.",
+      "A bustling train station, ultra-realistic",
+      "Train station concourse, ultra-realistic clarity.",
+      "Train arrivals, hyper-realistic closeup",
+      "A busy train station, ultra-realistic",
+      "A bustling train station, platforms detailed, ultra-realistic.",
+      "A busy train station platform, ultra-realistic.",
+      "Realistic train station interior",
+      "A busy train station, ultra-realistic.",
+      "Realistic platform seats, train station",
+      "A bustling train station, platforms, and tracks in sharp detail.",
+      "Detailed train station interior",
+      "Realistic luggage on platforms.",
+      "Train station café in background."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

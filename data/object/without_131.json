@@ -1,0 +1,53 @@
+[
+  {
+    "id": 378,
+    "prompt": "a snowy forest without animals",
+    "base_entity_biased_prompts": [
+      "Puppies in grass",
+      "Dogs playing in the snow.",
+      "Camels in desert sands.",
+      "Camels in desert",
+      "Dogs playing beach",
+      "Sheep grazing on hills.",
+      "Sheep on hillside",
+      "Horses grazing field",
+      "Kangaroo with joey",
+      "A group of elephants in a herd.",
+      "Otters swim and play in water.",
+      "A group of elephants bathing.",
+      "A playful puppy in a field.",
+      "A friendly dog wagging",
+      "A majestic elephant in the wild.",
+      "A herd of elephants walking through water.",
+      "A fluffy guinea pig in hands.",
+      "A herd of zebras in Africa.",
+      "A herd of zebras in the savanna.",
+      "A gentle deer grazing"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Snowy forest, dense trees, peaceful winter, DSLR, ultra-realistic",
+      "Snowy forest, dense trees, serene winter, DSLR, ultra-realistic",
+      "Snowy forest, dense trees, peaceful winter, DSLR realism",
+      "Snowy forest, dense trees, peaceful winter, DSLR",
+      "Snowy forest, dense trees, serene winter, DSLR",
+      "Snowy forest, dense trees, calm winter, DSLR",
+      "Snowy trees, dense forest, peaceful winter, DSLR.",
+      "Snowy forest, ultra-realistic winter photo",
+      "Forest under snow, dense trees, tranquil winter, DSLR detail",
+      "Dense snow forest, tranquil winter, DSLR detail",
+      "Snowy trees in peaceful winter forest, DSLR.",
+      "Snowy woods, dense trees, peaceful, DSLR",
+      "Snowy forest, dense trees, calm winter, DSLR clarity",
+      "Snowy trees, serene winter, DSLR.",
+      "Snowy forest, ultra-realistic shot.",
+      "Forest in winter, ultra-realistic photo.",
+      "A dense snowy forest, ultra-realistic.",
+      "Winter forest, ultra-realistic clarity.",
+      "Snowy woodland, calm and pristine.",
+      "Snow-covered forest floor glistens softly."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

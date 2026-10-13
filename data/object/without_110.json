@@ -1,0 +1,53 @@
+[
+  {
+    "id": 357,
+    "prompt": "a tree without leaves",
+    "base_entity_biased_prompts": [
+      "Leaves of all colors",
+      "Leaves of various shapes",
+      "Leaves in breeze",
+      "Leaves on a tree",
+      "Leaves under sunlight",
+      "Leaves on a branch",
+      "Leaves of all colors mixed.",
+      "Leaves of various shapes mixed",
+      "Leaves of various shapes gathered",
+      "Yellow and orange leaves",
+      "Leaves of maple tree",
+      "Leaves in early spring",
+      "Fall leaves on ground",
+      "Brown fallen leaves",
+      "Vegetable leaves closeup",
+      "Sunny day with leaves",
+      "Leaves in early morning sun",
+      "Yellow leaves on ground",
+      "Leaves on a crisp branch",
+      "Tropical leaves in rainforest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Refrigerator with neat compartments, realistic detail, DSLR.",
+      "Organized fridge, ultra-realistic, DSLR style.",
+      "Detailed fridge interior, realistic surfaces, DSLR.",
+      "Realistic fridge interior, DSLR clarity.",
+      "Detailed fridge interior, DSLR clarity.",
+      "Spacious fridge, detailed interiors, DSLR.",
+      "Fridge interior, precise DSLR capture.",
+      "A fridge with clear compartments, DSLR clarity.",
+      "Fridge compartments, ultra-realistic clarity.",
+      "Ultra-realistic fridge, clean interior.",
+      "Fridge interior with drinks, DSLR.",
+      "A fridge with clear compartments, DSLR sharp.",
+      "Fridge with meat compartments, realistic view.",
+      "High-resolution fridge, freezer compartment.",
+      "Spacious fridge with detailed parts.",
+      "A clean fridge, organized shelves, DSLR clarity.",
+      "A white fridge, organized shelves, DSLR sharp.",
+      "A sleek fridge with clear compartments.",
+      "Spacious fridge, organized by color.",
+      "Brightly lit fridge with organized food."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

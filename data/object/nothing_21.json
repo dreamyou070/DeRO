@@ -1,0 +1,53 @@
+[
+  {
+    "id": 188,
+    "prompt": "an airport runway with nothing landing",
+    "base_entity_biased_prompts": [
+      "Plane landing airport",
+      "Airplane landing strip",
+      "Plane touching down",
+      "Landing spot desert",
+      "Plane touches down",
+      "Surfer landing wave",
+      "Aircraft landing strip scene",
+      "Drogue chute landing",
+      "Boat docking shore",
+      "Diver landing pool",
+      "Landing strip with planes",
+      "Plane touching down smoothly",
+      "Boat landing on a sandy beach.",
+      "Plane touching down runway",
+      "Plane landing smoothly",
+      "Plane touching down on runway",
+      "Diver landing on a platform.",
+      "Plane touches down smoothly.",
+      "Airplane descends to airport.",
+      "Boat arrives at dock"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "An airport runway, realistic texture, DSLR",
+      "An airport runway, realistic texture, DSLR.",
+      "Ultra-realistic runway, open landscape, DSLR.",
+      "Airport runway, texture, clear DSLR shot",
+      "An airport runway, textures, open field, DSLR",
+      "DSLR runway, realistic textures, open view",
+      "DSLR view runway, realistic details",
+      "DSLR runway, realistic surface quality",
+      "Long runway shot, ultra-realistic",
+      "Runway with grass, realistic textures, clear shot",
+      "Airport runway, realistic texture, open vista.",
+      "An airport runway, realistic textures, open field.",
+      "DSLR captured runway, wide open space.",
+      "Runway edge, realistic detail, open scenery",
+      "Runway texture, realistic, open field.",
+      "A long runway with realistic textures, vast open scenery.",
+      "Detailed runway texture, late afternoon light",
+      "Runway texture, open landscape, soft lighting.",
+      "Pavement texture, runway, clouds in background.",
+      "Runway textures, trees in background."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

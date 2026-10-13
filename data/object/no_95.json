@@ -1,0 +1,53 @@
+[
+  {
+    "id": 157,
+    "prompt": "a grocery store with no shelves",
+    "base_entity_biased_prompts": [
+      "Kitchen pantry shelves",
+      "Shelves holding various containers",
+      "Shelves with tools and hardware",
+      "Shelves with framed art",
+      "Shelves with records and vinyls",
+      "Shelves with art prints",
+      "Wall-mounted shelves displayingvases.",
+      "Wooden shelves with books",
+      "Shelves holding art supplies",
+      "Shelves with framed photos",
+      "Shelves with potted plants",
+      "Shelves with art books",
+      "Shelves containing various spices",
+      "Shelves holding tools and hardware",
+      "Shelves arranged in a library.",
+      "Shelves arranged with photos",
+      "Shelves with framed photographs and art",
+      "Kitchen shelves with spices and jars.",
+      "Wall-mounted shelves in a kitchen",
+      "Wooden shelves with framed photos."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A clean, organized garage, DSLR, ultra-realistic",
+      "A clean, organized garage, DSLR, ultra-realistic.",
+      "A clean, organized garage, DSLR, realistic",
+      "A neatly organized garage, DSLR shot",
+      "A clean, organized garage, DSLR shot",
+      "A neatly organized garage, DSLR view.",
+      "Spacious garage, machinery in order, DSLR",
+      "A clean, organized garage, DSLR",
+      "High-end camera capturing garage details.",
+      "Garage shelves packed, neat, DSLR captured",
+      "Garage storage bins, ultra-realistic.",
+      "Organized automotive parts, DSLR view.",
+      "Workshop cleanliness, sharp DSLR capture.",
+      "Tidy garage, well-organized spaces.",
+      "Garage with sorted sports equipment.",
+      "Garage with a polished concrete floor.",
+      "Glossy cars, well-organized garage.",
+      "Dust-free workspace with tool collection.",
+      "Garage with bikes, tools on hooks.",
+      "Workbench with tools, garage backdrop."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

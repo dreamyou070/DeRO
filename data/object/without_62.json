@@ -1,0 +1,53 @@
+[
+  {
+    "id": 309,
+    "prompt": "a cafe without menus",
+    "base_entity_biased_prompts": [
+      "Gourmet menu options",
+      "Menu with salad choices",
+      "Menu with entree choices",
+      "Catering menu with options",
+      "Italian restaurant menu page.",
+      "Vegan menu options",
+      "Salad choices menu",
+      "Health food menu",
+      "Gourmet menu with dishes",
+      "Fine dining restaurant menu",
+      "Italian cuisine menu",
+      "Gourmet menu with plates",
+      "Elegant restaurant menu pages",
+      "Restaurant menu with pictures",
+      "Health food menu options",
+      "Salad menu with greens",
+      "Chinese restaurant menu page",
+      "Italian restaurant menu",
+      "Sushi restaurant menu page",
+      "Vegan menu with salads"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cafe interior, checkered floors, intricate wall art, DSLR",
+      "Artistic cafe, tables, artistic walls, DSLR",
+      "Café tables, ornate walls, DSLR clarity",
+      "Elegant cafe, glass top tables, textured walls, DSLR",
+      "Cafe with booths, abstract wall, natural light, DSLR",
+      "Café lights, bookshelves, ultra-realistic detail.",
+      "Cafe interior, lace wall details.",
+      "Cafe interior, metal tables, geometric wallpaper.",
+      "Bookshelves, café interior detail.",
+      "Café tables, vintage posters, realism.",
+      "Café tables, wooden chairs, floral wallpaper.",
+      "Sunlight through cafe windows.",
+      "Checkerboard floor in cafe.",
+      "Cafe counter with pastries display",
+      "Wall art above tables, leather chairs, sunlight",
+      "Cafe counter with pastries.",
+      "Café corner with lamps.",
+      "Plush seating, intricate wall art, natural light.",
+      "Floral wallpaper on walls.",
+      "Copper accents on tables."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

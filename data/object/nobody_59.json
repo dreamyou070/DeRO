@@ -1,0 +1,53 @@
+[
+  {
+    "id": 455,
+    "prompt": "nobody sitting in the garden",
+    "base_entity_biased_prompts": [
+      "Lush green garden",
+      "Herb garden with herbs",
+      "Lush tropical garden",
+      "Lush green garden oasis.",
+      "Vegetable garden with tomatoes",
+      "Herb garden with fresh herbs",
+      "Garden with neatly trimmed hedges",
+      "Colorful butterfly garden",
+      "Ferns and moss garden",
+      "Children’s playground in garden",
+      "Starry night garden",
+      "Winding garden path",
+      "Potted plants on patio",
+      "Garden path with stones",
+      "Rustic garden shed with plants",
+      "Treehouse in garden",
+      "Fragrant rose garden",
+      "Herb garden in summer",
+      "Vibrant vegetable patch",
+      "Garden gate with ivy"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A serene garden, vibrant flowers, ornamental plants, DSLR",
+      "Garden with flowers, decorative plants, peaceful ambiance, DSLR capture.",
+      "Colorful flower garden, tranquil setting, DSLR",
+      "Peaceful garden with multicolored flowers, DSLR.",
+      "Serene garden with vivid flowers, DSLR.",
+      "A serene garden with vibrant flowers, DSLR.",
+      "Peaceful garden, floral paradise, DSLR.",
+      "Peaceful garden, vivid flowers, DSLR clarity.",
+      "A serene garden, vibrant flowers, ornamental plants, DSLR clarity.",
+      "Peaceful garden, vivid flowers.",
+      "A serene garden, vibrant flowers, ornamental plants",
+      "Pristine garden, colorful flowers, tranquil",
+      "A serene garden, vibrant flowers, ornamental plants.",
+      "Pastel garden, DSLR perfection.",
+      "Sunflowers, butterfly, serene path, DSLR clarity.",
+      "Peaceful garden with tulips",
+      "Violet pansies, pink petunias, tranquil area",
+      "Orchid garden in soft focus",
+      "Orchid garden, intricate textures.",
+      "Lily-of-the-valley, serene beauty."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

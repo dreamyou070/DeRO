@@ -1,0 +1,53 @@
+[
+  {
+    "id": 272,
+    "prompt": "a forest without animals",
+    "base_entity_biased_prompts": [
+      "Dogs on leash",
+      "Birds in aviary",
+      "Dogs playing with balls",
+      "Camels in desert sand.",
+      "Puppies playing with ball",
+      "Birds in flight",
+      "Antelope herd grazing",
+      "Kangaroo with joey",
+      "Horse in field",
+      "A group of elephants bathing.",
+      "A group of giraffes walking.",
+      "A friendly dog fetching",
+      "A playful puppy in a field.",
+      "A flock of birds in flight.",
+      "A fluffy dog barking",
+      "A woolly sheep with fleece.",
+      "Deer by misty lake",
+      "Giraffe with long neck",
+      "A playful puppy jumping",
+      "A friendly dog lying on grass"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A dense forest, DSLR, peaceful",
+      "A lush forest, dense trees, tranquil, DSLR",
+      "Forest tranquility, ultra-realistic shot",
+      "Dense trees, serene forest, DSLR",
+      "Tranquil forest, DSLR, hyper-realistic",
+      "Dense forest, DSLR, ultra-realistic",
+      "Dense forest, DSLR, serene.",
+      "Dense trees, serene forest, DSLR realism",
+      "Dense trees, tranquil forest, DSLR clarity",
+      "Serene forest scene, DSLR",
+      "Peaceful forest, DSLR clarity",
+      "Dense green forest, DSLR, serene",
+      "Peaceful forest clearing, ultra-realistic DSLR",
+      "A dense forest, DSLR realism",
+      "A dense forest, ultra-realistic DSLR",
+      "Dense forest, ultra-realistic DSLR",
+      "Calm forest, ultra-realism",
+      "Peaceful forest, autumn hues, DSLR",
+      "A dense forest, ultra-realistic",
+      "A deep green forest, DSLR"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

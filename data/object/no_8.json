@@ -1,0 +1,53 @@
+[
+  {
+    "id": 70,
+    "prompt": "a city park with no trees",
+    "base_entity_biased_prompts": [
+      "Trees in misty forest",
+      "Trees with colorful lights",
+      "Trees with autumn colors",
+      "Trees in autumn colors",
+      "Trees in winter snow",
+      "Trees against blue sky",
+      "Tree roots exposed",
+      "Tree branches against sky",
+      "Leafy trees in autumn",
+      "Trees in colorful sunset",
+      "Trees in misty morning",
+      "Evergreen trees against blue sky",
+      "Cedar trees by the sea",
+      "Evergreen trees in winter",
+      "Birch trees by lakeside",
+      "Row of birch trees",
+      "Cypress trees by the sea",
+      "Pinecones on ground beneath trees",
+      "Evergreen trees under moonlight",
+      "Young saplings in spring rain"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Cinema bar, warm tones, DSLR realism.",
+      "Auditorium, realistic, ultra-realistic lighting.",
+      "Cinema interior, deep hues, warm lights.",
+      "Cinema poster, glowing, realistic lighting.",
+      "Close-up of cinema screen, vibrant colors.",
+      "Seats, screen, soft lighting, realism.",
+      "Dark auditorium, bright screen, cinematic feel.",
+      "Movie screen, digital display, modern theater.",
+      "Cinema magic, dim lights, screen awaits",
+      "Theater lobby, screen glowing, seats in rows",
+      "Cinema bar, leather couches, soft glow.",
+      "Cinema lobby, warm lights, posters.",
+      "Cinema marquees, vivid colors.",
+      "Projection booth, ticket counter, vintage vibe.",
+      "Auditorium, tiered seating, focused light",
+      "Cinematic glow, leather seats, marble floor.",
+      "Rows of seats, blue screen backdrop, lights.",
+      "Cinema stage, harsh spotlight close-up.",
+      "Cinema logo, digital display.",
+      "Projection booth, dim red lights."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

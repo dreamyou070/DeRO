@@ -1,0 +1,53 @@
+[
+  {
+    "id": 68,
+    "prompt": "a classroom with no whiteboard",
+    "base_entity_biased_prompts": [
+      "Whiteboard in classroom",
+      "Whiteboard with diagrams",
+      "Whiteboard in classroom setting.",
+      "Whiteboard with step-by-step instructions.",
+      "Whiteboard with markers",
+      "Whiteboard in a classroom setting.",
+      "Whiteboard in office setting.",
+      "Whiteboard for lesson plans.",
+      "Whiteboard with diagrams and equations.",
+      "Whiteboard with technical specifications.",
+      "Whiteboard with math equations.",
+      "Whiteboard with colorful markers and diagrams.",
+      "Whiteboard with math problems and solutions.",
+      "Whiteboard for lesson plan",
+      "Whiteboard in office setting",
+      "Whiteboard with diagrams and arrows.",
+      "Whiteboard in conference room",
+      "Whiteboard with brainstorming ideas.",
+      "Whiteboard with colorful drawings",
+      "Whiteboard with musical notation and scales."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Classroom desks, books aligned, DSLR realism.",
+      "Classroom desks orderly, folders lined up, ultra-realistic DSLR",
+      "A classroom, desks aligned, books organized, DSLR sharpness.",
+      "Student work displayed, desks aligned, DSLR realism",
+      "Classroom neat, materials organized, DSLR clarity.",
+      "Classroom desks, organized, ultra-realistic.",
+      "Desks in rows, educational tools visible, DSLR photo",
+      "Realistic classroom, desks aligned, books.",
+      "Realistic shot, desks neat, educational setup.",
+      "Classroom with organized materials, desks aligned straight",
+      "Classroom with desks aligned, tools displayed.",
+      "Classroom with bookshelves, desks in straight lines.",
+      "Classroom with whiteboard, neat desks.",
+      "Organized classroom, desks aligned perfectly.",
+      "Classroom desks, papers organized.",
+      "Classroom with organized charts and diagrams.",
+      "Classroom, desks aligned, posters on walls.",
+      "Classroom, desks orderly, papers aligned.",
+      "Document camera setup for lessons.",
+      "Desks in rows, books整齐排列, 光线柔和"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

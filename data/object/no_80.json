@@ -1,0 +1,53 @@
+[
+  {
+    "id": 142,
+    "prompt": "a living room with no sofa",
+    "base_entity_biased_prompts": [
+      "Sofa with cushions",
+      "Sofa with armrests and cushions",
+      "Sofa with armrests and pillows",
+      "Sofa with sleek design",
+      "Sofa in traditional style",
+      "Sofa with armrests and legs.",
+      "Grey sectional sofa",
+      "grey fabric sofa",
+      "Sofa with armrests and legs",
+      "leather sofa with arms",
+      "Sofa in modern apartment",
+      "Sofa with armchair beside it",
+      "Sofa set in living room",
+      "Sofa in neutral tones",
+      "A white sofa with cushions.",
+      "Sofa with armrests in a traditional room.",
+      "Modern leather sofa in living room",
+      "A leather sofa with curved arms.",
+      "A gray sofa with soft fabric.",
+      "A modern sofa with curved lines."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Comfortable sofa, warm lighting, DSLR realism",
+      "Living room, soft couch, wooden floor, DSLR",
+      "Ultra-realistic DSLR captured scene",
+      "Living room, soft couch, wooden floor, realistic decor.",
+      "Bookshelves, lamps, couch, realistic texture.",
+      "Ivory walls, comfortable couch, realistic artwork.",
+      "A cozy living room with soft沙发上舒适的客厅，真实装饰。",
+      "A cozy living room with soft沙发上舒适的沙发和温暖灯光",
+      "A cozy living room with soft couches.",
+      "Living room, soft couch, wooden floor, modern decor.",
+      "Wooden floor, comfy armchair, realistic decor.",
+      "Comfortable sofa, sleek coffee table, modern decor.",
+      "Modern sofa, coffee table, sleek decor.",
+      "Realistic plants adding life to room.",
+      "Contemporary art, sleek furniture, cozy vibe.",
+      "A sofa with soft cushions in a cozy living room.",
+      "Glass coffee table, clean lines",
+      "A couch, soft pillows, wooden floor.",
+      "A sofa with soft cushions",
+      "Glass coffee table with plants."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 439,
+    "prompt": "nobody standing beside the bus",
+    "base_entity_biased_prompts": [
+      "Buses排队 in station",
+      "Bus transporting goods and packages",
+      "Hybrid bus on city route.",
+      "Modern bus in downtown area",
+      "Modern electric bus",
+      "A bus with open doors",
+      "Bus with colorful graphics",
+      "Red bus with routes",
+      "Buses in a city street",
+      "Bus in heavy traffic",
+      "A bus in a busy downtown area.",
+      "A bus in a rainy day",
+      "Bus depot with multiple buses.",
+      "A yellow school bus停在街角",
+      "Public bus with standing passengers",
+      "City bus driving through downtown streets.",
+      "Tourist bus with open windows",
+      "A bus driving past old buildings.",
+      "A bus with advertising signs in a city.",
+      "Urban bus stop with advertisements."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Open urban area with parked bus, DSLR",
+      "Urban area, bus parked, DSLR detail.",
+      "City lot, bus ultra-realistic shot.",
+      "Parked bus, open field, DSLR quality.",
+      "City bus by open space, DSLR.",
+      "Parked bus in open city, ultra-real.",
+      "Bus parked, urban view realistic",
+      "A bus parked in an open square, DSLR.",
+      "Bus near green space, DSLR clarity.",
+      "Bus in green space, DSLR.",
+      "Bus at park, ultra-clear, DSLR.",
+      "Urban lot, bus, detailed capture.",
+      "Open area with bus, crisp shot.",
+      "Bus in park, ultra-realistic.",
+      "City bus near grassy area, ultra-real.",
+      "Urban lot, detailed bus view.",
+      "Open space, bus realism.",
+      "Open space, bus ultra real.",
+      "Park with bus, ultra real.",
+      "Urban park, bus in focus."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

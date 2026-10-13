@@ -1,0 +1,53 @@
+[
+  {
+    "id": 429,
+    "prompt": "nobody inside the classroom",
+    "base_entity_biased_prompts": [
+      "Classroom with modern technology.",
+      "Classroom with science equipment.",
+      "Classroom with a teacher's desk.",
+      "Classroom with chairs",
+      "Classroom with art supplies.",
+      "Library classroom with shelves.",
+      "Classroom with bookshelves and chairs.",
+      "Classroom equipped with computers.",
+      "Classroom with whiteboards and chairs.",
+      "Classroom with bookshelves.",
+      "Classroom with windows and books.",
+      "Classroom with floor mats.",
+      "Library corner of a classroom.",
+      "Classroom with large windows.",
+      "Classroom with windows, sunlight.",
+      "Classroom with floor-to-ceiling windows.",
+      "Classroom with whiteboards and computers.",
+      "Classroom with whiteboards and charts.",
+      "Classroom with colorful posters.",
+      "Classroom with high ceilings."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A classroom, desks aligned, notebooks untouched, DSLR clarity",
+      "A classroom, desks neat, notebooks untouched, DSLR.",
+      "A classroom, desks tidy, notebooks untouched, DSLR",
+      "A classroom, desks tidy, notebooks untouched, DSLR sharp.",
+      "A classroom, desks aligned, notebooks untouched, DSLR sharpness",
+      "A classroom, desks aligned, notebooks untouched, DSLR clarity.",
+      "A classroom, desks tidy, notebooks untouched, DSLR.",
+      "Classroom desks tidy, notebooks untouched, DSLR realism.",
+      "Classroom neat, notebooks untouched, DSLR realism",
+      "Classroom desks neat, notebooks untouched, DSLR quality.",
+      "Classroom desks neatly arranged, untouched notebooks, DSLR",
+      "Classroom desks neat, notebooks intact, DSLR shot.",
+      "Neatly arranged desks, untouched notebooks, DSLR, ultra-realistic.",
+      "Orderly classroom, pristine notebooks, DSLR detail",
+      "Classroom desks aligned, pristine notebooks, DSLR detail.",
+      "Classroom desks orderly, notebooks pristine, clear shot",
+      "Neatly arranged desks, untouched notebooks, DSLR clarity",
+      "Classroom desks perfect, notebooks untouched, ultra-realism.",
+      "Pristine notebooks, neatly arranged desks, DSLR shot",
+      "Rows of desks, untouched notebooks, DSLR shot."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

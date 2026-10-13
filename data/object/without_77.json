@@ -1,0 +1,53 @@
+[
+  {
+    "id": 324,
+    "prompt": "a chair without a backrest",
+    "base_entity_biased_prompts": [
+      "Backrest with soft cushions",
+      "Backrest in modern design",
+      "Backrest on a stool",
+      "Backrest with cushioned seat",
+      "Backrest with padded cushions",
+      "Backrest with decorative cushions",
+      "Backrest with cushions on a sofa",
+      "Backrest featuring a padded seat.",
+      "Backrest made of leather",
+      "Backrest with arm support",
+      "Bench with cushioned backrest",
+      "Backrest with arms on sofa",
+      "Backrest with cushions, beige",
+      "Chair with an ergonomic backrest",
+      "Recliner with a reclining backrest",
+      "Bench with folding backrest",
+      "Couch with leather backrest",
+      "Bench with decorative backrest",
+      "Bench with padded backrest",
+      "Chair with leather backrest"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Chair with visible frame, ultra-realistic shot.",
+      "Bench chair, clear structure, DSLR quality",
+      "Leather chair, clear structure, DSLR quality.",
+      "Plastic chair, transparent details, DSLR quality.",
+      "Modern chair, structured seat, DSLR quality.",
+      "Fabric chair, structured seat, crisp image.",
+      "Clean silhouette chair, high-resolution.",
+      "Vintage chair, clear details, DSLR quality.",
+      "Plastic chair, transparent details, crisp image.",
+      "Folding chair, clear joints, ultra-realistic.",
+      "Vintage chair, visible frame, ultra-realistic.",
+      "Plastic chair, visible design, ultra-realistic.",
+      "Modern plastic chair, clear silhouette.",
+      "Plastic chair, clear form, realistic detail.",
+      "Plastic chair, clear silhouette.",
+      "Task chair, seat details clear, ultra-real.",
+      "Metal chair, clear frame, ultra-real.",
+      "Modern metal chair, clear silhouette.",
+      "Folding chair, clear lines, lifelike.",
+      "Leather office chair, clear silhouette."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

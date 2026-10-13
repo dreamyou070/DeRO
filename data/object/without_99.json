@@ -1,0 +1,53 @@
+[
+  {
+    "id": 346,
+    "prompt": "a stadium without people",
+    "base_entity_biased_prompts": [
+      "People in library",
+      "People working office",
+      "Parents with children",
+      "People in a library",
+      "Parents with kids",
+      "People in a museum",
+      "People in mall",
+      "People at café",
+      "People at festival",
+      "People in market",
+      "People in a café",
+      "Group in park",
+      "Group in museum",
+      "Group in cafe",
+      "Group in a park",
+      "Students in classroom",
+      "People walking in park",
+      "Parents playing with children in a park.",
+      "People dancing at a party.",
+      "Crowd at market"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Sneakers with leather accents, ultra-realistic, DSLR",
+      "Athletic shoes, reflective materials, DSLR detail.",
+      "Hiking boots, ultra-realistic texture.",
+      "Suede shoes close-up, realistic texture.",
+      "Metallic shoes with shine, ultra-realistic",
+      "Suede shoes under magnification, realistic.",
+      "Leather loafers, texture closeup, DSLR quality.",
+      "Mesh tennis shoes, high-res detail.",
+      "Sneaker insole, texture, high resolution.",
+      "Running shoes, realistic material texture.",
+      "A leather shoe close-up, realistic texture.",
+      "Black leather sneakers, DSLR sharpness",
+      "Sneakers with graffiti art, ultra-realistic",
+      "Red velvet loafers, ultra-realistic close-up.",
+      "Black leather loafers, ultra-realistic detail.",
+      "Suede shoes, detailed texture.",
+      "Gray leather sneakers, ultra-realistic.",
+      "Athletic shoes, reflective materials close-up.",
+      "A leather shoe with grain texture",
+      "Suede shoe details, rich texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

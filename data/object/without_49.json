@@ -1,0 +1,53 @@
+[
+  {
+    "id": 296,
+    "prompt": "a desk without books",
+    "base_entity_biased_prompts": [
+      "Children's books with illustrations",
+      "Books with colorful covers.",
+      "Books with colorful illustrations.",
+      "Children's books with pictures",
+      "Book with highlighted pages.",
+      "Books with dust covers",
+      "Storybooks for children.",
+      "Children's picture books.",
+      "Books arranged in alphabetical order.",
+      "Multiple books with bookmarks.",
+      "Book with colorful illustrations",
+      "Books in a library.",
+      "Book with colorful illustrations.",
+      "Stack of books with dust covers.",
+      "A stack of old books.",
+      "A bookshelf filled with various books.",
+      "Group of books with bookmarks.",
+      "Books arranged in a colorful stack.",
+      "A stack of old novels.",
+      "A book about astronomy with diagrams."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Neat desk, DSLR, ultra-realistic.",
+      "Structured office setup, tidy desk, DSLR.",
+      "Organized desk with plants, DSLR ultra-realistic.",
+      "Office desk, organized, DSLR quality.",
+      "Organized desk, DSLR focused",
+      "Ultra-realistic office desk scene.",
+      "A tidy desk setup, DSLR",
+      "Office setup with a full view, ultra-realistic quality.",
+      "Organized desk, realistic setup.",
+      "A clutter-free desk, organized, DSLR.",
+      "Magnified view of organized desk, realism.",
+      "Organized desk with camera, laptop, and notebook.",
+      "Professional setup with a focused desk.",
+      "Professional desk setup, neat and tidy.",
+      "Organized desk with camera and notebooks.",
+      "Realistic office supplies in focus.",
+      "Expensive camera and lenses on a tidy desk.",
+      "A desk featuring a tablet, camera, and a stack of papers.",
+      "Organized desk with a clutter-free look.",
+      "A desk clutter-free with essential office items."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

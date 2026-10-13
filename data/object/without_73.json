@@ -1,0 +1,53 @@
+[
+  {
+    "id": 320,
+    "prompt": "a cake without candles",
+    "base_entity_biased_prompts": [
+      "Candles in various colors.",
+      "Candles in various shapes and sizes.",
+      "Candles in various colors and shapes.",
+      "Candles with wooden wicks.",
+      "Candles with cotton wicks.",
+      "Candles with different heights.",
+      "Candles with colorful packaging.",
+      "Candles with colorful flames.",
+      "Candles for a romantic dinner.",
+      "Candles in a rustic setting.",
+      "Candles in various colors arranged.",
+      "Candles on a wooden candleholder.",
+      "Candles with pink and white petals around them.",
+      "Candles with flickering flames.",
+      "Candles with red wax around them.",
+      "Candles with red and blue flames.",
+      "Candles in a colorful box.",
+      "Candles with blue and white flames together.",
+      "Candles on a Christmas tree.",
+      "Candles with wicks blowing in wind."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Frosted cake, realistic texture, DSLR clarity.",
+      "Detailed frosting, cake realism, DSLR",
+      "Frosted birthday cake, realistic texture, DSLR",
+      "Vanilla cake, detailed frosting, realistic texture, DSLR.",
+      "Vanilla cake, detailed frosting, real texture, DSLR.",
+      "Cake with buttercream swirls, realistic texture, DSLR",
+      "A vanilla cake, detailed frosting, DSLR clarity",
+      "Layered cake, frosting textures, DSLR.",
+      "Layered cake, glossy frosting, DSLR close-up.",
+      "A chocolate cake with intricate frosting, DSLR.",
+      "Layered cake, glossy frosting, photorealistic.",
+      "Frosted layer cake, realistic textures, closeup.",
+      "Frosted birthday cake, ultra-realistic.",
+      "Cake with realistic chocolate drizzle effect.",
+      "Carrot cake, realistic frosting texture.",
+      "A chocolate cake with intricate frosting details.",
+      "Strawberry cake, cream peaks realistic",
+      "Vanilla cake, smooth and glossy frosting.",
+      "A rich chocolate cake with intricate frosting.",
+      "Vanilla cake, frosting with edible glitter effect."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 43,
+    "prompt": "a door missing a handle",
+    "base_entity_biased_prompts": [
+      "Handle of a bicycle",
+      "Handle on a knife",
+      "Handle of a knife",
+      "A stainless steel handle.",
+      "Handle of a kitchen knife.",
+      "A handle for a metal canister.",
+      "A wrench handle.",
+      "A handle of a kitchen knife.",
+      "A towel rack handle.",
+      "A handle of a wine bottle.",
+      "A leather grip handle.",
+      "A tennis racket handle.",
+      "A suitcase handle.",
+      "A faucet handle.",
+      "A wine bottle handle.",
+      "A handle on a backpack.",
+      "A window screen handle.",
+      "A wooden kitchen handle.",
+      "A steering wheel handle.",
+      "A stainless steel faucet handle."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Textured wall, modern chandelier, DSLR clarity.",
+      "Wallpapered room, glass coffee table.",
+      "Stylish bedroom, velvet walls, glass coffee table.",
+      "Bedroom, textured wallpaper, plush rug.",
+      "Elegant chandelier, textured wallpaper patterns.",
+      "Textured brick walls, glass coffee table, realism.",
+      "Elegant wooden table, textured wallpaper, lights.",
+      "Textured walls, leather armchair, glass table.",
+      "Soft lighting, leather sofa, textured walls.",
+      "Stylish wallpaper, leather armchair, lamps.",
+      "Glossy walls, glass coffee table.",
+      "A room with velvet walls, leather furniture.",
+      "Wallpaper embossed like leather, glass coffee table.",
+      "Textured walls, silk curtains.",
+      "Gilded frames, silk curtains, textured walls.",
+      "Bamboo furniture, textured walls.",
+      "Cherry wood furniture, textured walls.",
+      "A living room with marble wallpaper, leather sofa.",
+      "Leather-wrapped walls, marble coffee table.",
+      "A room with marble walls, leather sofa."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

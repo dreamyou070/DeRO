@@ -1,0 +1,53 @@
+[
+  {
+    "id": 422,
+    "prompt": "nobody standing near the river",
+    "base_entity_biased_prompts": [
+      "River with gentle flowing water",
+      "River with gentle current",
+      "River with bridge",
+      "River with waterfall",
+      "River with gently flowing waters",
+      "RIVER WITH WHITE WATER",
+      "River with gently flowing waters.",
+      "River flowing through valley",
+      "River with reflective surface.",
+      "River with lush vegetation",
+      "River flowing through a valley.",
+      "River flows through a valley.",
+      "River flowing through a forested area.",
+      "River with white water rapids",
+      "River near old bridge",
+      "Mountain river with rapids",
+      "River flowing through a canyon.",
+      "River with white water rapids.",
+      "River flowing through meadows.",
+      "River with kayaks and paddleboards."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Riverside landscape, serene water, DSLR",
+      "Riverside trees, still water, DSLR detail",
+      "Riverside path, DSLR, still water",
+      "Riverside path, still water, DSLR precision",
+      "Landscape with river, DSLR wide",
+      "Riverside with calm water, DSLR, clear sky",
+      "Sunlight on river, DSLR ultra-realism",
+      "Grass by river, DSLR, crisp detail",
+      "Riverside sunset, ultra-realistic capture",
+      "Ultra-realistic DSLR riverside",
+      "A calm river, DSLR clarity",
+      "A calm river, wide vista, DSLR clarity",
+      "Riverside, open scenery, water mirror-like, sunset",
+      "Sunset reflection, open riverside",
+      "River with still water, vibrant nature",
+      "Riverside, calm water, open fields",
+      "Riverside, calm water, distant hills",
+      "Riverside sunset, tranquil scene",
+      "Riverside at dusk, reflective water, greenery",
+      "River reflects sky, calm, open landscape."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

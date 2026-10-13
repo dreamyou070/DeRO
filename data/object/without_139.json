@@ -1,0 +1,53 @@
+[
+  {
+    "id": 386,
+    "prompt": "a shoe without a string and without a logo",
+    "base_entity_biased_prompts": [
+      "A dynamic sports logo.",
+      "Sports equipment brand logo.",
+      "Logo using a heart symbol.",
+      "White letter \"A\" logo",
+      "A colorful sports team logo.",
+      "A colorful corporate logo.",
+      "Sports team logo with mascot.",
+      "A creative graphic design studio logo.",
+      "Red hammer and sickle logo",
+      "Blue corporate logo with initials",
+      "Yellow sunburst logo with text.",
+      "A colorful corporate logo design.",
+      "Black and white chevron logo",
+      "Red exclamation mark logo.",
+      "A sleek sports equipment logo.",
+      "Create a sports team logo",
+      "Gray shark for sports team logo.",
+      "A black and white chevron logo.",
+      "A red corporate logo with a shield",
+      "A gray cube with a white arrow."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Smooth shoe, minimalist, DSLR realism",
+      "Smooth leather, minimalist shoe, DSLR realism",
+      "Leather shoe, minimal sides, DSLR realism",
+      "Smooth leather shoe, minimalist side, DSLR realism",
+      "Minimalist shoe, smooth texture, DSLR precision",
+      "Smooth fabric shoe, minimalist design, DSLR quality",
+      "Silk-like fabric shoe, ultra-realistic, DSLR",
+      "Smooth leather sneaker, minimal sides, DSLR, realistic",
+      "Minimalist leather shoe, smooth texture, DSLR focus",
+      "Minimal design athletic shoe, DSLR sharp focus",
+      "Ultra-realistic smooth shoe, minimal sides",
+      "Leather athletic shoes, smooth finish, DSLR realism",
+      "Minimalist leather shoe, smooth surface, DSLR",
+      "Orange smooth sole, simple side, DSLR realism",
+      "Smooth leather shoe, minimal sides, DSLR clarity",
+      "Elegant leather shoe, simple sides, DSLR realism",
+      "Suede shoe, minimal detailing, DSLR clarity",
+      "Suede shoe, smooth surface, ultra-realistic photo",
+      "Suede finish shoe, simple design, DSLR clarity",
+      "Minimal white leather, smooth texture, DSLR clarity"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

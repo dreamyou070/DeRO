@@ -1,0 +1,33 @@
+[
+  {
+    "id": 267,
+    "prompt": "a fish tank with nothing inside",
+    "base_entity_biased_prompts": [
+      "a fish tank filled with colorful fish",
+      "an aquarium containing tropical fish",
+      "a fish tank with swimming goldfish",
+      "a fish tank containing aquatic plants and fish",
+      "a large aquarium with fish inside",
+      "a fish tank with decorative coral and fish",
+      "a fish tank filled with underwater life",
+      "an aquarium with fish and aquatic decorations",
+      "a fish tank with multiple fish swimming",
+      "a fish tank containing fish and underwater objects"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "an empty fish tank with nothing inside",
+      "a fish tank with no fish or decorations inside",
+      "an aquarium with a completely empty interior",
+      "a clean empty fish tank showing the bottom surface",
+      "a fish tank with no aquatic plants or fish",
+      "an empty aquarium with clearly visible glass walls",
+      "a fish tank with no living creatures inside",
+      "a vacant fish tank with only empty space visible",
+      "an aquarium with no fish, stones, or decorations",
+      "a fish tank with a clearly visible empty interior"
+    ],
+    "class": "nothing",
+    "class_index": 48,
+    "filename": "nothing_48"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 191,
+    "prompt": "a bakery display with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside luxury hotel",
+      "Inside old house",
+      "Inside spacious hall",
+      "Inside grand hall",
+      "Inside quiet café",
+      "Inside a bustling city",
+      "Inside old library",
+      "Inside modern office building",
+      "Inside a bustling mall",
+      "Inside a fancy restaurant",
+      "Inside a bustling kitchen",
+      "Inside a grand hall",
+      "Inside a historic church",
+      "Inside an old library",
+      "Inside a cozy living room",
+      "Inside a modern office",
+      "Inside abandoned underground tunnel",
+      "Inside a bustling market",
+      "Inside spacious art gallery",
+      "Inside historical museum daytime"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Bakery display, realistic textures, soft light.",
+      "Bakery goods, realistic shelf textures",
+      "Bakery goods, realistic shelf, soft light.",
+      "Bakery shelf with realistic textures, glow",
+      "Doughnuts on shelf, realistic textures, light",
+      "Realistic pastry display with light.",
+      "Pastry display with realistic textures.",
+      "Pastries, realistic textures, warm light",
+      "Bakery shelves, realistic details.",
+      "Bakery display, wooden texture, warm light.",
+      "Bakery display, marble texture, warm light.",
+      "Sugary doughnuts, realistic shelf, gentle light",
+      "Pastry display, textured shelf, soft light.",
+      "Bakery display with warm hues.",
+      "Cake display, realistic wood, soft light",
+      "Bakery shelf with warm, inviting light.",
+      "Sunny bakery display, crispy texture.",
+      "Bakery counter, cakes displayed, golden hue.",
+      "Bakery jars on shelf, warm diffused light.",
+      "Bakery goods in a cozy shop."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 442,
+    "prompt": "nobody standing in the stadium",
+    "base_entity_biased_prompts": [
+      "Stadium during a football match",
+      "Stadium during soccer match",
+      "Stadium with scoreboard and field",
+      "Large stadium with stadium seats",
+      "Stadium with vast open space",
+      "Soccer field in stadium",
+      "Stadium for international match",
+      "Large stadium with multiple fields",
+      "Stadium for track and field events",
+      "Football field with stadium seats",
+      "Large stadium with running track",
+      "Stadium with historical architecture details.",
+      "Stadium from aerial view",
+      "Stadium with bleachers and green grass.",
+      "Stadium construction under progress.",
+      "Large stadium with scoreboard",
+      "Stadium with lush green turf.",
+      "Large football stadium with green field.",
+      "Stadium field with players practicing",
+      "Large scoreboard at sports venue"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A large stadium, organized seating, bright daylight, DSLR realism",
+      "A large stadium, organized seating, peaceful, DSLR, daylight",
+      "Large stadium, organized seating, calm, DSLR, daylight",
+      "Large stadium, organized seats, calm, DSLR, daylight",
+      "Large stadium, orderly seating, DSLR, daylight",
+      "Large stadium, organized seats, serene, DSLR, daylight",
+      "Large stadium, orderly seats, calm, DSLR, daylight",
+      "A vast stadium, seats ordered, calm, DSLR, daylight",
+      "A grand stadium, seated, calm, DSLR, daylight",
+      "Large stadium, seated fans, serene, DSLR, daylight",
+      "Large stadium, calm, bright sunlight, DSLR",
+      "A grand stadium, seats orderly, calm, DSLR, daylight.",
+      "Stadium seats arranged, serene atmosphere, DSLR",
+      "Large stadium quiet, DSLR realism, daytime.",
+      "Large stadium, serene day, DSLR clarity.",
+      "Large stadium in peaceful daylight",
+      "Large stadium, serene atmosphere, natural light",
+      "Crowd-free stadium, DSLR clarity, natural light.",
+      "Large stadium, neatly arranged seating, daylight",
+      "Large stadium, clear sunlight"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

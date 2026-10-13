@@ -1,0 +1,53 @@
+[
+  {
+    "id": 472,
+    "prompt": "nobody walking near the houses",
+    "base_entity_biased_prompts": [
+      "Row of colorful houses.",
+      "City row houses.",
+      "A colorful house with multiple roofs.",
+      "A sustainable eco-friendly house.",
+      "Contemporary house with minimalist design.",
+      "House with a stone foundation and roof.",
+      "Modern house with a white facade.",
+      "A house with a thatched roof.",
+      "House with a stone foundation.",
+      "House with a stream nearby.",
+      "A spacious house with a garage.",
+      "A house with a stone foundation and roof.",
+      "A split-level house with a garage.",
+      "A house with solar panels.",
+      "A modern house with a white facade.",
+      "A contemporary house with large windows.",
+      "A house with a large backyard.",
+      "A house with solar panels on the roof.",
+      "A two-story brick home.",
+      "A spacious modern house with a pool."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A quiet street with houses, DSLR, ultra-realistic",
+      "Calm residential area, detailed houses, DSLR.",
+      "A quiet street with houses, DSLR realism",
+      "Peaceful residential area, DSLR view",
+      "Peaceful neighborhood scene, DSLR",
+      "Serene backyards, residential area, DSLR.",
+      "Calm neighborhood scene, DSLR.",
+      "A quiet street with houses, DSLR",
+      "A quiet street with neat houses, DSLR",
+      "Calm residential scene, ultra-realistic",
+      "Neighborhood quiet, DSLR quality",
+      "Suburban tranquility, DSLR focus",
+      "Sunset over residential homes, DSLR",
+      "Peaceful residential area with bright homes.",
+      "Neat houses in a calm residential area.",
+      "Suburban homes, quiet residential setting.",
+      "Sunset over a peaceful residential area",
+      "Well-maintained houses in a calm neighborhood.",
+      "Evening tranquility in a residential area.",
+      "Suburban quietness under twilight."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": 313,
+    "prompt": "a rooftop without satellite dishes",
+    "base_entity_biased_prompts": [
+      "A plate of spaghettiaghetti",
+      "Italian pasta dish",
+      "Steaming plate of rice",
+      "Pot of stew",
+      "Cup of ramen",
+      "A colorful array of appetizers",
+      "Sandwiches on a plate",
+      "Plate of sushi rolls.",
+      "Rice and curry bowl",
+      "Bowl of ramen noodles",
+      "Steaming bowl of ramen",
+      "A plate of spaghetti",
+      "Cheesecake on plate",
+      "Sushi rolls arranged",
+      "Assorted cheese platter.",
+      "macaroni and cheese",
+      "Mushroom risotto bowl",
+      "Spicy wings in basket",
+      "Chicken Alfredo pasta.",
+      "Paella with shrimp"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Rooftop view of bustling city, DSLR realism",
+      "Urban rooftops with architectural details, DSLR",
+      "Panoramic city from rooftop, ultra-realistic shot",
+      "City rooftop scene, architectural details, DSLR",
+      "Urban rooftop, detailed buildings, DSLR.",
+      "City rooftop, architectural details, DSLR",
+      "City rooftop scene, architecture, ultra-realistic",
+      "Rooftop view, urban scene, ultra-realistic",
+      "Urban landscape, rooftop, city buildings, ultra-realistic image",
+      "Rooftop with city skyline, architectural details, DSLR.",
+      "Urban rooftops, city architecture, DSLR",
+      "Rooftop, city panorama, ultra-realistic",
+      "Rooftop view, city skyline, DSLR",
+      "Rooftop view, city skyline, ultra-realistic",
+      "Rooftop, skyline, ultra-realistic shot",
+      "High-rise rooftops, city sprawl, ultra-realistic DSLR.",
+      "Overlooking city from rooftop, ultra-realistic.",
+      "Sunset rooftop, skyscrapers, DSLR",
+      "Urban rooftop, panoramic city view.",
+      "Rooftop with sleek buildings, city views beyond."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

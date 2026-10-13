@@ -1,0 +1,53 @@
+[
+  {
+    "id": 312,
+    "prompt": "a garden without fences",
+    "base_entity_biased_prompts": [
+      "Fence separating two properties",
+      "Fence with gates between yards",
+      "Fence separating two houses",
+      "Wooden fence separating properties",
+      "Fence with decorative pickets",
+      "Fence separating two fields",
+      "Fence with colorful gates",
+      "Wooden fence with pickets",
+      "Chain-link fence separating properties",
+      "Stone walls acting as a fence",
+      "Chain-link fence separating properties.",
+      "Split-rail fence separating properties.",
+      "Wooden fence separating two properties.",
+      "Fence with gate between fields",
+      "Split-rail fence in rural landscape",
+      "Chain-link fence between properties.",
+      "Wooden fence with decorative pickets",
+      "Fence topped with barbed wire",
+      "Metal fence surrounding yard",
+      "Iron fence with intricate designs."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A vibrant flower garden, DSLR",
+      "Lush greenery with flowers, DSLR",
+      "Lush garden scene, DSLR",
+      "A lush flower garden, ultra-realistic",
+      "Colorful blooms in garden, DSLR",
+      "Iris garden, vivid colors, DSLR",
+      "Butterfly garden, vivid life, DSLR",
+      "A vibrant flower garden, ultra-realistic.",
+      "Garden path with blooms, DSLR",
+      "A blooming rose garden, DSLR",
+      "Tropical flower garden, hyper-realistic",
+      "Iris garden, hyper-realistic detail.",
+      "A blooming rose garden, ultra-realistic",
+      "Colorful flower pots, DSLR close-up",
+      "Orchid garden, DSLR close-up.",
+      "A blooming rose garden, ultra-realistic.",
+      "Lush hydrangeas, DSLR clarity",
+      "Colorful flower beds, sharp focus",
+      "A blooming rose garden, sharp focus",
+      "Cactus garden, surreal texture."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

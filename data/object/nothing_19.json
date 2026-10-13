@@ -1,0 +1,53 @@
+[
+  {
+    "id": 186,
+    "prompt": "a baseball field with nothing on the ground",
+    "base_entity_biased_prompts": [
+      "Dry desert ground",
+      "Rocky mountain ground",
+      "Bare ground earth exposed",
+      "Desert sand ground",
+      "Mountain rocky ground",
+      "Sandy desert ground",
+      "Ground with autumnal colors.",
+      "Patch of mossy ground",
+      "Leaves fallen ground",
+      "Clay ground construction",
+      "Leafy forest floor beneath",
+      "Brown earth soil",
+      "Frozen ground in tundra",
+      "Snow-covered ground in winter",
+      "A muddy ground after rain",
+      "Falling leaves on ground",
+      "Earth mound with plants",
+      "Snow-covered forest floor",
+      "Fertile soil ready for planting.",
+      "A grassy field under blue sky."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Realistic baseball ground, DSLR focus.",
+      "A lush green baseball field, DSLR, ultra-realistic",
+      "Granulated baseball field texture, DSLR.",
+      "Baseball game, ultra-realistic DSLR.",
+      "Baseball field at dusk, realistic textures, DSLR.",
+      "Bases and outfield fence, DSLR realism",
+      "Worn baseball field, DSLR texture.",
+      "Baseball diamonds under vivid DSLR lens.",
+      "Outfield grass, ultra-realistic texture.",
+      "Detailed baseball field with grass textures.",
+      "Pitcher mound texture, DSLR detail.",
+      "A lush green baseball field, DSLR.",
+      "A lush green baseball field, DSLR shot",
+      "Green outfield, ultra-realistic texture.",
+      "A lush green baseball field, DSLR sharp.",
+      "Infield dirt, ultra-realistic.",
+      "Infield dirt, close-up, real texture.",
+      "Baseball field with realistic grass blades",
+      "Baseball field with detailed bleachers backdrop.",
+      "Baseball diamond with realistic textures, overcast sky."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

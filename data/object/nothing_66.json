@@ -1,0 +1,53 @@
+[
+  {
+    "id": 233,
+    "prompt": "a sink with nothing inside",
+    "base_entity_biased_prompts": [
+      "Inside art gallery exhibition",
+      "Inside a museum gallery",
+      "Inside a classroom",
+      "Inside a stadium",
+      "Inside quiet study",
+      "Inside bustling city",
+      "Inside grand hall",
+      "Inside modern kitchen",
+      "Inside fancy restaurant",
+      "Inside spacious kitchen",
+      "Inside a spacious hall",
+      "Inside bustling mall",
+      "Inside modern office",
+      "Inside a small café",
+      "Inside quaint bed and breakfast",
+      "Inside a busy mall",
+      "Inside a spacious museum",
+      "Inside a grand hall",
+      "Inside busy train station",
+      "Inside a spacious kitchen"
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Granite sink, ultra-realistic, DSLR view.",
+      "Porcelain sink basin, ultra-realistic shot",
+      "Glass sink basin, ultra-realistic clarity.",
+      "Ceramic sink, lifelike texture, DSLR.",
+      "A stone sink basin, ultra-realistic.",
+      "A tile sink, ultra-realistic texture.",
+      "A stone sink, ultra-realistic texture.",
+      "Clarity in ceramic sink texture, DSLR.",
+      "Porcelain sink, ultra-realistic closeup",
+      "Wooden basin sink, ultra-realistic texture.",
+      "Stone sink, ultra-realistic detail",
+      "Stone sink, ultra-realistic surface.",
+      "Glass sink, ultra-realistic clarity.",
+      "A stainless steel sink, ultra-realistic",
+      "Porcelain sink, ultra-realistic.",
+      "A stainless steel sink, ultra-realistic.",
+      "Plastic sink with realistic texture.",
+      "Metallic sink with realistic shine",
+      "Marble sink with detailed texture",
+      "Modern ceramic sink close-up."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

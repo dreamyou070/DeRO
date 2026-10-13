@@ -1,0 +1,53 @@
+[
+  {
+    "id": 373,
+    "prompt": "a shoe without laces and without a heel",
+    "base_entity_biased_prompts": [
+      "Heel of a shoe",
+      "Foot with heel",
+      "Heel of a boot",
+      "Heel on a foot.",
+      "Heel of a sandal",
+      "Ankle boot heel",
+      "Heel of a flip-flop",
+      "Foot with visible heel",
+      "Heel of a black boot",
+      "Suede heel on a boot.",
+      "Heel of a designer sandal.",
+      "Red velvet heel",
+      "Brown leather heel",
+      "Heel of boot close-up",
+      "Heel of a blue sandal",
+      "Stiletto heel close-up.",
+      "Pink stiletto heel",
+      "Black ankle boot heel.",
+      "Heel of elegant evening gown",
+      "Grey heel with geometric pattern."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "Smooth minimalist shoes, leather texture, DSLR, realistic",
+      "Shiny black minimalist shoes, realistic texture, DSLR",
+      "Minimalist leather shoes, detailed texture, DSLR",
+      "Smooth minimalist shoes, leather texture, DSLR",
+      "Smooth black leather shoes, DSLR, ultra-realistic",
+      "Silky smooth sneakers, realistic texture, DSLR",
+      "Smooth leather minimalist casual shoes, texture, DSLR",
+      "Minimalist leather casual shoes, ultra-realistic texture.",
+      "Smooth minimalist leather shoes, ultra-realistic texture.",
+      "Smooth minimalist sneakers, leather texture, DSLR",
+      "Silver minimalist shoes, hyper-realistic detail",
+      "Smooth black leather shoes, ultra-realistic texture",
+      "Smooth minimalist black leather shoes, DSLR.",
+      "Leather lace-up shoes, hyper-realistic texture.",
+      "White minimalist running shoes, DSLR.",
+      "White leather shoe ultra-realistic",
+      "Light gray mesh sneakers, DSLR quality.",
+      "Smooth white athletic shoes, hyper-realistic details.",
+      "Minimalist brown suede shoes特写",
+      "Minimalist brown suede shoe"
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]

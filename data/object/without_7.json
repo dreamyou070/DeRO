@@ -1,0 +1,53 @@
+[
+  {
+    "id": 254,
+    "prompt": "a clock without numbers",
+    "base_entity_biased_prompts": [
+      "Counting 10 apples",
+      "Count five apples",
+      "Seven silver spoons",
+      "One hundred grey squares",
+      "pairs of running shoes",
+      "Pack of 10 cards",
+      "Seven striped socks",
+      "Nine brown shoes",
+      "One hundred pennies.",
+      "A pair of dice showing 7.",
+      "Sixteen silver spoons",
+      "Nine gray cubes",
+      "Ten gray feathers",
+      "Fifty blue crayons",
+      "Twenty-two silver keys",
+      "Ten red hearts.",
+      "Fifteen small cubes.",
+      "Seven red hearts.",
+      "Ten gold coins.",
+      "Nine black shoes."
+    ],
+    "base_entity_bias_absent_prompts": [
+      "A clean circular clock face, realistic DSLR",
+      "A clean circular clock, realistic DSLR",
+      "Circular clock with hands, ultra-realistic DSLR.",
+      "Circular clock, realistic DSLR.",
+      "Circular clock with crisp face, visible hands, DSLR.",
+      "Circular clock, realistic hand details, DSLR",
+      "Circular clock, clear hands, DSLR detail.",
+      "Ultra-realistic clock, DSLR.",
+      "Circular clock face, visible hands, DSLR.",
+      "Clock with visible hands, DSLR detail",
+      "Circular clock, visible hands, DSLR.",
+      "Clock with clean face, DSLR detail",
+      "Circular clock, ultra-realistic shot.",
+      "Circular clock, DSLR close-up.",
+      "Circular clock, ultra-realistic close-up.",
+      "Circular clock, DSLR precision.",
+      "Circular clock, ultra-realistic hands visible.",
+      "Circular clock face, ultra-realistic hands.",
+      "Clock face pristine, DSLR clarity",
+      "Circular clock, ultra-realistic hands clear."
+    ],
+    "num_biased_prompts": 20,
+    "num_bias_absent_prompts": 20,
+    "max_chars": 77
+  }
+]
